@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+spacy
+deap
+presidio-analyzer
+presidio-anonymizer
+transformers
+torch
+pytest
+colorama

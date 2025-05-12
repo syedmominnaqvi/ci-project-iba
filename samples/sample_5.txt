@@ -1,0 +1,11 @@
+Patient Information:
+Name: Thomas Anderson
+Date of Birth: 3/5/1985
+Phone: (110) 741-3620
+Email: thomas.anderson@yahoo.com
+Address: 8220 Park Rd, Chicago, MD 83009
+SSN: 295 51 8066
+Medical Record Number: MRN-905054
+
+Diagnosis: Asthma
+Medications: Metoprolol
