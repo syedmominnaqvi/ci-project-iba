@@ -75,6 +75,32 @@ Use the custom data loader to train on your own dataset:
 ./load_custom_data.py --input your_data.csv --input_type csv --text_column "text" --ann_column "annotations"
 ```
 
+### Using Medical Transcription Samples
+
+The project includes tools to use medical transcription samples from MTSamples:
+
+1. Scrape samples (respect website terms):
+```bash
+./scrape_mt_samples.py --output_dir mt_samples --max_samples 20 --delay 2.0
+```
+
+2. Process and annotate samples:
+```bash
+./prepare_mt_data.py --input_dir mt_samples --output_dir mt_processed --use_presidio
+```
+
+3. Run detection on the processed dataset:
+```bash
+./load_custom_data.py --input mt_processed --input_type directory
+```
+
+### Other Medical Datasets
+
+Alternative medical datasets for PHI detection:
+- **MIMIC-III**: https://physionet.org/content/mimiciii/1.4/
+- **i2b2 NLP Challenges**: https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/
+- **PhysioNet**: https://physionet.org/
+
 ### Full Experiment
 
 Run the complete experiment with all models and evaluation:

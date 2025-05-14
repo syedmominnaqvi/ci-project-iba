@@ -9,3 +9,7 @@ transformers
 torch
 pytest
 colorama
+tqdm
+PyPDF2
+pdfplumber
+textract
