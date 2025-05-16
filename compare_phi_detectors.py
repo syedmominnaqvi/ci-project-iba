@@ -5,6 +5,20 @@ Compare multiple PHI detection models on the same dataset.
 import os
 import sys
 import json
+import warnings
+import urllib3
+
+# Disable SSL warnings and verification
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+os.environ['PYTHONHTTPSVERIFY'] = '0'
+
+# Try to handle SSL certificate issues
+try:
+    import ssl
+    ssl._create_default_https_context = ssl._create_unverified_context
+except:
+    pass
+
 from src.genetic_algorithm import GeneticPIIDetector
 from src.chromosome import DetectionGene, Chromosome
 
