@@ -1,70 +1,70 @@
 {
-  "total_files": 88,
-  "successful_files": 88,
-  "failed_files": 0,
+  "total_files": 1483,
+  "successful_files": 1483,
+  "failed_files": 61,
   "total_phi_detected": {
-    "genetic": 11642,
+    "genetic": 71036,
     "presidio": 0
   },
   "files_with_phi": {
-    "genetic": 64,
+    "genetic": 1114,
     "presidio": 0
   },
   "phi_types_found": {
     "genetic": [
       "NAME",
-      "PHONE",
       "SSN",
-      "EMAIL"
+      "EMAIL",
+      "PHONE"
     ],
     "presidio": []
   },
   "top_files_by_phi_count": [
     {
+      "file_name": "71_348200.pdf",
+      "genetic_count": 7432
+    },
+    {
       "file_name": "Atlantic_DMS_00044823.pdf",
       "genetic_count": 5845
     },
     {
+      "file_name": "Medication-18 (dup-keywords).txt",
+      "genetic_count": 4748
+    },
+    {
+      "file_name": "Diseases and conditions-4 (unq-keywords).csv",
+      "genetic_count": 4490
+    },
+    {
+      "file_name": "Medical services-17 (dup-keywords).csv",
+      "genetic_count": 3592
+    },
+    {
+      "file_name": "Diseases and conditions-8 (dup-keywords).pdf",
+      "genetic_count": 1715
+    },
+    {
+      "file_name": "Diseases and conditions-16 (unq-keywords).txt",
+      "genetic_count": 1200
+    },
+    {
+      "file_name": "ICD-10 codes-1 (dup-keywords).pdf",
+      "genetic_count": 1011
+    },
+    {
+      "file_name": "Immunizations-6 (dup-keywords).pdf",
+      "genetic_count": 774
+    },
+    {
       "file_name": "TRPHD_523_0000015011.txt",
-      "genetic_count": 602
-    },
-    {
-      "file_name": "AegionCorp_0001365440.msg",
-      "genetic_count": 510
-    },
-    {
-      "file_name": "Bolton_01548349.msg",
-      "genetic_count": 492
-    },
-    {
-      "file_name": "REL0000121566.MSG",
-      "genetic_count": 283
-    },
-    {
-      "file_name": "RSandA_0000144914.txt",
-      "genetic_count": 243
-    },
-    {
-      "file_name": "HDI_GIC_0000023824.msg",
-      "genetic_count": 203
-    },
-    {
-      "file_name": "Bolton_01611385.msg",
-      "genetic_count": 195
-    },
-    {
-      "file_name": "RFP_LLC_0000049012.txt",
-      "genetic_count": 184
-    },
-    {
-      "file_name": "REL0000137425.MSG",
-      "genetic_count": 174
+      "genetic_count": 664
     }
   ],
-  "detection_timestamp": "2025-05-16 00:20:02",
-  "processing_time_seconds": 584.2443797588348,
+  "detection_timestamp": "2025-05-16 22:04:59",
+  "processing_time_seconds": 3288.7907247543335,
   "model_settings": {
-    "genetic_generations": 50,
+    "genetic_generations": 100,
     "presidio_used": false
   }
 }

@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Two Rivers Public Health Department/TRPHD_523_0000011997.pdf",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Two Rivers Public Health Department/TRPHD_523_0000011997.pdf",
     "file_name": "TRPHD_523_0000011997.pdf",
     "file_size": 153884,
     "text_length": 3144
@@ -77,13 +77,6 @@
       "confidence": 0.5
     },
     {
-      "text": "877.225.5654",
-      "start": 2275,
-      "end": 2287,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
       "text": "National Jewish",
       "start": 2321,
       "end": 2336,
@@ -154,13 +147,6 @@
       "confidence": 0.5
     },
     {
-      "text": "1004096396",
-      "start": 2777,
-      "end": 2787,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
       "text": "Advanced Diagnostic",
       "start": 2943,
       "end": 2962,
@@ -182,20 +168,6 @@
       "confidence": 0.5
     },
     {
-      "text": "800.550.6227",
-      "start": 3037,
-      "end": 3049,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800.652.9556",
-      "start": 3058,
-      "end": 3070,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
       "text": "ClinRefLabs@njhealth.org",
       "start": 3071,
       "end": 3095,
@@ -204,9 +176,222 @@
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Patient Name",
+      "start": 0,
+      "end": 12,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Date Of",
+      "start": 14,
+      "end": 21,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medical Record",
+      "start": 42,
+      "end": 56,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Physician Name",
+      "start": 65,
+      "end": 79,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Account Number",
+      "start": 81,
+      "end": 95,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "World Health",
+      "start": 465,
+      "end": 477,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "National Jewish",
+      "start": 1899,
+      "end": 1914,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Clinical \nLaboratory",
+      "start": 1939,
+      "end": 1959,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Improvement Amendments",
+      "start": 1960,
+      "end": 1982,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "National Jewish",
+      "start": 2060,
+      "end": 2075,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "National Jewish",
+      "start": 2321,
+      "end": 2336,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Test Directory",
+      "start": 2431,
+      "end": 2445,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medical Director",
+      "start": 2465,
+      "end": 2481,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Steve Groshong",
+      "start": 2483,
+      "end": 2497,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Advanced Diagnostic",
+      "start": 2511,
+      "end": 2530,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "National Jewish",
+      "start": 2545,
+      "end": 2560,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Order Number",
+      "start": 2595,
+      "end": 2607,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Immunology Diagnostics",
+      "start": 2625,
+      "end": 2647,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Test Name",
+      "start": 2648,
+      "end": 2657,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Spike Protein",
+      "start": 2731,
+      "end": 2744,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Advanced Diagnostic",
+      "start": 2943,
+      "end": 2962,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Jackson Street",
+      "start": 2981,
+      "end": 2995,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Client Services",
+      "start": 3016,
+      "end": 3031,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "877.225.5654",
+      "start": 2275,
+      "end": 2287,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1004096396",
+      "start": 2777,
+      "end": 2787,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800.550.6227",
+      "start": 3037,
+      "end": 3049,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800.652.9556",
+      "start": 3058,
+      "end": 3070,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "ClinRefLabs@njhealth.org",
+      "start": 3071,
+      "end": 3095,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/01/1969",
+      "start": 2568,
+      "end": 2578,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "7/13/2022",
+      "start": 2922,
+      "end": 2931,
+      "type": "DATE",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
-    "genetic": 28,
-    "presidio": 0
+    "genetic": 24,
+    "presidio": 0,
+    "regex": 30
   },
   "text_sample": "Patient Name:\nDate Of Birth:\nAge:\nGender:\nMedical Record Number:\nPhysician Name:\nAccount Number:\nJELINEK, ANTON \nThis test is a semi-quantitative ELISA that detects IgG antibodies to the spike protein of the SARS-CoV-2 virus. \nThe test reports numerical results that may aid in evaluation of the antibody response over time. Antibody levels \nare provided as both relative (arbitrary) units (RU) and binding antibody units (BAU).  BAU/mL are a designation \nfrom the World Health Organization (WHO) and..."
 }

@@ -1,15 +1,17 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Reliance Steel and Aluminum Co - 2/RSandA_0000144914.pdf",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Reliance Steel and Aluminum Co - 2/RSandA_0000144914.pdf",
     "file_name": "RSandA_0000144914.pdf",
     "file_size": 765382,
     "text_length": 85
   },
   "genetic_detections": [],
   "presidio_detections": [],
+  "regex_detections": [],
   "detection_count": {
     "genetic": 0,
-    "presidio": 0
+    "presidio": 0,
+    "regex": 0
   },
   "text_sample": "[PDF FILE: RSandA_0000144914.pdf] - PDF extraction failed. Not enough text extracted."
 }

@@ -1,1234 +1,1804 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Icelandirect, Inc/REL0000137425.MSG",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Icelandirect, Inc/REL0000137425.MSG",
     "file_name": "REL0000137425.MSG",
     "file_size": 1099264,
     "text_length": 646207
   },
   "genetic_detections": [
     {
+      "text": "maja@icelandirect.com",
+      "start": 24735,
+      "end": 24756,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 24761,
+      "end": 24782,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "susan@icelandirect.com",
+      "start": 24852,
+      "end": 24874,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Debbie.Lovenduski@amtrustgroup.com",
+      "start": 25315,
+      "end": 25349,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Debbie.Lovenduski@amtrustgroup.com",
+      "start": 25351,
+      "end": 25385,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 25460,
+      "end": 25481,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 25503,
+      "end": 25524,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 25526,
+      "end": 25547,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Debbie.lovenduski@amtrustgroup.com",
+      "start": 38754,
+      "end": 38788,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Debbie.lovenduski@amtrustgroup.com",
+      "start": 38889,
+      "end": 38923,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 49262,
+      "end": 49283,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 49459,
+      "end": 49480,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 49737,
+      "end": 49758,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "susan@icelandirect.com",
+      "start": 51388,
+      "end": 51410,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "susan@icelandirect.com",
+      "start": 51470,
+      "end": 51492,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "susan@icelandirect.com",
+      "start": 51507,
+      "end": 51529,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "susan@icelandirect.com",
+      "start": 51545,
+      "end": 51567,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "susan@icelandirect.com",
+      "start": 51611,
+      "end": 51633,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "susan@icelandirect.com",
+      "start": 51882,
+      "end": 51904,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "susan@icelandirect.com",
+      "start": 51964,
+      "end": 51986,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "susan@icelandirect.com",
+      "start": 53447,
+      "end": 53469,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 53476,
+      "end": 53497,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "653e1c629e724be9a43e26d5078a7cbd@CLE-MAIL06.amtrustservices.com",
+      "start": 53512,
+      "end": 53575,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 54263,
+      "end": 54284,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "maja@icelandirect.onmicrosoft.com",
+      "start": 54299,
+      "end": 54332,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 54790,
+      "end": 54811,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 54813,
+      "end": 54834,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "susan@icelandirect.com",
+      "start": 54881,
+      "end": 54903,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Debbie.Lovenduski@amtrustgroup.com",
+      "start": 55054,
+      "end": 55088,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Debbie.Lovenduski@amtrustgroup.com",
+      "start": 55097,
+      "end": 55131,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 55181,
+      "end": 55202,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 55205,
+      "end": 55226,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 55235,
+      "end": 55256,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Debbie.lovenduski@amtrustgroup.com",
+      "start": 59112,
+      "end": 59146,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Debbie.lovenduski@amtrustgroup.com",
+      "start": 59148,
+      "end": 59182,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "F9CAD95F968D564C934176E087A4C3CC@namprd10.prod.outlook.com",
+      "start": 60151,
+      "end": 60209,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "C74C3FBFFC6D424488D29990EBBAA489@namprd10.prod.outlook.com",
+      "start": 61153,
+      "end": 61211,
+      "type": "EMAIL",
+      "confidence": 0.5
+    }
+  ],
+  "presidio_detections": [],
+  "regex_detections": [
+    {
       "text": "Microsoft Word",
       "start": 15899,
       "end": 15913,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Font Definitions",
       "start": 16134,
       "end": 16150,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Cambria Math",
       "start": 16248,
       "end": 16260,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Calibri Light",
       "start": 16388,
       "end": 16401,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Style Definitions",
       "start": 16440,
       "end": 16457,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Calibri Light",
       "start": 18194,
       "end": 18207,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "List Definitions",
       "start": 18527,
       "end": 18543,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "1656414372",
-      "start": 18603,
-      "end": 18613,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "1741057251",
-      "start": 20474,
-      "end": 20484,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "2117972072",
-      "start": 20533,
-      "end": 20543,
-      "type": "PHONE",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Courier New",
       "start": 20965,
       "end": 20976,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Courier New",
       "start": 21496,
       "end": 21507,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Courier New",
       "start": 22027,
       "end": 22038,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "1972780855",
-      "start": 22243,
-      "end": 22253,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "1066098964",
-      "start": 22279,
-      "end": 22289,
-      "type": "PHONE",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Debbie Lovenduski",
       "start": 25277,
       "end": 25294,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Dear Insured",
       "start": 25716,
       "end": 25728,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Luz Batista",
       "start": 25857,
       "end": 25868,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Full Name",
       "start": 26495,
       "end": 26504,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Phone Number",
       "start": 26517,
       "end": 26529,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Contact Person",
       "start": 26533,
       "end": 26547,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Standard Operating",
       "start": 27114,
       "end": 27132,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Training Manual",
       "start": 27148,
       "end": 27163,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Brady Gray",
       "start": 27231,
       "end": 27241,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Absorbent Pad",
       "start": 27242,
       "end": 27255,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Isopropyl Alcohol",
       "start": 27269,
       "end": 27286,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Production Manager",
       "start": 29263,
       "end": 29281,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Natividad Brito",
       "start": 29282,
       "end": 29297,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Kingsland Ave",
       "start": 29680,
       "end": 29693,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Packaging Area",
       "start": 29707,
       "end": 29721,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Job Title",
       "start": 31280,
       "end": 31289,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Verify Class",
       "start": 31291,
       "end": 31303,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Packaging Operator",
       "start": 31310,
       "end": 31328,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Employees Department",
       "start": 31544,
       "end": 31564,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Job Duties",
       "start": 31752,
       "end": 31762,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Daily Activities",
       "start": 31763,
       "end": 31779,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "The Packaging",
       "start": 31955,
       "end": 31968,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Packaging Department",
       "start": 32300,
       "end": 32320,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Job Category",
       "start": 32998,
       "end": 33010,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Past Jobs",
       "start": 33223,
       "end": 33232,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Present Job",
       "start": 33451,
       "end": 33462,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Natividad Brito",
       "start": 33689,
       "end": 33704,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Performance Issues",
       "start": 34087,
       "end": 34105,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Wage Continuance",
       "start": 34486,
       "end": 34502,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "What Injuries",
       "start": 34698,
       "end": 34711,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Any Initial",
       "start": 34903,
       "end": 34914,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Treatment Authorized",
       "start": 34915,
       "end": 34935,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Company Doctor",
       "start": 35135,
       "end": 35149,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Subrogation Potential",
       "start": 35332,
       "end": 35353,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Equipment Involved",
       "start": 35544,
       "end": 35562,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Equipment Info",
       "start": 35753,
       "end": 35767,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Transitional Duty",
       "start": 35967,
       "end": 35984,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Claim Reported",
       "start": 36172,
       "end": 36186,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "If Reported",
       "start": 36371,
       "end": 36382,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Explain Reason",
       "start": 36389,
       "end": 36403,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Concurrent Employment",
       "start": 36580,
       "end": 36601,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Thank You",
       "start": 37065,
       "end": 37074,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Debbie Lovenduski",
       "start": 37268,
       "end": 37285,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Senior Claims",
       "start": 37460,
       "end": 37473,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Lakewood Claims",
       "start": 37653,
       "end": 37668,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Financial Services",
       "start": 37923,
       "end": 37941,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "267-751-4076",
-      "start": 38467,
-      "end": 38479,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "678-258-8399",
-      "start": 38658,
-      "end": 38670,
-      "type": "PHONE",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Confidentiality Notice",
       "start": 41116,
       "end": 41138,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Google Transport",
       "start": 49761,
       "end": 49777,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "1607961643",
-      "start": 50175,
-      "end": 50185,
-      "type": "PHONE",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Microsoft Outlook",
       "start": 53971,
       "end": 53988,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "All Mail",
       "start": 54188,
       "end": 54196,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "High\n\n \n\nSee",
       "start": 54981,
       "end": 54993,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Debbie Lovenduski",
       "start": 55035,
       "end": 55052,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Dear Insured",
       "start": 55325,
       "end": 55337,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Luz Batista",
       "start": 55393,
       "end": 55404,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Full Name",
       "start": 55604,
       "end": 55613,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Phone Number",
       "start": 55626,
       "end": 55638,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Contact Person",
       "start": 55642,
       "end": 55656,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Standard Operating",
       "start": 55887,
       "end": 55905,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Training Manual",
       "start": 55921,
       "end": 55936,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Brady Gray",
       "start": 55999,
       "end": 56009,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Absorbent Pad",
       "start": 56010,
       "end": 56023,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Isopropyl Alcohol",
       "start": 56037,
       "end": 56054,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Production Manager",
       "start": 57197,
       "end": 57215,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Natividad Brito",
       "start": 57216,
       "end": 57231,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Kingsland Ave",
       "start": 57267,
       "end": 57280,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Packaging Area",
       "start": 57294,
       "end": 57308,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Job Title",
       "start": 57573,
       "end": 57582,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Verify Class",
       "start": 57584,
       "end": 57596,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Packaging Operator",
       "start": 57603,
       "end": 57621,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Job Duties",
       "start": 57659,
       "end": 57669,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Daily Activities",
       "start": 57670,
       "end": 57686,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "The Packaging",
       "start": 57689,
       "end": 57702,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Packaging Department",
       "start": 58003,
       "end": 58023,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Job Category",
       "start": 58219,
       "end": 58231,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Past Jobs",
       "start": 58270,
       "end": 58279,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Present Job",
       "start": 58324,
       "end": 58335,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Natividad Brito",
       "start": 58349,
       "end": 58364,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Performance Issues",
       "start": 58399,
       "end": 58417,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Wage Continuance",
       "start": 58450,
       "end": 58466,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "What Injuries",
       "start": 58488,
       "end": 58501,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Any Initial",
       "start": 58519,
       "end": 58530,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Treatment Authorized",
       "start": 58531,
       "end": 58551,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Company Doctor",
       "start": 58577,
       "end": 58591,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Subrogation Potential",
       "start": 58600,
       "end": 58621,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Equipment Involved",
       "start": 58638,
       "end": 58656,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Equipment Info",
       "start": 58673,
       "end": 58687,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Transitional Duty",
       "start": 58713,
       "end": 58730,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Claim Reported",
       "start": 58744,
       "end": 58758,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "If Reported",
       "start": 58769,
       "end": 58780,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Explain Reason",
       "start": 58787,
       "end": 58801,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Concurrent Employment",
       "start": 58804,
       "end": 58825,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Thank You",
       "start": 58914,
       "end": 58923,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Debbie Lovenduski",
       "start": 58933,
       "end": 58950,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Senior Claims",
       "start": 58953,
       "end": 58966,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Examiner \n\nLakewood",
       "start": 58967,
       "end": 58986,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Financial Services",
       "start": 59003,
       "end": 59021,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "267-751-4076",
-      "start": 59071,
-      "end": 59083,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "678-258-8399",
-      "start": 59089,
-      "end": 59101,
-      "type": "PHONE",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Confidentiality Notice",
       "start": 59466,
       "end": 59488,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Accident Investigation",
       "start": 61278,
       "end": 61300,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Incident Reporting",
       "start": 61301,
       "end": 61319,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Accident Investigation",
       "start": 61442,
       "end": 61464,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Incident Reporting",
       "start": 61465,
       "end": 61483,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Mf\fHs",
       "start": 106965,
       "end": 106970,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Qi\u001dQi",
       "start": 122363,
       "end": 122368,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Vr\u001eIih",
       "start": 127344,
       "end": 127350,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "543010624",
-      "start": 142536,
-      "end": 142545,
-      "type": "SSN",
-      "confidence": 0.5
-    },
-    {
-      "text": "1020383167",
-      "start": 154224,
-      "end": 154234,
-      "type": "PHONE",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Ot\u001eOt",
       "start": 161736,
       "end": 161741,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "1258009506",
-      "start": 212850,
-      "end": 212860,
-      "type": "PHONE",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Lcf Al",
       "start": 221611,
       "end": 221617,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "548483879",
-      "start": 225144,
-      "end": 225153,
-      "type": "SSN",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Ta\n\tPs",
       "start": 236808,
       "end": 236814,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "773035233",
-      "start": 237834,
-      "end": 237843,
-      "type": "SSN",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Msnxr\fPg",
       "start": 248337,
       "end": 248345,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Ko\nTz",
       "start": 273469,
       "end": 273474,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "1832855495",
-      "start": 288381,
-      "end": 288391,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "2009806875",
-      "start": 318932,
-      "end": 318942,
-      "type": "PHONE",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Jtk\u001c\nRn",
       "start": 327574,
       "end": 327581,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Su\fTh",
       "start": 328930,
       "end": 328935,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Cb\nCag",
       "start": 334846,
       "end": 334852,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "577379608",
-      "start": 335082,
-      "end": 335091,
-      "type": "SSN",
-      "confidence": 0.5
-    },
-    {
-      "text": "1002768501",
-      "start": 350307,
-      "end": 350317,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "1214451857",
-      "start": 366092,
-      "end": 366102,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "305271618",
-      "start": 380503,
-      "end": 380512,
-      "type": "SSN",
-      "confidence": 0.5
-    },
-    {
-      "text": "356251780",
-      "start": 395261,
-      "end": 395270,
-      "type": "SSN",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Vl\nKgk",
       "start": 396653,
       "end": 396659,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Jp\u001fTz",
       "start": 403997,
       "end": 404002,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "618240836",
-      "start": 410297,
-      "end": 410306,
-      "type": "SSN",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Ni\nLi",
       "start": 416374,
       "end": 416379,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "1558922771",
-      "start": 425722,
-      "end": 425732,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "1068440364",
-      "start": 438233,
-      "end": 438243,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "317772811",
-      "start": 468722,
-      "end": 468731,
-      "type": "SSN",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Rd Eg",
       "start": 472485,
       "end": 472490,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "123456789",
-      "start": 491085,
-      "end": 491094,
-      "type": "SSN",
-      "confidence": 0.5
-    },
-    {
-      "text": "123456789",
-      "start": 491183,
-      "end": 491192,
-      "type": "SSN",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Wp\u001dWq",
       "start": 495491,
       "end": 495496,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Xh\u001fNhp",
       "start": 498455,
       "end": 498461,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "748521947",
-      "start": 508255,
-      "end": 508264,
-      "type": "SSN",
-      "confidence": 0.5
-    },
-    {
-      "text": "2142168446",
-      "start": 519124,
-      "end": 519134,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "226372303",
-      "start": 531355,
-      "end": 531364,
-      "type": "SSN",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Ov\u001dWd",
       "start": 531597,
       "end": 531602,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "748521947",
-      "start": 545584,
-      "end": 545593,
-      "type": "SSN",
-      "confidence": 0.5
-    },
-    {
-      "text": "548483879",
-      "start": 556977,
-      "end": 556986,
-      "type": "SSN",
-      "confidence": 0.5
-    },
-    {
-      "text": "2142168446",
-      "start": 567944,
-      "end": 567954,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "807329511",
-      "start": 581840,
-      "end": 581849,
-      "type": "SSN",
-      "confidence": 0.5
-    },
-    {
-      "text": "377008555",
-      "start": 597140,
-      "end": 597149,
-      "type": "SSN",
-      "confidence": 0.5
-    },
-    {
-      "text": "523379530",
-      "start": 613361,
-      "end": 613370,
-      "type": "SSN",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Microsoft Word",
       "start": 619842,
       "end": 619856,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Shared With",
       "start": 634393,
       "end": 634404,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Shared With",
       "start": 635084,
       "end": 635095,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Taxonomy Catch",
       "start": 635371,
       "end": 635385,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "All Column",
       "start": 635386,
       "end": 635396,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Extracted Text",
       "start": 638416,
       "end": 638430,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Image Tags",
       "start": 639619,
       "end": 639629,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "Content Type",
       "start": 641266,
       "end": 641278,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 1.0
+    },
+    {
+      "text": "1656414372",
+      "start": 18603,
+      "end": 18613,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1741057251",
+      "start": 20474,
+      "end": 20484,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "2117972072",
+      "start": 20533,
+      "end": 20543,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1972780855",
+      "start": 22243,
+      "end": 22253,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1066098964",
+      "start": 22279,
+      "end": 22289,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "267-751-4076",
+      "start": 38467,
+      "end": 38479,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "678-258-8399",
+      "start": 38658,
+      "end": 38670,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1607961643",
+      "start": 50175,
+      "end": 50185,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "267-751-4076",
+      "start": 59071,
+      "end": 59083,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "678-258-8399",
+      "start": 59089,
+      "end": 59101,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1020383167",
+      "start": 154224,
+      "end": 154234,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1258009506",
+      "start": 212850,
+      "end": 212860,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1832855495",
+      "start": 288381,
+      "end": 288391,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "2009806875",
+      "start": 318932,
+      "end": 318942,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1002768501",
+      "start": 350307,
+      "end": 350317,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1214451857",
+      "start": 366092,
+      "end": 366102,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1558922771",
+      "start": 425722,
+      "end": 425732,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1068440364",
+      "start": 438233,
+      "end": 438243,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "2142168446",
+      "start": 519124,
+      "end": 519134,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "2142168446",
+      "start": 567944,
+      "end": 567954,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 24735,
+      "end": 24756,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 24761,
+      "end": 24782,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "susan@icelandirect.com",
+      "start": 24852,
+      "end": 24874,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "Debbie.Lovenduski@amtrustgroup.com",
+      "start": 25315,
+      "end": 25349,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "Debbie.Lovenduski@amtrustgroup.com",
+      "start": 25351,
+      "end": 25385,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 25460,
+      "end": 25481,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 25503,
+      "end": 25524,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 25526,
+      "end": 25547,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "Debbie.lovenduski@amtrustgroup.com",
+      "start": 38754,
+      "end": 38788,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "Debbie.lovenduski@amtrustgroup.com",
+      "start": 38889,
+      "end": 38923,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 49262,
+      "end": 49283,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 49459,
+      "end": 49480,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 49737,
+      "end": 49758,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "susan@icelandirect.com",
+      "start": 51388,
+      "end": 51410,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "susan@icelandirect.com",
+      "start": 51470,
+      "end": 51492,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "susan@icelandirect.com",
+      "start": 51507,
+      "end": 51529,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "susan@icelandirect.com",
+      "start": 51545,
+      "end": 51567,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "susan@icelandirect.com",
+      "start": 51611,
+      "end": 51633,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "susan@icelandirect.com",
+      "start": 51882,
+      "end": 51904,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "susan@icelandirect.com",
+      "start": 51964,
+      "end": 51986,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "susan@icelandirect.com",
+      "start": 53447,
+      "end": 53469,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 53476,
+      "end": 53497,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "653e1c629e724be9a43e26d5078a7cbd@CLE-MAIL06.amtrustservices.com",
+      "start": 53512,
+      "end": 53575,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 54263,
+      "end": 54284,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "maja@icelandirect.onmicrosoft.com",
+      "start": 54299,
+      "end": 54332,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 54790,
+      "end": 54811,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 54813,
+      "end": 54834,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "susan@icelandirect.com",
+      "start": 54881,
+      "end": 54903,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "Debbie.Lovenduski@amtrustgroup.com",
+      "start": 55054,
+      "end": 55088,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "Debbie.Lovenduski@amtrustgroup.com",
+      "start": 55097,
+      "end": 55131,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 55181,
+      "end": 55202,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 55205,
+      "end": 55226,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "maja@icelandirect.com",
+      "start": 55235,
+      "end": 55256,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "Debbie.lovenduski@amtrustgroup.com",
+      "start": 59112,
+      "end": 59146,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "Debbie.lovenduski@amtrustgroup.com",
+      "start": 59148,
+      "end": 59182,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "F9CAD95F968D564C934176E087A4C3CC@namprd10.prod.outlook.com",
+      "start": 60151,
+      "end": 60209,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "C74C3FBFFC6D424488D29990EBBAA489@namprd10.prod.outlook.com",
+      "start": 61153,
+      "end": 61211,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "543010624",
+      "start": 142536,
+      "end": 142545,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "548483879",
+      "start": 225144,
+      "end": 225153,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "773035233",
+      "start": 237834,
+      "end": 237843,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "577379608",
+      "start": 335082,
+      "end": 335091,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "305271618",
+      "start": 380503,
+      "end": 380512,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "356251780",
+      "start": 395261,
+      "end": 395270,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "618240836",
+      "start": 410297,
+      "end": 410306,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "317772811",
+      "start": 468722,
+      "end": 468731,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "123456789",
+      "start": 491085,
+      "end": 491094,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "123456789",
+      "start": 491183,
+      "end": 491192,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "748521947",
+      "start": 508255,
+      "end": 508264,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "226372303",
+      "start": 531355,
+      "end": 531364,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "748521947",
+      "start": 545584,
+      "end": 545593,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "548483879",
+      "start": 556977,
+      "end": 556986,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "807329511",
+      "start": 581840,
+      "end": 581849,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "377008555",
+      "start": 597140,
+      "end": 597149,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "523379530",
+      "start": 613361,
+      "end": 613370,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "10/3/20",
+      "start": 25899,
+      "end": 25906,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "10/30/2020",
+      "start": 28557,
+      "end": 28567,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "10/30/2020",
+      "start": 29242,
+      "end": 29252,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "12/14/2020",
+      "start": 54109,
+      "end": 54119,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "10/3/20",
+      "start": 55435,
+      "end": 55442,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "10/30/2020",
+      "start": 57029,
+      "end": 57039,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "10/30/2020",
+      "start": 57176,
+      "end": 57186,
+      "type": "DATE",
+      "confidence": 1.0
     }
   ],
-  "presidio_detections": [],
   "detection_count": {
-    "genetic": 174,
-    "presidio": 0
+    "genetic": 37,
+    "presidio": 0,
+    "regex": 218
   },
   "text_sample": "\u0011\u0871\u001a\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000>\u0000\u0003\u0000\t\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0002\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u007f\u0001\u0000\u0000\u0000\u0002\u0000\u0000y\u0002\u0000\u0000\u0002\u0000\u0000{\u0003\u0000\u0000\u0003\u0000\u0000}\u0004\u0000\u0000\u0004\u0000\u0000\u007f\u0005\u0000\u0000\u0000\u0006\u0000\u0000y\u0006\u0000\u0000\u0006\u0000\u0000{\u0007\u0000\u0000\u0007\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u001d\u0000\u0000\u0000\b\u0000\u0000\u0000\t\u0000\u0000\u0000\n\u0000\u0000\u0000\u000b\u0000\u0000\u0000\f\u0000\u0000\u0000\n\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0013\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u001b\u0000\u0000\u0000U\u0000\u0000\u0000\u001e\u0000\u0000\u0000W\u0000\u0000\u0000 \u0000\u0000\u0000!\u0000\u0000\u0000\"\u0000\u0000\u0000#\u0000\u0000\u0000$\u0000\u0000\u0000%\u0000\u0000\u0000&\u0000\u0000\u0000'\u0000\u0000\u0000(\u0000\u0000\u0000)\u0000\u0000\u0000*\u0000\u0000\u0000+\u0000\u0000\u0000,\u0000\u0000\u0000-\u0000\u0000\u0000.\u0000\u0000\u0000/\u0000\u0000\u00000\u0000\u0000\u00001\u0000\u0000\u00002\u0000\u0000\u00003\u0000\u0000\u00004\u0000\u0000\u00005\u0000\u0000\u00006\u0000\u0000\u00007\u0000\u0000\u00008\u0000\u0000\u00009\u0000\u0000\u0000:\u0000\u0000\u0000;\u0000\u0000\u0000<\u0000\u0000\u0000=\u0000\u0000\u0000>\u0000\u0000\u0000?\u0000\u0000\u0000@\u0000\u0000\u0000A\u0000\u0000\u0000B\u0000\u0000\u0000C\u0000\u0000\u0000D\u0000\u0000\u0000E\u0000\u0000\u0000F\u0000\u0000\u0000G\u0000\u0000\u0000H\u0000\u0000\u0000I\u0000\u0000\u0000J\u0000\u0000\u0000K\u0000\u0000\u0000L\u0000\u0000\u0000M\u0000\u0000\u0000N\u0000\u0000\u0000O\u0000\u0000\u0000P\u0000\u0000\u0000Q\u0000\u0000\u0000R\u0000\u0000\u0000S\u0000\u0000\u0000T\u0000\u0000\u0000V\u0000\u0000\u0000X\u0000\u0000\u0000Z\u0000\u0000\u0000Y\u0000\u0000\u0000[\u0000\u0000\u0000\\\u0000\u0000\u0000]\u0000\u0000\u0000^\u0000\u0000\u0000`\u0000\u0000\u0000_\u0000\u0000\u0000a\u0000\u0000\u0000{\u0000\u0000..."
 }

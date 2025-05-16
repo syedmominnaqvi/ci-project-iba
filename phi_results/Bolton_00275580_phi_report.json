@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Bolton Partners Inc/Bolton_00275580.pdf",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Bolton Partners Inc/Bolton_00275580.pdf",
     "file_name": "Bolton_00275580.pdf",
     "file_size": 4122,
     "text_length": 519
@@ -11,7 +11,7 @@
       "start": 35,
       "end": 46,
       "type": "SSN",
-      "confidence": 0.5
+      "confidence": 0.5299357581867883
     },
     {
       "text": "Years Ago",
@@ -113,9 +113,124 @@
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Years Ago",
+      "start": 85,
+      "end": 94,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "View Person",
+      "start": 114,
+      "end": 125,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Years Ago",
+      "start": 173,
+      "end": 182,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Unknown\nPossible",
+      "start": 188,
+      "end": 204,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Relatives\nMom",
+      "start": 205,
+      "end": 218,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Mom Parent",
+      "start": 219,
+      "end": 229,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Weston\nParents",
+      "start": 230,
+      "end": 244,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Full Name",
+      "start": 245,
+      "end": 254,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Birth Place",
+      "start": 311,
+      "end": 322,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Cause Of",
+      "start": 355,
+      "end": 363,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Number Of",
+      "start": 416,
+      "end": 425,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Grand Children",
+      "start": 426,
+      "end": 440,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Number Of",
+      "start": 444,
+      "end": 453,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Great Grand",
+      "start": 454,
+      "end": 465,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "278-34-7065",
+      "start": 35,
+      "end": 46,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/24/1938",
+      "start": 153,
+      "end": 163,
+      "type": "DATE",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
     "genetic": 15,
-    "presidio": 0
+    "presidio": 0,
+    "regex": 16
   },
   "text_sample": "FOR GENERAL BUSINESS PURPOSES ONLY 278-34-7065 - Deceased\nMARY PAT STUBLER - Born 79 Years Ago\nMARY PAT STUBLER [ View Person Record ] SSN: Unknown\nDOB: 06/24/1938, Born 79 Years Ago\nDOD: Unknown\nPossible Relatives\nMom-Mom Parent\nWeston\nParents Full Name: ELMER LEE & MADALINE EVERHART (NEE\nSPEELMAN)\nGender: F\nBirth Place: BERKELEY SPRINGS WEST VIRGINIA\nCause Of Death: ALZHEIMER'S DISEASE\nSiblings: EMBLEM COMPANY\nNumber Of Grand Children: 4\nNumber Of Great Grand Children: 5\nPPaaggee 11 ooff 11 00..."
 }

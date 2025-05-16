@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Sightpath, LLC/SightPath-TD.00000001.00000001.00254224.pdf",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Sightpath, LLC/SightPath-TD.00000001.00000001.00254224.pdf",
     "file_name": "SightPath-TD.00000001.00000001.00254224.pdf",
     "file_size": 256547,
     "text_length": 2086
@@ -11,188 +11,373 @@
       "start": 12,
       "end": 27,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Beginning Delta",
       "start": 31,
       "end": 46,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Down\nEnding",
       "start": 47,
       "end": 58,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Ending Delta",
       "start": 68,
       "end": 80,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Down\nMicroscope",
       "start": 81,
       "end": 96,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Offset\nList",
       "start": 285,
       "end": 296,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Offset\nCornea",
       "start": 344,
       "end": 357,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Filter On",
       "start": 406,
       "end": 415,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Tag Removed",
       "start": 421,
       "end": 432,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Laser Parameter",
       "start": 819,
       "end": 834,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Energy Chk",
       "start": 874,
       "end": 884,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Dr Preferences",
       "start": 1103,
       "end": 1117,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Dr Preferences",
       "start": 1124,
       "end": 1138,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Surgery Day",
       "start": 1155,
       "end": 1166,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Yes \n No",
       "start": 1250,
       "end": 1258,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Technical Record",
       "start": 1276,
       "end": 1292,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Daily Laser",
       "start": 1296,
       "end": 1307,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Settings\nProprietary",
       "start": 1308,
       "end": 1328,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Franco Surgery",
       "start": 1424,
       "end": 1438,
       "type": "NAME",
-      "confidence": 0.47134772480008824
-    },
-    {
-      "text": "2021202111",
-      "start": 1544,
-      "end": 1554,
-      "type": "PHONE",
-      "confidence": 0.5
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Energy Chk",
       "start": 1842,
       "end": 1852,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Minimum\nPage",
       "start": 1853,
       "end": 1865,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Technical Record",
       "start": 1877,
       "end": 1893,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Daily Laser",
       "start": 1897,
       "end": 1908,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Settings\nProprietary",
       "start": 1909,
       "end": 1929,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     },
     {
       "text": "Sightpath Medical",
       "start": 1958,
       "end": 1975,
       "type": "NAME",
-      "confidence": 0.47134772480008824
+      "confidence": 0.4728564606777237
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Beginning Delta",
+      "start": 12,
+      "end": 27,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Beginning Delta",
+      "start": 31,
+      "end": 46,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Down\nEnding",
+      "start": 47,
+      "end": 58,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Ending Delta",
+      "start": 68,
+      "end": 80,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Down\nMicroscope",
+      "start": 81,
+      "end": 96,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Offset\nList",
+      "start": 285,
+      "end": 296,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Offset\nCornea",
+      "start": 344,
+      "end": 357,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Filter On",
+      "start": 406,
+      "end": 415,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Tag Removed",
+      "start": 421,
+      "end": 432,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Laser Parameter",
+      "start": 819,
+      "end": 834,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Energy Chk",
+      "start": 874,
+      "end": 884,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Dr Preferences",
+      "start": 1103,
+      "end": 1117,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Dr Preferences",
+      "start": 1124,
+      "end": 1138,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Surgery Day",
+      "start": 1155,
+      "end": 1166,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Yes \n No",
+      "start": 1250,
+      "end": 1258,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Technical Record",
+      "start": 1276,
+      "end": 1292,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Daily Laser",
+      "start": 1296,
+      "end": 1307,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Settings\nProprietary",
+      "start": 1308,
+      "end": 1328,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Franco Surgery",
+      "start": 1424,
+      "end": 1438,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Energy Chk",
+      "start": 1842,
+      "end": 1852,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Minimum\nPage",
+      "start": 1853,
+      "end": 1865,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Technical Record",
+      "start": 1877,
+      "end": 1893,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Daily Laser",
+      "start": 1897,
+      "end": 1908,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Settings\nProprietary",
+      "start": 1909,
+      "end": 1929,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sightpath Medical",
+      "start": 1958,
+      "end": 1975,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "2021202111",
+      "start": 1544,
+      "end": 1554,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "404240326",
+      "start": 1527,
+      "end": 1536,
+      "type": "SSN",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
-    "genetic": 26,
-    "presidio": 0
+    "genetic": 25,
+    "presidio": 0,
+    "regex": 27
   },
   "text_sample": "DATE:\nSITE:\nBeginning Delta up Beginning Delta Down\nEnding Delta up Ending Delta Down\nMicroscope OCT Microscope\nCPVMy signature below indicates that the above noted information has been recorded by me and accurately reflects the status of this laser on the date/time indicatedCornea Z Offset\nList any modifications below2nd CPV performed\nCap Z Offset\nCornea Z Offset\nHUMIDITY TEMPERATUREPreposition On\nNXT Filter On\nRFID Tag Removed\nCPV complete\nCap Z Offset6mm(+/-.25mm)\n1000 (+/-20um)TECHNICIAN \\ E..."
 }

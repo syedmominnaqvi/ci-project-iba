@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Atlantic Dialysis Management Services LLC/Atlantic_DMS_00317280.pdf",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Atlantic Dialysis Management Services LLC/Atlantic_DMS_00317280.pdf",
     "file_name": "Atlantic_DMS_00317280.pdf",
     "file_size": 75547,
     "text_length": 2988
@@ -32,13 +32,6 @@
       "start": 193,
       "end": 202,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "100133990",
-      "start": 302,
-      "end": 311,
-      "type": "SSN",
       "confidence": 0.5
     },
     {
@@ -78,9 +71,229 @@
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Sent By",
+      "start": 33,
+      "end": 40,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Federal Tax",
+      "start": 146,
+      "end": 157,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hospital Charges",
+      "start": 176,
+      "end": 192,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Billed To",
+      "start": 193,
+      "end": 202,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Claim No",
+      "start": 313,
+      "end": 321,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Amount Qty",
+      "start": 323,
+      "end": 333,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Remark Srv",
+      "start": 334,
+      "end": 344,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Date Treatment",
+      "start": 345,
+      "end": 359,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hospital No",
+      "start": 360,
+      "end": 371,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "100133990",
+      "start": 302,
+      "end": 311,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "10/7/2015",
+      "start": 23,
+      "end": 32,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/29/15",
+      "start": 382,
+      "end": 390,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/02/15",
+      "start": 1253,
+      "end": 1261,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/04/15",
+      "start": 1301,
+      "end": 1309,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/07/15",
+      "start": 1349,
+      "end": 1357,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/09/15",
+      "start": 1395,
+      "end": 1403,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/14/15",
+      "start": 1639,
+      "end": 1647,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/16/15",
+      "start": 1687,
+      "end": 1695,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/18/15",
+      "start": 1735,
+      "end": 1743,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/04/15",
+      "start": 1934,
+      "end": 1942,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/08/15",
+      "start": 1982,
+      "end": 1990,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/10/15",
+      "start": 2030,
+      "end": 2038,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/11/15",
+      "start": 2078,
+      "end": 2086,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/15/15",
+      "start": 2126,
+      "end": 2134,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/17/15",
+      "start": 2174,
+      "end": 2182,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/18/15",
+      "start": 2222,
+      "end": 2230,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/03/15",
+      "start": 2592,
+      "end": 2600,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/04/15",
+      "start": 2640,
+      "end": 2648,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/07/15",
+      "start": 2688,
+      "end": 2696,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/09/15",
+      "start": 2734,
+      "end": 2742,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/11/15",
+      "start": 2782,
+      "end": 2790,
+      "type": "DATE",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
-    "genetic": 10,
-    "presidio": 0
+    "genetic": 9,
+    "presidio": 0,
+    "regex": 31
   },
   "text_sample": "Page 2 of 16 \nPrinted: 10/7/2015 Sent By: \nMATTOO AND BHAT MEDICAL ASSOCIATES \n23-14 COLLEGE POINT BLVD \nCOLLEGE POINT, NY 11356 \n(347) 312-3020 \nFederal Tax ID: \nStatement of Hospital Charges Billed To: \nCONEY ISLAND HOSPITAL \nHHC CENTRAL OFFICE \n346 BROADWAY FL11 \nATTN: DAVID R. VERAS \nNEW YORK, NY 100133990 \nClaim No. Amount Qty Remark Srv Date Treatment Hospital No. Patient \n09/29/15 ACUTE SERV TREATMEN \nROOM IN HOSPITAL 1 09:50-12:50 363256 420.00 BOWMAN, MIRIAM \n(552W) \nPatient count: 1 \nB..."
 }

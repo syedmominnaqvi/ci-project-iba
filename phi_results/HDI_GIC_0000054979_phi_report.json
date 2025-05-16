@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/HDI Global Insurance Company/HDI_GIC_0000054979.pdf",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/HDI Global Insurance Company/HDI_GIC_0000054979.pdf",
     "file_name": "HDI_GIC_0000054979.pdf",
     "file_size": 311036,
     "text_length": 11627
@@ -11,657 +11,342 @@
       "start": 218,
       "end": 234,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "208-331-7347",
-      "start": 238,
-      "end": 250,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-627-1188",
-      "start": 256,
-      "end": 268,
-      "type": "PHONE",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Patient\nEvynn",
       "start": 500,
       "end": 513,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Windy Acres",
       "start": 565,
       "end": 576,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Blue Cross",
       "start": 630,
       "end": 640,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "St Lukes",
       "start": 829,
       "end": 837,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "St Lukes",
       "start": 877,
       "end": 885,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Magic Valley",
       "start": 886,
       "end": 898,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Individual Deductible",
       "start": 1072,
       "end": 1093,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Family Deductible",
       "start": 1120,
       "end": 1137,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "St Lukes",
       "start": 1138,
       "end": 1146,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Clinic\nPatient",
       "start": 1147,
       "end": 1161,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "St Lukes",
       "start": 1475,
       "end": 1483,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Clinic\nPatient",
       "start": 1484,
       "end": 1498,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Medical Services",
       "start": 1683,
       "end": 1699,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Suspect Fraud",
       "start": 1844,
       "end": 1857,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-682-9095",
-      "start": 1900,
-      "end": 1912,
-      "type": "PHONE",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "An Independent",
       "start": 1914,
       "end": 1928,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Blue Cross",
       "start": 1945,
       "end": 1955,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Blue Shield",
       "start": 1960,
       "end": 1971,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "St Lukes",
       "start": 2262,
       "end": 2270,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Clinic\nPatient",
       "start": 2271,
       "end": 2285,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "St Lukes",
       "start": 2570,
       "end": 2578,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Magic Valley",
       "start": 2579,
       "end": 2591,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Lukes Magic",
       "start": 2842,
       "end": 2853,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Patient\nEvynn",
       "start": 2967,
       "end": 2980,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Windy Acres",
       "start": 3031,
       "end": 3042,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "About This",
       "start": 3049,
       "end": 3059,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Deductible Status",
       "start": 3085,
       "end": 3102,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Network Savings",
       "start": 3702,
       "end": 3717,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Blue \nCross",
       "start": 3818,
       "end": 3829,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Blue Cross",
       "start": 3853,
       "end": 3863,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Blue Shield",
       "start": 3864,
       "end": 3875,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Other Insurance",
       "start": 4114,
       "end": 4129,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Medically Necessary",
       "start": 4717,
       "end": 4736,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Appeal Procedures",
       "start": 5282,
       "end": 5299,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Grievance Coordinator",
       "start": 6322,
       "end": 6343,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Sudanic \nFulfulde",
       "start": 7099,
       "end": 7116,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "208-331-7347",
-      "start": 7226,
-      "end": 7238,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-627-1188",
-      "start": 7244,
-      "end": 7256,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-377-1363",
-      "start": 7266,
-      "end": 7278,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0123456789",
-      "start": 7307,
-      "end": 7317,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "208-331-7347",
-      "start": 7321,
-      "end": 7333,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-627-1188",
-      "start": 7339,
-      "end": 7351,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-377-1363",
-      "start": 7359,
-      "end": 7371,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "208-331-7347",
-      "start": 7496,
-      "end": 7508,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-627-1188",
-      "start": 7514,
-      "end": 7526,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-377-1363",
-      "start": 7536,
-      "end": 7548,
-      "type": "PHONE",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Wenn Sie",
       "start": 7567,
       "end": 7575,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "208-331-7347",
-      "start": 7677,
-      "end": 7689,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-627-1188",
-      "start": 7695,
-      "end": 7707,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-377-1363",
-      "start": 7717,
-      "end": 7729,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "208-331-7347",
-      "start": 7898,
-      "end": 7910,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-627-1188",
-      "start": 7916,
-      "end": 7928,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-377-1363",
-      "start": 7937,
-      "end": 7949,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "208-331-7347",
-      "start": 8067,
-      "end": 8079,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-627-1188",
-      "start": 8085,
-      "end": 8097,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-377-1363",
-      "start": 8107,
-      "end": 8119,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "208-331-7347",
-      "start": 8244,
-      "end": 8256,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-627-1188",
-      "start": 8262,
-      "end": 8274,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-377-1363",
-      "start": 8283,
-      "end": 8295,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "208-331-7347",
-      "start": 8404,
-      "end": 8416,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-627-1188",
-      "start": 8422,
-      "end": 8434,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-377-1363",
-      "start": 8448,
-      "end": 8460,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "208-331-7347",
-      "start": 8581,
-      "end": 8593,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-627-1188",
-      "start": 8599,
-      "end": 8611,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-377-1363",
-      "start": 8670,
-      "end": 8682,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "208-331-7347",
-      "start": 8802,
-      "end": 8814,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-627-1188",
-      "start": 8820,
-      "end": 8832,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-377-1363",
-      "start": 8841,
-      "end": 8853,
-      "type": "PHONE",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Sudanic Fulfulde",
       "start": 8856,
       "end": 8872,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "208-331-7347",
-      "start": 8955,
-      "end": 8967,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-627-1188",
-      "start": 8973,
-      "end": 8985,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-377-1363",
-      "start": 8994,
-      "end": 9006,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "208-331-7347",
-      "start": 9142,
-      "end": 9154,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-627-1188",
-      "start": 9161,
-      "end": 9173,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-377-1363",
-      "start": 9182,
-      "end": 9194,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "208-331-7347",
-      "start": 9339,
-      "end": 9351,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-627-1188",
-      "start": 9357,
-      "end": 9369,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-377-1363",
-      "start": 9383,
-      "end": 9395,
-      "type": "PHONE",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Blue Cross",
       "start": 9397,
       "end": 9407,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Blue Cross",
       "start": 9566,
       "end": 9576,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Blue Cross",
       "start": 9702,
       "end": 9712,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Blue Cross",
       "start": 10166,
       "end": 10176,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Customer Service",
       "start": 10188,
       "end": 10204,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-627-1188",
-      "start": 10225,
-      "end": 10237,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "800-377-1363",
-      "start": 10246,
-      "end": 10258,
-      "type": "PHONE",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Nondiscrimination Statement",
       "start": 10329,
       "end": 10356,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Blue Cross",
       "start": 10413,
       "end": 10423,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Blue Cross",
       "start": 10604,
       "end": 10614,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Appeals Department",
       "start": 10642,
       "end": 10660,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "East Pine",
       "start": 10702,
       "end": 10711,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
-      "text": "800-377-1363",
-      "start": 10842,
-      "end": 10854,
-      "type": "PHONE",
+      "text": "appeals@bcidaho.com",
+      "start": 10815,
+      "end": 10834,
+      "type": "EMAIL",
       "confidence": 0.5
     },
     {
@@ -669,62 +354,849 @@
       "start": 11097,
       "end": 11111,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Civil Rights",
       "start": 11124,
       "end": 11136,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Civil Rights",
       "start": 11176,
       "end": 11188,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Complaint Portal",
       "start": 11189,
       "end": 11205,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Human Services",
       "start": 11323,
       "end": 11337,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Independence Avenue",
       "start": 11343,
       "end": 11362,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
+    }
+  ],
+  "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Customer Service",
+      "start": 218,
+      "end": 234,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Patient\nEvynn",
+      "start": 500,
+      "end": 513,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Windy Acres",
+      "start": 565,
+      "end": 576,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 630,
+      "end": 640,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "St Lukes",
+      "start": 829,
+      "end": 837,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "St Lukes",
+      "start": 877,
+      "end": 885,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Magic Valley",
+      "start": 886,
+      "end": 898,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Individual Deductible",
+      "start": 1072,
+      "end": 1093,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Family Deductible",
+      "start": 1120,
+      "end": 1137,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "St Lukes",
+      "start": 1138,
+      "end": 1146,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Clinic\nPatient",
+      "start": 1147,
+      "end": 1161,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "St Lukes",
+      "start": 1475,
+      "end": 1483,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Clinic\nPatient",
+      "start": 1484,
+      "end": 1498,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medical Services",
+      "start": 1683,
+      "end": 1699,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Suspect Fraud",
+      "start": 1844,
+      "end": 1857,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "An Independent",
+      "start": 1914,
+      "end": 1928,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 1945,
+      "end": 1955,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 1960,
+      "end": 1971,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "St Lukes",
+      "start": 2262,
+      "end": 2270,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Clinic\nPatient",
+      "start": 2271,
+      "end": 2285,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "St Lukes",
+      "start": 2570,
+      "end": 2578,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Magic Valley",
+      "start": 2579,
+      "end": 2591,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lukes Magic",
+      "start": 2842,
+      "end": 2853,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Patient\nEvynn",
+      "start": 2967,
+      "end": 2980,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Windy Acres",
+      "start": 3031,
+      "end": 3042,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "About This",
+      "start": 3049,
+      "end": 3059,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Deductible Status",
+      "start": 3085,
+      "end": 3102,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Network Savings",
+      "start": 3702,
+      "end": 3717,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue \nCross",
+      "start": 3818,
+      "end": 3829,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 3853,
+      "end": 3863,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 3864,
+      "end": 3875,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Other Insurance",
+      "start": 4114,
+      "end": 4129,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medically Necessary",
+      "start": 4717,
+      "end": 4736,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Appeal Procedures",
+      "start": 5282,
+      "end": 5299,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Grievance Coordinator",
+      "start": 6322,
+      "end": 6343,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sudanic \nFulfulde",
+      "start": 7099,
+      "end": 7116,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Wenn Sie",
+      "start": 7567,
+      "end": 7575,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sudanic Fulfulde",
+      "start": 8856,
+      "end": 8872,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 9397,
+      "end": 9407,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 9566,
+      "end": 9576,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 9702,
+      "end": 9712,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 10166,
+      "end": 10176,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Customer Service",
+      "start": 10188,
+      "end": 10204,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Nondiscrimination Statement",
+      "start": 10329,
+      "end": 10356,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 10413,
+      "end": 10423,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 10604,
+      "end": 10614,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Appeals Department",
+      "start": 10642,
+      "end": 10660,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "East Pine",
+      "start": 10702,
+      "end": 10711,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Human Services",
+      "start": 11097,
+      "end": 11111,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Civil Rights",
+      "start": 11124,
+      "end": 11136,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Civil Rights",
+      "start": 11176,
+      "end": 11188,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Complaint Portal",
+      "start": 11189,
+      "end": 11205,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Human Services",
+      "start": 11323,
+      "end": 11337,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Independence Avenue",
+      "start": 11343,
+      "end": 11362,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "208-331-7347",
+      "start": 238,
+      "end": 250,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-627-1188",
+      "start": 256,
+      "end": 268,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-682-9095",
+      "start": 1900,
+      "end": 1912,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "208-331-7347",
+      "start": 7226,
+      "end": 7238,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-627-1188",
+      "start": 7244,
+      "end": 7256,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-377-1363",
+      "start": 7266,
+      "end": 7278,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0123456789",
+      "start": 7307,
+      "end": 7317,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "208-331-7347",
+      "start": 7321,
+      "end": 7333,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-627-1188",
+      "start": 7339,
+      "end": 7351,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-377-1363",
+      "start": 7359,
+      "end": 7371,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "208-331-7347",
+      "start": 7496,
+      "end": 7508,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-627-1188",
+      "start": 7514,
+      "end": 7526,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-377-1363",
+      "start": 7536,
+      "end": 7548,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "208-331-7347",
+      "start": 7677,
+      "end": 7689,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-627-1188",
+      "start": 7695,
+      "end": 7707,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-377-1363",
+      "start": 7717,
+      "end": 7729,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "208-331-7347",
+      "start": 7898,
+      "end": 7910,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-627-1188",
+      "start": 7916,
+      "end": 7928,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-377-1363",
+      "start": 7937,
+      "end": 7949,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "208-331-7347",
+      "start": 8067,
+      "end": 8079,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-627-1188",
+      "start": 8085,
+      "end": 8097,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-377-1363",
+      "start": 8107,
+      "end": 8119,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "208-331-7347",
+      "start": 8244,
+      "end": 8256,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-627-1188",
+      "start": 8262,
+      "end": 8274,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-377-1363",
+      "start": 8283,
+      "end": 8295,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "208-331-7347",
+      "start": 8404,
+      "end": 8416,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-627-1188",
+      "start": 8422,
+      "end": 8434,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-377-1363",
+      "start": 8448,
+      "end": 8460,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "208-331-7347",
+      "start": 8581,
+      "end": 8593,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-627-1188",
+      "start": 8599,
+      "end": 8611,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-377-1363",
+      "start": 8670,
+      "end": 8682,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "208-331-7347",
+      "start": 8802,
+      "end": 8814,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-627-1188",
+      "start": 8820,
+      "end": 8832,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-377-1363",
+      "start": 8841,
+      "end": 8853,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "208-331-7347",
+      "start": 8955,
+      "end": 8967,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-627-1188",
+      "start": 8973,
+      "end": 8985,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-377-1363",
+      "start": 8994,
+      "end": 9006,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "208-331-7347",
+      "start": 9142,
+      "end": 9154,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-627-1188",
+      "start": 9161,
+      "end": 9173,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-377-1363",
+      "start": 9182,
+      "end": 9194,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "208-331-7347",
+      "start": 9339,
+      "end": 9351,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-627-1188",
+      "start": 9357,
+      "end": 9369,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-377-1363",
+      "start": 9383,
+      "end": 9395,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-627-1188",
+      "start": 10225,
+      "end": 10237,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-377-1363",
+      "start": 10246,
+      "end": 10258,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-377-1363",
+      "start": 10842,
+      "end": 10854,
+      "type": "PHONE",
+      "confidence": 1.0
     },
     {
       "text": "800-368-1019",
       "start": 11418,
       "end": 11430,
       "type": "PHONE",
-      "confidence": 0.5
+      "confidence": 1.0
     },
     {
       "text": "800-537-7697",
       "start": 11432,
       "end": 11444,
       "type": "PHONE",
-      "confidence": 0.5
+      "confidence": 1.0
+    },
+    {
+      "text": "appeals@bcidaho.com",
+      "start": 10815,
+      "end": 10834,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "83330-5121",
+      "start": 136,
+      "end": 146,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "970567617",
+      "start": 444,
+      "end": 453,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/04/2017",
+      "start": 348,
+      "end": 358,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "9/4/17",
+      "start": 493,
+      "end": 499,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/01/17",
+      "start": 993,
+      "end": 1001,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "12/31/17",
+      "start": 1002,
+      "end": 1010,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/08/17",
+      "start": 1397,
+      "end": 1405,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/21/17",
+      "start": 1728,
+      "end": 1736,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/21/17",
+      "start": 2503,
+      "end": 2511,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/21/17",
+      "start": 2826,
+      "end": 2834,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/04/2017",
+      "start": 2944,
+      "end": 2954,
+      "type": "DATE",
+      "confidence": 1.0
     }
   ],
-  "presidio_detections": [],
   "detection_count": {
-    "genetic": 102,
-    "presidio": 0
+    "genetic": 55,
+    "presidio": 0,
+    "regex": 114
   },
   "text_sample": "       \n           \n             a0b0c1ISeptember 4, 2017\n10034105\nLENNY A GILLETTE\n1735 GILLETTE RD                        \nGOODING ID 83330-5121                   If you have a question about your\nclaim, please call Customer Service at\n208-331-7347 or 1-800-627-1188\nwww.bcidaho.com11/03\nEXPLANATION OF BENEFITS\nTHIS IS NOT A BILLXMP970567617 02 09/04/2017 PAGE 1 of 2 EOB\nBCI1\n          \n338.98   P.O. Box 7408   Boise, Idaho 83707-1408P\n N 970567617\nY\nSUMMARY For claims processed through 9/4/17\n..."
 }

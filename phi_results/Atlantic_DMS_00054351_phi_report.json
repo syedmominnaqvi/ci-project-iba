@@ -1,15 +1,17 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Atlantic Dialysis Management Services LLC/Atlantic_DMS_00054351.doc",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Atlantic Dialysis Management Services LLC/Atlantic_DMS_00054351.doc",
     "file_name": "Atlantic_DMS_00054351.doc",
     "file_size": 211456,
     "text_length": 90
   },
   "genetic_detections": [],
   "presidio_detections": [],
+  "regex_detections": [],
   "detection_count": {
     "genetic": 0,
-    "presidio": 0
+    "presidio": 0,
+    "regex": 0
   },
   "text_sample": "[OFFICE FILE: Atlantic_DMS_00054351.doc] - Install textract or tika for content extraction"
 }

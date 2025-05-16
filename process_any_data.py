@@ -8,6 +8,7 @@ This script:
 4. Reports findings in a consolidated report
 """
 import os
+import certifi
 import sys
 import argparse
 import json
@@ -26,9 +27,21 @@ from datetime import datetime
 from contextlib import contextmanager
 import pandas as pd
 
-# Disable SSL verification for external requests
+# Setup proper SSL verification for external requests
 import ssl
-ssl._create_default_https_context = ssl._create_unverified_context
+import certifi
+
+# Set environment variables and create proper SSL context
+os.environ['SSL_CERT_FILE'] = certifi.where()
+os.environ['REQUESTS_CA_BUNDLE'] = certifi.where()
+
+# Create a proper verified SSL context using certifi certificates
+def create_verified_context():
+    context = ssl.create_default_context(cafile=certifi.where())
+    return context
+
+# Replace the default context with our verified one
+ssl._create_default_https_context = create_verified_context
 
 # Configure basic logging
 import logging
@@ -643,6 +656,16 @@ def process_files(file_paths, output_dir, generations=20, use_presidio=True, bat
                         print(f" failed ({type(e).__name__})")
                         print(f"  ⚠ Error in Presidio detection: {e}")
 
+                # Regex detection (always run)
+                regex_preds = []
+                for pattern, pii_type in patterns:
+                    for match in pattern.finditer(text):
+                        matched_text = match.group()
+                        start = match.start()
+                        end = match.end()
+                        regex_preds.append((matched_text, start, end, pii_type))
+                print(f"  Regex detection found {len(regex_preds)} entities")
+
                 # Record results
                 result = {
                     "file_path": file_info["file_path"],
@@ -653,8 +676,11 @@ def process_files(file_paths, output_dir, generations=20, use_presidio=True, bat
                     "genetic_count": len(genetic_preds),
                     "presidio_detections": presidio_preds,
                     "presidio_count": len(presidio_preds),
+                    "regex_detections": regex_preds,
+                    "regex_count": len(regex_preds),
                     "phi_types_genetic": list(set(p[3] for p in genetic_preds)) if genetic_preds else [],
-                    "phi_types_presidio": list(set(p[3] for p in presidio_preds)) if presidio_preds else []
+                    "phi_types_presidio": list(set(p[3] for p in presidio_preds)) if presidio_preds else [],
+                    "phi_types_regex": list(set(p[3] for p in regex_preds)) if regex_preds else []
                 }
 
                 # Show PHI types found
@@ -680,9 +706,17 @@ def process_files(file_paths, output_dir, generations=20, use_presidio=True, bat
                         "type": p[3],
                         "confidence": float(p[4])
                     } for p in presidio_preds] if presidio_preds else [],
+                    "regex_detections": [{
+                        "text": p[0],
+                        "start": p[1],
+                        "end": p[2],
+                        "type": p[3],
+                        "confidence": 1.0
+                    } for p in regex_preds] if regex_preds else [],
                     "detection_count": {
                         "genetic": len(genetic_preds),
-                        "presidio": len(presidio_preds) if presidio_preds else 0
+                        "presidio": len(presidio_preds) if presidio_preds else 0,
+                        "regex": len(regex_preds) if regex_preds else 0
                     },
                     "text_sample": text[:500] + ("..." if len(text) > 500 else "")
                 }
@@ -747,6 +781,20 @@ def process_files(file_paths, output_dir, generations=20, use_presidio=True, bat
         try:
             # Create summary DataFrame
             print("\nGenerating summary report...")
+            def convert_numpy_types(obj):
+                if isinstance(obj, np.integer):
+                    return int(obj)
+                elif isinstance(obj, np.floating):
+                    return float(obj)
+                elif isinstance(obj, np.ndarray):
+                    return obj.tolist()
+                elif isinstance(obj, dict):
+                    return {k: convert_numpy_types(v) for k, v in obj.items()}
+                elif isinstance(obj, list):
+                    return [convert_numpy_types(item) for item in obj]
+                return obj
+
+            all_results_clean = [convert_numpy_types(r) for r in all_results]
             df = pd.DataFrame([{
                 "file_path": r["file_path"],
                 "file_name": r["file_name"],
@@ -754,9 +802,11 @@ def process_files(file_paths, output_dir, generations=20, use_presidio=True, bat
                 "text_length": r["text_length"],
                 "genetic_count": r["genetic_count"],
                 "presidio_count": r["presidio_count"] if "presidio_count" in r else 0,
+                "regex_count": r["regex_count"] if "regex_count" in r else 0,
                 "phi_types_genetic": ", ".join(r["phi_types_genetic"]) if "phi_types_genetic" in r else "",
-                "phi_types_presidio": ", ".join(r["phi_types_presidio"]) if "phi_types_presidio" in r and r["phi_types_presidio"] else ""
-            } for r in all_results])
+                "phi_types_presidio": ", ".join(r["phi_types_presidio"]) if "phi_types_presidio" in r and r["phi_types_presidio"] else "",
+                "phi_types_regex": ", ".join(r["phi_types_regex"]) if "phi_types_regex" in r and r["phi_types_regex"] else ""
+            } for r in all_results_clean])
 
             # Save to CSV
             csv_path = os.path.join(output_dir, "phi_detection_results.csv")
@@ -791,20 +841,6 @@ def process_files(file_paths, output_dir, generations=20, use_presidio=True, bat
                 }
             }
 
-            # Convert numpy values to Python native types
-            def convert_numpy_types(obj):
-                if isinstance(obj, np.integer):
-                    return int(obj)
-                elif isinstance(obj, np.floating):
-                    return float(obj)
-                elif isinstance(obj, np.ndarray):
-                    return obj.tolist()
-                elif isinstance(obj, dict):
-                    return {k: convert_numpy_types(v) for k, v in obj.items()}
-                elif isinstance(obj, list):
-                    return [convert_numpy_types(item) for item in obj]
-                return obj
-            
             # Save summary
             summary_path = os.path.join(output_dir, "phi_detection_summary.json")
             with open(summary_path, "w", encoding="utf-8") as f:

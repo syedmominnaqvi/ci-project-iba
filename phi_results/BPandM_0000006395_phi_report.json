@@ -1,15 +1,17 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Benson Pantello and Morris LLP/BPandM_0000006395.pdf",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Benson Pantello and Morris LLP/BPandM_0000006395.pdf",
     "file_name": "BPandM_0000006395.pdf",
     "file_size": 500806,
     "text_length": 85
   },
   "genetic_detections": [],
   "presidio_detections": [],
+  "regex_detections": [],
   "detection_count": {
     "genetic": 0,
-    "presidio": 0
+    "presidio": 0,
+    "regex": 0
   },
   "text_sample": "[PDF FILE: BPandM_0000006395.pdf] - PDF extraction failed. Not enough text extracted."
 }

@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Bolton Partners Inc/Bolton_01611385.msg",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Bolton Partners Inc/Bolton_01611385.msg",
     "file_name": "Bolton_01611385.msg",
     "file_size": 99840,
     "text_length": 91629
@@ -12,6 +12,20 @@
       "end": 6199,
       "type": "NAME",
       "confidence": 0.5
+    },
+    {
+      "text": "TEBCSPRODUCERS@TRANSAMERICA.COM",
+      "start": 13053,
+      "end": 13084,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
+      "text": "LESLIE.HUBBARD@TRANSAMERICA.COM",
+      "start": 14667,
+      "end": 14698,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
     },
     {
       "text": "Microsoft Word",
@@ -84,11 +98,46 @@
       "confidence": 0.5
     },
     {
+      "text": "rthompson@stratovize.com",
+      "start": 38302,
+      "end": 38326,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 38402,
+      "end": 38426,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
+      "text": "TEBCSProducers@transamerica.com",
+      "start": 39024,
+      "end": 39055,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
+      "text": "Leslie.Hubbard@transamerica.com",
+      "start": 39141,
+      "end": 39172,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
       "text": "Randall Thompson",
       "start": 39191,
       "end": 39207,
       "type": "NAME",
       "confidence": 0.5
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 39212,
+      "end": 39236,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
     },
     {
       "text": "Deborah Clouser",
@@ -147,13 +196,6 @@
       "confidence": 0.5
     },
     {
-      "text": "800-400-3042",
-      "start": 41206,
-      "end": 41218,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
       "text": "Calibri Light",
       "start": 41251,
       "end": 41264,
@@ -180,6 +222,20 @@
       "end": 41562,
       "type": "NAME",
       "confidence": 0.5
+    },
+    {
+      "text": "tebcsproducers@transamerica.com",
+      "start": 41606,
+      "end": 41637,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
+      "text": "tebcsproducers@transamerica.com",
+      "start": 41639,
+      "end": 41670,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
     },
     {
       "text": "Calibri Light",
@@ -357,6 +413,20 @@
       "confidence": 0.5
     },
     {
+      "text": "TEBCSProducers@transamerica.com",
+      "start": 44430,
+      "end": 44461,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
+      "text": "TEBCSProducers@transamerica.com",
+      "start": 44463,
+      "end": 44494,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
       "text": "Deborah Clouser",
       "start": 44526,
       "end": 44541,
@@ -371,11 +441,39 @@
       "confidence": 0.5
     },
     {
+      "text": "TEBCSProducers@transamerica.com",
+      "start": 47437,
+      "end": 47468,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
+      "text": "TEBCSProducers@transamerica.com",
+      "start": 47470,
+      "end": 47501,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
       "text": "Randall Thompson",
       "start": 47524,
       "end": 47540,
       "type": "NAME",
       "confidence": 0.5
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 47561,
+      "end": 47585,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 47587,
+      "end": 47611,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
     },
     {
       "text": "Deborah Clouser",
@@ -434,13 +532,6 @@
       "confidence": 0.5
     },
     {
-      "text": "501-227-1382",
-      "start": 48739,
-      "end": 48751,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
       "text": "Calibri Light",
       "start": 48785,
       "end": 48798,
@@ -466,13 +557,6 @@
       "start": 49018,
       "end": 49031,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "501-539-5708",
-      "start": 49060,
-      "end": 49072,
-      "type": "PHONE",
       "confidence": 0.5
     },
     {
@@ -530,6 +614,20 @@
       "end": 49656,
       "type": "NAME",
       "confidence": 0.5
+    },
+    {
+      "text": "leslie.hubbard@transamerica.com",
+      "start": 49700,
+      "end": 49731,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
+      "text": "leslie.hubbard@transamerica.com",
+      "start": 49758,
+      "end": 49789,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
     },
     {
       "text": "Calibri Light",
@@ -749,6 +847,34 @@
       "confidence": 0.5
     },
     {
+      "text": "rthompson@stratovize.com",
+      "start": 53935,
+      "end": 53959,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 53968,
+      "end": 53992,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
+      "text": "Leslie.Hubbard@transamerica.com",
+      "start": 54099,
+      "end": 54130,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
+      "text": "Leslie.Hubbard@transamerica.com",
+      "start": 54132,
+      "end": 54163,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
       "text": "Beverly Churchill",
       "start": 54202,
       "end": 54219,
@@ -791,11 +917,53 @@
       "confidence": 0.5
     },
     {
+      "text": "rthompson@stratovize.com",
+      "start": 56305,
+      "end": 56329,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 56362,
+      "end": 56386,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
+      "text": "Leslie.Hubbard@transamerica.com",
+      "start": 56836,
+      "end": 56867,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
+      "text": "Leslie.Hubbard@transamerica.com",
+      "start": 56876,
+      "end": 56907,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
       "text": "Randall Thompson",
       "start": 56977,
       "end": 56993,
       "type": "NAME",
       "confidence": 0.5
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 57014,
+      "end": 57038,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 57040,
+      "end": 57064,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
     },
     {
       "text": "Beverly Churchill",
@@ -861,13 +1029,6 @@
       "confidence": 0.5
     },
     {
-      "text": "501-227-1382",
-      "start": 58115,
-      "end": 58127,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
       "text": "Calibri Light",
       "start": 58161,
       "end": 58174,
@@ -893,13 +1054,6 @@
       "start": 58394,
       "end": 58407,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "501-539-5708",
-      "start": 58436,
-      "end": 58448,
-      "type": "PHONE",
       "confidence": 0.5
     },
     {
@@ -957,6 +1111,20 @@
       "end": 59032,
       "type": "NAME",
       "confidence": 0.5
+    },
+    {
+      "text": "leslie.hubbard@transamerica.com",
+      "start": 59076,
+      "end": 59107,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
+      "text": "leslie.hubbard@transamerica.com",
+      "start": 59134,
+      "end": 59165,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
     },
     {
       "text": "Calibri Light",
@@ -1176,6 +1344,34 @@
       "confidence": 0.5
     },
     {
+      "text": "rthompson@stratovize.com",
+      "start": 64468,
+      "end": 64492,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 64501,
+      "end": 64525,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
+      "text": "Leslie.Hubbard@transamerica.com",
+      "start": 64633,
+      "end": 64664,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
+      "text": "Leslie.Hubbard@transamerica.com",
+      "start": 64666,
+      "end": 64697,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
       "text": "Beverly Churchill",
       "start": 64732,
       "end": 64749,
@@ -1239,6 +1435,20 @@
       "confidence": 0.5
     },
     {
+      "text": "rthompson@stratovize.com",
+      "start": 67204,
+      "end": 67228,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 67230,
+      "end": 67254,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
       "text": "Times New",
       "start": 67477,
       "end": 67486,
@@ -1246,11 +1456,39 @@
       "confidence": 0.5
     },
     {
+      "text": "abuse@stratovize.com",
+      "start": 68583,
+      "end": 68603,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
+      "text": "abuse@stratovize.com",
+      "start": 68605,
+      "end": 68625,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
       "text": "Times New",
       "start": 68763,
       "end": 68772,
       "type": "NAME",
       "confidence": 0.5
+    },
+    {
+      "text": "abuse@stratovize.com",
+      "start": 69869,
+      "end": 69889,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
+    },
+    {
+      "text": "abuse@stratovize.com",
+      "start": 69891,
+      "end": 69911,
+      "type": "EMAIL",
+      "confidence": 0.5856521782813578
     },
     {
       "text": "Times New",
@@ -1373,9 +1611,1678 @@
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Zg\u001cXp",
+      "start": 6194,
+      "end": 6199,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Microsoft Word",
+      "start": 32572,
+      "end": 32586,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Font Definitions",
+      "start": 32807,
+      "end": 32823,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Cambria Math",
+      "start": 32922,
+      "end": 32934,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 33062,
+      "end": 33075,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Style Definitions",
+      "start": 33279,
+      "end": 33296,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Ms Clouser",
+      "start": 35832,
+      "end": 35842,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randy Thompson",
+      "start": 36852,
+      "end": 36866,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Senior Account",
+      "start": 36988,
+      "end": 37002,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 37144,
+      "end": 37153,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Charles Street",
+      "start": 37579,
+      "end": 37593,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randall Thompson",
+      "start": 39191,
+      "end": 39207,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Deborah Clouser",
+      "start": 39264,
+      "end": 39279,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 40173,
+      "end": 40182,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 40833,
+      "end": 40846,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lindsey Harris",
+      "start": 40874,
+      "end": 40888,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 40937,
+      "end": 40950,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Inforce Response",
+      "start": 40983,
+      "end": 40999,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 41084,
+      "end": 41097,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 41164,
+      "end": 41177,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 41251,
+      "end": 41264,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 41391,
+      "end": 41404,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 41471,
+      "end": 41484,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 41549,
+      "end": 41562,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 41711,
+      "end": 41724,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 41786,
+      "end": 41799,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 41861,
+      "end": 41874,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 41939,
+      "end": 41952,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 42019,
+      "end": 42032,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 42133,
+      "end": 42146,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 42217,
+      "end": 42230,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 42314,
+      "end": 42327,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 42404,
+      "end": 42417,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 42512,
+      "end": 42525,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Centerview Dr",
+      "start": 42558,
+      "end": 42571,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Little Rock",
+      "start": 42573,
+      "end": 42584,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 42709,
+      "end": 42722,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 42795,
+      "end": 42808,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 42870,
+      "end": 42883,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 42945,
+      "end": 42958,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 43063,
+      "end": 43076,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 43148,
+      "end": 43161,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 43223,
+      "end": 43236,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 43298,
+      "end": 43311,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 43424,
+      "end": 43437,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 43509,
+      "end": 43522,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 43584,
+      "end": 43597,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 43659,
+      "end": 43672,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 43789,
+      "end": 43802,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Deborah Clouser",
+      "start": 44526,
+      "end": 44541,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Deborah Clouser",
+      "start": 46227,
+      "end": 46242,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randall Thompson",
+      "start": 47524,
+      "end": 47540,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Deborah Clouser",
+      "start": 47639,
+      "end": 47654,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 48341,
+      "end": 48354,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Leslie Hubbard",
+      "start": 48382,
+      "end": 48396,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Account Management",
+      "start": 48398,
+      "end": 48416,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 48471,
+      "end": 48484,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Emerging Markets",
+      "start": 48526,
+      "end": 48542,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 48617,
+      "end": 48630,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 48697,
+      "end": 48710,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 48785,
+      "end": 48798,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 48860,
+      "end": 48873,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 48938,
+      "end": 48951,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 49018,
+      "end": 49031,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 49106,
+      "end": 49119,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 49181,
+      "end": 49194,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 49259,
+      "end": 49272,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Little Rock",
+      "start": 49300,
+      "end": 49311,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 49348,
+      "end": 49361,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 49488,
+      "end": 49501,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 49568,
+      "end": 49581,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 49643,
+      "end": 49656,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 49833,
+      "end": 49846,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 49908,
+      "end": 49921,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 49983,
+      "end": 49996,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 50061,
+      "end": 50074,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 50141,
+      "end": 50154,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 50216,
+      "end": 50229,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 50409,
+      "end": 50422,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 50523,
+      "end": 50536,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 50630,
+      "end": 50643,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 50738,
+      "end": 50751,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Centerview Drive",
+      "start": 50784,
+      "end": 50800,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Little Rock",
+      "start": 50802,
+      "end": 50813,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 50890,
+      "end": 50903,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 51080,
+      "end": 51093,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 51155,
+      "end": 51168,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 51230,
+      "end": 51243,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 51305,
+      "end": 51318,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 51489,
+      "end": 51502,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 51564,
+      "end": 51577,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 51639,
+      "end": 51652,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 51714,
+      "end": 51727,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 51906,
+      "end": 51919,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 51981,
+      "end": 51994,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 52056,
+      "end": 52069,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 52131,
+      "end": 52144,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 52345,
+      "end": 52358,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 52459,
+      "end": 52472,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 52634,
+      "end": 52647,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 52787,
+      "end": 52800,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 52887,
+      "end": 52900,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randall Thompson",
+      "start": 53901,
+      "end": 53917,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Beverly Churchill",
+      "start": 54202,
+      "end": 54219,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hi Leslie",
+      "start": 54390,
+      "end": 54399,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randy Thompson",
+      "start": 55269,
+      "end": 55283,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Senior Account",
+      "start": 55355,
+      "end": 55369,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 55461,
+      "end": 55470,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Charles Street",
+      "start": 55808,
+      "end": 55822,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randall Thompson",
+      "start": 56977,
+      "end": 56993,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Beverly Churchill",
+      "start": 57103,
+      "end": 57120,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hi Randy",
+      "start": 57291,
+      "end": 57299,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 57717,
+      "end": 57730,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Leslie Hubbard",
+      "start": 57758,
+      "end": 57772,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Account Management",
+      "start": 57774,
+      "end": 57792,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 57847,
+      "end": 57860,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Emerging Markets",
+      "start": 57902,
+      "end": 57918,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 57993,
+      "end": 58006,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 58073,
+      "end": 58086,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 58161,
+      "end": 58174,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 58236,
+      "end": 58249,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 58314,
+      "end": 58327,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 58394,
+      "end": 58407,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 58482,
+      "end": 58495,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 58557,
+      "end": 58570,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 58635,
+      "end": 58648,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Little Rock",
+      "start": 58676,
+      "end": 58687,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 58724,
+      "end": 58737,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 58864,
+      "end": 58877,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 58944,
+      "end": 58957,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 59019,
+      "end": 59032,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 59209,
+      "end": 59222,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 59465,
+      "end": 59478,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 59540,
+      "end": 59553,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 59618,
+      "end": 59631,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 59698,
+      "end": 59711,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 59773,
+      "end": 59786,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 59966,
+      "end": 59979,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 60080,
+      "end": 60093,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 60187,
+      "end": 60200,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 60295,
+      "end": 60308,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Centerview Drive",
+      "start": 60341,
+      "end": 60357,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Little Rock",
+      "start": 60359,
+      "end": 60370,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 60447,
+      "end": 60460,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 60881,
+      "end": 60894,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 60956,
+      "end": 60969,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 61031,
+      "end": 61044,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 61106,
+      "end": 61119,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 61534,
+      "end": 61547,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 61609,
+      "end": 61622,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 61684,
+      "end": 61697,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 61759,
+      "end": 61772,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 62195,
+      "end": 62208,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 62270,
+      "end": 62283,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 62345,
+      "end": 62358,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 62420,
+      "end": 62433,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 62878,
+      "end": 62891,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 62992,
+      "end": 63005,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 63167,
+      "end": 63180,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 63320,
+      "end": 63333,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calibri Light",
+      "start": 63420,
+      "end": 63433,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randall Thompson",
+      "start": 64434,
+      "end": 64450,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Beverly Churchill",
+      "start": 64732,
+      "end": 64749,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hi Leslie",
+      "start": 64920,
+      "end": 64929,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Beverly Churchill",
+      "start": 65110,
+      "end": 65127,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Deborah Clouser",
+      "start": 65380,
+      "end": 65395,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Happy New",
+      "start": 65593,
+      "end": 65602,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randy Thompson",
+      "start": 66151,
+      "end": 66165,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Senior Account",
+      "start": 66237,
+      "end": 66251,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 66343,
+      "end": 66352,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Charles Street",
+      "start": 66690,
+      "end": 66704,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 67477,
+      "end": 67486,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 68763,
+      "end": 68772,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 70054,
+      "end": 70063,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 70431,
+      "end": 70440,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 70515,
+      "end": 70524,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 70775,
+      "end": 70784,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 70894,
+      "end": 70903,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 71271,
+      "end": 71280,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 71355,
+      "end": 71364,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 71615,
+      "end": 71624,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 71712,
+      "end": 71721,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 72149,
+      "end": 72158,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Shared With",
+      "start": 79285,
+      "end": 79296,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Shared With",
+      "start": 79976,
+      "end": 79987,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Taxonomy Catch",
+      "start": 80263,
+      "end": 80277,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "All Column",
+      "start": 80278,
+      "end": 80288,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Extracted Text",
+      "start": 83308,
+      "end": 83322,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Image Tags",
+      "start": 84511,
+      "end": 84521,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Content Type",
+      "start": 86158,
+      "end": 86170,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-400-3042",
+      "start": 41206,
+      "end": 41218,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "501-227-1382",
+      "start": 48739,
+      "end": 48751,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "501-539-5708",
+      "start": 49060,
+      "end": 49072,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "501-227-1382",
+      "start": 58115,
+      "end": 58127,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "501-539-5708",
+      "start": 58436,
+      "end": 58448,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "TEBCSPRODUCERS@TRANSAMERICA.COM",
+      "start": 13053,
+      "end": 13084,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "LESLIE.HUBBARD@TRANSAMERICA.COM",
+      "start": 14667,
+      "end": 14698,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 38302,
+      "end": 38326,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 38402,
+      "end": 38426,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "TEBCSProducers@transamerica.com",
+      "start": 39024,
+      "end": 39055,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "Leslie.Hubbard@transamerica.com",
+      "start": 39141,
+      "end": 39172,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 39212,
+      "end": 39236,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "tebcsproducers@transamerica.com",
+      "start": 41606,
+      "end": 41637,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "tebcsproducers@transamerica.com",
+      "start": 41639,
+      "end": 41670,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "TEBCSProducers@transamerica.com",
+      "start": 44430,
+      "end": 44461,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "TEBCSProducers@transamerica.com",
+      "start": 44463,
+      "end": 44494,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "TEBCSProducers@transamerica.com",
+      "start": 47437,
+      "end": 47468,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "TEBCSProducers@transamerica.com",
+      "start": 47470,
+      "end": 47501,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 47561,
+      "end": 47585,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 47587,
+      "end": 47611,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "leslie.hubbard@transamerica.com",
+      "start": 49700,
+      "end": 49731,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "leslie.hubbard@transamerica.com",
+      "start": 49758,
+      "end": 49789,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 53935,
+      "end": 53959,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 53968,
+      "end": 53992,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "Leslie.Hubbard@transamerica.com",
+      "start": 54099,
+      "end": 54130,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "Leslie.Hubbard@transamerica.com",
+      "start": 54132,
+      "end": 54163,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 56305,
+      "end": 56329,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 56362,
+      "end": 56386,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "Leslie.Hubbard@transamerica.com",
+      "start": 56836,
+      "end": 56867,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "Leslie.Hubbard@transamerica.com",
+      "start": 56876,
+      "end": 56907,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 57014,
+      "end": 57038,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 57040,
+      "end": 57064,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "leslie.hubbard@transamerica.com",
+      "start": 59076,
+      "end": 59107,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "leslie.hubbard@transamerica.com",
+      "start": 59134,
+      "end": 59165,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 64468,
+      "end": 64492,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 64501,
+      "end": 64525,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "Leslie.Hubbard@transamerica.com",
+      "start": 64633,
+      "end": 64664,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "Leslie.Hubbard@transamerica.com",
+      "start": 64666,
+      "end": 64697,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 67204,
+      "end": 67228,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 67230,
+      "end": 67254,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "abuse@stratovize.com",
+      "start": 68583,
+      "end": 68603,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "abuse@stratovize.com",
+      "start": 68605,
+      "end": 68625,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "abuse@stratovize.com",
+      "start": 69869,
+      "end": 69889,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "abuse@stratovize.com",
+      "start": 69891,
+      "end": 69911,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "12/6/17",
+      "start": 44972,
+      "end": 44979,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "12/7/17",
+      "start": 45355,
+      "end": 45362,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "12/06/17",
+      "start": 46506,
+      "end": 46514,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "12/07/17",
+      "start": 46530,
+      "end": 46538,
+      "type": "DATE",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
-    "genetic": 195,
-    "presidio": 0
+    "genetic": 229,
+    "presidio": 0,
+    "regex": 238
   },
   "text_sample": "\u0011\u0871\u001a\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000>\u0000\u0003\u0000\t\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0002\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\u0000\u0000\t\u0000\u0000\u0000\n\u0000\u0000\u0000\u000b\u0000\u0000\u0000\f\u0000\u0000\u0000\n\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0013\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000)\u0000\u0000\u00004\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u001b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u001d\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u001f\u0000\u0000\u0000 \u0000\u0000\u0000!\u0000\u0000\u0000\"\u0000\u0000\u0000#\u0000\u0000\u0000$\u0000\u0000\u0000%\u0000\u0000\u0000&\u0000\u0000\u0000'\u0000\u0000\u0000(\u0000\u0000\u00005\u0000\u0000\u0000*\u0000\u0000\u0000+\u0000\u0000\u0000,\u0000\u0000\u0000-\u0000\u0000\u0000.\u0000\u0000\u0000/\u0000\u0000\u00000\u0000\u0000\u00001\u0000\u0000\u00002\u0000\u0000\u00003\u0000\u0000\u0000E\u0000\u0000\u0000\u0000\u0000\u00006\u0000\u0000\u00007\u0000\u0000\u00008\u0000\u0000\u00009\u0000\u0000\u0000:\u0000\u0000\u0000;\u0000\u0000\u0000<\u0000\u0000\u0000=\u0000\u0000\u0000>\u0000\u0000\u0000?\u0000\u0000\u0000@\u0000\u0000\u0000A\u0000\u0000\u0000B\u0000\u0000\u0000C\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000F\u0000\u0000\u0000G\u0000\u0000\u0000H\u0000\u0000\u0000I\u0000\u0000\u0000J\u0000\u0000\u0000\u0000\u0000\u0000L\u0000\u0000\u0000M\u0000\u0000\u0000N\u0000\u0000\u0000O\u0000\u0000\u0000P\u0000\u0000\u0000Q\u0000\u0000\u0000R\u0000\u0000\u0000S\u0000\u0000\u0000T\u0000\u0000\u0000U\u0000\u0000\u0000V\u0000\u0000\u0000W\u0000\u0000\u0000X\u0000\u0000\u0000Y\u0000\u0000\u0000Z\u0000\u0000\u0000[\u0000\u0000\u0000\\\u0000\u0000\u0000]\u0000\u0000\u0000^\u0000\u0000\u0000_\u0000\u0000\u0000`\u0000\u0000\u0000a\u0000\u0000\u0000b\u0000\u0000\u0000c\u0000\u0000\u0000d\u0000\u0000\u0000e\u0000\u0000\u0000f\u0000\u0000\u0000g\u0000\u0000\u0000h\u0000\u0000\u0000i\u0000\u0000\u0000j\u0000\u0000\u0000k\u0000\u0000\u0000l\u0000\u0000\u0000m\u0000\u0000\u0000..."
 }

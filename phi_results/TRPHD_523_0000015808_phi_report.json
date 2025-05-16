@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Two Rivers Public Health Department/TRPHD_523_0000015808.pdf",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Two Rivers Public Health Department/TRPHD_523_0000015808.pdf",
     "file_name": "TRPHD_523_0000015808.pdf",
     "file_size": 10441,
     "text_length": 3842
@@ -11,77 +11,84 @@
       "start": 14,
       "end": 21,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Staff Pulmonologist",
       "start": 3159,
       "end": 3178,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "National Jewish",
       "start": 3180,
       "end": 3195,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Michael Lawson",
       "start": 3213,
       "end": 3227,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Platte Valley",
       "start": 3229,
       "end": 3242,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Medical Group",
       "start": 3243,
       "end": 3256,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Avenue  Kearney",
       "start": 3267,
       "end": 3282,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Dictate Date",
       "start": 3310,
       "end": 3322,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Transcribed Date",
       "start": 3350,
       "end": 3366,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Patient Name",
       "start": 3396,
       "end": 3408,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Jackson Street",
       "start": 3464,
       "end": 3478,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
+    },
+    {
+      "text": "800.423.8891",
+      "start": 3502,
+      "end": 3514,
+      "type": "PHONE",
+      "confidence": 0.5
     },
     {
       "text": "952269341",
@@ -95,20 +102,170 @@
       "start": 3704,
       "end": 3716,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Jackson Street",
       "start": 3772,
       "end": 3786,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
+    },
+    {
+      "text": "800.423.8891",
+      "start": 3810,
+      "end": 3822,
+      "type": "PHONE",
+      "confidence": 0.5
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Dear Mr",
+      "start": 14,
+      "end": 21,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Staff Pulmonologist",
+      "start": 3159,
+      "end": 3178,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "National Jewish",
+      "start": 3180,
+      "end": 3195,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Michael Lawson",
+      "start": 3213,
+      "end": 3227,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Platte Valley",
+      "start": 3229,
+      "end": 3242,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medical Group",
+      "start": 3243,
+      "end": 3256,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Avenue  Kearney",
+      "start": 3267,
+      "end": 3282,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Dictate Date",
+      "start": 3310,
+      "end": 3322,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Transcribed Date",
+      "start": 3350,
+      "end": 3366,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Patient Name",
+      "start": 3396,
+      "end": 3408,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Jackson Street",
+      "start": 3464,
+      "end": 3478,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Patient Name",
+      "start": 3704,
+      "end": 3716,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Jackson Street",
+      "start": 3772,
+      "end": 3786,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "800.423.8891",
+      "start": 3502,
+      "end": 3514,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "800.423.8891",
+      "start": 3810,
+      "end": 3822,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "952269341",
+      "start": 3559,
+      "end": 3568,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "04/06/2022",
+      "start": 3330,
+      "end": 3340,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "04/06/2022",
+      "start": 3374,
+      "end": 3384,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "6/1/1969",
+      "start": 3447,
+      "end": 3455,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "6/1/1969",
+      "start": 3755,
+      "end": 3763,
+      "type": "DATE",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
-    "genetic": 14,
-    "presidio": 0
+    "genetic": 16,
+    "presidio": 0,
+    "regex": 20
   },
   "text_sample": "April 6, 2022\nDear Mr. Jelinek: \nI am in receipt of your letter or patient portal query stating that you have had your nocturnal oxygen study test \nperformed in Kearney, Nebraska.  As you know, it did not show any significant desaturation throughout the evening.  I \nunderstand that you have not seen any relief of your symptoms, which were primarily problems with shortness of \nbreath and profuse sweating.  You also noted significant joint pain.  These are similar to your presentation in 2017.  It..."
 }

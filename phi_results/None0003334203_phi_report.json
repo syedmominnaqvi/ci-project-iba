@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Ethical Culture Fieldstone School/None0003334203.msg",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Ethical Culture Fieldstone School/None0003334203.msg",
     "file_name": "None0003334203.msg",
     "file_size": 61952,
     "text_length": 60278
@@ -11,133 +11,133 @@
       "start": 1625,
       "end": 1643,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "ACOOPER@ECFS.ORG",
       "start": 2066,
       "end": 2082,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "ACOOPER@ECFS.ORG",
       "start": 2634,
       "end": 2650,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "Shared With",
       "start": 8336,
       "end": 8347,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Shared With",
       "start": 9027,
       "end": 9038,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Taxonomy Catch",
       "start": 9314,
       "end": 9328,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "All Column",
       "start": 9329,
       "end": 9339,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Hi Shelly",
       "start": 35002,
       "end": 35011,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "On Thu",
       "start": 35335,
       "end": 35341,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Sheryl Schermer",
       "start": 35369,
       "end": 35384,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "sschermer@ecfs.org",
       "start": 35421,
       "end": 35439,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "sschermer@ecfs.org",
       "start": 35457,
       "end": 35475,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "Hi Alice",
       "start": 35618,
       "end": 35626,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Sheryl Schermer",
       "start": 36288,
       "end": 36303,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Human Resources",
       "start": 36371,
       "end": 36386,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Ethical Culture",
       "start": 36448,
       "end": 36463,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Fieldston School",
       "start": 36464,
       "end": 36480,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Central Park",
       "start": 36651,
       "end": 36663,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "New York",
       "start": 36840,
       "end": 36848,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "20712-8468",
@@ -151,119 +151,119 @@
       "start": 37052,
       "end": 37070,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "sschermer@ecfs.org",
       "start": 37125,
       "end": 37143,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "On Tue",
       "start": 37251,
       "end": 37257,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Alice Cooper",
       "start": 37284,
       "end": 37296,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "acooper@ecfs.org",
       "start": 37333,
       "end": 37349,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "acooper@ecfs.org",
       "start": 37367,
       "end": 37383,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "Hi Sheryl",
       "start": 37526,
       "end": 37535,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "On Fri",
       "start": 37883,
       "end": 37889,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Sheryl Schermer",
       "start": 37915,
       "end": 37930,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "sschermer@ecfs.org",
       "start": 37967,
       "end": 37985,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "sschermer@ecfs.org",
       "start": 38003,
       "end": 38021,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "Sheryl Schermer",
       "start": 38540,
       "end": 38555,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Human Resources",
       "start": 38623,
       "end": 38638,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Ethical Culture",
       "start": 38700,
       "end": 38715,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Fieldston School",
       "start": 38716,
       "end": 38732,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Central Park",
       "start": 38919,
       "end": 38931,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "New York",
       "start": 39124,
       "end": 39132,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "20712-8468",
@@ -277,126 +277,126 @@
       "start": 39336,
       "end": 39354,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "sschermer@ecfs.org",
       "start": 39409,
       "end": 39427,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "On Fri",
       "start": 39535,
       "end": 39541,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Alice Cooper",
       "start": 39568,
       "end": 39580,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "acooper@ecfs.org",
       "start": 39617,
       "end": 39633,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "acooper@ecfs.org",
       "start": 39651,
       "end": 39667,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "Thanks Sheryl",
       "start": 39810,
       "end": 39823,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "On Fri",
       "start": 39968,
       "end": 39974,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Sheryl Schermer",
       "start": 40001,
       "end": 40016,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "sschermer@ecfs.org",
       "start": 40053,
       "end": 40071,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "sschermer@ecfs.org",
       "start": 40089,
       "end": 40107,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "Hi Alice",
       "start": 40250,
       "end": 40258,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Sheryl Schermer",
       "start": 40959,
       "end": 40974,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Human Resources",
       "start": 41042,
       "end": 41057,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Ethical Culture",
       "start": 41119,
       "end": 41134,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Fieldston School",
       "start": 41135,
       "end": 41151,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Central Park",
       "start": 41338,
       "end": 41350,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "New York",
       "start": 41543,
       "end": 41551,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "20712-8468",
@@ -410,98 +410,98 @@
       "start": 41755,
       "end": 41773,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "sschermer@ecfs.org",
       "start": 41828,
       "end": 41846,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "On Fri",
       "start": 41954,
       "end": 41960,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Alice Cooper",
       "start": 41987,
       "end": 41999,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "acooper@ecfs.org",
       "start": 42036,
       "end": 42052,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "acooper@ecfs.org",
       "start": 42070,
       "end": 42086,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "Hi Sheryl",
       "start": 42229,
       "end": 42238,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Middle School",
       "start": 42339,
       "end": 42352,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Alice Cooper",
       "start": 42558,
       "end": 42570,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "On Fri",
       "start": 42636,
       "end": 42642,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "David Argenzio",
       "start": 42669,
       "end": 42683,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "dargenzio@ecfs.org",
       "start": 42720,
       "end": 42738,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "dargenzio@ecfs.org",
       "start": 42756,
       "end": 42774,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "Sheryl Shermer",
       "start": 42926,
       "end": 42940,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "20329-7244",
@@ -515,70 +515,70 @@
       "start": 43475,
       "end": 43493,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "dargenzio@ecfs.org",
       "start": 43511,
       "end": 43529,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "On Fri",
       "start": 43824,
       "end": 43830,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Alice Cooper",
       "start": 43857,
       "end": 43869,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "acooper@ecfs.org",
       "start": 43906,
       "end": 43922,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "acooper@ecfs.org",
       "start": 43940,
       "end": 43956,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "On Fri",
       "start": 44191,
       "end": 44197,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "David Argenzio",
       "start": 44224,
       "end": 44238,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "dargenzio@ecfs.org",
       "start": 44275,
       "end": 44293,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "dargenzio@ecfs.org",
       "start": 44311,
       "end": 44329,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "20329-7244",
@@ -592,84 +592,84 @@
       "start": 45182,
       "end": 45200,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "dargenzio@ecfs.org",
       "start": 45218,
       "end": 45236,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "On Fri",
       "start": 45531,
       "end": 45537,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Alice Cooper",
       "start": 45563,
       "end": 45575,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "acooper@ecfs.org",
       "start": 45612,
       "end": 45628,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "acooper@ecfs.org",
       "start": 45646,
       "end": 45662,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "On Fri",
       "start": 45896,
       "end": 45902,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "David Argenzio",
       "start": 45928,
       "end": 45942,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "dargenzio@ecfs.org",
       "start": 45979,
       "end": 45997,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "dargenzio@ecfs.org",
       "start": 46015,
       "end": 46033,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "Hi Alice",
       "start": 46185,
       "end": 46193,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Human Resources",
       "start": 46276,
       "end": 46291,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "20329-7244",
@@ -683,90 +683,849 @@
       "start": 47030,
       "end": 47048,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "dargenzio@ecfs.org",
       "start": 47066,
       "end": 47084,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "On Thu",
       "start": 47379,
       "end": 47385,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Alice Cooper",
       "start": 47411,
       "end": 47423,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "acooper@ecfs.org",
       "start": 47460,
       "end": 47476,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "acooper@ecfs.org",
       "start": 47494,
       "end": 47510,
       "type": "EMAIL",
-      "confidence": 0.5
+      "confidence": 0.42547352800479316
     },
     {
       "text": "Hi David",
       "start": 47653,
       "end": 47661,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Middle School",
       "start": 47762,
       "end": 47775,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Alice Cooper",
       "start": 47928,
       "end": 47940,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Extracted Text",
       "start": 52487,
       "end": 52501,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Image Tags",
       "start": 53690,
       "end": 53700,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     },
     {
       "text": "Content Type",
       "start": 55337,
       "end": 55349,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.4764289511411686
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Shared With",
+      "start": 8336,
+      "end": 8347,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Shared With",
+      "start": 9027,
+      "end": 9038,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Taxonomy Catch",
+      "start": 9314,
+      "end": 9328,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "All Column",
+      "start": 9329,
+      "end": 9339,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hi Shelly",
+      "start": 35002,
+      "end": 35011,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Thu",
+      "start": 35335,
+      "end": 35341,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sheryl Schermer",
+      "start": 35369,
+      "end": 35384,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hi Alice",
+      "start": 35618,
+      "end": 35626,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sheryl Schermer",
+      "start": 36288,
+      "end": 36303,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Human Resources",
+      "start": 36371,
+      "end": 36386,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Ethical Culture",
+      "start": 36448,
+      "end": 36463,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Fieldston School",
+      "start": 36464,
+      "end": 36480,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Central Park",
+      "start": 36651,
+      "end": 36663,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "New York",
+      "start": 36840,
+      "end": 36848,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Tue",
+      "start": 37251,
+      "end": 37257,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Alice Cooper",
+      "start": 37284,
+      "end": 37296,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hi Sheryl",
+      "start": 37526,
+      "end": 37535,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Fri",
+      "start": 37883,
+      "end": 37889,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sheryl Schermer",
+      "start": 37915,
+      "end": 37930,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sheryl Schermer",
+      "start": 38540,
+      "end": 38555,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Human Resources",
+      "start": 38623,
+      "end": 38638,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Ethical Culture",
+      "start": 38700,
+      "end": 38715,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Fieldston School",
+      "start": 38716,
+      "end": 38732,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Central Park",
+      "start": 38919,
+      "end": 38931,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "New York",
+      "start": 39124,
+      "end": 39132,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Fri",
+      "start": 39535,
+      "end": 39541,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Alice Cooper",
+      "start": 39568,
+      "end": 39580,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Thanks Sheryl",
+      "start": 39810,
+      "end": 39823,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Fri",
+      "start": 39968,
+      "end": 39974,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sheryl Schermer",
+      "start": 40001,
+      "end": 40016,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hi Alice",
+      "start": 40250,
+      "end": 40258,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sheryl Schermer",
+      "start": 40959,
+      "end": 40974,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Human Resources",
+      "start": 41042,
+      "end": 41057,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Ethical Culture",
+      "start": 41119,
+      "end": 41134,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Fieldston School",
+      "start": 41135,
+      "end": 41151,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Central Park",
+      "start": 41338,
+      "end": 41350,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "New York",
+      "start": 41543,
+      "end": 41551,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Fri",
+      "start": 41954,
+      "end": 41960,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Alice Cooper",
+      "start": 41987,
+      "end": 41999,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hi Sheryl",
+      "start": 42229,
+      "end": 42238,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Middle School",
+      "start": 42339,
+      "end": 42352,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Alice Cooper",
+      "start": 42558,
+      "end": 42570,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Fri",
+      "start": 42636,
+      "end": 42642,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "David Argenzio",
+      "start": 42669,
+      "end": 42683,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sheryl Shermer",
+      "start": 42926,
+      "end": 42940,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Fri",
+      "start": 43824,
+      "end": 43830,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Alice Cooper",
+      "start": 43857,
+      "end": 43869,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Fri",
+      "start": 44191,
+      "end": 44197,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "David Argenzio",
+      "start": 44224,
+      "end": 44238,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Fri",
+      "start": 45531,
+      "end": 45537,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Alice Cooper",
+      "start": 45563,
+      "end": 45575,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Fri",
+      "start": 45896,
+      "end": 45902,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "David Argenzio",
+      "start": 45928,
+      "end": 45942,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hi Alice",
+      "start": 46185,
+      "end": 46193,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Human Resources",
+      "start": 46276,
+      "end": 46291,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Thu",
+      "start": 47379,
+      "end": 47385,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Alice Cooper",
+      "start": 47411,
+      "end": 47423,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hi David",
+      "start": 47653,
+      "end": 47661,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Middle School",
+      "start": 47762,
+      "end": 47775,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Alice Cooper",
+      "start": 47928,
+      "end": 47940,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Extracted Text",
+      "start": 52487,
+      "end": 52501,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Image Tags",
+      "start": 53690,
+      "end": 53700,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Content Type",
+      "start": 55337,
+      "end": 55349,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "SSCHERMER@ECFS.ORG",
+      "start": 1625,
+      "end": 1643,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "ACOOPER@ECFS.ORG",
+      "start": 2066,
+      "end": 2082,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "ACOOPER@ECFS.ORG",
+      "start": 2634,
+      "end": 2650,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "sschermer@ecfs.org",
+      "start": 35421,
+      "end": 35439,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "sschermer@ecfs.org",
+      "start": 35457,
+      "end": 35475,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "sschermer@ecfs.org",
+      "start": 37052,
+      "end": 37070,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "sschermer@ecfs.org",
+      "start": 37125,
+      "end": 37143,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "acooper@ecfs.org",
+      "start": 37333,
+      "end": 37349,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "acooper@ecfs.org",
+      "start": 37367,
+      "end": 37383,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "sschermer@ecfs.org",
+      "start": 37967,
+      "end": 37985,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "sschermer@ecfs.org",
+      "start": 38003,
+      "end": 38021,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "sschermer@ecfs.org",
+      "start": 39336,
+      "end": 39354,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "sschermer@ecfs.org",
+      "start": 39409,
+      "end": 39427,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "acooper@ecfs.org",
+      "start": 39617,
+      "end": 39633,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "acooper@ecfs.org",
+      "start": 39651,
+      "end": 39667,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "sschermer@ecfs.org",
+      "start": 40053,
+      "end": 40071,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "sschermer@ecfs.org",
+      "start": 40089,
+      "end": 40107,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "sschermer@ecfs.org",
+      "start": 41755,
+      "end": 41773,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "sschermer@ecfs.org",
+      "start": 41828,
+      "end": 41846,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "acooper@ecfs.org",
+      "start": 42036,
+      "end": 42052,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "acooper@ecfs.org",
+      "start": 42070,
+      "end": 42086,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "dargenzio@ecfs.org",
+      "start": 42720,
+      "end": 42738,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "dargenzio@ecfs.org",
+      "start": 42756,
+      "end": 42774,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "dargenzio@ecfs.org",
+      "start": 43475,
+      "end": 43493,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "dargenzio@ecfs.org",
+      "start": 43511,
+      "end": 43529,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "acooper@ecfs.org",
+      "start": 43906,
+      "end": 43922,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "acooper@ecfs.org",
+      "start": 43940,
+      "end": 43956,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "dargenzio@ecfs.org",
+      "start": 44275,
+      "end": 44293,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "dargenzio@ecfs.org",
+      "start": 44311,
+      "end": 44329,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "dargenzio@ecfs.org",
+      "start": 45182,
+      "end": 45200,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "dargenzio@ecfs.org",
+      "start": 45218,
+      "end": 45236,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "acooper@ecfs.org",
+      "start": 45612,
+      "end": 45628,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "acooper@ecfs.org",
+      "start": 45646,
+      "end": 45662,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "dargenzio@ecfs.org",
+      "start": 45979,
+      "end": 45997,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "dargenzio@ecfs.org",
+      "start": 46015,
+      "end": 46033,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "dargenzio@ecfs.org",
+      "start": 47030,
+      "end": 47048,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "dargenzio@ecfs.org",
+      "start": 47066,
+      "end": 47084,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "acooper@ecfs.org",
+      "start": 47460,
+      "end": 47476,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "acooper@ecfs.org",
+      "start": 47494,
+      "end": 47510,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "20712-8468",
+      "start": 36944,
+      "end": 36954,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "20712-8468",
+      "start": 39228,
+      "end": 39238,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "20712-8468",
+      "start": 41647,
+      "end": 41657,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "20329-7244",
+      "start": 43381,
+      "end": 43391,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "20329-7244",
+      "start": 45088,
+      "end": 45098,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "20329-7244",
+      "start": 46936,
+      "end": 46946,
+      "type": "SSN",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
     "genetic": 108,
-    "presidio": 0
+    "presidio": 0,
+    "regex": 108
   },
   "text_sample": "\u0011\u0871\u001a\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000>\u0000\u0003\u0000\t\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0002\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\u0000\u0000\t\u0000\u0000\u0000w\u0000\u0000\u0000\u000b\u0000\u0000\u0000\n\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0013\u0000\u0000\u0000c\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000-\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u001b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u001d\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u001f\u0000\u0000\u0000 \u0000\u0000\u0000!\u0000\u0000\u0000\"\u0000\u0000\u0000#\u0000\u0000\u0000$\u0000\u0000\u0000%\u0000\u0000\u0000&\u0000\u0000\u0000'\u0000\u0000\u0000(\u0000\u0000\u0000)\u0000\u0000\u0000*\u0000\u0000\u0000+\u0000\u0000\u0000,\u0000\u0000\u0000.\u0000\u0000\u0000a\u0000\u0000\u00000\u0000\u0000\u00001\u0000\u0000\u00002\u0000\u0000\u00003\u0000\u0000\u00004\u0000\u0000\u00005\u0000\u0000\u00006\u0000\u0000\u00007\u0000\u0000\u00008\u0000\u0000\u00009\u0000\u0000\u0000:\u0000\u0000\u0000;\u0000\u0000\u0000<\u0000\u0000\u0000=\u0000\u0000\u0000>\u0000\u0000\u0000?\u0000\u0000\u0000@\u0000\u0000\u0000A\u0000\u0000\u0000B\u0000\u0000\u0000C\u0000\u0000\u0000D\u0000\u0000\u0000E\u0000\u0000\u0000G\u0000\u0000\u0000H\u0000\u0000\u0000I\u0000\u0000\u0000J\u0000\u0000\u0000K\u0000\u0000\u0000L\u0000\u0000\u0000M\u0000\u0000\u0000N\u0000\u0000\u0000O\u0000\u0000\u0000P\u0000\u0000\u0000Q\u0000\u0000\u0000R\u0000\u0000\u0000S\u0000\u0000\u0000T\u0000\u0000\u0000U\u0000\u0000\u0000V\u0000\u0000\u0000W\u0000\u0000\u0000X\u0000\u0000\u0000Y\u0000\u0000\u0000Z\u0000\u0000\u0000[\u0000\u0000\u0000\\\u0000\u0000\u0000]\u0000\u0000\u0000^\u0000\u0000\u0000_\u0000\u0000\u0000`\u0000\u0000\u0000b\u0000\u0000\u0000\n\u0000\u0000\u0000d\u0000\u0000\u0000e\u0000\u0000\u0000f\u0000\u0000\u0000g\u0000\u0000\u0000h\u0000\u0000\u0000i\u0000\u0000\u0000j\u0000\u0000\u0000k\u0000\u0000\u0000l\u0000\u0000\u0000m\u0000\u0000\u0000n\u0000\u0000\u0000o\u0000\u0000\u0000p\u0000\u0000\u0000q\u0000\u0000\u0000r\u0000\u0000..."
 }

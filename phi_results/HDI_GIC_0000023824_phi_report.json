@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/HDI Global Insurance Company/HDI_GIC_0000023824.msg",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/HDI Global Insurance Company/HDI_GIC_0000023824.msg",
     "file_name": "HDI_GIC_0000023824.msg",
     "file_size": 276992,
     "text_length": 187885
@@ -11,734 +11,118 @@
       "start": 4250,
       "end": 4266,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Lynn Hartman",
       "start": 21328,
       "end": 21340,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Nnu\nEp",
       "start": 39310,
       "end": 39316,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000030",
-      "start": 79446,
-      "end": 79456,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000017",
-      "start": 79465,
-      "end": 79475,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000125",
-      "start": 79484,
-      "end": 79494,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000181",
-      "start": 79503,
-      "end": 79513,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000546",
-      "start": 79522,
-      "end": 79532,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000005327",
-      "start": 79541,
-      "end": 79551,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000005485",
-      "start": 79560,
-      "end": 79570,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000005709",
-      "start": 79579,
-      "end": 79589,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000005884",
-      "start": 79598,
-      "end": 79608,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000006131",
-      "start": 79617,
-      "end": 79627,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000006299",
-      "start": 79636,
-      "end": 79646,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000006539",
-      "start": 79655,
-      "end": 79665,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000006714",
-      "start": 79674,
-      "end": 79684,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000006953",
-      "start": 79693,
-      "end": 79703,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000007076",
-      "start": 79712,
-      "end": 79722,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000007106",
-      "start": 79731,
-      "end": 79741,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000007257",
-      "start": 79750,
-      "end": 79760,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000007331",
-      "start": 79769,
-      "end": 79779,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000007573",
-      "start": 79788,
-      "end": 79798,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000015032",
-      "start": 79807,
-      "end": 79817,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000015211",
-      "start": 79826,
-      "end": 79836,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000015455",
-      "start": 79845,
-      "end": 79855,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000015654",
-      "start": 79864,
-      "end": 79874,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000015914",
-      "start": 79883,
-      "end": 79893,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000016113",
-      "start": 79902,
-      "end": 79912,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000016373",
-      "start": 79921,
-      "end": 79931,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000016572",
-      "start": 79940,
-      "end": 79950,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000016832",
-      "start": 79959,
-      "end": 79969,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000017031",
-      "start": 79978,
-      "end": 79988,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000017291",
-      "start": 79997,
-      "end": 80007,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000031",
-      "start": 80016,
-      "end": 80026,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000032",
-      "start": 80035,
-      "end": 80045,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000033",
-      "start": 80054,
-      "end": 80064,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000034",
-      "start": 80073,
-      "end": 80083,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000035",
-      "start": 80092,
-      "end": 80102,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000036",
-      "start": 80111,
-      "end": 80121,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000037",
-      "start": 80130,
-      "end": 80140,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000038",
-      "start": 80149,
-      "end": 80159,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000039",
-      "start": 80168,
-      "end": 80178,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000040",
-      "start": 80187,
-      "end": 80197,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000041",
-      "start": 80206,
-      "end": 80216,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000042",
-      "start": 80225,
-      "end": 80235,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000043",
-      "start": 80244,
-      "end": 80254,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000044",
-      "start": 80263,
-      "end": 80273,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000045",
-      "start": 80282,
-      "end": 80292,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000046",
-      "start": 80301,
-      "end": 80311,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000047",
-      "start": 80320,
-      "end": 80330,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000048",
-      "start": 80339,
-      "end": 80349,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000049",
-      "start": 80358,
-      "end": 80368,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000050",
-      "start": 80377,
-      "end": 80387,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000051",
-      "start": 80396,
-      "end": 80406,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000052",
-      "start": 80415,
-      "end": 80425,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000053",
-      "start": 80434,
-      "end": 80444,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000054",
-      "start": 80453,
-      "end": 80463,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000055",
-      "start": 80472,
-      "end": 80482,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000056",
-      "start": 80491,
-      "end": 80501,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000057",
-      "start": 80510,
-      "end": 80520,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000058",
-      "start": 80529,
-      "end": 80539,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000059",
-      "start": 80548,
-      "end": 80558,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000060",
-      "start": 80567,
-      "end": 80577,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000061",
-      "start": 80586,
-      "end": 80596,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000062",
-      "start": 80605,
-      "end": 80615,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000063",
-      "start": 80624,
-      "end": 80634,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000064",
-      "start": 80643,
-      "end": 80653,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000065",
-      "start": 80662,
-      "end": 80672,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000066",
-      "start": 80681,
-      "end": 80691,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000067",
-      "start": 80700,
-      "end": 80710,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000068",
-      "start": 80719,
-      "end": 80729,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000069",
-      "start": 80738,
-      "end": 80748,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000070",
-      "start": 80757,
-      "end": 80767,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000071",
-      "start": 80776,
-      "end": 80786,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000072",
-      "start": 80795,
-      "end": 80805,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000073",
-      "start": 80814,
-      "end": 80824,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000074",
-      "start": 80833,
-      "end": 80843,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000075",
-      "start": 80852,
-      "end": 80862,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000000000",
-      "start": 80871,
-      "end": 80881,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000018452",
-      "start": 80890,
-      "end": 80900,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000018479",
-      "start": 80909,
-      "end": 80919,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000018776",
-      "start": 80928,
-      "end": 80938,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000097375",
-      "start": 80947,
-      "end": 80957,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000097402",
-      "start": 80966,
-      "end": 80976,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000107433",
-      "start": 80985,
-      "end": 80995,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000107764",
-      "start": 81004,
-      "end": 81014,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000108066",
-      "start": 81023,
-      "end": 81033,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000123642",
-      "start": 81042,
-      "end": 81052,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000123694",
-      "start": 81061,
-      "end": 81071,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "0000123857",
-      "start": 81080,
-      "end": 81090,
-      "type": "PHONE",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Acrobat Distiller",
       "start": 129041,
       "end": 129058,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Microsoft Word",
       "start": 129342,
       "end": 129356,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Referral Form",
       "start": 129369,
       "end": 129382,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Microsoft Word",
       "start": 152833,
       "end": 152847,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Font Definitions",
       "start": 153068,
       "end": 153084,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Style Definitions",
       "start": 153224,
       "end": 153241,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Balloon Text",
       "start": 153666,
       "end": 153678,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Balloon Text",
       "start": 153817,
       "end": 153829,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Balloon Text",
       "start": 153878,
       "end": 153890,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Bob Falkenberg",
       "start": 155361,
       "end": 155375,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Claims Representative",
       "start": 155466,
       "end": 155487,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Global Insurance",
       "start": 155504,
       "end": 155520,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "North Clark",
       "start": 155538,
       "end": 155549,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
-      "text": "312-456-6768",
-      "start": 155614,
-      "end": 155626,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
-      "text": "312-924-0937",
-      "start": 155632,
-      "end": 155644,
-      "type": "PHONE",
+      "text": "bob.falkenberg@us.hdi.global",
+      "start": 155738,
+      "end": 155766,
+      "type": "EMAIL",
       "confidence": 0.5
     },
     {
@@ -746,237 +130,251 @@
       "start": 157002,
       "end": 157012,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Bob Falkenberg",
       "start": 157076,
       "end": 157090,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Medicare Lien",
       "start": 157114,
       "end": 157127,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Conditional Payment",
       "start": 157141,
       "end": 157160,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Call Christine",
       "start": 157438,
       "end": 157452,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Russel Stover",
       "start": 157529,
       "end": 157542,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Ed Sweeney",
       "start": 158915,
       "end": 158925,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Amanda Clavio",
       "start": 158994,
       "end": 159007,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Rose Figueroa",
       "start": 159026,
       "end": 159039,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Janelle Hutson",
       "start": 159041,
       "end": 159055,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Jim Granholm",
       "start": 159073,
       "end": 159085,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Frank Yancey",
       "start": 159087,
       "end": 159099,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Roger Thibodeaux",
       "start": 159101,
       "end": 159117,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Alan Silver",
       "start": 159119,
       "end": 159130,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Inez Corenevsky",
       "start": 159132,
       "end": 159147,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Mark Kilgore",
       "start": 159149,
       "end": 159161,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Mark Ackerman",
       "start": 159176,
       "end": 159189,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "John Thompson",
       "start": 159191,
       "end": 159204,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Medicare Lien",
       "start": 159224,
       "end": 159237,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Conditional Payment",
       "start": 159251,
       "end": 159270,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Medicare Eligible",
       "start": 159624,
       "end": 159641,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Atlas Settlements",
       "start": 159716,
       "end": 159733,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Medicare Eligible",
       "start": 159780,
       "end": 159797,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Atlas Settlements",
       "start": 159952,
       "end": 159969,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Burns White",
       "start": 159998,
       "end": 160009,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Medicare Set",
       "start": 160035,
       "end": 160047,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Medicare Eligible",
       "start": 160410,
       "end": 160427,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Atlas Settlements",
       "start": 160459,
       "end": 160476,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Christine Harper",
       "start": 160516,
       "end": 160532,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Atlas Settlements",
       "start": 160536,
       "end": 160553,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Atlas Settlements",
       "start": 160659,
       "end": 160676,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Atlas Settlements",
       "start": 160920,
       "end": 160937,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Atlas Settlements",
       "start": 161056,
       "end": 161073,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Christine Harper",
       "start": 161757,
       "end": 161773,
       "type": "NAME",
+      "confidence": 0.37374164764148327
+    },
+    {
+      "text": "charper@AtlasSettlements.com",
+      "start": 161791,
+      "end": 161819,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "charper@AtlasSettlements.com",
+      "start": 161828,
+      "end": 161856,
+      "type": "EMAIL",
       "confidence": 0.5
     },
     {
@@ -984,195 +382,209 @@
       "start": 161877,
       "end": 161887,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Pere Wroth",
       "start": 161902,
       "end": 161912,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Clarissa Karasick",
       "start": 161914,
       "end": 161931,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Medicare Lien",
       "start": 161955,
       "end": 161968,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Conditional Payment",
       "start": 161982,
       "end": 162001,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Times New",
       "start": 162211,
       "end": 162220,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Times New",
       "start": 162330,
       "end": 162339,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Times New",
       "start": 162443,
       "end": 162452,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Burns White",
       "start": 162642,
       "end": 162653,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Medicare Set",
       "start": 162678,
       "end": 162690,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Medicare Secondary",
       "start": 162976,
       "end": 162994,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Payer Recovery",
       "start": 162995,
       "end": 163009,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Burns White",
       "start": 163046,
       "end": 163057,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Times New",
       "start": 163518,
       "end": 163527,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Times New",
       "start": 163631,
       "end": 163640,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Times New",
       "start": 163939,
       "end": 163948,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Times New",
       "start": 164052,
       "end": 164061,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Medicare Set",
       "start": 164261,
       "end": 164273,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Burns White",
       "start": 164493,
       "end": 164504,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Times New",
       "start": 164678,
       "end": 164687,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Times New",
       "start": 164791,
       "end": 164800,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Burns White",
       "start": 165337,
       "end": 165348,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Times New",
       "start": 165527,
       "end": 165536,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Times New",
       "start": 165640,
       "end": 165649,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Christine Harper",
       "start": 165997,
       "end": 166013,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Atlas Settlement",
       "start": 166100,
       "end": 166116,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Peachtree Road",
       "start": 166344,
       "end": 166358,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Corporate Fax",
       "start": 166784,
       "end": 166797,
       "type": "NAME",
+      "confidence": 0.37374164764148327
+    },
+    {
+      "text": "charper@AtlasSettlements.com",
+      "start": 166899,
+      "end": 166927,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "charper@AtlasSettlements.com",
+      "start": 166929,
+      "end": 166957,
+      "type": "EMAIL",
       "confidence": 0.5
     },
     {
@@ -1180,6 +592,20 @@
       "start": 168535,
       "end": 168545,
       "type": "NAME",
+      "confidence": 0.37374164764148327
+    },
+    {
+      "text": "ed.sweeney@hdi-gerling.com",
+      "start": 168563,
+      "end": 168589,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "ed.sweeney@hdi-gerling.com",
+      "start": 168598,
+      "end": 168624,
+      "type": "EMAIL",
       "confidence": 0.5
     },
     {
@@ -1187,139 +613,139 @@
       "start": 168698,
       "end": 168708,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Medicare Lien",
       "start": 168729,
       "end": 168742,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Conditional Payment",
       "start": 168756,
       "end": 168775,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Times New",
       "start": 168839,
       "end": 168848,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Does Atlas",
       "start": 169257,
       "end": 169267,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Medicare Liens",
       "start": 169371,
       "end": 169385,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Conditional Payment",
       "start": 169526,
       "end": 169545,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Conditional Payment",
       "start": 169556,
       "end": 169575,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Conditional Payment",
       "start": 169593,
       "end": 169612,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Final Demand",
       "start": 169613,
       "end": 169625,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Vice President",
       "start": 170229,
       "end": 170243,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Times New",
       "start": 170296,
       "end": 170305,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Gerling America",
       "start": 170337,
       "end": 170352,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Insurance Company",
       "start": 170358,
       "end": 170375,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Times New",
       "start": 170418,
       "end": 170427,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "North Clark",
       "start": 170460,
       "end": 170471,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "312-456-6775",
-      "start": 170515,
-      "end": 170527,
-      "type": "PHONE",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Times New",
       "start": 170577,
       "end": 170586,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "312-924-0932",
-      "start": 170615,
-      "end": 170627,
-      "type": "PHONE",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Times New",
       "start": 170674,
       "end": 170683,
       "type": "NAME",
+      "confidence": 0.37374164764148327
+    },
+    {
+      "text": "ed.sweeney@hdi-gerling.com",
+      "start": 170721,
+      "end": 170747,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "ed.sweeney@hdi-gerling.com",
+      "start": 170815,
+      "end": 170841,
+      "type": "EMAIL",
       "confidence": 0.5
     },
     {
@@ -1327,111 +753,1598 @@
       "start": 170977,
       "end": 170986,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Times New",
       "start": 171134,
       "end": 171143,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Gerling America",
       "start": 171307,
       "end": 171322,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Insurance Company",
       "start": 171323,
       "end": 171340,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "North Clark",
       "start": 171609,
       "end": 171620,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Chicago Illinois",
       "start": 171641,
       "end": 171657,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "General Counsel",
       "start": 171690,
       "end": 171705,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Times New",
       "start": 171764,
       "end": 171773,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Shared With",
       "start": 175559,
       "end": 175570,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Shared With",
       "start": 176250,
       "end": 176261,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Taxonomy Catch",
       "start": 176537,
       "end": 176551,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "All Column",
       "start": 176552,
       "end": 176562,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Extracted Text",
       "start": 179582,
       "end": 179596,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Image Tags",
       "start": 180785,
       "end": 180795,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Content Type",
       "start": 182432,
       "end": 182444,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Microsoft Office",
+      "start": 4250,
+      "end": 4266,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lynn Hartman",
+      "start": 21328,
+      "end": 21340,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Nnu\nEp",
+      "start": 39310,
+      "end": 39316,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Acrobat Distiller",
+      "start": 129041,
+      "end": 129058,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Microsoft Word",
+      "start": 129342,
+      "end": 129356,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Referral Form",
+      "start": 129369,
+      "end": 129382,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Microsoft Word",
+      "start": 152833,
+      "end": 152847,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Font Definitions",
+      "start": 153068,
+      "end": 153084,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Style Definitions",
+      "start": 153224,
+      "end": 153241,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Balloon Text",
+      "start": 153666,
+      "end": 153678,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Balloon Text",
+      "start": 153817,
+      "end": 153829,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Balloon Text",
+      "start": 153878,
+      "end": 153890,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Bob Falkenberg",
+      "start": 155361,
+      "end": 155375,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Claims Representative",
+      "start": 155466,
+      "end": 155487,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Global Insurance",
+      "start": 155504,
+      "end": 155520,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "North Clark",
+      "start": 155538,
+      "end": 155549,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Ed Sweeney",
+      "start": 157002,
+      "end": 157012,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Bob Falkenberg",
+      "start": 157076,
+      "end": 157090,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medicare Lien",
+      "start": 157114,
+      "end": 157127,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Conditional Payment",
+      "start": 157141,
+      "end": 157160,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Call Christine",
+      "start": 157438,
+      "end": 157452,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Russel Stover",
+      "start": 157529,
+      "end": 157542,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Ed Sweeney",
+      "start": 158915,
+      "end": 158925,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Amanda Clavio",
+      "start": 158994,
+      "end": 159007,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Rose Figueroa",
+      "start": 159026,
+      "end": 159039,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Janelle Hutson",
+      "start": 159041,
+      "end": 159055,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Jim Granholm",
+      "start": 159073,
+      "end": 159085,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Frank Yancey",
+      "start": 159087,
+      "end": 159099,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Roger Thibodeaux",
+      "start": 159101,
+      "end": 159117,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Alan Silver",
+      "start": 159119,
+      "end": 159130,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Inez Corenevsky",
+      "start": 159132,
+      "end": 159147,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Mark Kilgore",
+      "start": 159149,
+      "end": 159161,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Mark Ackerman",
+      "start": 159176,
+      "end": 159189,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "John Thompson",
+      "start": 159191,
+      "end": 159204,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medicare Lien",
+      "start": 159224,
+      "end": 159237,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Conditional Payment",
+      "start": 159251,
+      "end": 159270,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medicare Eligible",
+      "start": 159624,
+      "end": 159641,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Atlas Settlements",
+      "start": 159716,
+      "end": 159733,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medicare Eligible",
+      "start": 159780,
+      "end": 159797,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Atlas Settlements",
+      "start": 159952,
+      "end": 159969,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Burns White",
+      "start": 159998,
+      "end": 160009,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medicare Set",
+      "start": 160035,
+      "end": 160047,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medicare Eligible",
+      "start": 160410,
+      "end": 160427,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Atlas Settlements",
+      "start": 160459,
+      "end": 160476,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Christine Harper",
+      "start": 160516,
+      "end": 160532,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Atlas Settlements",
+      "start": 160536,
+      "end": 160553,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Atlas Settlements",
+      "start": 160659,
+      "end": 160676,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Atlas Settlements",
+      "start": 160920,
+      "end": 160937,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Atlas Settlements",
+      "start": 161056,
+      "end": 161073,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Christine Harper",
+      "start": 161757,
+      "end": 161773,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Ed Sweeney",
+      "start": 161877,
+      "end": 161887,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Pere Wroth",
+      "start": 161902,
+      "end": 161912,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Clarissa Karasick",
+      "start": 161914,
+      "end": 161931,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medicare Lien",
+      "start": 161955,
+      "end": 161968,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Conditional Payment",
+      "start": 161982,
+      "end": 162001,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 162211,
+      "end": 162220,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 162330,
+      "end": 162339,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 162443,
+      "end": 162452,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Burns White",
+      "start": 162642,
+      "end": 162653,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medicare Set",
+      "start": 162678,
+      "end": 162690,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medicare Secondary",
+      "start": 162976,
+      "end": 162994,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Payer Recovery",
+      "start": 162995,
+      "end": 163009,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Burns White",
+      "start": 163046,
+      "end": 163057,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 163518,
+      "end": 163527,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 163631,
+      "end": 163640,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 163939,
+      "end": 163948,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 164052,
+      "end": 164061,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medicare Set",
+      "start": 164261,
+      "end": 164273,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Burns White",
+      "start": 164493,
+      "end": 164504,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 164678,
+      "end": 164687,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 164791,
+      "end": 164800,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Burns White",
+      "start": 165337,
+      "end": 165348,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 165527,
+      "end": 165536,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 165640,
+      "end": 165649,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Christine Harper",
+      "start": 165997,
+      "end": 166013,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Atlas Settlement",
+      "start": 166100,
+      "end": 166116,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Peachtree Road",
+      "start": 166344,
+      "end": 166358,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Corporate Fax",
+      "start": 166784,
+      "end": 166797,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Ed Sweeney",
+      "start": 168535,
+      "end": 168545,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Pere Wroth",
+      "start": 168698,
+      "end": 168708,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medicare Lien",
+      "start": 168729,
+      "end": 168742,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Conditional Payment",
+      "start": 168756,
+      "end": 168775,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 168839,
+      "end": 168848,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Does Atlas",
+      "start": 169257,
+      "end": 169267,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medicare Liens",
+      "start": 169371,
+      "end": 169385,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Conditional Payment",
+      "start": 169526,
+      "end": 169545,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Conditional Payment",
+      "start": 169556,
+      "end": 169575,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Conditional Payment",
+      "start": 169593,
+      "end": 169612,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Final Demand",
+      "start": 169613,
+      "end": 169625,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vice President",
+      "start": 170229,
+      "end": 170243,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 170296,
+      "end": 170305,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Gerling America",
+      "start": 170337,
+      "end": 170352,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Insurance Company",
+      "start": 170358,
+      "end": 170375,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 170418,
+      "end": 170427,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "North Clark",
+      "start": 170460,
+      "end": 170471,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 170577,
+      "end": 170586,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 170674,
+      "end": 170683,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 170977,
+      "end": 170986,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 171134,
+      "end": 171143,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Gerling America",
+      "start": 171307,
+      "end": 171322,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Insurance Company",
+      "start": 171323,
+      "end": 171340,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "North Clark",
+      "start": 171609,
+      "end": 171620,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Chicago Illinois",
+      "start": 171641,
+      "end": 171657,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "General Counsel",
+      "start": 171690,
+      "end": 171705,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 171764,
+      "end": 171773,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Shared With",
+      "start": 175559,
+      "end": 175570,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Shared With",
+      "start": 176250,
+      "end": 176261,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Taxonomy Catch",
+      "start": 176537,
+      "end": 176551,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "All Column",
+      "start": 176552,
+      "end": 176562,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Extracted Text",
+      "start": 179582,
+      "end": 179596,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Image Tags",
+      "start": 180785,
+      "end": 180795,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Content Type",
+      "start": 182432,
+      "end": 182444,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000030",
+      "start": 79446,
+      "end": 79456,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000017",
+      "start": 79465,
+      "end": 79475,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000125",
+      "start": 79484,
+      "end": 79494,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000181",
+      "start": 79503,
+      "end": 79513,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000546",
+      "start": 79522,
+      "end": 79532,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000005327",
+      "start": 79541,
+      "end": 79551,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000005485",
+      "start": 79560,
+      "end": 79570,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000005709",
+      "start": 79579,
+      "end": 79589,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000005884",
+      "start": 79598,
+      "end": 79608,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000006131",
+      "start": 79617,
+      "end": 79627,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000006299",
+      "start": 79636,
+      "end": 79646,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000006539",
+      "start": 79655,
+      "end": 79665,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000006714",
+      "start": 79674,
+      "end": 79684,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000006953",
+      "start": 79693,
+      "end": 79703,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000007076",
+      "start": 79712,
+      "end": 79722,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000007106",
+      "start": 79731,
+      "end": 79741,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000007257",
+      "start": 79750,
+      "end": 79760,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000007331",
+      "start": 79769,
+      "end": 79779,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000007573",
+      "start": 79788,
+      "end": 79798,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000015032",
+      "start": 79807,
+      "end": 79817,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000015211",
+      "start": 79826,
+      "end": 79836,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000015455",
+      "start": 79845,
+      "end": 79855,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000015654",
+      "start": 79864,
+      "end": 79874,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000015914",
+      "start": 79883,
+      "end": 79893,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000016113",
+      "start": 79902,
+      "end": 79912,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000016373",
+      "start": 79921,
+      "end": 79931,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000016572",
+      "start": 79940,
+      "end": 79950,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000016832",
+      "start": 79959,
+      "end": 79969,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000017031",
+      "start": 79978,
+      "end": 79988,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000017291",
+      "start": 79997,
+      "end": 80007,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000031",
+      "start": 80016,
+      "end": 80026,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000032",
+      "start": 80035,
+      "end": 80045,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000033",
+      "start": 80054,
+      "end": 80064,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000034",
+      "start": 80073,
+      "end": 80083,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000035",
+      "start": 80092,
+      "end": 80102,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000036",
+      "start": 80111,
+      "end": 80121,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000037",
+      "start": 80130,
+      "end": 80140,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000038",
+      "start": 80149,
+      "end": 80159,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000039",
+      "start": 80168,
+      "end": 80178,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000040",
+      "start": 80187,
+      "end": 80197,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000041",
+      "start": 80206,
+      "end": 80216,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000042",
+      "start": 80225,
+      "end": 80235,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000043",
+      "start": 80244,
+      "end": 80254,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000044",
+      "start": 80263,
+      "end": 80273,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000045",
+      "start": 80282,
+      "end": 80292,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000046",
+      "start": 80301,
+      "end": 80311,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000047",
+      "start": 80320,
+      "end": 80330,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000048",
+      "start": 80339,
+      "end": 80349,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000049",
+      "start": 80358,
+      "end": 80368,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000050",
+      "start": 80377,
+      "end": 80387,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000051",
+      "start": 80396,
+      "end": 80406,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000052",
+      "start": 80415,
+      "end": 80425,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000053",
+      "start": 80434,
+      "end": 80444,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000054",
+      "start": 80453,
+      "end": 80463,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000055",
+      "start": 80472,
+      "end": 80482,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000056",
+      "start": 80491,
+      "end": 80501,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000057",
+      "start": 80510,
+      "end": 80520,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000058",
+      "start": 80529,
+      "end": 80539,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000059",
+      "start": 80548,
+      "end": 80558,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000060",
+      "start": 80567,
+      "end": 80577,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000061",
+      "start": 80586,
+      "end": 80596,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000062",
+      "start": 80605,
+      "end": 80615,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000063",
+      "start": 80624,
+      "end": 80634,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000064",
+      "start": 80643,
+      "end": 80653,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000065",
+      "start": 80662,
+      "end": 80672,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000066",
+      "start": 80681,
+      "end": 80691,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000067",
+      "start": 80700,
+      "end": 80710,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000068",
+      "start": 80719,
+      "end": 80729,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000069",
+      "start": 80738,
+      "end": 80748,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000070",
+      "start": 80757,
+      "end": 80767,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000071",
+      "start": 80776,
+      "end": 80786,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000072",
+      "start": 80795,
+      "end": 80805,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000073",
+      "start": 80814,
+      "end": 80824,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000074",
+      "start": 80833,
+      "end": 80843,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000075",
+      "start": 80852,
+      "end": 80862,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000000000",
+      "start": 80871,
+      "end": 80881,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000018452",
+      "start": 80890,
+      "end": 80900,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000018479",
+      "start": 80909,
+      "end": 80919,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000018776",
+      "start": 80928,
+      "end": 80938,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000097375",
+      "start": 80947,
+      "end": 80957,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000097402",
+      "start": 80966,
+      "end": 80976,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000107433",
+      "start": 80985,
+      "end": 80995,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000107764",
+      "start": 81004,
+      "end": 81014,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000108066",
+      "start": 81023,
+      "end": 81033,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000123642",
+      "start": 81042,
+      "end": 81052,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000123694",
+      "start": 81061,
+      "end": 81071,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0000123857",
+      "start": 81080,
+      "end": 81090,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "312-456-6768",
+      "start": 155614,
+      "end": 155626,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "312-924-0937",
+      "start": 155632,
+      "end": 155644,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "312-456-6775",
+      "start": 170515,
+      "end": 170527,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "312-924-0932",
+      "start": 170615,
+      "end": 170627,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "bob.falkenberg@us.hdi.global",
+      "start": 155738,
+      "end": 155766,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "charper@AtlasSettlements.com",
+      "start": 161791,
+      "end": 161819,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "charper@AtlasSettlements.com",
+      "start": 161828,
+      "end": 161856,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "charper@AtlasSettlements.com",
+      "start": 166899,
+      "end": 166927,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "charper@AtlasSettlements.com",
+      "start": 166929,
+      "end": 166957,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "ed.sweeney@hdi-gerling.com",
+      "start": 168563,
+      "end": 168589,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "ed.sweeney@hdi-gerling.com",
+      "start": 168598,
+      "end": 168624,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "ed.sweeney@hdi-gerling.com",
+      "start": 170721,
+      "end": 170747,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "ed.sweeney@hdi-gerling.com",
+      "start": 170815,
+      "end": 170841,
+      "type": "EMAIL",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
-    "genetic": 203,
-    "presidio": 0
+    "genetic": 121,
+    "presidio": 0,
+    "regex": 212
   },
   "text_sample": "\u0011\u0871\u001a\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000>\u0000\u0003\u0000\t\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0002\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0014\u0000\u0000\u0000\u0001\u0000\u0000\u0004\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\u0000\u0000\t\u0000\u0000\u0000\n\u0000\u0000\u0000\u000b\u0000\u0000\u0000\f\u0000\u0000\u0000\n\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0013\u0000\u0000\u0000\u0001\u0000\u0000\u000e\u0001\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u001b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u001d\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u001f\u0000\u0000\u0000 \u0000\u0000\u0000!\u0000\u0000\u0000\"\u0000\u0000\u0000#\u0000\u0000\u0000$\u0000\u0000\u0000%\u0000\u0000\u0000&\u0000\u0000\u0000'\u0000\u0000\u0000(\u0000\u0000\u0000)\u0000\u0000\u0000*\u0000\u0000\u0000+\u0000\u0000\u0000,\u0000\u0000\u0000-\u0000\u0000\u0000.\u0000\u0000\u0000/\u0000\u0000\u00000\u0000\u0000\u00001\u0000\u0000\u00002\u0000\u0000\u00003\u0000\u0000\u00004\u0000\u0000\u00005\u0000\u0000\u00006\u0000\u0000\u00007\u0000\u0000\u00008\u0000\u0000\u00009\u0000\u0000\u0000:\u0000\u0000\u0000;\u0000\u0000\u0000<\u0000\u0000\u0000=\u0000\u0000\u0000>\u0000\u0000\u0000?\u0000\u0000\u0000@\u0000\u0000\u0000A\u0000\u0000\u0000B\u0000\u0000\u0000C\u0000\u0000\u0000D\u0000\u0000\u0000E\u0000\u0000\u0000F\u0000\u0000\u0000G\u0000\u0000\u0000H\u0000\u0000\u0000I\u0000\u0000\u0000J\u0000\u0000\u0000K\u0000\u0000\u0000L\u0000\u0000\u0000M\u0000\u0000\u0000N\u0000\u0000\u0000O\u0000\u0000\u0000P\u0000\u0000\u0000Q\u0000\u0000\u0000R\u0000\u0000\u0000S\u0000\u0000\u0000T\u0000\u0000\u0000U\u0000\u0000\u0000V\u0000\u0000\u0000W\u0000\u0000\u0000X\u0000\u0000\u0000Y\u0000\u0000\u0000Z\u0000\u0000\u0000[\u0000\u0000\u0000\\\u0000\u0000\u0000]\u0000\u0000\u0000^\u0000\u0000\u0000_\u0000\u0000\u0000`\u0000\u0000\u0000a\u0000\u0000\u0000b\u0000\u0000\u0000c\u0000\u0000\u0000d\u0000\u0000\u0000e\u0000\u0000\u0000f\u0000\u0000\u0000g\u0000\u0000\u0000h\u0000\u0000\u0000i\u0000\u0000\u0000j\u0000\u0000..."
 }

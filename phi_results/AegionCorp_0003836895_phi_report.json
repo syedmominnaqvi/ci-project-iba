@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Aegion Corporation/AegionCorp_0003836895.pdf",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Aegion Corporation/AegionCorp_0003836895.pdf",
     "file_name": "AegionCorp_0003836895.pdf",
     "file_size": 209864,
     "text_length": 2268
@@ -400,9 +400,404 @@
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Enrollment Form",
+      "start": 8,
+      "end": 23,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Worldwide Insurance",
+      "start": 54,
+      "end": 73,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Worldwide Services",
+      "start": 89,
+      "end": 107,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Insurance Agency",
+      "start": 108,
+      "end": 124,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "New York",
+      "start": 148,
+      "end": 156,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 191,
+      "end": 201,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 206,
+      "end": 217,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 266,
+      "end": 276,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 281,
+      "end": 292,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Ever Life",
+      "start": 393,
+      "end": 402,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Insurance Company",
+      "start": 403,
+      "end": 420,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Oakbrook Terrace",
+      "start": 422,
+      "end": 438,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Enrollment Form",
+      "start": 506,
+      "end": 521,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Group Name",
+      "start": 592,
+      "end": 602,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Job Title",
+      "start": 603,
+      "end": 612,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Last Name",
+      "start": 614,
+      "end": 623,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "First Name",
+      "start": 624,
+      "end": 634,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Mailing Address",
+      "start": 678,
+      "end": 693,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "City State",
+      "start": 694,
+      "end": 704,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Region Zip",
+      "start": 714,
+      "end": 724,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Postal Code",
+      "start": 725,
+      "end": 736,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Country \nGender",
+      "start": 737,
+      "end": 752,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Male             Female",
+      "start": 814,
+      "end": 837,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Preferred Email",
+      "start": 839,
+      "end": 854,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Address Telephone",
+      "start": 855,
+      "end": 872,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Number Home",
+      "start": 873,
+      "end": 884,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Country Host",
+      "start": 885,
+      "end": 897,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Spouse Last",
+      "start": 948,
+      "end": 959,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Name First",
+      "start": 960,
+      "end": 970,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Name Date",
+      "start": 971,
+      "end": 980,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Gender\n Male",
+      "start": 1025,
+      "end": 1037,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Female  \nAddress",
+      "start": 1041,
+      "end": 1057,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Child Last",
+      "start": 1092,
+      "end": 1102,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Name First",
+      "start": 1103,
+      "end": 1113,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Name Date",
+      "start": 1114,
+      "end": 1123,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Gender\n Male",
+      "start": 1168,
+      "end": 1180,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Female  \nAddress",
+      "start": 1184,
+      "end": 1200,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Child Last",
+      "start": 1234,
+      "end": 1244,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Name First",
+      "start": 1245,
+      "end": 1255,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Name Date",
+      "start": 1256,
+      "end": 1265,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Gender\n Male",
+      "start": 1310,
+      "end": 1322,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Female  \nAddress",
+      "start": 1326,
+      "end": 1342,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Child Last",
+      "start": 1376,
+      "end": 1386,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Name First",
+      "start": 1387,
+      "end": 1397,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Name Date",
+      "start": 1398,
+      "end": 1407,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Gender\n Male",
+      "start": 1452,
+      "end": 1464,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Female  \nAddress",
+      "start": 1468,
+      "end": 1484,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Child Last",
+      "start": 1518,
+      "end": 1528,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Name First",
+      "start": 1529,
+      "end": 1539,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Name Date",
+      "start": 1540,
+      "end": 1549,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Gender\n Male",
+      "start": 1594,
+      "end": 1606,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Female  \nAddress",
+      "start": 1610,
+      "end": 1626,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Effective Date",
+      "start": 1660,
+      "end": 1674,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Qualifying Life",
+      "start": 1676,
+      "end": 1691,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Event  \nThe",
+      "start": 1692,
+      "end": 1703,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Signature",
+      "start": 2244,
+      "end": 2260,
+      "type": "NAME",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
     "genetic": 56,
-    "presidio": 0
+    "presidio": 0,
+    "regex": 56
   },
   "text_sample": "GeoBlue Enrollment Form \nGeoBlue is the trade name of Worldwide Insurance Services, LLC (Worldwide Services Insurance Agency, LLC in California and New York), an \nindependent licensee of the Blue Cross and Blue Shield Association: made available in cooperation with Blue Cross and Blue Shield companies in \nselect service areas. Coverage is provided under insurance policies underwritten by 4 Ever Life Insurance Company, Oakbrook Terrace, IL, NAIC \n#80985 under policy form series 54.1201. GeoBlue E..."
 }

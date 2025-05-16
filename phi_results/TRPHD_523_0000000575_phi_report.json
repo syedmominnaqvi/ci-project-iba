@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Two Rivers Public Health Department/TRPHD_523_0000000575.msg",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Two Rivers Public Health Department/TRPHD_523_0000000575.msg",
     "file_name": "TRPHD_523_0000000575.msg",
     "file_size": 72192,
     "text_length": 69038
@@ -112,13 +112,6 @@
       "confidence": 0.5
     },
     {
-      "text": "888-669-7154",
-      "start": 8544,
-      "end": 8556,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
       "text": "Recipient Data",
       "start": 8580,
       "end": 8594,
@@ -186,13 +179,6 @@
       "start": 9366,
       "end": 9376,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "3084408467",
-      "start": 9402,
-      "end": 9412,
-      "type": "PHONE",
       "confidence": 0.5
     },
     {
@@ -378,13 +364,6 @@
       "confidence": 0.5
     },
     {
-      "text": "1611089613",
-      "start": 50700,
-      "end": 50710,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
       "text": "djmontgomery96@gmail.com",
       "start": 50737,
       "end": 50761,
@@ -452,13 +431,6 @@
       "start": 53340,
       "end": 53353,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "888-669-7154",
-      "start": 53410,
-      "end": 53422,
-      "type": "PHONE",
       "confidence": 0.5
     },
     {
@@ -536,13 +508,6 @@
       "start": 53953,
       "end": 53963,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "3084408467",
-      "start": 53970,
-      "end": 53980,
-      "type": "PHONE",
       "confidence": 0.5
     },
     {
@@ -687,9 +652,719 @@
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Exchange Administrative",
+      "start": 1580,
+      "end": 1603,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 1825,
+      "end": 1848,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 2838,
+      "end": 2861,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Judy Waggle",
+      "start": 7378,
+      "end": 7389,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Thu",
+      "start": 7566,
+      "end": 7572,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Two Rivers",
+      "start": 7598,
+      "end": 7608,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Public Health",
+      "start": 7609,
+      "end": 7622,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Nebraska State",
+      "start": 8045,
+      "end": 8059,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vaccination Plan",
+      "start": 8060,
+      "end": 8076,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Two Rivers",
+      "start": 8451,
+      "end": 8461,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Public Health",
+      "start": 8462,
+      "end": 8475,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Recipient Data",
+      "start": 8580,
+      "end": 8594,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Time Finished",
+      "start": 8608,
+      "end": 8621,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Survey Preview",
+      "start": 8666,
+      "end": 8680,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "View Results",
+      "start": 8738,
+      "end": 8750,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Click Here",
+      "start": 8877,
+      "end": 8887,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "View Results",
+      "start": 8906,
+      "end": 8918,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Response Summary",
+      "start": 9160,
+      "end": 9176,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "First Name",
+      "start": 9192,
+      "end": 9202,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Last Name",
+      "start": 9242,
+      "end": 9251,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Cell Phone",
+      "start": 9366,
+      "end": 9376,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Healthcare Worker",
+      "start": 9822,
+      "end": 9839,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Work Setting",
+      "start": 9849,
+      "end": 9861,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Not Health",
+      "start": 34279,
+      "end": 34289,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "System Associated",
+      "start": 34290,
+      "end": 34307,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Other Public",
+      "start": 34346,
+      "end": 34358,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Health Workers",
+      "start": 34359,
+      "end": 34373,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Other Information",
+      "start": 34456,
+      "end": 34473,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Independent Service",
+      "start": 34525,
+      "end": 34544,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Frontend\n Transport",
+      "start": 46706,
+      "end": 46725,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Frontend Transport",
+      "start": 47374,
+      "end": 47392,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Proofpoint Essentials",
+      "start": 47850,
+      "end": 47871,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Donna Montgomery",
+      "start": 50374,
+      "end": 50390,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vaccine\nTo",
+      "start": 50559,
+      "end": 50569,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Two Rivers",
+      "start": 50571,
+      "end": 50581,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Public Health",
+      "start": 50582,
+      "end": 50595,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Judy Waggle",
+      "start": 52677,
+      "end": 52688,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Thu",
+      "start": 52797,
+      "end": 52803,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Two Rivers",
+      "start": 52829,
+      "end": 52839,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Public Health",
+      "start": 52840,
+      "end": 52853,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Nebraska State",
+      "start": 53116,
+      "end": 53130,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vaccination Plan",
+      "start": 53131,
+      "end": 53147,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Two Rivers",
+      "start": 53329,
+      "end": 53339,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Public Health",
+      "start": 53340,
+      "end": 53353,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Recipient Data",
+      "start": 53458,
+      "end": 53472,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Time Finished",
+      "start": 53474,
+      "end": 53487,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Survey Preview",
+      "start": 53517,
+      "end": 53531,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "View Results",
+      "start": 53570,
+      "end": 53582,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Click Here",
+      "start": 53584,
+      "end": 53594,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "View Results",
+      "start": 53699,
+      "end": 53711,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Response Summary",
+      "start": 53843,
+      "end": 53859,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "First Name",
+      "start": 53862,
+      "end": 53872,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Donna\n\nLast",
+      "start": 53877,
+      "end": 53888,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Montgomery\n\nDate",
+      "start": 53898,
+      "end": 53914,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Cell Phone",
+      "start": 53953,
+      "end": 53963,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Residence\n   Buffalo",
+      "start": 54080,
+      "end": 54100,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Profession\n   Healthcare",
+      "start": 54201,
+      "end": 54225,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Worker\n\nWork",
+      "start": 54226,
+      "end": 54238,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Not Health",
+      "start": 54262,
+      "end": 54272,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "System Associated",
+      "start": 54273,
+      "end": 54290,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Title\n   Other",
+      "start": 54293,
+      "end": 54307,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Public Health",
+      "start": 54308,
+      "end": 54321,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Workers\n\nThis",
+      "start": 54322,
+      "end": 54335,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Report\n\nOther",
+      "start": 54369,
+      "end": 54382,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Independent Service",
+      "start": 54427,
+      "end": 54446,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Shared With",
+      "start": 57194,
+      "end": 57205,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Shared With",
+      "start": 57885,
+      "end": 57896,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Taxonomy Catch",
+      "start": 58172,
+      "end": 58186,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "All Column",
+      "start": 58187,
+      "end": 58197,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Extracted Text",
+      "start": 61247,
+      "end": 61261,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Image Tags",
+      "start": 62450,
+      "end": 62460,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Content Type",
+      "start": 64097,
+      "end": 64109,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "888-669-7154",
+      "start": 8544,
+      "end": 8556,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "3084408467",
+      "start": 9402,
+      "end": 9412,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1611089613",
+      "start": 50700,
+      "end": 50710,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "888-669-7154",
+      "start": 53410,
+      "end": 53422,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "3084408467",
+      "start": 53970,
+      "end": 53980,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "DJMONTGOMERY96@GMAIL.COM",
+      "start": 3682,
+      "end": 3706,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "DJMONTGOMERY96@GMAIL.COM",
+      "start": 6394,
+      "end": 6418,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "noreply@qemailserver.com",
+      "start": 7643,
+      "end": 7667,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "noreply@qemailserver.com",
+      "start": 7669,
+      "end": 7693,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "djmontgomery96@gmail.com",
+      "start": 9514,
+      "end": 9538,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "djmontgomery96@gmail.com",
+      "start": 9556,
+      "end": 9580,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 47578,
+      "end": 47594,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 48026,
+      "end": 48042,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 48357,
+      "end": 48373,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 48496,
+      "end": 48512,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "523640767.38491068.1610668281768@jwm2-app.sjc1.qprod.net",
+      "start": 50238,
+      "end": 50294,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "523640767.38491068.1610668281768@jwm2-app.sjc1.qprod.net",
+      "start": 50310,
+      "end": 50366,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "djmontgomery96@gmail.com",
+      "start": 50392,
+      "end": 50416,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "CAGUA__7fmciPxJWEW2w4oQmU5SQdXwWiqoKD1fzO6ADpbxau4w@mail.gmail.com",
+      "start": 50469,
+      "end": 50535,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 50597,
+      "end": 50613,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "djmontgomery96@gmail.com",
+      "start": 50737,
+      "end": 50761,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "noreply@qemailserver.com",
+      "start": 52889,
+      "end": 52913,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "djmontgomery96@gmail.com",
+      "start": 54011,
+      "end": 54035,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "djmontgomery96@gmail.com",
+      "start": 54043,
+      "end": 54067,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "E003B9F0DB9BCD4FB31F2310223BA934@namprd06.prod.outlook.com",
+      "start": 54731,
+      "end": 54789,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "523640767",
+      "start": 50238,
+      "end": 50247,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "523640767",
+      "start": 50310,
+      "end": 50319,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "11/10/1950",
+      "start": 9346,
+      "end": 9356,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "11/10/1950",
+      "start": 53941,
+      "end": 53951,
+      "type": "DATE",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
-    "genetic": 97,
-    "presidio": 0
+    "genetic": 92,
+    "presidio": 0,
+    "regex": 101
   },
   "text_sample": "\u0011\u0871\u001a\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000>\u0000\u0003\u0000\t\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0002\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000y\u0000\u0000\u0000\u0014\u0000\u0000\u0000D\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\u0000\u0000\t\u0000\u0000\u0000\n\u0000\u0000\u0000\u000b\u0000\u0000\u0000\f\u0000\u0000\u0000\n\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0013\u0000\u0000\u0000E\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u001b\u0000\u0000\u0000\u001c\u0000\u0000\u0000A\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u001f\u0000\u0000\u0000 \u0000\u0000\u0000!\u0000\u0000\u0000\"\u0000\u0000\u0000#\u0000\u0000\u0000$\u0000\u0000\u0000%\u0000\u0000\u0000&\u0000\u0000\u0000'\u0000\u0000\u0000(\u0000\u0000\u0000)\u0000\u0000\u0000*\u0000\u0000\u0000+\u0000\u0000\u0000,\u0000\u0000\u0000-\u0000\u0000\u0000.\u0000\u0000\u0000/\u0000\u0000\u00000\u0000\u0000\u00001\u0000\u0000\u00002\u0000\u0000\u00003\u0000\u0000\u00004\u0000\u0000\u00005\u0000\u0000\u00006\u0000\u0000\u00007\u0000\u0000\u00008\u0000\u0000\u00009\u0000\u0000\u0000:\u0000\u0000\u0000;\u0000\u0000\u0000<\u0000\u0000\u0000=\u0000\u0000\u0000>\u0000\u0000\u0000?\u0000\u0000\u0000@\u0000\u0000\u0000B\u0000\u0000\u0000C\u0000\u0000\u0000U\u0000\u0000\u0000F\u0000\u0000\u0000G\u0000\u0000\u0000H\u0000\u0000\u0000I\u0000\u0000\u0000J\u0000\u0000\u0000K\u0000\u0000\u0000L\u0000\u0000\u0000M\u0000\u0000\u0000N\u0000\u0000\u0000O\u0000\u0000\u0000\u0000\u0000\u0000Q\u0000\u0000\u0000S\u0000\u0000\u0000T\u0000\u0000\u0000q\u0000\u0000\u0000V\u0000\u0000\u0000W\u0000\u0000\u0000X\u0000\u0000\u0000Y\u0000\u0000\u0000Z\u0000\u0000\u0000[\u0000\u0000\u0000\\\u0000\u0000\u0000o\u0000\u0000\u0000^\u0000\u0000\u0000_\u0000\u0000\u0000`\u0000\u0000\u0000a\u0000\u0000\u0000b\u0000\u0000\u0000c\u0000\u0000\u0000d\u0000\u0000\u0000e\u0000\u0000\u0000f\u0000\u0000\u0000g\u0000\u0000\u0000h\u0000\u0000\u0000i\u0000\u0000\u0000j\u0000\u0000\u0000k\u0000\u0000\u0000l\u0000\u0000\u0000m\u0000\u0000\u0000n\u0000\u0000\u0000p\u0000\u0000\u0000..."
 }

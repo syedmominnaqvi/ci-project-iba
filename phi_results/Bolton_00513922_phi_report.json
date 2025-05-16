@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Bolton Partners Inc/Bolton_00513922.pdf",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Bolton Partners Inc/Bolton_00513922.pdf",
     "file_name": "Bolton_00513922.pdf",
     "file_size": 180757,
     "text_length": 3708
@@ -32,13 +32,6 @@
       "start": 171,
       "end": 186,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "703-368-3161",
-      "start": 199,
-      "end": 211,
-      "type": "PHONE",
       "confidence": 0.5
     },
     {
@@ -77,24 +70,10 @@
       "confidence": 0.5
     },
     {
-      "text": "844-266-8268",
-      "start": 844,
-      "end": 856,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
       "text": "20112-3436",
       "start": 963,
       "end": 973,
       "type": "SSN",
-      "confidence": 0.5
-    },
-    {
-      "text": "703-259-6390",
-      "start": 981,
-      "end": 993,
-      "type": "PHONE",
       "confidence": 0.5
     },
     {
@@ -253,9 +232,327 @@
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Novant Health",
+      "start": 130,
+      "end": 143,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Health System",
+      "start": 148,
+      "end": 161,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Bull Run",
+      "start": 162,
+      "end": 170,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Family Medicine",
+      "start": 171,
+      "end": 186,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Monday November",
+      "start": 266,
+      "end": 281,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blood Pressure",
+      "start": 479,
+      "end": 493,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blood Pressure",
+      "start": 500,
+      "end": 514,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Visit \nView",
+      "start": 653,
+      "end": 664,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "After Visit",
+      "start": 670,
+      "end": 681,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "And Differential",
+      "start": 998,
+      "end": 1014,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Comprehensive Metabolic",
+      "start": 1036,
+      "end": 1059,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Panel\nComplete",
+      "start": 1060,
+      "end": 1074,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lipid Panel",
+      "start": 1087,
+      "end": 1098,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Microscopic\nComplete",
+      "start": 1171,
+      "end": 1191,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hyperlipidemia\nCervical",
+      "start": 1602,
+      "end": 1625,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Next \nProblem",
+      "start": 1840,
+      "end": 1853,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Problem List",
+      "start": 1952,
+      "end": 1964,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Erythromycin Ethylsuccinate",
+      "start": 2086,
+      "end": 2113,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Pravastatin\nNiacin",
+      "start": 2123,
+      "end": 2141,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "And Related",
+      "start": 2142,
+      "end": 2153,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Tabs\nGeneric",
+      "start": 2702,
+      "end": 2714,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Tabs\nGeneric",
+      "start": 2783,
+      "end": 2795,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Novant Health",
+      "start": 3034,
+      "end": 3047,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Novant Health",
+      "start": 3090,
+      "end": 3103,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Video Library",
+      "start": 3104,
+      "end": 3117,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "At Novant",
+      "start": 3119,
+      "end": 3128,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Novant Health",
+      "start": 3238,
+      "end": 3251,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Your Medication",
+      "start": 3602,
+      "end": 3617,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Your Medication",
+      "start": 3657,
+      "end": 3672,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "List\nMaking",
+      "start": 3673,
+      "end": 3684,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Healthcare Remarkable",
+      "start": 3685,
+      "end": 3706,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "703-368-3161",
+      "start": 199,
+      "end": 211,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-266-8268",
+      "start": 844,
+      "end": 856,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "703-259-6390",
+      "start": 981,
+      "end": 993,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "mychart@novanthealth.org",
+      "start": 793,
+      "end": 817,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "20112-3436",
+      "start": 963,
+      "end": 973,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "7/26/1947",
+      "start": 17,
+      "end": 26,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "11/25/19",
+      "start": 41,
+      "end": 49,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "7/26/1947",
+      "start": 96,
+      "end": 105,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "11/25/2019",
+      "start": 107,
+      "end": 117,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "11/25/2019",
+      "start": 1865,
+      "end": 1875,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "7/26/1947",
+      "start": 1894,
+      "end": 1903,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "11/25/19",
+      "start": 1918,
+      "end": 1926,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "11/25/2019",
+      "start": 1983,
+      "end": 1993,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "11/25/2019",
+      "start": 3590,
+      "end": 3600,
+      "type": "DATE",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
-    "genetic": 35,
-    "presidio": 0
+    "genetic": 32,
+    "presidio": 0,
+    "regex": 45
   },
   "text_sample": "Joseph A. Drago (7/26/1947) \u2022 Printed at 11/25/19 \u00a06:55 PM Page 1 of 2 \u00a0\u00a0 Joseph A. Drago \u00a0DoB: 7/26/1947\n\u00a011/25/2019 \u00a06:30 PM \u00a0 \u00a0Novant Health UVA Health System Bull Run Family Medicine (Manassas) \u00a0703-368-3161\nAFTER VISIT SUMMARY\nYou saw Robert A Latimer, MD on  \nMonday November 25, 2019. The  \nfollowing issues were addressed:\n\u2022Acquired hypothyroidism\n\u2022Essential hypertension\n\u2022Hypercholesterolemia\n\u2022Acute gout of right foot, unspecified  \ncause\n\u2022BPH with urinary obstruction\nBlood Pressure\nGoal: ..."
 }

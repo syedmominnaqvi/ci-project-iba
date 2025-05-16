@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Bolton Partners Inc/Bolton_01549572.pdf",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Bolton Partners Inc/Bolton_01549572.pdf",
     "file_name": "Bolton_01549572.pdf",
     "file_size": 213934,
     "text_length": 10649
@@ -33,13 +33,6 @@
       "end": 89,
       "type": "NAME",
       "confidence": 0.5
-    },
-    {
-      "text": "866-224-3100",
-      "start": 119,
-      "end": 131,
-      "type": "PHONE",
-      "confidence": 0.578957937674618
     },
     {
       "text": "Hospital Indemnity",
@@ -294,13 +287,6 @@
       "confidence": 0.5
     },
     {
-      "text": "443-553-1221",
-      "start": 2582,
-      "end": 2594,
-      "type": "PHONE",
-      "confidence": 0.578957937674618
-    },
-    {
       "text": "Queen Anne",
       "start": 2595,
       "end": 2605,
@@ -315,13 +301,6 @@
       "confidence": 0.5
     },
     {
-      "text": "410-758-4510",
-      "start": 2661,
-      "end": 2673,
-      "type": "PHONE",
-      "confidence": 0.578957937674618
-    },
-    {
       "text": "Surgery\nDr",
       "start": 2724,
       "end": 2734,
@@ -334,13 +313,6 @@
       "end": 2747,
       "type": "NAME",
       "confidence": 0.5
-    },
-    {
-      "text": "302-892-9900",
-      "start": 2749,
-      "end": 2761,
-      "type": "PHONE",
-      "confidence": 0.578957937674618
     },
     {
       "text": "Christiana Care",
@@ -372,9 +344,397 @@
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Transamerica Life",
+      "start": 0,
+      "end": 17,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Insurance Company",
+      "start": 18,
+      "end": 35,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Administrative Office",
+      "start": 39,
+      "end": 60,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Little Rock",
+      "start": 78,
+      "end": 89,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hospital Indemnity",
+      "start": 182,
+      "end": 200,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Claim Fo",
+      "start": 203,
+      "end": 211,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Complete Sections",
+      "start": 375,
+      "end": 392,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Claim Form",
+      "start": 468,
+      "end": 478,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Full Name",
+      "start": 649,
+      "end": 658,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Social Security",
+      "start": 677,
+      "end": 692,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Certificate Numbe",
+      "start": 709,
+      "end": 726,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Zip Code",
+      "start": 760,
+      "end": 768,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Phone Number",
+      "start": 772,
+      "end": 784,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Email Address",
+      "start": 799,
+      "end": 812,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Employer Name",
+      "start": 817,
+      "end": 830,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Work Phone",
+      "start": 850,
+      "end": 860,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Social Security",
+      "start": 1109,
+      "end": 1124,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Services  Performed",
+      "start": 1382,
+      "end": 1401,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Broken Arm",
+      "start": 1470,
+      "end": 1480,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Pay Provider",
+      "start": 1498,
+      "end": 1510,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Address\nPlease",
+      "start": 1547,
+      "end": 1561,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Services Rendered",
+      "start": 1828,
+      "end": 1845,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Relate Diagnosis",
+      "start": 1892,
+      "end": 1908,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Diagnosis Code",
+      "start": 1975,
+      "end": 1989,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Fully Describe",
+      "start": 2036,
+      "end": 2050,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medical Services",
+      "start": 2063,
+      "end": 2079,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Supplies Furnished",
+      "start": 2084,
+      "end": 2102,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Date Given",
+      "start": 2112,
+      "end": 2122,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Diagnosis \nCode",
+      "start": 2127,
+      "end": 2142,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Procedure Code",
+      "start": 2159,
+      "end": 2173,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Name  Explain",
+      "start": 2177,
+      "end": 2190,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Unusual Services",
+      "start": 2191,
+      "end": 2207,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Circumstances  \nYour",
+      "start": 2212,
+      "end": 2232,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Account Number",
+      "start": 2243,
+      "end": 2257,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Total Charge",
+      "start": 2259,
+      "end": 2271,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Amount Paid",
+      "start": 2273,
+      "end": 2284,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Balance Due",
+      "start": 2286,
+      "end": 2297,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Date  \nIf",
+      "start": 2363,
+      "end": 2372,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Cecil St",
+      "start": 2550,
+      "end": 2558,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Queen Anne",
+      "start": 2595,
+      "end": 2605,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "County Governmentmdmclennan",
+      "start": 2608,
+      "end": 2635,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Surgery\nDr",
+      "start": 2724,
+      "end": 2734,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Isaias Irgau",
+      "start": 2735,
+      "end": 2747,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Christiana Care",
+      "start": 2762,
+      "end": 2777,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Health Systems",
+      "start": 2778,
+      "end": 2792,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Wilmington Hospital",
+      "start": 2794,
+      "end": 2813,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Colorado Division",
+      "start": 6560,
+      "end": 6577,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "866-224-3100",
+      "start": 119,
+      "end": 131,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "443-553-1221",
+      "start": 2582,
+      "end": 2594,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "410-758-4510",
+      "start": 2661,
+      "end": 2673,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "302-892-9900",
+      "start": 2749,
+      "end": 2761,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "Governmentmdmclennan@yahoo.com",
+      "start": 2615,
+      "end": 2645,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "216-84-8149",
+      "start": 2534,
+      "end": 2545,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/05/1969",
+      "start": 2523,
+      "end": 2533,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/05/1969",
+      "start": 2688,
+      "end": 2698,
+      "type": "DATE",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
-    "genetic": 52,
-    "presidio": 0
+    "genetic": 48,
+    "presidio": 0,
+    "regex": 55
   },
   "text_sample": "Transamerica Life Insurance Company   \nAdministrative Office: P.O. Box 8043  \nLittle Rock, AR  72203 -8043  \nPhone: 1 -866-224-3100 (7:00 A.M. \u2013 5:00 P.M. CST)  \nFax: 866 -586-6528  Hospital Indemnity  \nClaim Fo rm \nBy furnishing this form, the Company does not admit that there is any insurance in force and does not waive any of it\u2019s right s or defenses \nTo file a claim:  Complete Sections 1 and 2.  Attach an itemized statement and complete Section 3.  Submit the Claim Form with the itemized sta..."
 }

@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/HDI Global Insurance Company/HDI_GIC_0000065247.pdf",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/HDI Global Insurance Company/HDI_GIC_0000065247.pdf",
     "file_name": "HDI_GIC_0000065247.pdf",
     "file_size": 88537,
     "text_length": 8154
@@ -11,923 +11,1990 @@
       "start": 143,
       "end": 153,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Indem Medical",
       "start": 166,
       "end": 179,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Number\nPol",
       "start": 196,
       "end": 206,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Eff Date",
       "start": 208,
       "end": 216,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Nature\nFirst",
       "start": 238,
       "end": 250,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Juris St",
       "start": 286,
       "end": 294,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Injured\nLoss",
       "start": 354,
       "end": 366,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Location Department",
       "start": 383,
       "end": 402,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Reserves\nPayments",
       "start": 417,
       "end": 434,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Totum Food",
       "start": 466,
       "end": 476,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Sprain Ankle",
       "start": 515,
       "end": 527,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Totum Food",
       "start": 1036,
       "end": 1046,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Indem Medical",
       "start": 1059,
       "end": 1072,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Number\nPol",
       "start": 1089,
       "end": 1099,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Eff Date",
       "start": 1101,
       "end": 1109,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Nature\nFirst",
       "start": 1131,
       "end": 1143,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Juris St",
       "start": 1179,
       "end": 1187,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Injured\nLoss",
       "start": 1247,
       "end": 1259,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Location Department",
       "start": 1276,
       "end": 1295,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Insured\nReserves",
       "start": 1296,
       "end": 1312,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Payments\nIncurred",
       "start": 1313,
       "end": 1330,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Totum Food",
       "start": 1615,
       "end": 1625,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Indem Medical",
       "start": 1638,
       "end": 1651,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Number\nPol",
       "start": 1668,
       "end": 1678,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Eff Date",
       "start": 1680,
       "end": 1688,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Nature\nFirst",
       "start": 1710,
       "end": 1722,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Juris St",
       "start": 1758,
       "end": 1766,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Injured\nLoss",
       "start": 1826,
       "end": 1838,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Location Department",
       "start": 1855,
       "end": 1874,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Reserves\nPayments",
       "start": 1889,
       "end": 1906,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Totum Food",
       "start": 1936,
       "end": 1946,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Sprain Knee",
       "start": 1985,
       "end": 1996,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Injury By",
       "start": 2080,
       "end": 2089,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Main St",
       "start": 2104,
       "end": 2111,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Boise City",
       "start": 2113,
       "end": 2123,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Main St",
       "start": 2139,
       "end": 2146,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Boise City",
       "start": 2148,
       "end": 2158,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Reserves\nPayments",
       "start": 2307,
       "end": 2324,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Totum Food",
       "start": 2354,
       "end": 2364,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Fracture Hip",
       "start": 2403,
       "end": 2415,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "On Same",
       "start": 2510,
       "end": 2517,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Main St",
       "start": 2527,
       "end": 2534,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Boise City",
       "start": 2536,
       "end": 2546,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Main St",
       "start": 2562,
       "end": 2569,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Boise City",
       "start": 2571,
       "end": 2581,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Totum Food",
       "start": 2861,
       "end": 2871,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Indem Medical",
       "start": 2884,
       "end": 2897,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Number\nPol",
       "start": 2914,
       "end": 2924,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Eff Date",
       "start": 2926,
       "end": 2934,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Nature\nFirst",
       "start": 2956,
       "end": 2968,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Juris St",
       "start": 3004,
       "end": 3012,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Injured\nLoss",
       "start": 3072,
       "end": 3084,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Location Department",
       "start": 3101,
       "end": 3120,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Insured\nReserves",
       "start": 3121,
       "end": 3137,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Payments\nIncurred",
       "start": 3138,
       "end": 3155,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Totum Food",
       "start": 3460,
       "end": 3470,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Indem Medical",
       "start": 3483,
       "end": 3496,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Number\nPol",
       "start": 3513,
       "end": 3523,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Eff Date",
       "start": 3525,
       "end": 3533,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Nature\nFirst",
       "start": 3555,
       "end": 3567,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Juris St",
       "start": 3603,
       "end": 3611,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Injured\nLoss",
       "start": 3671,
       "end": 3683,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Location Department",
       "start": 3700,
       "end": 3719,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Reserves\nPayments",
       "start": 3733,
       "end": 3750,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Totum Food",
       "start": 3780,
       "end": 3790,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Days Recoveries",
       "start": 3851,
       "end": 3866,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Totum Food",
       "start": 4043,
       "end": 4053,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Indem Medical",
       "start": 4066,
       "end": 4079,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Number\nPol",
       "start": 4096,
       "end": 4106,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Eff Date",
       "start": 4108,
       "end": 4116,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Nature\nFirst",
       "start": 4138,
       "end": 4150,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Juris St",
       "start": 4186,
       "end": 4194,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Injured\nLoss",
       "start": 4254,
       "end": 4266,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Location Department",
       "start": 4283,
       "end": 4302,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Insured\nReserves",
       "start": 4303,
       "end": 4319,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Payments\nIncurred",
       "start": 4320,
       "end": 4337,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Totum Food",
       "start": 4597,
       "end": 4607,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Indem Medical",
       "start": 4620,
       "end": 4633,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Number\nPol",
       "start": 4650,
       "end": 4660,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Eff Date",
       "start": 4662,
       "end": 4670,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Nature\nFirst",
       "start": 4692,
       "end": 4704,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Juris St",
       "start": 4740,
       "end": 4748,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Injured\nLoss",
       "start": 4808,
       "end": 4820,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Location Department",
       "start": 4837,
       "end": 4856,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Reserves\nPayments",
       "start": 4871,
       "end": 4888,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Totum Food",
       "start": 4920,
       "end": 4930,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Syncope Body",
       "start": 4969,
       "end": 4981,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Multiple Body",
       "start": 4992,
       "end": 5005,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "On Same",
       "start": 5092,
       "end": 5099,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Totum Food",
       "start": 5504,
       "end": 5514,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Indem Medical",
       "start": 5527,
       "end": 5540,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Number\nPol",
       "start": 5557,
       "end": 5567,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Eff Date",
       "start": 5569,
       "end": 5577,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Nature\nFirst",
       "start": 5599,
       "end": 5611,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Juris St",
       "start": 5647,
       "end": 5655,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Injured\nLoss",
       "start": 5715,
       "end": 5727,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Location Department",
       "start": 5744,
       "end": 5763,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Insured\nReserves",
       "start": 5764,
       "end": 5780,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Payments\nIncurred",
       "start": 5781,
       "end": 5798,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Totum Food",
       "start": 6075,
       "end": 6085,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Indem Medical",
       "start": 6098,
       "end": 6111,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Number\nPol",
       "start": 6128,
       "end": 6138,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Eff Date",
       "start": 6140,
       "end": 6148,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Nature\nFirst",
       "start": 6170,
       "end": 6182,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Juris St",
       "start": 6218,
       "end": 6226,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Injured\nLoss",
       "start": 6286,
       "end": 6298,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Location Department",
       "start": 6315,
       "end": 6334,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Reserves\nPayments",
       "start": 6350,
       "end": 6367,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Totum Food",
       "start": 6399,
       "end": 6409,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Sprain Ankle",
       "start": 6448,
       "end": 6460,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Totum Food",
       "start": 6965,
       "end": 6975,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Indem Medical",
       "start": 6988,
       "end": 7001,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Number\nPol",
       "start": 7018,
       "end": 7028,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Eff Date",
       "start": 7030,
       "end": 7038,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Nature\nFirst",
       "start": 7060,
       "end": 7072,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Juris St",
       "start": 7108,
       "end": 7116,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Injured\nLoss",
       "start": 7176,
       "end": 7188,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Location Department",
       "start": 7205,
       "end": 7224,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Insured\nReserves",
       "start": 7225,
       "end": 7241,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Payments\nIncurred",
       "start": 7242,
       "end": 7259,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Totum Food",
       "start": 7543,
       "end": 7553,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Report Totals",
       "start": 7566,
       "end": 7579,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Indem Medical",
       "start": 7580,
       "end": 7593,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Open\nTotals",
       "start": 7737,
       "end": 7748,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Closed\nReport",
       "start": 7754,
       "end": 7767,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Payments\nRecoveries",
       "start": 7937,
       "end": 7956,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Policy Loss",
       "start": 8037,
       "end": 8048,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Run Selection",
       "start": 8049,
       "end": 8062,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Totum Food",
       "start": 8071,
       "end": 8081,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Loss Statuses",
       "start": 8094,
       "end": 8107,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "All Statuses",
       "start": 8109,
       "end": 8121,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Totum Food",
+      "start": 143,
+      "end": 153,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Indem Medical",
+      "start": 166,
+      "end": 179,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Number\nPol",
+      "start": 196,
+      "end": 206,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Eff Date",
+      "start": 208,
+      "end": 216,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Nature\nFirst",
+      "start": 238,
+      "end": 250,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Juris St",
+      "start": 286,
+      "end": 294,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Injured\nLoss",
+      "start": 354,
+      "end": 366,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Location Department",
+      "start": 383,
+      "end": 402,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Reserves\nPayments",
+      "start": 417,
+      "end": 434,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Totum Food",
+      "start": 466,
+      "end": 476,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sprain Ankle",
+      "start": 515,
+      "end": 527,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Totum Food",
+      "start": 1036,
+      "end": 1046,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Indem Medical",
+      "start": 1059,
+      "end": 1072,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Number\nPol",
+      "start": 1089,
+      "end": 1099,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Eff Date",
+      "start": 1101,
+      "end": 1109,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Nature\nFirst",
+      "start": 1131,
+      "end": 1143,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Juris St",
+      "start": 1179,
+      "end": 1187,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Injured\nLoss",
+      "start": 1247,
+      "end": 1259,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Location Department",
+      "start": 1276,
+      "end": 1295,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Insured\nReserves",
+      "start": 1296,
+      "end": 1312,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Payments\nIncurred",
+      "start": 1313,
+      "end": 1330,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Totum Food",
+      "start": 1615,
+      "end": 1625,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Indem Medical",
+      "start": 1638,
+      "end": 1651,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Number\nPol",
+      "start": 1668,
+      "end": 1678,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Eff Date",
+      "start": 1680,
+      "end": 1688,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Nature\nFirst",
+      "start": 1710,
+      "end": 1722,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Juris St",
+      "start": 1758,
+      "end": 1766,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Injured\nLoss",
+      "start": 1826,
+      "end": 1838,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Location Department",
+      "start": 1855,
+      "end": 1874,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Reserves\nPayments",
+      "start": 1889,
+      "end": 1906,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Totum Food",
+      "start": 1936,
+      "end": 1946,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sprain Knee",
+      "start": 1985,
+      "end": 1996,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Injury By",
+      "start": 2080,
+      "end": 2089,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Main St",
+      "start": 2104,
+      "end": 2111,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Boise City",
+      "start": 2113,
+      "end": 2123,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Main St",
+      "start": 2139,
+      "end": 2146,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Boise City",
+      "start": 2148,
+      "end": 2158,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Reserves\nPayments",
+      "start": 2307,
+      "end": 2324,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Totum Food",
+      "start": 2354,
+      "end": 2364,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Fracture Hip",
+      "start": 2403,
+      "end": 2415,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Same",
+      "start": 2510,
+      "end": 2517,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Main St",
+      "start": 2527,
+      "end": 2534,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Boise City",
+      "start": 2536,
+      "end": 2546,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Main St",
+      "start": 2562,
+      "end": 2569,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Boise City",
+      "start": 2571,
+      "end": 2581,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Totum Food",
+      "start": 2861,
+      "end": 2871,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Indem Medical",
+      "start": 2884,
+      "end": 2897,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Number\nPol",
+      "start": 2914,
+      "end": 2924,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Eff Date",
+      "start": 2926,
+      "end": 2934,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Nature\nFirst",
+      "start": 2956,
+      "end": 2968,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Juris St",
+      "start": 3004,
+      "end": 3012,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Injured\nLoss",
+      "start": 3072,
+      "end": 3084,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Location Department",
+      "start": 3101,
+      "end": 3120,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Insured\nReserves",
+      "start": 3121,
+      "end": 3137,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Payments\nIncurred",
+      "start": 3138,
+      "end": 3155,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Totum Food",
+      "start": 3460,
+      "end": 3470,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Indem Medical",
+      "start": 3483,
+      "end": 3496,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Number\nPol",
+      "start": 3513,
+      "end": 3523,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Eff Date",
+      "start": 3525,
+      "end": 3533,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Nature\nFirst",
+      "start": 3555,
+      "end": 3567,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Juris St",
+      "start": 3603,
+      "end": 3611,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Injured\nLoss",
+      "start": 3671,
+      "end": 3683,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Location Department",
+      "start": 3700,
+      "end": 3719,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Reserves\nPayments",
+      "start": 3733,
+      "end": 3750,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Totum Food",
+      "start": 3780,
+      "end": 3790,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Days Recoveries",
+      "start": 3851,
+      "end": 3866,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Totum Food",
+      "start": 4043,
+      "end": 4053,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Indem Medical",
+      "start": 4066,
+      "end": 4079,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Number\nPol",
+      "start": 4096,
+      "end": 4106,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Eff Date",
+      "start": 4108,
+      "end": 4116,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Nature\nFirst",
+      "start": 4138,
+      "end": 4150,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Juris St",
+      "start": 4186,
+      "end": 4194,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Injured\nLoss",
+      "start": 4254,
+      "end": 4266,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Location Department",
+      "start": 4283,
+      "end": 4302,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Insured\nReserves",
+      "start": 4303,
+      "end": 4319,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Payments\nIncurred",
+      "start": 4320,
+      "end": 4337,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Totum Food",
+      "start": 4597,
+      "end": 4607,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Indem Medical",
+      "start": 4620,
+      "end": 4633,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Number\nPol",
+      "start": 4650,
+      "end": 4660,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Eff Date",
+      "start": 4662,
+      "end": 4670,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Nature\nFirst",
+      "start": 4692,
+      "end": 4704,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Juris St",
+      "start": 4740,
+      "end": 4748,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Injured\nLoss",
+      "start": 4808,
+      "end": 4820,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Location Department",
+      "start": 4837,
+      "end": 4856,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Reserves\nPayments",
+      "start": 4871,
+      "end": 4888,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Totum Food",
+      "start": 4920,
+      "end": 4930,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Syncope Body",
+      "start": 4969,
+      "end": 4981,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Multiple Body",
+      "start": 4992,
+      "end": 5005,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Same",
+      "start": 5092,
+      "end": 5099,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Totum Food",
+      "start": 5504,
+      "end": 5514,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Indem Medical",
+      "start": 5527,
+      "end": 5540,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Number\nPol",
+      "start": 5557,
+      "end": 5567,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Eff Date",
+      "start": 5569,
+      "end": 5577,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Nature\nFirst",
+      "start": 5599,
+      "end": 5611,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Juris St",
+      "start": 5647,
+      "end": 5655,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Injured\nLoss",
+      "start": 5715,
+      "end": 5727,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Location Department",
+      "start": 5744,
+      "end": 5763,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Insured\nReserves",
+      "start": 5764,
+      "end": 5780,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Payments\nIncurred",
+      "start": 5781,
+      "end": 5798,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Totum Food",
+      "start": 6075,
+      "end": 6085,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Indem Medical",
+      "start": 6098,
+      "end": 6111,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Number\nPol",
+      "start": 6128,
+      "end": 6138,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Eff Date",
+      "start": 6140,
+      "end": 6148,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Nature\nFirst",
+      "start": 6170,
+      "end": 6182,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Juris St",
+      "start": 6218,
+      "end": 6226,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Injured\nLoss",
+      "start": 6286,
+      "end": 6298,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Location Department",
+      "start": 6315,
+      "end": 6334,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Reserves\nPayments",
+      "start": 6350,
+      "end": 6367,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Totum Food",
+      "start": 6399,
+      "end": 6409,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sprain Ankle",
+      "start": 6448,
+      "end": 6460,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Totum Food",
+      "start": 6965,
+      "end": 6975,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Indem Medical",
+      "start": 6988,
+      "end": 7001,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Number\nPol",
+      "start": 7018,
+      "end": 7028,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Eff Date",
+      "start": 7030,
+      "end": 7038,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Nature\nFirst",
+      "start": 7060,
+      "end": 7072,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Juris St",
+      "start": 7108,
+      "end": 7116,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Injured\nLoss",
+      "start": 7176,
+      "end": 7188,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Location Department",
+      "start": 7205,
+      "end": 7224,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Insured\nReserves",
+      "start": 7225,
+      "end": 7241,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Payments\nIncurred",
+      "start": 7242,
+      "end": 7259,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Totum Food",
+      "start": 7543,
+      "end": 7553,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Report Totals",
+      "start": 7566,
+      "end": 7579,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Indem Medical",
+      "start": 7580,
+      "end": 7593,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Open\nTotals",
+      "start": 7737,
+      "end": 7748,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Closed\nReport",
+      "start": 7754,
+      "end": 7767,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Payments\nRecoveries",
+      "start": 7937,
+      "end": 7956,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Policy Loss",
+      "start": 8037,
+      "end": 8048,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Run Selection",
+      "start": 8049,
+      "end": 8062,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Totum Food",
+      "start": 8071,
+      "end": 8081,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Loss Statuses",
+      "start": 8094,
+      "end": 8107,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "All Statuses",
+      "start": 8109,
+      "end": 8121,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "1/31/2022",
+      "start": 0,
+      "end": 9,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "07/21/2018",
+      "start": 563,
+      "end": 573,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "07/25/2018",
+      "start": 693,
+      "end": 703,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1/31/2022",
+      "start": 893,
+      "end": 902,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1/31/2022",
+      "start": 1472,
+      "end": 1481,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "03/01/2019",
+      "start": 2035,
+      "end": 2045,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "03/04/2019",
+      "start": 2170,
+      "end": 2180,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/14/2019",
+      "start": 2460,
+      "end": 2470,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/16/2019",
+      "start": 2593,
+      "end": 2603,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1/31/2022",
+      "start": 2718,
+      "end": 2727,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1/31/2022",
+      "start": 3317,
+      "end": 3326,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1/31/2022",
+      "start": 3900,
+      "end": 3909,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1/31/2022",
+      "start": 4454,
+      "end": 4463,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "10/03/2021",
+      "start": 5044,
+      "end": 5054,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "10/07/2021",
+      "start": 5177,
+      "end": 5187,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1/31/2022",
+      "start": 5361,
+      "end": 5370,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1/31/2022",
+      "start": 5932,
+      "end": 5941,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "12/28/2021",
+      "start": 6499,
+      "end": 6509,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/14/2022",
+      "start": 6640,
+      "end": 6650,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1/31/2022",
+      "start": 6821,
+      "end": 6830,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1/31/2022",
+      "start": 7399,
+      "end": 7408,
+      "type": "DATE",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
     "genetic": 131,
-    "presidio": 0
+    "presidio": 0,
+    "regex": 152
   },
   "text_sample": "1/31/2022 Report ID:\nRun ID:\nUser: 10224744 677\nCOMPRISKAmTrust North America11:27:19AMDate:\nTime:\nPage:WC LOSS RUN REPORT\nPage 1 of 11\nToot N Totum Food Stores, LLC\nIndem Medical LAE TotalPolicy Number\nPol. Eff Date Date RcvdConverted # Nature\nFirst AwareClaimant\nClass CdClaim No\nDOL\nJuris St\nReporting LagEmployee LagStatus\nAdjusterCategory CausePart Injured\nLoss DescriptionLoss Location Department\nInsured\n 55 0 Reserves\nPayments\nIncurred 1\n0\nKWC1110454\nToot N Totum Food Stores, \nLLC12/01/20170..."
 }

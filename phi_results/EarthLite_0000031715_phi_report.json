@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/EarthLite LLC/EarthLite_0000031715.pdf",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/EarthLite LLC/EarthLite_0000031715.pdf",
     "file_name": "EarthLite_0000031715.pdf",
     "file_size": 143573,
     "text_length": 33821
@@ -512,9 +512,558 @@
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Compensation Claim",
+      "start": 37,
+      "end": 55,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Potential Eligibility",
+      "start": 81,
+      "end": 102,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Posible Elegibilidad",
+      "start": 187,
+      "end": 207,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medical Care",
+      "start": 1651,
+      "end": 1663,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "The Primary",
+      "start": 2169,
+      "end": 2180,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Treating Physician",
+      "start": 2181,
+      "end": 2199,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Health Care",
+      "start": 2519,
+      "end": 2530,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Different Doctor",
+      "start": 4204,
+      "end": 4220,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medical Provider",
+      "start": 4268,
+      "end": 4284,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Health  Care",
+      "start": 4404,
+      "end": 4416,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Si Ud",
+      "start": 4995,
+      "end": 5000,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Primary Treating",
+      "start": 7434,
+      "end": 7450,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medical \nProvider",
+      "start": 7766,
+      "end": 7783,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Health \nCare",
+      "start": 7836,
+      "end": 7848,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medical Records",
+      "start": 9931,
+      "end": 9946,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medical Care",
+      "start": 10330,
+      "end": 10342,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medical Reports",
+      "start": 10347,
+      "end": 10362,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Learn \nMore",
+      "start": 10706,
+      "end": 10717,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "About Workers",
+      "start": 10718,
+      "end": 10731,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Temporary Disability",
+      "start": 12280,
+      "end": 12300,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lost Wages",
+      "start": 12302,
+      "end": 12312,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Permanent Disability",
+      "start": 13721,
+      "end": 13741,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Supplemental Job",
+      "start": 14055,
+      "end": 14071,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Displacement Benefit",
+      "start": 14072,
+      "end": 14092,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Death Benefits",
+      "start": 14465,
+      "end": 14479,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medical Provider",
+      "start": 14548,
+      "end": 14564,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Healthcare Organization",
+      "start": 14744,
+      "end": 14767,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Si Ud",
+      "start": 15735,
+      "end": 15740,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Independent Medical",
+      "start": 16686,
+      "end": 16705,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Qualified Medical",
+      "start": 17911,
+      "end": 17928,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Agreed Medical",
+      "start": 18147,
+      "end": 18161,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Incapacidad Temporal",
+      "start": 18374,
+      "end": 18394,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sueldos Perdidos",
+      "start": 18396,
+      "end": 18412,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Si Ud",
+      "start": 18415,
+      "end": 18420,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Labor Code",
+      "start": 19634,
+      "end": 19644,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Resolving Problems",
+      "start": 19787,
+      "end": 19805,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "State Disability",
+      "start": 20061,
+      "end": 20077,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Employment Development",
+      "start": 20151,
+      "end": 20173,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "You Can",
+      "start": 20266,
+      "end": 20273,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "State Bar",
+      "start": 21027,
+      "end": 21036,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Learn More",
+      "start": 21130,
+      "end": 21140,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "About Workers",
+      "start": 21141,
+      "end": 21154,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Injured Workers",
+      "start": 21370,
+      "end": 21385,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Assistance Officer",
+      "start": 21427,
+      "end": 21445,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Incapacidad Permanente",
+      "start": 22259,
+      "end": 22281,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Beneficio Suplementario",
+      "start": 22597,
+      "end": 22620,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Supplemental Job",
+      "start": 22652,
+      "end": 22668,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Displacement Benefit",
+      "start": 22670,
+      "end": 22690,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Si Ud",
+      "start": 22700,
+      "end": 22705,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Si Ud",
+      "start": 23045,
+      "end": 23050,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Si Ud",
+      "start": 23930,
+      "end": 23935,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Seguro Estatalde",
+      "start": 24152,
+      "end": 24168,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "State Disability",
+      "start": 24182,
+      "end": 24198,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Unemployment Insurance",
+      "start": 24245,
+      "end": 24267,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Puede Contactar",
+      "start": 24412,
+      "end": 24427,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Los Oficiales",
+      "start": 24504,
+      "end": 24517,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Si Ud",
+      "start": 25223,
+      "end": 25228,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "State Bar",
+      "start": 25446,
+      "end": 25455,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Trabajadores Lesionados",
+      "start": 25831,
+      "end": 25854,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "California  \nDepartment",
+      "start": 26025,
+      "end": 26048,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Industrial Relations",
+      "start": 26052,
+      "end": 26072,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "California \nDepartamento",
+      "start": 26167,
+      "end": 26191,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Relaciones Industriales",
+      "start": 26196,
+      "end": 26219,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Temporary Receipt",
+      "start": 26447,
+      "end": 26464,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Recibo Temporal",
+      "start": 27489,
+      "end": 27504,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Posible \nElegibilidad",
+      "start": 27804,
+      "end": 27825,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Home Address",
+      "start": 29393,
+      "end": 29405,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Social Security",
+      "start": 30436,
+      "end": 30451,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Seguro Social",
+      "start": 30470,
+      "end": 30483,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Insurance Policy",
+      "start": 32528,
+      "end": 32544,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Claims Administrator",
+      "start": 33727,
+      "end": 33747,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Temporary Receipt",
+      "start": 33779,
+      "end": 33796,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "1/1/2016",
+      "start": 5,
+      "end": 13,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1/1/2016",
+      "start": 9814,
+      "end": 9822,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1/1/04",
+      "start": 14134,
+      "end": 14140,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1/1/2016",
+      "start": 19330,
+      "end": 19338,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1/1/04",
+      "start": 22735,
+      "end": 22741,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1/1/2016",
+      "start": 26006,
+      "end": 26014,
+      "type": "DATE",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
     "genetic": 72,
-    "presidio": 0
+    "presidio": 0,
+    "regex": 78
   },
   "text_sample": "Rev. 1/1/2016   Page 1 of 3 Workers\u2019 Compensation Claim Form (DWC 1) & Notice of Potential Eligibility   \nFormulario de Reclamo de Compensaci\u00f3n de Trabajad ores (DWC 1) y Notificaci\u00f3n de Posible Elegibilidad \nIf you are injured or become ill, either phy sically or mentally, because of your job, \nincluding injuries resulting from a wo rkplace crime, you may be entitled to \nworkers\u2019 compensation benefits. Use the attached form to file a workers\u2019 \ncompensation claim with your employer. You should r..."
 }

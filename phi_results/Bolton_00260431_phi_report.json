@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Bolton Partners Inc/Bolton_00260431.msg",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Bolton Partners Inc/Bolton_00260431.msg",
     "file_name": "Bolton_00260431.msg",
     "file_size": 2765312,
     "text_length": 1048576
@@ -281,9 +281,327 @@
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Bruce Duffy",
+      "start": 4057,
+      "end": 4068,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Bruce Duffy",
+      "start": 7297,
+      "end": 7308,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "First Organization",
+      "start": 23831,
+      "end": 23849,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Uf\nPj",
+      "start": 72235,
+      "end": 72240,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Efe\nKk",
+      "start": 77691,
+      "end": 77697,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Fb\nFqi",
+      "start": 96029,
+      "end": 96035,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Nc\nHx",
+      "start": 123413,
+      "end": 123418,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lr\fGb",
+      "start": 145720,
+      "end": 145725,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Kgn\u000bAp",
+      "start": 148390,
+      "end": 148396,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Um\u001dCp",
+      "start": 152563,
+      "end": 152568,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Ao\tEi",
+      "start": 182722,
+      "end": 182727,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Rk\fWr",
+      "start": 199724,
+      "end": 199729,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Cx\tXw",
+      "start": 207774,
+      "end": 207779,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Do\nBm",
+      "start": 230945,
+      "end": 230950,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Cy\fJl",
+      "start": 233618,
+      "end": 233623,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "So\tOiubi",
+      "start": 247318,
+      "end": 247326,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Fyqc\nMn",
+      "start": 308813,
+      "end": 308820,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Mj\fBc",
+      "start": 324167,
+      "end": 324172,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Cg\u001d\u001cVz",
+      "start": 405779,
+      "end": 405785,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Uoo Ky",
+      "start": 503576,
+      "end": 503582,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Fq\fRn",
+      "start": 505353,
+      "end": 505358,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Mr\fOs",
+      "start": 518568,
+      "end": 518573,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Li\u001eKe",
+      "start": 544271,
+      "end": 544276,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hp\nXn",
+      "start": 557572,
+      "end": 557577,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sh\u000b\fVv",
+      "start": 579991,
+      "end": 579997,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Gs Wbb",
+      "start": 626763,
+      "end": 626769,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Ki\tNp",
+      "start": 667287,
+      "end": 667292,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Xui\nHp",
+      "start": 731636,
+      "end": 731642,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Zc\tAo",
+      "start": 797859,
+      "end": 797864,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Zk\u001c\u001fFz",
+      "start": 814817,
+      "end": 814823,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Gu\u001eGx",
+      "start": 818916,
+      "end": 818921,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Xb\u001cFk",
+      "start": 820381,
+      "end": 820386,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Fea\tQp",
+      "start": 841134,
+      "end": 841140,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Oqy\u001dIz",
+      "start": 895375,
+      "end": 895381,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Ol\nUu",
+      "start": 937787,
+      "end": 937792,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Oj Ctn",
+      "start": 968173,
+      "end": 968179,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Aq\u000bSg",
+      "start": 973626,
+      "end": 973631,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Ks\nIn",
+      "start": 1015582,
+      "end": 1015587,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "1420506942",
+      "start": 52478,
+      "end": 52488,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "BRUCEMDUFFY@GMAIL.COM",
+      "start": 2771,
+      "end": 2792,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "brucemduffy@gmail.com",
+      "start": 4074,
+      "end": 4095,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "brucemduffy@gmail.com",
+      "start": 7314,
+      "end": 7335,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "BRUCEMDUFFY@GMAIL.COM",
+      "start": 7406,
+      "end": 7427,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "guj0@asg8.bR",
+      "start": 150883,
+      "end": 150895,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "KK+@1.NC",
+      "start": 508989,
+      "end": 508997,
+      "type": "EMAIL",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
     "genetic": 39,
-    "presidio": 0
+    "presidio": 0,
+    "regex": 45
   },
   "text_sample": "\u0011\u0871\u001a\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000>\u0000\u0003\u0000\t\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000+\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0002\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00007\u0000\u0000\u00008\u0000\u0000\u00009\u0000\u0000\u0000:\u0000\u0000\u0000;\u0000\u0000\u0000<\u0000\u0000\u0000=\u0000\u0000\u0000>\u0000\u0000\u0000?\u0000\u0000\u0000@\u0000\u0000\u0000A\u0000\u0000\u0000B\u0000\u0000\u0000C\u0000\u0000\u0000D\u0000\u0000\u0000E\u0000\u0000\u0000F\u0000\u0000\u0000G\u0000\u0000\u0000H\u0000\u0000\u0000I\u0000\u0000\u0000J\u0000\u0000\u0000K\u0000\u0000\u0000L\u0000\u0000\u0000M\u0000\u0000\u0000N\u0000\u0000\u0000O\u0000\u0000\u0000P\u0000\u0000\u0000Q\u0000\u0000\u0000R\u0000\u0000\u0000S\u0000\u0000\u0000T\u0000\u0000\u0000U\u0000\u0000\u0000V\u0000\u0000\u0000W\u0000\u0000\u0000X\u0000\u0000\u0000Y\u0000\u0000\u0000Z\u0000\u0000\u0000[\u0000\u0000\u0000\\\u0000\u0000\u0000]\u0000\u0000\u0000^\u0000\u0000\u0000_\u0000\u0000\u0000\u0014\u0000\u0000\u0004\u0000\u0000\u0000+\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0006\u0000\u0000\u0000\b\u0000\u0000\u0000\u0007\u0000\u0000\u0000\t\u0000\u0000\u0000\u000b\u0000\u0000\u0000\n\u0000\u0000\u0000\f\u0000\u0000\u0000\n\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u001d\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0013\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u001b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\"\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u001f\u0000\u0000\u0000 \u0000\u0000\u0000!\u0000\u0000\u0000#\u0000\u0000\u0000$\u0000\u0000\u0000%\u0000\u0000\u0000&\u0000\u0000\u0000'\u0000\u0000\u0000*\u0000\u0000\u0000(\u0000\u0000\u0000)\u0000\u0000\u0000,\u0000\u0000\u00000\u0000\u0000\u0000-\u0000\u0000\u0000.\u0000\u0000\u0000/\u0000\u0000\u00001\u0000\u0000\u00002\u0000\u0000\u00004\u0000\u0000\u00003\u0000\u0000\u00005\u0000\u0000\u00006\u0000\u0000\u0000\u0014\u0000\u0000\u0014\u0000\u0000a\u0000\u0000\u0000b\u0000\u0000\u0000c\u0000\u0000\u0000d\u0000\u0000\u0000e\u0000\u0000\u0000f\u0000\u0000\u0000g\u0000\u0000\u0000h\u0000\u0000\u0000i\u0000\u0000\u0000j\u0000\u0000\u0000k\u0000\u0000\u0000l\u0000\u0000\u0000m\u0000\u0000\u0000n\u0000\u0000\u0000o\u0000..."
 }

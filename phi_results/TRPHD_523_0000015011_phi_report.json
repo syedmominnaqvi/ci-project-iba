@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Two Rivers Public Health Department/TRPHD_523_0000015011.txt",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Two Rivers Public Health Department/TRPHD_523_0000015011.txt",
     "file_name": "TRPHD_523_0000015011.txt",
     "file_size": 78073,
     "text_length": 77642
@@ -18,6 +18,13 @@
       "start": 151,
       "end": 158,
       "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "79998-1158",
+      "start": 163,
+      "end": 173,
+      "type": "SSN",
       "confidence": 0.5
     },
     {
@@ -343,6 +350,13 @@
       "confidence": 0.5
     },
     {
+      "text": "79998-1158",
+      "start": 4756,
+      "end": 4766,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
       "text": "855-703-5305",
       "start": 4774,
       "end": 4786,
@@ -630,6 +644,13 @@
       "confidence": 0.5
     },
     {
+      "text": "68845-1611",
+      "start": 9201,
+      "end": 9211,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
       "text": "Copay Amount",
       "start": 9356,
       "end": 9368,
@@ -886,6 +907,13 @@
       "start": 12821,
       "end": 12832,
       "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "68845-1611",
+      "start": 12991,
+      "end": 13001,
+      "type": "SSN",
       "confidence": 0.5
     },
     {
@@ -1169,6 +1197,13 @@
       "confidence": 0.5
     },
     {
+      "text": "68845-1611",
+      "start": 16805,
+      "end": 16815,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
       "text": "Care Charged",
       "start": 17251,
       "end": 17263,
@@ -1334,6 +1369,13 @@
       "start": 18575,
       "end": 18587,
       "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "68845-1611",
+      "start": 18682,
+      "end": 18692,
+      "type": "SSN",
       "confidence": 0.5
     },
     {
@@ -1586,6 +1628,13 @@
       "start": 22247,
       "end": 22258,
       "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "68845-1611",
+      "start": 22415,
+      "end": 22425,
+      "type": "SSN",
       "confidence": 0.5
     },
     {
@@ -1911,6 +1960,13 @@
       "confidence": 0.5
     },
     {
+      "text": "68845-1611",
+      "start": 26653,
+      "end": 26663,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
       "text": "Member Services",
       "start": 26725,
       "end": 26740,
@@ -2205,6 +2261,13 @@
       "confidence": 0.5
     },
     {
+      "text": "68845-1611",
+      "start": 30540,
+      "end": 30550,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
       "text": "Claim Number",
       "start": 30927,
       "end": 30939,
@@ -2485,6 +2548,13 @@
       "confidence": 0.5
     },
     {
+      "text": "68845-1611",
+      "start": 34367,
+      "end": 34377,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
       "text": "Brovidert Crouch",
       "start": 34788,
       "end": 34804,
@@ -2751,6 +2821,13 @@
       "confidence": 0.5
     },
     {
+      "text": "68845-1611",
+      "start": 38093,
+      "end": 38103,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
       "text": "Member Services",
       "start": 38170,
       "end": 38185,
@@ -2902,6 +2979,13 @@
       "start": 39729,
       "end": 39741,
       "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "68845-1611",
+      "start": 39835,
+      "end": 39845,
+      "type": "SSN",
       "confidence": 0.5
     },
     {
@@ -3192,6 +3276,13 @@
       "confidence": 0.5
     },
     {
+      "text": "68845-1611",
+      "start": 43602,
+      "end": 43612,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
       "text": "Claim Number",
       "start": 43983,
       "end": 43995,
@@ -3413,6 +3504,13 @@
       "start": 46890,
       "end": 46902,
       "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "68845-1611",
+      "start": 46997,
+      "end": 47007,
+      "type": "SSN",
       "confidence": 0.5
     },
     {
@@ -3640,6 +3738,13 @@
       "confidence": 0.5
     },
     {
+      "text": "68845-1611",
+      "start": 50426,
+      "end": 50436,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
       "text": "Jelinek\n\nClaim",
       "start": 50798,
       "end": 50812,
@@ -3756,6 +3861,13 @@
       "start": 52255,
       "end": 52267,
       "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "68845-1611",
+      "start": 52364,
+      "end": 52374,
+      "type": "SSN",
       "confidence": 0.5
     },
     {
@@ -3983,6 +4095,13 @@
       "confidence": 0.5
     },
     {
+      "text": "68845-1611",
+      "start": 55847,
+      "end": 55857,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
       "text": "308-455-1555",
       "start": 56052,
       "end": 56064,
@@ -3990,10 +4109,31 @@
       "confidence": 0.5
     },
     {
+      "text": "68845-1614",
+      "start": 56294,
+      "end": 56304,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "46744-0683",
+      "start": 56305,
+      "end": 56315,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
       "text": "308-455-1555",
       "start": 56488,
       "end": 56500,
       "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "68845-1644",
+      "start": 56744,
+      "end": 56754,
+      "type": "SSN",
       "confidence": 0.5
     },
     {
@@ -4011,6 +4151,20 @@
       "confidence": 0.5
     },
     {
+      "text": "68645-1617",
+      "start": 57185,
+      "end": 57195,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "23186-0605",
+      "start": 57198,
+      "end": 57208,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
       "text": "308-455-1555",
       "start": 57461,
       "end": 57473,
@@ -4025,10 +4179,38 @@
       "confidence": 0.5
     },
     {
+      "text": "68845-1674",
+      "start": 57725,
+      "end": 57735,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
       "text": "308-455-1555",
       "start": 57836,
       "end": 57848,
       "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "68462-0129",
+      "start": 58165,
+      "end": 58175,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "68845-1611",
+      "start": 58371,
+      "end": 58381,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "68845-1611",
+      "start": 58459,
+      "end": 58469,
+      "type": "SSN",
       "confidence": 0.5
     },
     {
@@ -4046,6 +4228,27 @@
       "confidence": 0.5
     },
     {
+      "text": "29033-0003",
+      "start": 58857,
+      "end": 58867,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "68845-1611",
+      "start": 58911,
+      "end": 58921,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "68845-1644",
+      "start": 59176,
+      "end": 59186,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
       "text": "308-455-1555",
       "start": 59308,
       "end": 59320,
@@ -4053,10 +4256,38 @@
       "confidence": 0.5
     },
     {
+      "text": "57237-0018",
+      "start": 59551,
+      "end": 59561,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
       "text": "308-455-1555",
       "start": 59706,
       "end": 59718,
       "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "68845-1614",
+      "start": 59950,
+      "end": 59960,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "16714-0014",
+      "start": 59963,
+      "end": 59973,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "68845-1614",
+      "start": 60283,
+      "end": 60293,
+      "type": "SSN",
       "confidence": 0.5
     },
     {
@@ -4081,6 +4312,13 @@
       "confidence": 0.5
     },
     {
+      "text": "68362-0560",
+      "start": 60762,
+      "end": 60772,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
       "text": "308-455-1555",
       "start": 60942,
       "end": 60954,
@@ -4095,10 +4333,73 @@
       "confidence": 0.5
     },
     {
+      "text": "68845-1614",
+      "start": 61548,
+      "end": 61558,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "68645-1611",
+      "start": 61870,
+      "end": 61880,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "63846-1611",
+      "start": 62110,
+      "end": 62120,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
       "text": "Calyour Doctor",
       "start": 62219,
       "end": 62233,
       "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "68845-1614",
+      "start": 62330,
+      "end": 62340,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "68845-1611",
+      "start": 62518,
+      "end": 62528,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "68845-1614",
+      "start": 62663,
+      "end": 62673,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "68845-1614",
+      "start": 62881,
+      "end": 62891,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "46744-0852",
+      "start": 62987,
+      "end": 62997,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "46714-0044",
+      "start": 63982,
+      "end": 63992,
+      "type": "SSN",
       "confidence": 0.5
     },
     {
@@ -4109,10 +4410,66 @@
       "confidence": 0.5
     },
     {
+      "text": "48714-0176",
+      "start": 64377,
+      "end": 64387,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "65862-0560",
+      "start": 64664,
+      "end": 64674,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "48714-0806",
+      "start": 64794,
+      "end": 64804,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "68382-0265",
+      "start": 64921,
+      "end": 64931,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "68845-1677",
+      "start": 65041,
+      "end": 65051,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "00210-6210",
+      "start": 65244,
+      "end": 65254,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
       "text": "308-455-1559",
       "start": 65494,
       "end": 65506,
       "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "65862-0897",
+      "start": 65743,
+      "end": 65753,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "68645-1611",
+      "start": 65958,
+      "end": 65968,
+      "type": "SSN",
       "confidence": 0.5
     },
     {
@@ -4130,6 +4487,20 @@
       "confidence": 0.5
     },
     {
+      "text": "68845-1611",
+      "start": 69208,
+      "end": 69218,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "16714-0176",
+      "start": 69251,
+      "end": 69261,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
       "text": "Returning\nCall",
       "start": 69396,
       "end": 69410,
@@ -4137,10 +4508,24 @@
       "confidence": 0.5
     },
     {
+      "text": "68845-1611",
+      "start": 69626,
+      "end": 69636,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
       "text": "308-455-1555",
       "start": 69795,
       "end": 69807,
       "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "68845-1614",
+      "start": 70049,
+      "end": 70059,
+      "type": "SSN",
       "confidence": 0.5
     },
     {
@@ -4158,6 +4543,13 @@
       "confidence": 0.5
     },
     {
+      "text": "68845-1614",
+      "start": 70463,
+      "end": 70473,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
       "text": "Returning\n\nDoctor",
       "start": 71118,
       "end": 71135,
@@ -4165,10 +4557,24 @@
       "confidence": 0.5
     },
     {
+      "text": "70070-0491",
+      "start": 71318,
+      "end": 71328,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
       "text": "308-455-1599",
       "start": 71440,
       "end": 71452,
       "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "68645-1611",
+      "start": 71602,
+      "end": 71612,
+      "type": "SSN",
       "confidence": 0.5
     },
     {
@@ -4186,10 +4592,38 @@
       "confidence": 0.5
     },
     {
+      "text": "68845-1671",
+      "start": 72011,
+      "end": 72021,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "00310-6210",
+      "start": 72027,
+      "end": 72037,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "66845-1611",
+      "start": 72303,
+      "end": 72313,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
       "text": "Sap Ov",
       "start": 72564,
       "end": 72570,
       "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "005269920",
+      "start": 73341,
+      "end": 73350,
+      "type": "SSN",
       "confidence": 0.5
     },
     {
@@ -4222,9 +4656,5374 @@
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Claim Form",
+      "start": 126,
+      "end": 136,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "El Paso",
+      "start": 151,
+      "end": 158,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Identification",
+      "start": 550,
+      "end": 571,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Full Name",
+      "start": 595,
+      "end": 604,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Ok Name",
+      "start": 605,
+      "end": 612,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Uler One",
+      "start": 667,
+      "end": 675,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Employer Name",
+      "start": 842,
+      "end": 855,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Health Care",
+      "start": 879,
+      "end": 890,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Automatic Monthly",
+      "start": 991,
+      "end": 1008,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "From Date",
+      "start": 1312,
+      "end": 1321,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Patient Name",
+      "start": 1428,
+      "end": 1440,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Total\nDependent",
+      "start": 1703,
+      "end": 1718,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Expenses",
+      "start": 1719,
+      "end": 1732,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Exact Dates",
+      "start": 1936,
+      "end": 1947,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Service Qualifying",
+      "start": 1951,
+      "end": 1969,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Qualifying Person",
+      "start": 2034,
+      "end": 2051,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "From To",
+      "start": 2114,
+      "end": 2121,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Last Name",
+      "start": 2132,
+      "end": 2141,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Service",
+      "start": 2142,
+      "end": 2152,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Amount Requested",
+      "start": 2216,
+      "end": 2232,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Please Print",
+      "start": 2234,
+      "end": 2246,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Yes\nTotal",
+      "start": 2310,
+      "end": 2319,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Caregiver Information",
+      "start": 2393,
+      "end": 2414,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Certification Caregiver",
+      "start": 2415,
+      "end": 2438,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Qualifying Person",
+      "start": 2692,
+      "end": 2709,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "First Name",
+      "start": 2726,
+      "end": 2736,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Qualifying Person",
+      "start": 2766,
+      "end": 2783,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "First Name",
+      "start": 2800,
+      "end": 2810,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "No Name",
+      "start": 2834,
+      "end": 2841,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Provider Signature",
+      "start": 2860,
+      "end": 2878,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "No\nProvider",
+      "start": 2899,
+      "end": 2910,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Signature\n\n \n\n \n\n \n\n \n\n \n\nFor",
+      "start": 2911,
+      "end": 2940,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Health Care",
+      "start": 2941,
+      "end": 2952,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Flexible Spending",
+      "start": 2953,
+      "end": 2970,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "For Dependent",
+      "start": 3219,
+      "end": 3232,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Flexible",
+      "start": 3233,
+      "end": 3246,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Spending Account",
+      "start": 3247,
+      "end": 3263,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Dependent Care",
+      "start": 3300,
+      "end": 3314,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Qualifying Person",
+      "start": 3410,
+      "end": 3427,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "This Is",
+      "start": 3627,
+      "end": 3634,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Tax Identification",
+      "start": 3780,
+      "end": 3798,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Internal Revenue",
+      "start": 3809,
+      "end": 3825,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Service Form",
+      "start": 3826,
+      "end": 3838,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Health Savings",
+      "start": 3966,
+      "end": 3980,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Signature",
+      "start": 4401,
+      "end": 4417,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Claim Form",
+      "start": 4719,
+      "end": 4729,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "El Paso",
+      "start": 4744,
+      "end": 4751,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Identification",
+      "start": 5143,
+      "end": 5164,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Full",
+      "start": 5179,
+      "end": 5190,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Ula One",
+      "start": 5288,
+      "end": 5295,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Employer Name",
+      "start": 5463,
+      "end": 5476,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Health Care",
+      "start": 5504,
+      "end": 5515,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Automatic Monthly",
+      "start": 5612,
+      "end": 5629,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "From Date",
+      "start": 5937,
+      "end": 5946,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Thru Date",
+      "start": 5963,
+      "end": 5972,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Exact Dates",
+      "start": 6378,
+      "end": 6389,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Service Qualifying",
+      "start": 6393,
+      "end": 6411,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Qualifying Person",
+      "start": 6476,
+      "end": 6493,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "From To",
+      "start": 6556,
+      "end": 6563,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Last Name",
+      "start": 6574,
+      "end": 6583,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Service",
+      "start": 6585,
+      "end": 6595,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Amount Requested",
+      "start": 6656,
+      "end": 6672,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Please Print",
+      "start": 6674,
+      "end": 6686,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Yes\nTotal",
+      "start": 6749,
+      "end": 6758,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Caregiver Information",
+      "start": 6832,
+      "end": 6853,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Certilication Caregiver",
+      "start": 6854,
+      "end": 6877,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Certification\nMy",
+      "start": 6890,
+      "end": 6906,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Qualifying Person",
+      "start": 7130,
+      "end": 7147,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "First Name",
+      "start": 7164,
+      "end": 7174,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Qualifying Person",
+      "start": 7208,
+      "end": 7225,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "First Name",
+      "start": 7242,
+      "end": 7252,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "No Name",
+      "start": 7275,
+      "end": 7282,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Provider Signature",
+      "start": 7301,
+      "end": 7319,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "No\nProvider",
+      "start": 7341,
+      "end": 7352,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Signature\n\n \n\n \n\n \n\nFor",
+      "start": 7353,
+      "end": 7376,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Health Care",
+      "start": 7377,
+      "end": 7388,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Flexible Spending",
+      "start": 7389,
+      "end": 7406,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "For Dependent",
+      "start": 7657,
+      "end": 7670,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Flexible",
+      "start": 7671,
+      "end": 7684,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Spending Account",
+      "start": 7685,
+      "end": 7701,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Dependent Care",
+      "start": 7738,
+      "end": 7752,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Qualifying Person",
+      "start": 7848,
+      "end": 7865,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Tax Identification",
+      "start": 8219,
+      "end": 8237,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Internal Revenue",
+      "start": 8248,
+      "end": 8264,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Service Form",
+      "start": 8265,
+      "end": 8277,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Heallli Savings",
+      "start": 8404,
+      "end": 8419,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Signature",
+      "start": 8838,
+      "end": 8854,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Copay Amount",
+      "start": 9356,
+      "end": 9368,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Charged",
+      "start": 9389,
+      "end": 9401,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Provider Amount",
+      "start": 9425,
+      "end": 9440,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Not Covered",
+      "start": 9677,
+      "end": 9688,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Mernber Services",
+      "start": 9726,
+      "end": 9742,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vou Uwe",
+      "start": 9980,
+      "end": 9987,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Deductible Colngurance",
+      "start": 9996,
+      "end": 10018,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Additional Resources",
+      "start": 10109,
+      "end": 10129,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 10422,
+      "end": 10432,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 10437,
+      "end": 10448,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Estimate Costs",
+      "start": 11115,
+      "end": 11129,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "See Claims",
+      "start": 11130,
+      "end": 11140,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "History\nSign",
+      "start": 11141,
+      "end": 11153,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 11394,
+      "end": 11409,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 11646,
+      "end": 11661,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Appeals\nDepartment",
+      "start": 11761,
+      "end": 11779,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 11781,
+      "end": 11791,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 11796,
+      "end": 11807,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Employee Retirement",
+      "start": 12216,
+      "end": 12235,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Income Security",
+      "start": 12236,
+      "end": 12251,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Special Investigations",
+      "start": 12394,
+      "end": 12416,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 12418,
+      "end": 12428,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 12433,
+      "end": 12444,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "This Benefit",
+      "start": 12489,
+      "end": 12501,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 12533,
+      "end": 12543,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 12548,
+      "end": 12559,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 12604,
+      "end": 12614,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 12619,
+      "end": 12630,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Claims Administrator",
+      "start": 12672,
+      "end": 12692,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 12734,
+      "end": 12744,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 12749,
+      "end": 12760,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Independent Licensee",
+      "start": 12778,
+      "end": 12798,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 12806,
+      "end": 12816,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 12821,
+      "end": 12832,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Charged",
+      "start": 13471,
+      "end": 13483,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Allowed Paid",
+      "start": 13487,
+      "end": 13499,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Chie Paieanne",
+      "start": 13508,
+      "end": 13521,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Raceived Provider",
+      "start": 13531,
+      "end": 13548,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Not Covered",
+      "start": 13563,
+      "end": 13574,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Deductible Golnsuranee",
+      "start": 13585,
+      "end": 13607,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "You Que",
+      "start": 13609,
+      "end": 13616,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Copay Amount",
+      "start": 13818,
+      "end": 13830,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Additional Resources",
+      "start": 13837,
+      "end": 13857,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 14151,
+      "end": 14161,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 14166,
+      "end": 14177,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Estimate Costs",
+      "start": 14849,
+      "end": 14863,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "See Claims",
+      "start": 14864,
+      "end": 14874,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "History\n\nSign",
+      "start": 14875,
+      "end": 14888,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 15128,
+      "end": 15143,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 15380,
+      "end": 15395,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Appeals\nDepartment",
+      "start": 15495,
+      "end": 15513,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 15515,
+      "end": 15525,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 15530,
+      "end": 15541,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Employee Retirement",
+      "start": 15951,
+      "end": 15970,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Income Security",
+      "start": 15971,
+      "end": 15986,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Special Investigations",
+      "start": 16130,
+      "end": 16152,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 16154,
+      "end": 16164,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 16169,
+      "end": 16180,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "This Benefit",
+      "start": 16225,
+      "end": 16237,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 16269,
+      "end": 16279,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 16284,
+      "end": 16295,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 16340,
+      "end": 16350,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 16355,
+      "end": 16366,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Claims Administraterand",
+      "start": 16408,
+      "end": 16431,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 16468,
+      "end": 16478,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 16483,
+      "end": 16494,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Independent Licensee",
+      "start": 16512,
+      "end": 16532,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 16540,
+      "end": 16550,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 16555,
+      "end": 16566,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 16681,
+      "end": 16696,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Charged",
+      "start": 17251,
+      "end": 17263,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Allawed Paid",
+      "start": 17267,
+      "end": 17279,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Received",
+      "start": 17283,
+      "end": 17296,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Provider Amount",
+      "start": 17297,
+      "end": 17312,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Not Covered",
+      "start": 17322,
+      "end": 17333,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Copay Deductible",
+      "start": 17335,
+      "end": 17351,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Charged",
+      "start": 17629,
+      "end": 17641,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Allowed Paid",
+      "start": 17645,
+      "end": 17657,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Received",
+      "start": 17676,
+      "end": 17689,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Provider Amount",
+      "start": 17690,
+      "end": 17705,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Not Covered",
+      "start": 17713,
+      "end": 17724,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Deductible Coinsutance",
+      "start": 17733,
+      "end": 17755,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Claim Number",
+      "start": 17985,
+      "end": 17997,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Charged",
+      "start": 18064,
+      "end": 18076,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Allowed Paid",
+      "start": 18080,
+      "end": 18092,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Received",
+      "start": 18111,
+      "end": 18124,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Provider Amount",
+      "start": 18125,
+      "end": 18140,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Not Covered",
+      "start": 18148,
+      "end": 18159,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Copay Deductible",
+      "start": 18160,
+      "end": 18176,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "You Gun",
+      "start": 18190,
+      "end": 18197,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Copay Amount",
+      "start": 18420,
+      "end": 18432,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Deductible Amount",
+      "start": 18438,
+      "end": 18455,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 18558,
+      "end": 18573,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Charged",
+      "start": 19164,
+      "end": 19176,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Allowed Paid",
+      "start": 19180,
+      "end": 19192,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Received",
+      "start": 19214,
+      "end": 19227,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Provider Amount",
+      "start": 19228,
+      "end": 19243,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Not Covered",
+      "start": 19251,
+      "end": 19262,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Copay Deductible",
+      "start": 19263,
+      "end": 19279,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "You Owe",
+      "start": 19293,
+      "end": 19300,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Copay Amount",
+      "start": 19504,
+      "end": 19516,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Additional Resources",
+      "start": 19523,
+      "end": 19543,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 19837,
+      "end": 19847,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 19852,
+      "end": 19863,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Estimate Costs",
+      "start": 20536,
+      "end": 20550,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "See Claims",
+      "start": 20551,
+      "end": 20561,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "History\n\nSign",
+      "start": 20562,
+      "end": 20575,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 20816,
+      "end": 20831,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 21068,
+      "end": 21083,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Appeals\nDepartment",
+      "start": 21183,
+      "end": 21201,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 21203,
+      "end": 21213,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 21218,
+      "end": 21229,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Employee Retirement",
+      "start": 21638,
+      "end": 21657,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Income Security",
+      "start": 21658,
+      "end": 21673,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Special Investigations",
+      "start": 21820,
+      "end": 21842,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 21844,
+      "end": 21854,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 21859,
+      "end": 21870,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "This Benefit",
+      "start": 21915,
+      "end": 21927,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 21959,
+      "end": 21969,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 21974,
+      "end": 21985,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 22030,
+      "end": 22040,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 22045,
+      "end": 22056,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Claims Administrator",
+      "start": 22098,
+      "end": 22118,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 22159,
+      "end": 22169,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 22174,
+      "end": 22185,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 22232,
+      "end": 22242,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 22247,
+      "end": 22258,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 22490,
+      "end": 22505,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Jelinek\nClaim",
+      "start": 22867,
+      "end": 22880,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Charged",
+      "start": 23007,
+      "end": 23019,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Allowed Paid",
+      "start": 23023,
+      "end": 23035,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vinal Be",
+      "start": 23045,
+      "end": 23053,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Received",
+      "start": 23057,
+      "end": 23070,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Provider Amount",
+      "start": 23071,
+      "end": 23086,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Not Covered",
+      "start": 23094,
+      "end": 23105,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Copay Deductible",
+      "start": 23107,
+      "end": 23123,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "You Oe",
+      "start": 23136,
+      "end": 23142,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Charged",
+      "start": 23416,
+      "end": 23428,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Allowed Paid",
+      "start": 23432,
+      "end": 23444,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Provider Amount",
+      "start": 23475,
+      "end": 23490,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Copay Deductible",
+      "start": 23511,
+      "end": 23527,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "You Uwe",
+      "start": 23543,
+      "end": 23550,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Copay Amount",
+      "start": 23736,
+      "end": 23748,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Additional Resources",
+      "start": 23755,
+      "end": 23775,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 24076,
+      "end": 24086,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 24091,
+      "end": 24102,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Deductible Family",
+      "start": 24580,
+      "end": 24597,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Costs See",
+      "start": 24779,
+      "end": 24788,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Claims History",
+      "start": 24789,
+      "end": 24803,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 25050,
+      "end": 25065,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 25303,
+      "end": 25318,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Appeals\nDepartment",
+      "start": 25418,
+      "end": 25436,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 25438,
+      "end": 25448,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 25453,
+      "end": 25464,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Employee Retirement",
+      "start": 25875,
+      "end": 25894,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Income Security",
+      "start": 25895,
+      "end": 25910,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Special Investigations",
+      "start": 26054,
+      "end": 26076,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 26078,
+      "end": 26088,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 26093,
+      "end": 26104,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "This Benefit",
+      "start": 26150,
+      "end": 26162,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 26194,
+      "end": 26204,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 26209,
+      "end": 26220,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 26265,
+      "end": 26275,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 26280,
+      "end": 26291,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Claims Administrator",
+      "start": 26333,
+      "end": 26353,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 26395,
+      "end": 26405,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 26410,
+      "end": 26421,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Independent Licensee",
+      "start": 26440,
+      "end": 26460,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 26468,
+      "end": 26478,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 26483,
+      "end": 26494,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 26725,
+      "end": 26740,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Copay Amount",
+      "start": 27207,
+      "end": 27219,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Charged",
+      "start": 27235,
+      "end": 27247,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Allowed Paid",
+      "start": 27251,
+      "end": 27263,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Received",
+      "start": 27286,
+      "end": 27299,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Provider Amount",
+      "start": 27300,
+      "end": 27315,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Not Covered",
+      "start": 27323,
+      "end": 27334,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Deductble Coinsurance",
+      "start": 27343,
+      "end": 27364,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "You Owe",
+      "start": 27365,
+      "end": 27372,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sor\nNotes",
+      "start": 27556,
+      "end": 27565,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Additional Resources",
+      "start": 27573,
+      "end": 27593,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 27892,
+      "end": 27902,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 27907,
+      "end": 27918,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Estimate Costs",
+      "start": 28591,
+      "end": 28605,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "See Glaims",
+      "start": 28606,
+      "end": 28616,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "History\n\nSign",
+      "start": 28617,
+      "end": 28630,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 28870,
+      "end": 28885,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 29122,
+      "end": 29137,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Appeals\nDepartment",
+      "start": 29237,
+      "end": 29255,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 29257,
+      "end": 29267,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 29272,
+      "end": 29283,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Employee Retirement",
+      "start": 29693,
+      "end": 29712,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Income Security",
+      "start": 29713,
+      "end": 29728,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Special Investigations",
+      "start": 29872,
+      "end": 29894,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 29896,
+      "end": 29906,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 29911,
+      "end": 29922,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "This Benefit",
+      "start": 29967,
+      "end": 29979,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Biue Cross",
+      "start": 30011,
+      "end": 30021,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 30026,
+      "end": 30037,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 30082,
+      "end": 30092,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 30097,
+      "end": 30108,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Claims Administrator",
+      "start": 30150,
+      "end": 30170,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 30211,
+      "end": 30221,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 30226,
+      "end": 30237,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Independent Licensee",
+      "start": 30256,
+      "end": 30276,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 30284,
+      "end": 30294,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 30299,
+      "end": 30310,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Mernber Services",
+      "start": 30416,
+      "end": 30432,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Claim Number",
+      "start": 30927,
+      "end": 30939,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Charged",
+      "start": 31023,
+      "end": 31035,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Allowed Paid",
+      "start": 31039,
+      "end": 31051,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Provider Amount",
+      "start": 31101,
+      "end": 31116,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Not Covered",
+      "start": 31124,
+      "end": 31135,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Copay Deductible",
+      "start": 31137,
+      "end": 31153,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "You Owe",
+      "start": 31167,
+      "end": 31174,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Copay Amount",
+      "start": 31366,
+      "end": 31378,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Additional Resources",
+      "start": 31385,
+      "end": 31405,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Ate\n\nManage",
+      "start": 31448,
+      "end": 31459,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "This Benefit",
+      "start": 31550,
+      "end": 31562,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 31594,
+      "end": 31604,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 31609,
+      "end": 31620,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 31665,
+      "end": 31675,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 31680,
+      "end": 31691,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 31885,
+      "end": 31895,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 31900,
+      "end": 31911,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "See Clainis",
+      "start": 32571,
+      "end": 32582,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "History\n\nView",
+      "start": 32583,
+      "end": 32596,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Estimate Costs",
+      "start": 32626,
+      "end": 32640,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 32870,
+      "end": 32885,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 33121,
+      "end": 33136,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Appeals\nDepartment",
+      "start": 33236,
+      "end": 33254,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 33256,
+      "end": 33266,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 33271,
+      "end": 33282,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Employee Retirement",
+      "start": 33691,
+      "end": 33710,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Income Security",
+      "start": 33711,
+      "end": 33726,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Special Investigations",
+      "start": 33870,
+      "end": 33892,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 33894,
+      "end": 33904,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 33909,
+      "end": 33920,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Claims Administrator",
+      "start": 33975,
+      "end": 33995,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 34036,
+      "end": 34046,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 34051,
+      "end": 34062,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Independent Licensee",
+      "start": 34081,
+      "end": 34101,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 34109,
+      "end": 34119,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 34124,
+      "end": 34135,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 34244,
+      "end": 34259,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Brovidert Crouch",
+      "start": 34788,
+      "end": 34804,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Charged",
+      "start": 34838,
+      "end": 34850,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Allowed Paid",
+      "start": 34854,
+      "end": 34866,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Heeeived Provider",
+      "start": 34875,
+      "end": 34892,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Not Covered",
+      "start": 34909,
+      "end": 34920,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Copay Deductible",
+      "start": 34921,
+      "end": 34937,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "You Uwe",
+      "start": 34953,
+      "end": 34960,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Copay Amount",
+      "start": 35174,
+      "end": 35186,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Additional Resources",
+      "start": 35193,
+      "end": 35213,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 35512,
+      "end": 35522,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 35527,
+      "end": 35538,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Decuetible Individual",
+      "start": 35841,
+      "end": 35862,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Eatimate Costs",
+      "start": 36212,
+      "end": 36226,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "See Claims",
+      "start": 36227,
+      "end": 36237,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "History\n\nSign",
+      "start": 36238,
+      "end": 36251,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 36491,
+      "end": 36506,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 36743,
+      "end": 36758,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Appeals\nDepartment",
+      "start": 36858,
+      "end": 36876,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 36878,
+      "end": 36888,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 36893,
+      "end": 36904,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Employee Retirement",
+      "start": 37313,
+      "end": 37332,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Income Security",
+      "start": 37333,
+      "end": 37348,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Special Investigations",
+      "start": 37492,
+      "end": 37514,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 37516,
+      "end": 37526,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 37531,
+      "end": 37542,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "This Benefit",
+      "start": 37587,
+      "end": 37599,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 37631,
+      "end": 37641,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 37646,
+      "end": 37657,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 37702,
+      "end": 37712,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 37717,
+      "end": 37728,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Claims Administrator",
+      "start": 37772,
+      "end": 37792,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 37833,
+      "end": 37843,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 37848,
+      "end": 37859,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Independent Licensee",
+      "start": 37878,
+      "end": 37898,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 37906,
+      "end": 37916,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 37921,
+      "end": 37932,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 38170,
+      "end": 38185,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Jelinek\n\nClaim",
+      "start": 38547,
+      "end": 38561,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Totalwellness\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nDate",
+      "start": 38597,
+      "end": 38669,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Charged",
+      "start": 38673,
+      "end": 38685,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Allowed Paid",
+      "start": 38689,
+      "end": 38701,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Received",
+      "start": 38737,
+      "end": 38750,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Provider Amount",
+      "start": 38751,
+      "end": 38766,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Not Covered",
+      "start": 38774,
+      "end": 38785,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Deductible Coinsurance",
+      "start": 38794,
+      "end": 38816,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "You Gwe",
+      "start": 38818,
+      "end": 38825,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Charged",
+      "start": 39178,
+      "end": 39190,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Allowed Paid",
+      "start": 39194,
+      "end": 39206,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Received",
+      "start": 39219,
+      "end": 39232,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Provider Amount",
+      "start": 39233,
+      "end": 39248,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Not Covered",
+      "start": 39256,
+      "end": 39267,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Deduetible Golnsurance",
+      "start": 39275,
+      "end": 39297,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vou Owe",
+      "start": 39298,
+      "end": 39305,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Copay Amount",
+      "start": 39551,
+      "end": 39563,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Anton Bud",
+      "start": 39575,
+      "end": 39584,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 39712,
+      "end": 39727,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Claim Number",
+      "start": 40215,
+      "end": 40227,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Breathe\n\n \n\n \n\nDate",
+      "start": 40256,
+      "end": 40275,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Charged",
+      "start": 40279,
+      "end": 40291,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Allowed Paid",
+      "start": 40295,
+      "end": 40307,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Oop\nCare",
+      "start": 40327,
+      "end": 40335,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Provider Amount",
+      "start": 40346,
+      "end": 40361,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Deducnble Coinsurance",
+      "start": 40390,
+      "end": 40411,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vou Gee",
+      "start": 40412,
+      "end": 40419,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Pt\nTotal",
+      "start": 40504,
+      "end": 40512,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Deductible Amount",
+      "start": 40612,
+      "end": 40629,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Additional Resources",
+      "start": 40639,
+      "end": 40659,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 40952,
+      "end": 40962,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 40967,
+      "end": 40978,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Estimate Costs",
+      "start": 41652,
+      "end": 41666,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "See Claims",
+      "start": 41667,
+      "end": 41677,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "History\nSign",
+      "start": 41678,
+      "end": 41690,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 41930,
+      "end": 41945,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 42183,
+      "end": 42198,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Appeals\nDepartment",
+      "start": 42298,
+      "end": 42316,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 42318,
+      "end": 42328,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 42333,
+      "end": 42344,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Retirement Income",
+      "start": 42761,
+      "end": 42778,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Security Act",
+      "start": 42779,
+      "end": 42791,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Special Investigations",
+      "start": 42931,
+      "end": 42953,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 42955,
+      "end": 42965,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 42970,
+      "end": 42981,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "This Benefit",
+      "start": 43026,
+      "end": 43038,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 43069,
+      "end": 43079,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 43084,
+      "end": 43095,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 43140,
+      "end": 43150,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 43155,
+      "end": 43166,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Claims Administrator",
+      "start": 43208,
+      "end": 43228,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 43269,
+      "end": 43279,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 43284,
+      "end": 43295,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Independent Licensee",
+      "start": 43314,
+      "end": 43334,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 43342,
+      "end": 43352,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 43357,
+      "end": 43368,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 43478,
+      "end": 43493,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Claim Number",
+      "start": 43983,
+      "end": 43995,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Charged",
+      "start": 44055,
+      "end": 44067,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Allowed Paid",
+      "start": 44071,
+      "end": 44083,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Received",
+      "start": 44108,
+      "end": 44121,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Provider Amount",
+      "start": 44122,
+      "end": 44137,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Not Covered",
+      "start": 44145,
+      "end": 44156,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Deductible Amount",
+      "start": 44401,
+      "end": 44418,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Additional Resources",
+      "start": 44431,
+      "end": 44451,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 44749,
+      "end": 44759,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 44764,
+      "end": 44775,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Estimate Costs",
+      "start": 45279,
+      "end": 45293,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "See Claims",
+      "start": 45294,
+      "end": 45304,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "History\nSign",
+      "start": 45305,
+      "end": 45317,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 45560,
+      "end": 45575,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 45812,
+      "end": 45827,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Appeals\nDepartment",
+      "start": 45929,
+      "end": 45947,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 45949,
+      "end": 45959,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 45964,
+      "end": 45975,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Employee Retirement",
+      "start": 46384,
+      "end": 46403,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Income Security",
+      "start": 46404,
+      "end": 46419,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Special Investigations",
+      "start": 46563,
+      "end": 46585,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 46587,
+      "end": 46597,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 46602,
+      "end": 46613,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 46658,
+      "end": 46668,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 46673,
+      "end": 46684,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Independent Licensee",
+      "start": 46703,
+      "end": 46723,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 46731,
+      "end": 46741,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 46746,
+      "end": 46757,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 46873,
+      "end": 46888,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Jelinek\n\nClaim",
+      "start": 47373,
+      "end": 47387,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Charged",
+      "start": 47502,
+      "end": 47514,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Catg Hacsived",
+      "start": 47544,
+      "end": 47557,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Provider Amount",
+      "start": 47558,
+      "end": 47573,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Not Covered",
+      "start": 47582,
+      "end": 47593,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "You Owe",
+      "start": 47627,
+      "end": 47634,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Deductible Amount",
+      "start": 47833,
+      "end": 47850,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Resources\n\nYear",
+      "start": 47868,
+      "end": 47883,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 48180,
+      "end": 48190,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 48195,
+      "end": 48206,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Estimate Costs",
+      "start": 48713,
+      "end": 48727,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "See Claims",
+      "start": 48728,
+      "end": 48738,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "History\nSign",
+      "start": 48739,
+      "end": 48751,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 48992,
+      "end": 49007,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 49244,
+      "end": 49259,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Appeals\nDepartment",
+      "start": 49360,
+      "end": 49378,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 49380,
+      "end": 49390,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 49395,
+      "end": 49406,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Employee Retirement",
+      "start": 49815,
+      "end": 49834,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Income Security",
+      "start": 49835,
+      "end": 49850,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Special Investigations",
+      "start": 49994,
+      "end": 50016,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 50018,
+      "end": 50028,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 50033,
+      "end": 50044,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 50090,
+      "end": 50100,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 50105,
+      "end": 50116,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Independent Licensee",
+      "start": 50135,
+      "end": 50155,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 50163,
+      "end": 50173,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 50178,
+      "end": 50189,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 50302,
+      "end": 50317,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Jelinek\n\nClaim",
+      "start": 50798,
+      "end": 50812,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Charged",
+      "start": 50874,
+      "end": 50886,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Allowed Paid",
+      "start": 50892,
+      "end": 50904,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Received",
+      "start": 50908,
+      "end": 50921,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Provider Amount",
+      "start": 50922,
+      "end": 50937,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Not Covered",
+      "start": 51338,
+      "end": 51349,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Copay Deductible",
+      "start": 51351,
+      "end": 51367,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Coinsurance Yau",
+      "start": 51368,
+      "end": 51383,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care\n\nCare",
+      "start": 51679,
+      "end": 51689,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Copay Amount",
+      "start": 51763,
+      "end": 51775,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Coinsurance Amount",
+      "start": 51782,
+      "end": 51800,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Allowed\nAmount",
+      "start": 51840,
+      "end": 51854,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Not Covered",
+      "start": 51980,
+      "end": 51991,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Copay Deductible",
+      "start": 52006,
+      "end": 52022,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Coinsurance You",
+      "start": 52024,
+      "end": 52039,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 52238,
+      "end": 52253,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Claim Number",
+      "start": 52739,
+      "end": 52751,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Charged",
+      "start": 52842,
+      "end": 52854,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Allowed Paid",
+      "start": 52858,
+      "end": 52870,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Care Received",
+      "start": 52889,
+      "end": 52902,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Provider Amount",
+      "start": 52903,
+      "end": 52918,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Copay Deductible",
+      "start": 52938,
+      "end": 52954,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Copay Amount",
+      "start": 53188,
+      "end": 53200,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Resources\n\nVear",
+      "start": 53219,
+      "end": 53234,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 53524,
+      "end": 53534,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 53539,
+      "end": 53550,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Deductible Undividual",
+      "start": 53852,
+      "end": 53873,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Estimate Costs",
+      "start": 54055,
+      "end": 54069,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "See Claims",
+      "start": 54070,
+      "end": 54080,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "History\n\nSign",
+      "start": 54081,
+      "end": 54094,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Mernber Services",
+      "start": 54336,
+      "end": 54352,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Member Services",
+      "start": 54588,
+      "end": 54603,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Appeals\nDepartment",
+      "start": 54703,
+      "end": 54721,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 54723,
+      "end": 54733,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 54738,
+      "end": 54749,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Employee Retirement",
+      "start": 55159,
+      "end": 55178,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Income Security",
+      "start": 55179,
+      "end": 55194,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Special Investigations",
+      "start": 55339,
+      "end": 55361,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 55363,
+      "end": 55373,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 55378,
+      "end": 55389,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 55434,
+      "end": 55444,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 55449,
+      "end": 55460,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Independent Licensee",
+      "start": 55479,
+      "end": 55499,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Cross",
+      "start": 55507,
+      "end": 55517,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Blue Shield",
+      "start": 55522,
+      "end": 55533,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "So Returning",
+      "start": 56926,
+      "end": 56938,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Returnin\nCall",
+      "start": 57481,
+      "end": 57494,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Return\n\nQty",
+      "start": 58765,
+      "end": 58776,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Reuuring\n\n \n\n \n\nPhe",
+      "start": 60348,
+      "end": 60367,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Returning\n\n \n\n \n\nCall",
+      "start": 60510,
+      "end": 60531,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Returning\n\n \n\nCallyour",
+      "start": 61322,
+      "end": 61344,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Calyour Doctor",
+      "start": 62219,
+      "end": 62233,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sake Gb",
+      "start": 68199,
+      "end": 68206,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Returning\nCall",
+      "start": 69396,
+      "end": 69410,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Returnin\nCai",
+      "start": 70267,
+      "end": 70279,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Returning\n\nDoctor",
+      "start": 71118,
+      "end": 71135,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sap Ov",
+      "start": 72564,
+      "end": 72570,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Wlode Soe",
+      "start": 73427,
+      "end": 73436,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Of Lie",
+      "start": 76156,
+      "end": 76162,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Ont\nLaiavii",
+      "start": 77004,
+      "end": 77015,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sonne Ronee",
+      "start": 77119,
+      "end": 77130,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "855-703-5305",
+      "start": 181,
+      "end": 193,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "855-703-5305",
+      "start": 4774,
+      "end": 4786,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 9744,
+      "end": 9756,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 11413,
+      "end": 11425,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "877-632-2583",
+      "start": 12369,
+      "end": 12381,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 13084,
+      "end": 13096,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 15147,
+      "end": 15159,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "877-632-2583",
+      "start": 16105,
+      "end": 16117,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 16698,
+      "end": 16710,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 18575,
+      "end": 18587,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 20835,
+      "end": 20847,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "877-632-2583",
+      "start": 21795,
+      "end": 21807,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 22507,
+      "end": 22519,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 25069,
+      "end": 25081,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "877-632-2583",
+      "start": 26029,
+      "end": 26041,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 26742,
+      "end": 26754,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 28889,
+      "end": 28901,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "877-632-2583",
+      "start": 29847,
+      "end": 29859,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 30434,
+      "end": 30446,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 32889,
+      "end": 32901,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "877-632-2583",
+      "start": 33845,
+      "end": 33857,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 34261,
+      "end": 34273,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 36510,
+      "end": 36522,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "877-632-2583",
+      "start": 37467,
+      "end": 37479,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 38187,
+      "end": 38199,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 39729,
+      "end": 39741,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 41949,
+      "end": 41961,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "877-632-2583",
+      "start": 42906,
+      "end": 42918,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 43495,
+      "end": 43507,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 45579,
+      "end": 45591,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "877-632-2583",
+      "start": 46538,
+      "end": 46550,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 46890,
+      "end": 46902,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 49011,
+      "end": 49023,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "877-632-2583",
+      "start": 49969,
+      "end": 49981,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0762",
+      "start": 50319,
+      "end": 50331,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 52255,
+      "end": 52267,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "844-201-0763",
+      "start": 54356,
+      "end": 54368,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "877-632-2583",
+      "start": 55313,
+      "end": 55325,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "308-455-1555",
+      "start": 55689,
+      "end": 55701,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "308-455-1555",
+      "start": 56052,
+      "end": 56064,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "308-455-1555",
+      "start": 56488,
+      "end": 56500,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "308-455-1555",
+      "start": 56905,
+      "end": 56917,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "308-455-1555",
+      "start": 57461,
+      "end": 57473,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "308-455-1555",
+      "start": 57836,
+      "end": 57848,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "308-455-1555",
+      "start": 58690,
+      "end": 58702,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "308-455-1555",
+      "start": 59308,
+      "end": 59320,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "308-455-1555",
+      "start": 59706,
+      "end": 59718,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "308-455-1555",
+      "start": 60335,
+      "end": 60347,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "308-455-1555",
+      "start": 60942,
+      "end": 60954,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "9171812023",
+      "start": 64035,
+      "end": 64045,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "308-455-1559",
+      "start": 65494,
+      "end": 65506,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "308-455-1555",
+      "start": 68974,
+      "end": 68986,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "308-455-1555",
+      "start": 69795,
+      "end": 69807,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "308-455-1555",
+      "start": 70240,
+      "end": 70252,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "308-455-1599",
+      "start": 71440,
+      "end": 71452,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "467744-0852",
+      "start": 71614,
+      "end": 71625,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "308-455-1555",
+      "start": 71742,
+      "end": 71754,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "79998-1158",
+      "start": 163,
+      "end": 173,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "79998-1158",
+      "start": 4756,
+      "end": 4766,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1611",
+      "start": 9201,
+      "end": 9211,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1611",
+      "start": 12991,
+      "end": 13001,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1611",
+      "start": 16805,
+      "end": 16815,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1611",
+      "start": 18682,
+      "end": 18692,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1611",
+      "start": 22415,
+      "end": 22425,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1611",
+      "start": 26653,
+      "end": 26663,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1611",
+      "start": 30540,
+      "end": 30550,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1611",
+      "start": 34367,
+      "end": 34377,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1611",
+      "start": 38093,
+      "end": 38103,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1611",
+      "start": 39835,
+      "end": 39845,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1611",
+      "start": 43602,
+      "end": 43612,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1611",
+      "start": 46997,
+      "end": 47007,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1611",
+      "start": 50426,
+      "end": 50436,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1611",
+      "start": 52364,
+      "end": 52374,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1611",
+      "start": 55847,
+      "end": 55857,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1614",
+      "start": 56294,
+      "end": 56304,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "46744-0683",
+      "start": 56305,
+      "end": 56315,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1644",
+      "start": 56744,
+      "end": 56754,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68645-1617",
+      "start": 57185,
+      "end": 57195,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "23186-0605",
+      "start": 57198,
+      "end": 57208,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1674",
+      "start": 57725,
+      "end": 57735,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68462-0129",
+      "start": 58165,
+      "end": 58175,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1611",
+      "start": 58371,
+      "end": 58381,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1611",
+      "start": 58459,
+      "end": 58469,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "29033-0003",
+      "start": 58857,
+      "end": 58867,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1611",
+      "start": 58911,
+      "end": 58921,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1644",
+      "start": 59176,
+      "end": 59186,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "57237-0018",
+      "start": 59551,
+      "end": 59561,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1614",
+      "start": 59950,
+      "end": 59960,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "16714-0014",
+      "start": 59963,
+      "end": 59973,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1614",
+      "start": 60283,
+      "end": 60293,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68362-0560",
+      "start": 60762,
+      "end": 60772,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1614",
+      "start": 61548,
+      "end": 61558,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68645-1611",
+      "start": 61870,
+      "end": 61880,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "63846-1611",
+      "start": 62110,
+      "end": 62120,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1614",
+      "start": 62330,
+      "end": 62340,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1611",
+      "start": 62518,
+      "end": 62528,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1614",
+      "start": 62663,
+      "end": 62673,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1614",
+      "start": 62881,
+      "end": 62891,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "46744-0852",
+      "start": 62987,
+      "end": 62997,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "46714-0044",
+      "start": 63982,
+      "end": 63992,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "48714-0176",
+      "start": 64377,
+      "end": 64387,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "65862-0560",
+      "start": 64664,
+      "end": 64674,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "48714-0806",
+      "start": 64794,
+      "end": 64804,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68382-0265",
+      "start": 64921,
+      "end": 64931,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1677",
+      "start": 65041,
+      "end": 65051,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "00210-6210",
+      "start": 65244,
+      "end": 65254,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "65862-0897",
+      "start": 65743,
+      "end": 65753,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68645-1611",
+      "start": 65958,
+      "end": 65968,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1611",
+      "start": 69208,
+      "end": 69218,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "16714-0176",
+      "start": 69251,
+      "end": 69261,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1611",
+      "start": 69626,
+      "end": 69636,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1614",
+      "start": 70049,
+      "end": 70059,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1614",
+      "start": 70463,
+      "end": 70473,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "70070-0491",
+      "start": 71318,
+      "end": 71328,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68645-1611",
+      "start": 71602,
+      "end": 71612,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "68845-1671",
+      "start": 72011,
+      "end": 72021,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "00310-6210",
+      "start": 72027,
+      "end": 72037,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "66845-1611",
+      "start": 72303,
+      "end": 72313,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "005269920",
+      "start": 73341,
+      "end": 73350,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/20/2022",
+      "start": 13203,
+      "end": 13213,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "02/17/2022",
+      "start": 16937,
+      "end": 16947,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/12/2022",
+      "start": 18198,
+      "end": 18208,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "02/03/2022",
+      "start": 18813,
+      "end": 18823,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/31/2022",
+      "start": 19301,
+      "end": 19311,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "02/23/2022",
+      "start": 22626,
+      "end": 22636,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "03/04/2022",
+      "start": 26861,
+      "end": 26871,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "02/28/2022",
+      "start": 27373,
+      "end": 27383,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "03/10/2022",
+      "start": 30675,
+      "end": 30685,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "03/01/2022",
+      "start": 31175,
+      "end": 31185,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "03/17/2022",
+      "start": 34501,
+      "end": 34511,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "3/14/2022",
+      "start": 34967,
+      "end": 34976,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "03/17/2022",
+      "start": 38306,
+      "end": 38316,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/26/2022",
+      "start": 38826,
+      "end": 38836,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/26/2022",
+      "start": 38911,
+      "end": 38921,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "63/14/2022",
+      "start": 39306,
+      "end": 39316,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "02/08/2022",
+      "start": 39967,
+      "end": 39977,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/24/2022",
+      "start": 43734,
+      "end": 43744,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "02/28/2022",
+      "start": 47132,
+      "end": 47142,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0/08/2022",
+      "start": 47635,
+      "end": 47644,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/28/2022",
+      "start": 50557,
+      "end": 50567,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/19/2022",
+      "start": 50945,
+      "end": 50955,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/13/2022",
+      "start": 50997,
+      "end": 51007,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/13/2022",
+      "start": 51049,
+      "end": 51059,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/13/2022",
+      "start": 51084,
+      "end": 51094,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/13/2022",
+      "start": 51135,
+      "end": 51145,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/13/2022",
+      "start": 51207,
+      "end": 51217,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/13/2022",
+      "start": 51251,
+      "end": 51261,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/13/2022",
+      "start": 51699,
+      "end": 51709,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "02/10/2022",
+      "start": 52496,
+      "end": 52506,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/28/2022",
+      "start": 52977,
+      "end": 52987,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/12/2022",
+      "start": 55769,
+      "end": 55779,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "02/14/2022",
+      "start": 56219,
+      "end": 56229,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "02/14/2023",
+      "start": 56390,
+      "end": 56400,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "02/09/2022",
+      "start": 56637,
+      "end": 56647,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "96/01/1969",
+      "start": 56799,
+      "end": 56809,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "02/09/2023",
+      "start": 56838,
+      "end": 56848,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "6/01/1969",
+      "start": 57242,
+      "end": 57251,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "02/09/2022",
+      "start": 57617,
+      "end": 57627,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "04/04/2022",
+      "start": 58180,
+      "end": 58190,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "04/04/2022",
+      "start": 58305,
+      "end": 58315,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/01/1969",
+      "start": 58317,
+      "end": 58327,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "04/04/2023",
+      "start": 58444,
+      "end": 58454,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/01/1969",
+      "start": 58470,
+      "end": 58480,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "04/04/2022",
+      "start": 58674,
+      "end": 58684,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "04/04/2023",
+      "start": 58813,
+      "end": 58823,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/01/1969",
+      "start": 58872,
+      "end": 58882,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "04/04/2022",
+      "start": 59461,
+      "end": 59471,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "96/01/1969",
+      "start": 59597,
+      "end": 59607,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "04/04/2023",
+      "start": 59636,
+      "end": 59646,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "03/14/2022",
+      "start": 59859,
+      "end": 59869,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/01/1969",
+      "start": 60005,
+      "end": 60015,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "03/06/2022",
+      "start": 60203,
+      "end": 60213,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "96/01/1969",
+      "start": 60383,
+      "end": 60393,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "04/04/2022",
+      "start": 60661,
+      "end": 60671,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "6/01/1969",
+      "start": 60809,
+      "end": 60818,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "04/03/2022",
+      "start": 61095,
+      "end": 61105,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "96/01/1969",
+      "start": 61188,
+      "end": 61198,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "03/06/2022",
+      "start": 61461,
+      "end": 61471,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/01/1969",
+      "start": 61602,
+      "end": 61612,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/21/2022",
+      "start": 61814,
+      "end": 61824,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/48/2022",
+      "start": 62016,
+      "end": 62026,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/30/1968",
+      "start": 62168,
+      "end": 62178,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/15/2022",
+      "start": 62274,
+      "end": 62284,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/30/1968",
+      "start": 62361,
+      "end": 62371,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/15/2022",
+      "start": 62462,
+      "end": 62472,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/30/1968",
+      "start": 62549,
+      "end": 62559,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/15/2022",
+      "start": 62675,
+      "end": 62685,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/30/1968",
+      "start": 62707,
+      "end": 62717,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/15/2022",
+      "start": 62822,
+      "end": 62832,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/30/1968",
+      "start": 62918,
+      "end": 62928,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "12/21/2022",
+      "start": 63030,
+      "end": 63040,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "2/09/2022",
+      "start": 64430,
+      "end": 64439,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "07/44/2022",
+      "start": 64944,
+      "end": 64954,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/30/1968",
+      "start": 65016,
+      "end": 65026,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/18/2023",
+      "start": 65141,
+      "end": 65151,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/18/2022",
+      "start": 65264,
+      "end": 65274,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/30/1968",
+      "start": 65282,
+      "end": 65292,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/15/2022",
+      "start": 65672,
+      "end": 65682,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/21/2022",
+      "start": 65758,
+      "end": 65768,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "12/21/2022",
+      "start": 65886,
+      "end": 65896,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/15/2023",
+      "start": 66001,
+      "end": 66011,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/30/1968",
+      "start": 66069,
+      "end": 66079,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/30/1968",
+      "start": 66126,
+      "end": 66136,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "02/14/2022",
+      "start": 69127,
+      "end": 69137,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/30/1968",
+      "start": 69240,
+      "end": 69250,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "02/14/2023",
+      "start": 69298,
+      "end": 69308,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "02/13/2022",
+      "start": 69538,
+      "end": 69548,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "12/13/2022",
+      "start": 69722,
+      "end": 69732,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "02/5/2022",
+      "start": 69962,
+      "end": 69971,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/30/1968",
+      "start": 70100,
+      "end": 70110,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "12/21/2022",
+      "start": 70138,
+      "end": 70148,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "02/13/2022",
+      "start": 70396,
+      "end": 70406,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/30/1968",
+      "start": 70514,
+      "end": 70524,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/18/2023",
+      "start": 70554,
+      "end": 70564,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/12/2022",
+      "start": 71099,
+      "end": 71109,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/30/1968",
+      "start": 71657,
+      "end": 71667,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "12/21/2022",
+      "start": 71689,
+      "end": 71699,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "02/13/2022",
+      "start": 71914,
+      "end": 71924,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/30/1968",
+      "start": 72075,
+      "end": 72085,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/18/2023",
+      "start": 72115,
+      "end": 72125,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "06/30/1968",
+      "start": 72269,
+      "end": 72279,
+      "type": "DATE",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
-    "genetic": 602,
-    "presidio": 0
+    "genetic": 664,
+    "presidio": 0,
+    "regex": 766
   },
   "text_sample": "\ufeff \n\n \n\nPp AY F | F xX Reim b urseme nt Ac count Mail or Fax completed form and documentation to:\n\n. PayFlex Systems USA, Inc.\nClaim Form PO Box 981158\nEl Paso, TX 79998-1158\nFax: 1-855-703-5305\nPage 1 of\n\nTo help avoid claim processing delays, you must sign, date and complete this form. You.must also include supporting documentation.\nWAIT! Did you know that you can file a claim online or by using the PayFlex Mobile\u201d app?\nLog in to your member website or mobile app to get started. You can_also fi..."
 }

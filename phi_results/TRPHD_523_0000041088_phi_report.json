@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Two Rivers Public Health Department/TRPHD_523_0000041088.msg",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Two Rivers Public Health Department/TRPHD_523_0000041088.msg",
     "file_name": "TRPHD_523_0000041088.msg",
     "file_size": 78848,
     "text_length": 75701
@@ -11,230 +11,307 @@
       "start": 1579,
       "end": 1602,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Exchange Administrative",
       "start": 1824,
       "end": 1847,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Exchange Administrative",
       "start": 2837,
       "end": 2860,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
+    },
+    {
+      "text": "RPKRATZER@YAHOO.COM",
+      "start": 3679,
+      "end": 3698,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "RPKRATZER@YAHOO.COM",
+      "start": 6390,
+      "end": 6409,
+      "type": "EMAIL",
+      "confidence": 0.5
     },
     {
       "text": "Helvetica Neue",
       "start": 7395,
       "end": 7409,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Rodney Kratzer",
       "start": 7510,
       "end": 7524,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Phyllis Kratzer",
       "start": 7537,
       "end": 7552,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Two Rivers",
       "start": 7655,
       "end": 7665,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Helvetica Neue",
       "start": 7800,
       "end": 7814,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "On Saturday",
       "start": 7883,
       "end": 7894,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Two Rivers",
       "start": 7931,
       "end": 7941,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Public Health",
       "start": 7942,
       "end": 7955,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
+    },
+    {
+      "text": "noreply@qemailserver.com",
+      "start": 7960,
+      "end": 7984,
+      "type": "EMAIL",
+      "confidence": 0.5
     },
     {
       "text": "Nebraska State",
       "start": 8271,
       "end": 8285,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Vaccination Plan",
       "start": 8286,
       "end": 8302,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Two Rivers",
       "start": 8505,
       "end": 8515,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Public Health",
       "start": 8516,
       "end": 8529,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Recipient Data",
       "start": 8634,
       "end": 8648,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Time Finished",
       "start": 8662,
       "end": 8675,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "View Results",
       "start": 8791,
       "end": 8803,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Click Here",
       "start": 8965,
       "end": 8975,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "View Results",
       "start": 8994,
       "end": 9006,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Response Summary",
       "start": 9123,
       "end": 9139,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "First Name",
       "start": 9155,
       "end": 9165,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Last Name",
       "start": 9206,
       "end": 9215,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Cell Phone",
       "start": 9327,
       "end": 9337,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
+    },
+    {
+      "text": "rpkratzer@yahoo.com",
+      "start": 9463,
+      "end": 9482,
+      "type": "EMAIL",
+      "confidence": 0.5
     },
     {
       "text": "Frontend\n Transport",
       "start": 50846,
       "end": 50865,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Frontend Transport",
       "start": 51493,
       "end": 51511,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 51697,
+      "end": 51713,
+      "type": "EMAIL",
+      "confidence": 0.5
     },
     {
       "text": "Proofpoint Essentials",
       "start": 51966,
       "end": 51987,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 52143,
+      "end": 52159,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 52501,
+      "end": 52517,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "rpkratzer@yahoo.com",
+      "start": 56181,
+      "end": 56200,
+      "type": "EMAIL",
+      "confidence": 0.5
     },
     {
       "text": "Phyllis Kratzer",
       "start": 56378,
       "end": 56393,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
+    },
+    {
+      "text": "rpkratzer@yahoo.com",
+      "start": 56395,
+      "end": 56414,
+      "type": "EMAIL",
+      "confidence": 0.5
     },
     {
       "text": "Two Rivers",
       "start": 56420,
       "end": 56430,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Public Health",
       "start": 56431,
       "end": 56444,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
-      "text": "441268957",
+      "text": "orders@trphd.org",
+      "start": 56446,
+      "end": 56462,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "441268957.386485.1613851558049@mail.yahoo.com",
       "start": 56477,
-      "end": 56486,
-      "type": "SSN",
+      "end": 56522,
+      "type": "EMAIL",
       "confidence": 0.5
     },
     {
-      "text": "291223035",
+      "text": "291223035.2820104.1611437977918@jwm2-app.sjc1.qprod.net",
       "start": 56538,
-      "end": 56547,
-      "type": "SSN",
+      "end": 56593,
+      "type": "EMAIL",
       "confidence": 0.5
     },
     {
-      "text": "291223035",
+      "text": "291223035.2820104.1611437977918@jwm2-app.sjc1.qprod.net",
       "start": 56608,
-      "end": 56617,
-      "type": "SSN",
+      "end": 56663,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "rpkratzer@yahoo.com",
+      "start": 57010,
+      "end": 57029,
+      "type": "EMAIL",
       "confidence": 0.5
     },
     {
@@ -242,237 +319,891 @@
       "start": 58938,
       "end": 58952,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Phyllis Kratzer",
       "start": 58965,
       "end": 58980,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Two Riv",
       "start": 59080,
       "end": 59087,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "On Saturday",
       "start": 59112,
       "end": 59123,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Two Rivers",
       "start": 59160,
       "end": 59170,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Public Health",
       "start": 59171,
       "end": 59184,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
+    },
+    {
+      "text": "oreply@qemailserver.com",
+      "start": 59189,
+      "end": 59212,
+      "type": "EMAIL",
+      "confidence": 0.5
     },
     {
       "text": "Nebraska State",
       "start": 59416,
       "end": 59430,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Vaccination Plan",
       "start": 59431,
       "end": 59447,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Two Rivers",
       "start": 59629,
       "end": 59639,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Public Health",
       "start": 59640,
       "end": 59653,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Recipient Data",
       "start": 59758,
       "end": 59772,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Time Finished",
       "start": 59774,
       "end": 59787,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "View Results",
       "start": 59869,
       "end": 59881,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Click Here",
       "start": 59883,
       "end": 59893,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "View Results",
       "start": 59998,
       "end": 60010,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Response Summary",
       "start": 60142,
       "end": 60158,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "First Name",
       "start": 60161,
       "end": 60171,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Rodney\n\nLast",
       "start": 60176,
       "end": 60188,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Kratzer\n\nDate",
       "start": 60198,
       "end": 60211,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Cell Phone",
       "start": 60250,
       "end": 60260,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "None\n\nEmail",
       "start": 60296,
       "end": 60307,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
+    },
+    {
+      "text": "rpkratzer@yahoo.com",
+      "start": 60312,
+      "end": 60331,
+      "type": "EMAIL",
+      "confidence": 0.5
     },
     {
       "text": "Residence\n   Lexington",
       "start": 60350,
       "end": 60372,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Residence\n   Dawson",
       "start": 60384,
       "end": 60403,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Profession\n   Retired",
       "start": 60500,
       "end": 60521,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Years Old",
       "start": 60533,
       "end": 60542,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Older\n\nThis",
       "start": 60546,
       "end": 60557,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
+    },
+    {
+      "text": "AB310508B7F0FF45BEFE9AA509293D3E@namprd06.prod.outlook.com",
+      "start": 60856,
+      "end": 60914,
+      "type": "EMAIL",
+      "confidence": 0.5
     },
     {
       "text": "Shared With",
       "start": 63375,
       "end": 63386,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Shared With",
       "start": 64066,
       "end": 64077,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Taxonomy Catch",
       "start": 64353,
       "end": 64367,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "All Column",
       "start": 64368,
       "end": 64378,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Extracted Text",
       "start": 67398,
       "end": 67412,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Image Tags",
       "start": 68601,
       "end": 68611,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Content Type",
       "start": 70248,
       "end": 70260,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Exchange Administrative",
+      "start": 1579,
+      "end": 1602,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 1824,
+      "end": 1847,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 2837,
+      "end": 2860,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 7395,
+      "end": 7409,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Rodney Kratzer",
+      "start": 7510,
+      "end": 7524,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Phyllis Kratzer",
+      "start": 7537,
+      "end": 7552,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Two Rivers",
+      "start": 7655,
+      "end": 7665,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 7800,
+      "end": 7814,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Saturday",
+      "start": 7883,
+      "end": 7894,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Two Rivers",
+      "start": 7931,
+      "end": 7941,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Public Health",
+      "start": 7942,
+      "end": 7955,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Nebraska State",
+      "start": 8271,
+      "end": 8285,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vaccination Plan",
+      "start": 8286,
+      "end": 8302,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Two Rivers",
+      "start": 8505,
+      "end": 8515,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Public Health",
+      "start": 8516,
+      "end": 8529,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Recipient Data",
+      "start": 8634,
+      "end": 8648,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Time Finished",
+      "start": 8662,
+      "end": 8675,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "View Results",
+      "start": 8791,
+      "end": 8803,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Click Here",
+      "start": 8965,
+      "end": 8975,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "View Results",
+      "start": 8994,
+      "end": 9006,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Response Summary",
+      "start": 9123,
+      "end": 9139,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "First Name",
+      "start": 9155,
+      "end": 9165,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Last Name",
+      "start": 9206,
+      "end": 9215,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Cell Phone",
+      "start": 9327,
+      "end": 9337,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Frontend\n Transport",
+      "start": 50846,
+      "end": 50865,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Frontend Transport",
+      "start": 51493,
+      "end": 51511,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Proofpoint Essentials",
+      "start": 51966,
+      "end": 51987,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Phyllis Kratzer",
+      "start": 56378,
+      "end": 56393,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Two Rivers",
+      "start": 56420,
+      "end": 56430,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Public Health",
+      "start": 56431,
+      "end": 56444,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Rodney Kratzer",
+      "start": 58938,
+      "end": 58952,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Phyllis Kratzer",
+      "start": 58965,
+      "end": 58980,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Two Riv",
+      "start": 59080,
+      "end": 59087,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Saturday",
+      "start": 59112,
+      "end": 59123,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Two Rivers",
+      "start": 59160,
+      "end": 59170,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Public Health",
+      "start": 59171,
+      "end": 59184,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Nebraska State",
+      "start": 59416,
+      "end": 59430,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vaccination Plan",
+      "start": 59431,
+      "end": 59447,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Two Rivers",
+      "start": 59629,
+      "end": 59639,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Public Health",
+      "start": 59640,
+      "end": 59653,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Recipient Data",
+      "start": 59758,
+      "end": 59772,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Time Finished",
+      "start": 59774,
+      "end": 59787,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "View Results",
+      "start": 59869,
+      "end": 59881,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Click Here",
+      "start": 59883,
+      "end": 59893,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "View Results",
+      "start": 59998,
+      "end": 60010,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Response Summary",
+      "start": 60142,
+      "end": 60158,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "First Name",
+      "start": 60161,
+      "end": 60171,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Rodney\n\nLast",
+      "start": 60176,
+      "end": 60188,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Kratzer\n\nDate",
+      "start": 60198,
+      "end": 60211,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Cell Phone",
+      "start": 60250,
+      "end": 60260,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "None\n\nEmail",
+      "start": 60296,
+      "end": 60307,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Residence\n   Lexington",
+      "start": 60350,
+      "end": 60372,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Residence\n   Dawson",
+      "start": 60384,
+      "end": 60403,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Profession\n   Retired",
+      "start": 60500,
+      "end": 60521,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Years Old",
+      "start": 60533,
+      "end": 60542,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Older\n\nThis",
+      "start": 60546,
+      "end": 60557,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Shared With",
+      "start": 63375,
+      "end": 63386,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Shared With",
+      "start": 64066,
+      "end": 64077,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Taxonomy Catch",
+      "start": 64353,
+      "end": 64367,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "All Column",
+      "start": 64368,
+      "end": 64378,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Extracted Text",
+      "start": 67398,
+      "end": 67412,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Image Tags",
+      "start": 68601,
+      "end": 68611,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Content Type",
+      "start": 70248,
+      "end": 70260,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "888-669-7154",
+      "start": 8598,
+      "end": 8610,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1613851560",
+      "start": 52636,
+      "end": 52646,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1613851560",
+      "start": 53194,
+      "end": 53204,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1613851561",
+      "start": 56973,
+      "end": 56983,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "888-669-7154",
+      "start": 59710,
+      "end": 59722,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "RPKRATZER@YAHOO.COM",
+      "start": 3679,
+      "end": 3698,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "RPKRATZER@YAHOO.COM",
+      "start": 6390,
+      "end": 6409,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "noreply@qemailserver.com",
+      "start": 7960,
+      "end": 7984,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rpkratzer@yahoo.com",
+      "start": 9463,
+      "end": 9482,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 51697,
+      "end": 51713,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 52143,
+      "end": 52159,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 52501,
+      "end": 52517,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rpkratzer@yahoo.com",
+      "start": 56181,
+      "end": 56200,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rpkratzer@yahoo.com",
+      "start": 56395,
+      "end": 56414,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 56446,
+      "end": 56462,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "441268957.386485.1613851558049@mail.yahoo.com",
+      "start": 56477,
+      "end": 56522,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "291223035.2820104.1611437977918@jwm2-app.sjc1.qprod.net",
+      "start": 56538,
+      "end": 56593,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "291223035.2820104.1611437977918@jwm2-app.sjc1.qprod.net",
+      "start": 56608,
+      "end": 56663,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rpkratzer@yahoo.com",
+      "start": 57010,
+      "end": 57029,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "oreply@qemailserver.com",
+      "start": 59189,
+      "end": 59212,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rpkratzer@yahoo.com",
+      "start": 60312,
+      "end": 60331,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "AB310508B7F0FF45BEFE9AA509293D3E@namprd06.prod.outlook.com",
+      "start": 60856,
+      "end": 60914,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "441268957",
+      "start": 56477,
+      "end": 56486,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "291223035",
+      "start": 56538,
+      "end": 56547,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "291223035",
+      "start": 56608,
+      "end": 56617,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "11/24/1941",
+      "start": 9307,
+      "end": 9317,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "11/24/1941",
+      "start": 60238,
+      "end": 60248,
+      "type": "DATE",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
-    "genetic": 66,
-    "presidio": 0
+    "genetic": 80,
+    "presidio": 0,
+    "regex": 90
   },
   "text_sample": "\u0011\u0871\u001a\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000>\u0000\u0003\u0000\t\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0002\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\u0000\u0000\u0000\u0014\u0000\u0000\u0000M\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\u0000\u0000\t\u0000\u0000\u0000\n\u0000\u0000\u0000\u000b\u0000\u0000\u0000\f\u0000\u0000\u0000\n\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0013\u0000\u0000\u0000N\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u001b\u0000\u0000\u0000\u001c\u0000\u0000\u0000J\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u001f\u0000\u0000\u0000 \u0000\u0000\u0000!\u0000\u0000\u0000\"\u0000\u0000\u0000#\u0000\u0000\u0000$\u0000\u0000\u0000%\u0000\u0000\u0000&\u0000\u0000\u0000'\u0000\u0000\u0000(\u0000\u0000\u0000)\u0000\u0000\u0000*\u0000\u0000\u0000+\u0000\u0000\u0000,\u0000\u0000\u0000-\u0000\u0000\u0000.\u0000\u0000\u0000/\u0000\u0000\u00000\u0000\u0000\u00001\u0000\u0000\u00002\u0000\u0000\u00003\u0000\u0000\u00004\u0000\u0000\u00005\u0000\u0000\u00006\u0000\u0000\u00007\u0000\u0000\u00008\u0000\u0000\u00009\u0000\u0000\u0000:\u0000\u0000\u0000;\u0000\u0000\u0000<\u0000\u0000\u0000=\u0000\u0000\u0000>\u0000\u0000\u0000?\u0000\u0000\u0000@\u0000\u0000\u0000A\u0000\u0000\u0000B\u0000\u0000\u0000C\u0000\u0000\u0000D\u0000\u0000\u0000E\u0000\u0000\u0000F\u0000\u0000\u0000G\u0000\u0000\u0000H\u0000\u0000\u0000I\u0000\u0000\u0000K\u0000\u0000\u0000L\u0000\u0000\u0000^\u0000\u0000\u0000O\u0000\u0000\u0000P\u0000\u0000\u0000Q\u0000\u0000\u0000R\u0000\u0000\u0000S\u0000\u0000\u0000T\u0000\u0000\u0000U\u0000\u0000\u0000V\u0000\u0000\u0000W\u0000\u0000\u0000\u0000\u0000\u0000Y\u0000\u0000\u0000\\\u0000\u0000\u0000]\u0000\u0000\u0000~\u0000\u0000\u0000_\u0000\u0000\u0000`\u0000\u0000\u0000a\u0000\u0000\u0000b\u0000\u0000\u0000c\u0000\u0000\u0000d\u0000\u0000\u0000e\u0000\u0000\u0000|\u0000\u0000\u0000g\u0000\u0000\u0000h\u0000\u0000\u0000i\u0000\u0000\u0000j\u0000\u0000\u0000k\u0000\u0000\u0000l\u0000\u0000\u0000m\u0000\u0000\u0000n\u0000\u0000\u0000o\u0000\u0000\u0000p\u0000\u0000\u0000..."
 }

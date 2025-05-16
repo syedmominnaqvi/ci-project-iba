@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Two Rivers Public Health Department/TRPHD_523_0000006532.msg",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Two Rivers Public Health Department/TRPHD_523_0000006532.msg",
     "file_name": "TRPHD_523_0000006532.msg",
     "file_size": 87040,
     "text_length": 83695
@@ -81,13 +81,6 @@
       "start": 47925,
       "end": 47939,
       "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "4026169292",
-      "start": 49798,
-      "end": 49808,
-      "type": "PHONE",
       "confidence": 0.5
     },
     {
@@ -203,13 +196,6 @@
       "confidence": 0.5
     },
     {
-      "text": "1610050732",
-      "start": 69223,
-      "end": 69233,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
       "text": "orders@trphd.org",
       "start": 69623,
       "end": 69639,
@@ -263,13 +249,6 @@
       "start": 70014,
       "end": 70032,
       "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "1610050734",
-      "start": 70331,
-      "end": 70341,
-      "type": "PHONE",
       "confidence": 0.5
     },
     {
@@ -329,13 +308,6 @@
       "confidence": 0.5
     },
     {
-      "text": "4026169292",
-      "start": 72522,
-      "end": 72532,
-      "type": "PHONE",
-      "confidence": 0.5
-    },
-    {
       "text": "My Birth",
       "start": 72603,
       "end": 72611,
@@ -379,9 +351,411 @@
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Exchange Administrative",
+      "start": 1530,
+      "end": 1553,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 1775,
+      "end": 1798,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 2788,
+      "end": 2811,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 4486,
+      "end": 4509,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "General Contact",
+      "start": 34029,
+      "end": 34044,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "First Name",
+      "start": 43705,
+      "end": 43715,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Last Name",
+      "start": 45570,
+      "end": 45579,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "My Birth",
+      "start": 51726,
+      "end": 51734,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Glenn Dorn",
+      "start": 52096,
+      "end": 52106,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Shared With",
+      "start": 60432,
+      "end": 60443,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Shared With",
+      "start": 61123,
+      "end": 61134,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Taxonomy Catch",
+      "start": 61410,
+      "end": 61424,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "All Column",
+      "start": 61425,
+      "end": 61435,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Frontend\n Transport",
+      "start": 66384,
+      "end": 66403,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Frontend Transport",
+      "start": 67086,
+      "end": 67104,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Proofpoint Essentials",
+      "start": 67842,
+      "end": 67863,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "General Contact",
+      "start": 69678,
+      "end": 69693,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Notification\nReceived",
+      "start": 69694,
+      "end": 69715,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Overview\n\nDate",
+      "start": 72393,
+      "end": 72407,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Details\n\nFirst",
+      "start": 72428,
+      "end": 72442,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Name\nGlenn",
+      "start": 72443,
+      "end": 72453,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Last Name",
+      "start": 72455,
+      "end": 72464,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Dorn\n\nEmail",
+      "start": 72465,
+      "end": 72476,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "My Birth",
+      "start": 72603,
+      "end": 72611,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Glenn Dorn",
+      "start": 72899,
+      "end": 72909,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Extracted Text",
+      "start": 75904,
+      "end": 75918,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Image Tags",
+      "start": 77107,
+      "end": 77117,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Content Type",
+      "start": 78754,
+      "end": 78766,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "4026169292",
+      "start": 49798,
+      "end": 49808,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1610050732",
+      "start": 69223,
+      "end": 69233,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1610050734",
+      "start": 70331,
+      "end": 70341,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "4026169292",
+      "start": 72522,
+      "end": 72532,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "NO-REPLY@PRESENCEHOST.NET",
+      "start": 3631,
+      "end": 3656,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "NO-REPLY@PRESENCEHOST.NET",
+      "start": 6526,
+      "end": 6551,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "gd4747@aol.com",
+      "start": 47829,
+      "end": 47843,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "gd4747@aol.com",
+      "start": 47925,
+      "end": 47939,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 67289,
+      "end": 67305,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 67495,
+      "end": 67511,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 68018,
+      "end": 68034,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 68360,
+      "end": 68376,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "no-reply@presencehost.net",
+      "start": 68576,
+      "end": 68601,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 68955,
+      "end": 68971,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "bounce-md_30038147.5ff76cac.v1-7caf995e607544049f7b58f481a7a5b6@mandrillapp.com",
+      "start": 69021,
+      "end": 69100,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 69623,
+      "end": 69639,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "no-reply@presencehost.net",
+      "start": 69642,
+      "end": 69667,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "7b19dc2aacfbbc995ce4036bccc79de9@swift.generated",
+      "start": 69835,
+      "end": 69883,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 69895,
+      "end": 69911,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 69916,
+      "end": 69932,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "abuse@mandrill.com",
+      "start": 70014,
+      "end": 70032,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "bounce-md_30038147.5ff76cac.v1-7caf995e607544049f7b58f481a7a5b6@mandrillapp.com",
+      "start": 70369,
+      "end": 70448,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "gd4747@aol.com",
+      "start": 72477,
+      "end": 72491,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "gd4747@aol.com",
+      "start": 72499,
+      "end": 72513,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "4E25FF59118BBA49ADDFC4524E5D7936@namprd06.prod.outlook.com",
+      "start": 73150,
+      "end": 73208,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/07/2021",
+      "start": 40940,
+      "end": 40950,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "05/18/1951",
+      "start": 51743,
+      "end": 51753,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/07/2021",
+      "start": 72408,
+      "end": 72418,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "05/18/1951",
+      "start": 72622,
+      "end": 72632,
+      "type": "DATE",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
-    "genetic": 53,
-    "presidio": 0
+    "genetic": 49,
+    "presidio": 0,
+    "regex": 57
   },
   "text_sample": "\u0011\u0871\u001a\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000>\u0000\u0003\u0000\t\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0002\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0014\u0000\u0000\u0000n\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\u0000\u0000\t\u0000\u0000\u0000\n\u0000\u0000\u0000\u000b\u0000\u0000\u0000\f\u0000\u0000\u0000\n\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0013\u0000\u0000\u0000o\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u001b\u0000\u0000\u0000\u001c\u0000\u0000\u0000@\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u001f\u0000\u0000\u0000 \u0000\u0000\u0000!\u0000\u0000\u0000\"\u0000\u0000\u0000#\u0000\u0000\u0000$\u0000\u0000\u0000%\u0000\u0000\u0000&\u0000\u0000\u0000'\u0000\u0000\u0000(\u0000\u0000\u0000)\u0000\u0000\u0000*\u0000\u0000\u0000+\u0000\u0000\u0000,\u0000\u0000\u0000-\u0000\u0000\u0000.\u0000\u0000\u0000/\u0000\u0000\u00000\u0000\u0000\u00001\u0000\u0000\u00002\u0000\u0000\u00003\u0000\u0000\u00004\u0000\u0000\u00005\u0000\u0000\u00006\u0000\u0000\u00007\u0000\u0000\u00008\u0000\u0000\u00009\u0000\u0000\u0000:\u0000\u0000\u0000;\u0000\u0000\u0000<\u0000\u0000\u0000=\u0000\u0000\u0000>\u0000\u0000\u0000?\u0000\u0000\u0000A\u0000\u0000\u0000B\u0000\u0000\u0000k\u0000\u0000\u0000D\u0000\u0000\u0000E\u0000\u0000\u0000F\u0000\u0000\u0000G\u0000\u0000\u0000H\u0000\u0000\u0000I\u0000\u0000\u0000J\u0000\u0000\u0000K\u0000\u0000\u0000L\u0000\u0000\u0000M\u0000\u0000\u0000N\u0000\u0000\u0000O\u0000\u0000\u0000P\u0000\u0000\u0000Q\u0000\u0000\u0000R\u0000\u0000\u0000S\u0000\u0000\u0000T\u0000\u0000\u0000U\u0000\u0000\u0000V\u0000\u0000\u0000W\u0000\u0000\u0000X\u0000\u0000\u0000Y\u0000\u0000\u0000Z\u0000\u0000\u0000[\u0000\u0000\u0000\\\u0000\u0000\u0000]\u0000\u0000\u0000^\u0000\u0000\u0000_\u0000\u0000\u0000`\u0000\u0000\u0000a\u0000\u0000\u0000b\u0000\u0000\u0000c\u0000\u0000\u0000d\u0000\u0000\u0000e\u0000\u0000\u0000f\u0000\u0000\u0000g\u0000\u0000\u0000h\u0000\u0000\u0000i\u0000\u0000\u0000j\u0000\u0000\u0000l\u0000\u0000\u0000m\u0000\u0000\u0000\u007f\u0000\u0000\u0000..."
 }

@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Aegion Corporation/AegionCorp_0003466660.pdf",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Aegion Corporation/AegionCorp_0003466660.pdf",
     "file_name": "AegionCorp_0003466660.pdf",
     "file_size": 147214,
     "text_length": 4322
@@ -42,13 +42,6 @@
       "confidence": 0.5
     },
     {
-      "text": "502615112",
-      "start": 168,
-      "end": 177,
-      "type": "SSN",
-      "confidence": 0.5
-    },
-    {
       "text": "Issued Date",
       "start": 180,
       "end": 191,
@@ -67,6 +60,13 @@
       "start": 745,
       "end": 762,
       "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "610.254.8771",
+      "start": 854,
+      "end": 866,
+      "type": "PHONE",
       "confidence": 0.5
     },
     {
@@ -267,9 +267,278 @@
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Outpatient Services",
+      "start": 38,
+      "end": 57,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Case Number",
+      "start": 60,
+      "end": 71,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Patient Name",
+      "start": 84,
+      "end": 96,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Patient Date",
+      "start": 115,
+      "end": 127,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Policy Number",
+      "start": 153,
+      "end": 166,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Issued Date",
+      "start": 180,
+      "end": 191,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Days  \nGeo",
+      "start": 244,
+      "end": 254,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Claims Department",
+      "start": 745,
+      "end": 762,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Payment  \nAmount",
+      "start": 1037,
+      "end": 1053,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Costa  \nGlobal",
+      "start": 1478,
+      "end": 1492,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Safety Resources",
+      "start": 1505,
+      "end": 1521,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Provider Name",
+      "start": 1524,
+      "end": 1537,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Asp Centre",
+      "start": 1555,
+      "end": 1565,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Rimal  \nDate",
+      "start": 1572,
+      "end": 1584,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Outpatient Dental",
+      "start": 1654,
+      "end": 1671,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Major Restorati",
+      "start": 1974,
+      "end": 1989,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Major \nRestorative",
+      "start": 3017,
+      "end": 3035,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Services  \n \n \nDiagnostic",
+      "start": 3094,
+      "end": 3119,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Preventative Dental",
+      "start": 3124,
+      "end": 3143,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Oral Examinations",
+      "start": 3158,
+      "end": 3175,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Topical Fluoride",
+      "start": 3313,
+      "end": 3329,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Space Maintainers",
+      "start": 3366,
+      "end": 3383,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Primary  Dental",
+      "start": 3490,
+      "end": 3505,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Oral Surgery",
+      "start": 3551,
+      "end": 3563,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Pulp Vitality",
+      "start": 3587,
+      "end": 3600,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Oral Tissue",
+      "start": 3660,
+      "end": 3671,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Periodontal Therapy",
+      "start": 3690,
+      "end": 3709,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Stainless Steel",
+      "start": 3923,
+      "end": 3938,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Removable Dentures",
+      "start": 3962,
+      "end": 3980,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "General Anesthesia",
+      "start": 4043,
+      "end": 4061,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Intravenous Sedation",
+      "start": 4062,
+      "end": 4082,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Major Dental",
+      "start": 4087,
+      "end": 4099,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Fixed Bridgework",
+      "start": 4202,
+      "end": 4218,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Bridge Repairs",
+      "start": 4224,
+      "end": 4238,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Partial Dentures",
+      "start": 4253,
+      "end": 4269,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Denture Adjustments",
+      "start": 4275,
+      "end": 4294,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "610.254.8771",
+      "start": 854,
+      "end": 866,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "502615112",
+      "start": 168,
+      "end": 177,
+      "type": "SSN",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
     "genetic": 37,
-    "presidio": 0
+    "presidio": 0,
+    "regex": 38
   },
   "text_sample": " \n1 \n \n       \nCONFIRMED GUARANTEE  \u2013 Outpatient Services  \nCase Number: 01757659  \nPatient Name: JOHN HEGGEMANN  \nPatient Date of Birth: 08 -Dec-1977  \nPolicy Number: 502615112  \nIssued Date:  14-Septe mber-2018  \nGuarantee valid through:  30 Days  \nGeo-Blue or its authorized affiliates, hereby guarantees the payment of usual, reasonable and customary charges for \nmedically necessary physician\u2019s fees, hospital services and/or procedures detailed below.   If additional medically \nnecessary treat..."
 }

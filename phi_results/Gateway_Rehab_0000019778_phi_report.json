@@ -1,15 +1,17 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Gateway Rehabilitation Center/Gateway_Rehab_0000019778.doc",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Gateway Rehabilitation Center/Gateway_Rehab_0000019778.doc",
     "file_name": "Gateway_Rehab_0000019778.doc",
     "file_size": 35840,
     "text_length": 93
   },
   "genetic_detections": [],
   "presidio_detections": [],
+  "regex_detections": [],
   "detection_count": {
     "genetic": 0,
-    "presidio": 0
+    "presidio": 0,
+    "regex": 0
   },
   "text_sample": "[OFFICE FILE: Gateway_Rehab_0000019778.doc] - Install textract or tika for content extraction"
 }

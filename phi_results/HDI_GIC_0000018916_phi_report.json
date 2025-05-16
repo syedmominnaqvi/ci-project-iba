@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/HDI Global Insurance Company/HDI_GIC_0000018916.pdf",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/HDI Global Insurance Company/HDI_GIC_0000018916.pdf",
     "file_name": "HDI_GIC_0000018916.pdf",
     "file_size": 95449,
     "text_length": 8359
@@ -11,125 +11,415 @@
       "start": 2195,
       "end": 2206,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Lukes Magic",
       "start": 2740,
       "end": 2751,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Lukes Magic",
       "start": 2880,
       "end": 2891,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Lukes Magic",
       "start": 3151,
       "end": 3162,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Lukes Magic",
       "start": 3424,
       "end": 3435,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Lukes Magic",
       "start": 3697,
       "end": 3708,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Lukes Magic",
       "start": 3970,
       "end": 3981,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Lukes Magic",
       "start": 4243,
       "end": 4254,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Lukes Magic",
       "start": 4516,
       "end": 4527,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Lukes Magic",
       "start": 4790,
       "end": 4801,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Lukes Magic",
       "start": 5337,
       "end": 5348,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Lukes Magic",
       "start": 5613,
       "end": 5624,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Lukes Magic",
       "start": 5889,
       "end": 5900,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Lukes Magic",
       "start": 6039,
       "end": 6050,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Lukes Magic",
       "start": 7122,
       "end": 7133,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Lukes Magic",
       "start": 7398,
       "end": 7409,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     },
     {
       "text": "Patient Totals",
       "start": 8173,
       "end": 8187,
       "type": "NAME",
-      "confidence": 0.5
+      "confidence": 0.37374164764148327
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Lukes Magic",
+      "start": 2195,
+      "end": 2206,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lukes Magic",
+      "start": 2740,
+      "end": 2751,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lukes Magic",
+      "start": 2880,
+      "end": 2891,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lukes Magic",
+      "start": 3151,
+      "end": 3162,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lukes Magic",
+      "start": 3424,
+      "end": 3435,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lukes Magic",
+      "start": 3697,
+      "end": 3708,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lukes Magic",
+      "start": 3970,
+      "end": 3981,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lukes Magic",
+      "start": 4243,
+      "end": 4254,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lukes Magic",
+      "start": 4516,
+      "end": 4527,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lukes Magic",
+      "start": 4790,
+      "end": 4801,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lukes Magic",
+      "start": 5337,
+      "end": 5348,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lukes Magic",
+      "start": 5613,
+      "end": 5624,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lukes Magic",
+      "start": 5889,
+      "end": 5900,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lukes Magic",
+      "start": 6039,
+      "end": 6050,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lukes Magic",
+      "start": 7122,
+      "end": 7133,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lukes Magic",
+      "start": 7398,
+      "end": 7409,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Patient Totals",
+      "start": 8173,
+      "end": 8187,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "07/03/1707",
+      "start": 262,
+      "end": 272,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "07/26/1707",
+      "start": 529,
+      "end": 539,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "07/26/1707",
+      "start": 799,
+      "end": 809,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/08/1708",
+      "start": 1340,
+      "end": 1350,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/08/1708",
+      "start": 1615,
+      "end": 1625,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/08/1708",
+      "start": 1884,
+      "end": 1894,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/08/1708",
+      "start": 2155,
+      "end": 2165,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/08/1708",
+      "start": 2700,
+      "end": 2710,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/08/1708",
+      "start": 3111,
+      "end": 3121,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/08/1708",
+      "start": 3384,
+      "end": 3394,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/08/1708",
+      "start": 3657,
+      "end": 3667,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/08/1708",
+      "start": 3930,
+      "end": 3940,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/08/1708",
+      "start": 4203,
+      "end": 4213,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/08/1708",
+      "start": 4476,
+      "end": 4486,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/08/1708",
+      "start": 4750,
+      "end": 4760,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/08/1708",
+      "start": 5297,
+      "end": 5307,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/08/1708",
+      "start": 5573,
+      "end": 5583,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/08/1708",
+      "start": 5849,
+      "end": 5859,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/21/1708",
+      "start": 6284,
+      "end": 6294,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/21/1708",
+      "start": 6552,
+      "end": 6562,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/21/1708",
+      "start": 6817,
+      "end": 6827,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/21/1708",
+      "start": 7082,
+      "end": 7092,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/18/1709",
+      "start": 7358,
+      "end": 7368,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/18/1709",
+      "start": 7908,
+      "end": 7918,
+      "type": "DATE",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
     "genetic": 17,
-    "presidio": 0
+    "presidio": 0,
+    "regex": 41
   },
   "text_sample": "CopaymentApplied toDeductibleMedical Claim ItemizationPrinted 10/10/2017PatientEnrollee ID970567617Evynn V GilletteDatesChargesPatient's ResponsibilityContractualSavingsCoinsuranceNoncoveredOtherCarrier PaidBasicAccidentSupplementMajorMedical(P)rovider(I)nsured\n07/03/1707/03/1707/06/1707/10/17S6961Allen, Nathan K.171874251300P 134.00 11.85 0.00 30.00 0.00 0.00 0.00 0.00 0.00 92.15FromThruRcvdEOBDIS The charge exceeds the allowable amount for this service.  You are responsible for any amounts lis..."
 }

@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Two Rivers Public Health Department/TRPHD_523_0000041176.msg",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Two Rivers Public Health Department/TRPHD_523_0000041176.msg",
     "file_name": "TRPHD_523_0000041176.msg",
     "file_size": 63488,
     "text_length": 60913
@@ -11,118 +11,247 @@
       "start": 1526,
       "end": 1549,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Hayley Jeli",
       "start": 1624,
       "end": 1635,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Exchange Administrative",
       "start": 1771,
       "end": 1794,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Hayley Jeli",
       "start": 1869,
       "end": 1880,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Exchange Administrative",
       "start": 3338,
       "end": 3361,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Hayley Jeli",
       "start": 3436,
       "end": 3447,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Exchange Administrative",
       "start": 4978,
       "end": 5001,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
+    },
+    {
+      "text": "DM6PR06MB50845C66DFF27931C34AFADCA6819@DM6PR06MB5084.namprd06.prod.outlook.com",
+      "start": 7473,
+      "end": 7551,
+      "type": "EMAIL",
+      "confidence": 0.5
     },
     {
       "text": "Exchange Administrative",
       "start": 7640,
       "end": 7663,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Exchange Administrative",
       "start": 30662,
       "end": 30685,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Shared With",
       "start": 36695,
       "end": 36706,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Shared With",
       "start": 49278,
       "end": 49289,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Taxonomy Catch",
       "start": 49565,
       "end": 49579,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "All Column",
       "start": 49580,
       "end": 49590,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Extracted Text",
       "start": 52610,
       "end": 52624,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Image Tags",
       "start": 53813,
       "end": 53823,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Content Type",
       "start": 55460,
       "end": 55472,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Exchange Administrative",
+      "start": 1526,
+      "end": 1549,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hayley Jeli",
+      "start": 1624,
+      "end": 1635,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 1771,
+      "end": 1794,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hayley Jeli",
+      "start": 1869,
+      "end": 1880,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 3338,
+      "end": 3361,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hayley Jeli",
+      "start": 3436,
+      "end": 3447,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 4978,
+      "end": 5001,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 7640,
+      "end": 7663,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 30662,
+      "end": 30685,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Shared With",
+      "start": 36695,
+      "end": 36706,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Shared With",
+      "start": 49278,
+      "end": 49289,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Taxonomy Catch",
+      "start": 49565,
+      "end": 49579,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "All Column",
+      "start": 49580,
+      "end": 49590,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Extracted Text",
+      "start": 52610,
+      "end": 52624,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Image Tags",
+      "start": 53813,
+      "end": 53823,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Content Type",
+      "start": 55460,
+      "end": 55472,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "DM6PR06MB50845C66DFF27931C34AFADCA6819@DM6PR06MB5084.namprd06.prod.outlook.com",
+      "start": 7473,
+      "end": 7551,
+      "type": "EMAIL",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
-    "genetic": 16,
-    "presidio": 0
+    "genetic": 17,
+    "presidio": 0,
+    "regex": 17
   },
   "text_sample": "\u0011\u0871\u001a\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000>\u0000\u0003\u0000\t\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0002\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0014\u0000\u0000\u0000:\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\u0000\u0000\t\u0000\u0000\u0000\n\u0000\u0000\u0000\u000b\u0000\u0000\u0000\f\u0000\u0000\u0000\n\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0013\u0000\u0000\u0000;\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u001b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u001d\u0000\u0000\u00006\u0000\u0000\u0000\u001f\u0000\u0000\u0000 \u0000\u0000\u0000!\u0000\u0000\u0000\"\u0000\u0000\u0000#\u0000\u0000\u0000$\u0000\u0000\u0000%\u0000\u0000\u0000&\u0000\u0000\u0000'\u0000\u0000\u0000(\u0000\u0000\u0000)\u0000\u0000\u0000*\u0000\u0000\u0000+\u0000\u0000\u0000,\u0000\u0000\u0000-\u0000\u0000\u0000.\u0000\u0000\u0000/\u0000\u0000\u00000\u0000\u0000\u00001\u0000\u0000\u00002\u0000\u0000\u00003\u0000\u0000\u00004\u0000\u0000\u00005\u0000\u0000\u00007\u0000\u0000\u00008\u0000\u0000\u00009\u0000\u0000\u0000Y\u0000\u0000\u0000<\u0000\u0000\u0000=\u0000\u0000\u0000>\u0000\u0000\u0000?\u0000\u0000\u0000@\u0000\u0000\u0000A\u0000\u0000\u0000B\u0000\u0000\u0000C\u0000\u0000\u0000y\u0000\u0000\u0000F\u0000\u0000\u0000G\u0000\u0000\u0000H\u0000\u0000\u0000I\u0000\u0000\u0000J\u0000\u0000\u0000c\u0000\u0000\u0000L\u0000\u0000\u0000M\u0000\u0000\u0000N\u0000\u0000\u0000O\u0000\u0000\u0000P\u0000\u0000\u0000Q\u0000\u0000\u0000R\u0000\u0000\u0000S\u0000\u0000\u0000T\u0000\u0000\u0000U\u0000\u0000\u0000V\u0000\u0000\u0000W\u0000\u0000\u0000X\u0000\u0000\u0000Z\u0000\u0000\u0000[\u0000\u0000\u0000\\\u0000\u0000\u0000]\u0000\u0000\u0000^\u0000\u0000\u0000_\u0000\u0000\u0000`\u0000\u0000\u0000a\u0000\u0000\u0000b\u0000\u0000\u0000D\u0000\u0000\u0000d\u0000\u0000\u0000e\u0000\u0000\u0000f\u0000\u0000\u0000g\u0000\u0000\u0000h\u0000\u0000\u0000i\u0000\u0000\u0000j\u0000\u0000\u0000k\u0000\u0000\u0000l\u0000\u0000\u0000m\u0000\u0000\u0000n\u0000\u0000\u0000o\u0000\u0000\u0000p\u0000\u0000\u0000q\u0000\u0000..."
 }

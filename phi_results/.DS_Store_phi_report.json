@@ -1,15 +1,17 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/.DS_Store",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/MEDICAL_BLOOD_GROUP/.DS_Store",
     "file_name": ".DS_Store",
-    "file_size": 12292,
+    "file_size": 6148,
     "text_length": 67
   },
   "genetic_detections": [],
   "presidio_detections": [],
+  "regex_detections": [],
   "detection_count": {
     "genetic": 0,
-    "presidio": 0
+    "presidio": 0,
+    "regex": 0
   },
   "text_sample": "[UNSUPPORTED FILE: .DS_Store] - Format not supported for extraction"
 }

@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Two Rivers Public Health Department/TRPHD_523_0000045201.pdf",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Two Rivers Public Health Department/TRPHD_523_0000045201.pdf",
     "file_name": "TRPHD_523_0000045201.pdf",
     "file_size": 252108,
     "text_length": 2518
@@ -11,251 +11,870 @@
       "start": 0,
       "end": 17,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Clients  \n Manage",
       "start": 63,
       "end": 80,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Client\n Enter",
       "start": 81,
       "end": 94,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "New Client",
       "start": 95,
       "end": 105,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Immunizations  \n Manage",
       "start": 107,
       "end": 130,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Two Rivers",
       "start": 162,
       "end": 172,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Public Health",
       "start": 173,
       "end": 186,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Kassandra Lujan",
       "start": 210,
       "end": 225,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "User\n  Client",
       "start": 250,
       "end": 263,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Client Name",
       "start": 300,
       "end": 311,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Gender Mother",
       "start": 336,
       "end": 349,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Maiden Tracking",
       "start": 352,
       "end": 367,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Schedule Chart",
       "start": 368,
       "end": 382,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Comments\n \n  History",
       "start": 480,
       "end": 500,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Scan Immunization",
       "start": 501,
       "end": 518,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Add Immunization",
       "start": 519,
       "end": 535,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Edit Client",
       "start": 536,
       "end": 547,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Reports Print",
       "start": 548,
       "end": 561,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Print Confidential",
       "start": 562,
       "end": 580,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Vaccine Group",
       "start": 581,
       "end": 594,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Trade Name",
       "start": 619,
       "end": 629,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "No   \nHib",
       "start": 1093,
       "end": 1102,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "No   \nInfluenza",
       "start": 1170,
       "end": 1185,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Flulaval Quad",
       "start": 1197,
       "end": 1210,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Flulaval Quad",
       "start": 1239,
       "end": 1252,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "No   \nPneumococcal",
       "start": 1301,
       "end": 1319,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "No   \nPolio",
       "start": 1427,
       "end": 1438,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "No   \nVaricella",
       "start": 1540,
       "end": 1555,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "No   \n  Current",
       "start": 1584,
       "end": 1599,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Vaccines Recommended",
       "start": 1624,
       "end": 1644,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Schedule Add",
       "start": 1667,
       "end": 1679,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Selected\nPatient",
       "start": 1680,
       "end": 1696,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Recommended Date",
       "start": 1747,
       "end": 1763,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Date Earliest",
       "start": 1815,
       "end": 1828,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     },
     {
       "text": "Complete\nHib",
       "start": 1994,
       "end": 2006,
       "type": "NAME",
-      "confidence": 0.527362144554281
+      "confidence": 0.5
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Production Region",
+      "start": 0,
+      "end": 17,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Clients  \n Manage",
+      "start": 63,
+      "end": 80,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Client\n Enter",
+      "start": 81,
+      "end": 94,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "New Client",
+      "start": 95,
+      "end": 105,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Immunizations  \n Manage",
+      "start": 107,
+      "end": 130,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Two Rivers",
+      "start": 162,
+      "end": 172,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Public Health",
+      "start": 173,
+      "end": 186,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Kassandra Lujan",
+      "start": 210,
+      "end": 225,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "User\n  Client",
+      "start": 250,
+      "end": 263,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Client Name",
+      "start": 300,
+      "end": 311,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Gender Mother",
+      "start": 336,
+      "end": 349,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Maiden Tracking",
+      "start": 352,
+      "end": 367,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Schedule Chart",
+      "start": 368,
+      "end": 382,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Comments\n \n  History",
+      "start": 480,
+      "end": 500,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Scan Immunization",
+      "start": 501,
+      "end": 518,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Add Immunization",
+      "start": 519,
+      "end": 535,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Edit Client",
+      "start": 536,
+      "end": 547,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Reports Print",
+      "start": 548,
+      "end": 561,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Print Confidential",
+      "start": 562,
+      "end": 580,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vaccine Group",
+      "start": 581,
+      "end": 594,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Trade Name",
+      "start": 619,
+      "end": 629,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "No   \nHib",
+      "start": 1093,
+      "end": 1102,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "No   \nInfluenza",
+      "start": 1170,
+      "end": 1185,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Flulaval Quad",
+      "start": 1197,
+      "end": 1210,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Flulaval Quad",
+      "start": 1239,
+      "end": 1252,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "No   \nPneumococcal",
+      "start": 1301,
+      "end": 1319,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "No   \nPolio",
+      "start": 1427,
+      "end": 1438,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "No   \nVaricella",
+      "start": 1540,
+      "end": 1555,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "No   \n  Current",
+      "start": 1584,
+      "end": 1599,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vaccines Recommended",
+      "start": 1624,
+      "end": 1644,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Schedule Add",
+      "start": 1667,
+      "end": 1679,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Selected\nPatient",
+      "start": 1680,
+      "end": 1696,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Recommended Date",
+      "start": 1747,
+      "end": 1763,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Date Earliest",
+      "start": 1815,
+      "end": 1828,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Complete\nHib",
+      "start": 1994,
+      "end": 2006,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/11/2021",
+      "start": 403,
+      "end": 413,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "07/21/2022",
+      "start": 677,
+      "end": 687,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/18/2022",
+      "start": 730,
+      "end": 740,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "11/09/2021",
+      "start": 789,
+      "end": 799,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/13/2022",
+      "start": 825,
+      "end": 835,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "03/16/2022",
+      "start": 861,
+      "end": 871,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/13/2022",
+      "start": 901,
+      "end": 911,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/11/2021",
+      "start": 950,
+      "end": 960,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "11/09/2021",
+      "start": 992,
+      "end": 1002,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/13/2022",
+      "start": 1028,
+      "end": 1038,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "03/16/2022",
+      "start": 1064,
+      "end": 1074,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "11/09/2021",
+      "start": 1103,
+      "end": 1113,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/13/2022",
+      "start": 1140,
+      "end": 1150,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "03/16/2022",
+      "start": 1186,
+      "end": 1196,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "04/23/2022",
+      "start": 1228,
+      "end": 1238,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/13/2022",
+      "start": 1273,
+      "end": 1283,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "11/09/2021",
+      "start": 1320,
+      "end": 1330,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/13/2022",
+      "start": 1358,
+      "end": 1368,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "03/16/2022",
+      "start": 1396,
+      "end": 1406,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "11/09/2021",
+      "start": 1439,
+      "end": 1449,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/13/2022",
+      "start": 1475,
+      "end": 1485,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "03/16/2022",
+      "start": 1511,
+      "end": 1521,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/13/2022",
+      "start": 1556,
+      "end": 1566,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "10/13/2022",
+      "start": 1866,
+      "end": 1876,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "10/13/2022",
+      "start": 1877,
+      "end": 1887,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "11/10/2022",
+      "start": 1888,
+      "end": 1898,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "12/11/2022",
+      "start": 1906,
+      "end": 1916,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/16/2022",
+      "start": 1917,
+      "end": 1927,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "04/11/2023",
+      "start": 1928,
+      "end": 1938,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/10/2028",
+      "start": 1939,
+      "end": 1949,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "03/13/2023",
+      "start": 1955,
+      "end": 1965,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "03/13/2023",
+      "start": 1966,
+      "end": 1976,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "04/13/2024",
+      "start": 1977,
+      "end": 1987,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/11/2022",
+      "start": 2007,
+      "end": 2017,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/11/2022",
+      "start": 2018,
+      "end": 2028,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/11/2023",
+      "start": 2029,
+      "end": 2039,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/10/2026",
+      "start": 2040,
+      "end": 2050,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/01/2022",
+      "start": 2061,
+      "end": 2071,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "08/01/2022",
+      "start": 2072,
+      "end": 2082,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/11/2022",
+      "start": 2083,
+      "end": 2093,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/11/2025",
+      "start": 2098,
+      "end": 2108,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "10/11/2022",
+      "start": 2109,
+      "end": 2119,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/11/2027",
+      "start": 2120,
+      "end": 2130,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/16/2022",
+      "start": 2144,
+      "end": 2154,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/11/2022",
+      "start": 2155,
+      "end": 2165,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "01/11/2023",
+      "start": 2166,
+      "end": 2176,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/10/2026",
+      "start": 2177,
+      "end": 2187,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/11/2025",
+      "start": 2194,
+      "end": 2204,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/11/2025",
+      "start": 2205,
+      "end": 2215,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/11/2028",
+      "start": 2216,
+      "end": 2226,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "09/11/2025",
+      "start": 2237,
+      "end": 2247,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "12/11/2022",
+      "start": 2248,
+      "end": 2258,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "10/11/2028",
+      "start": 2259,
+      "end": 2269,
+      "type": "DATE",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
     "genetic": 35,
-    "presidio": 0
+    "presidio": 0,
+    "regex": 88
   },
   "text_sample": "Production Region 10.5.7\n  \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \n Clients  \n Manage Client\n Enter New Client\n Immunizations  \n Manage Immunizations\n organization    Two Rivers Public Health Department  \u2022   user   Kassandra Lujan  \u2022   role   IR T ypical User\n  Client Information NESIIS ID: 1 1683824  \n Client Name (First - MI - Last) DOB Gender Mother's Maiden Tracking Schedule Chart #\nSAM AL VIN SNYDER 09/11/2021 M ACIP\nAddress  203 CEDAR ST , ARAP AHOE, NE 68922 (308) 655-0672\nComments\n \n  History..."
 }

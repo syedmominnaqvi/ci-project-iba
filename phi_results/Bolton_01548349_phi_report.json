@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Bolton Partners Inc/Bolton_01548349.msg",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Bolton Partners Inc/Bolton_01548349.msg",
     "file_name": "Bolton_01548349.msg",
     "file_size": 167936,
     "text_length": 157900
@@ -11,13 +11,6 @@
       "start": 3383,
       "end": 3388,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "SUETOOLS@YAHOO.COM",
-      "start": 10975,
-      "end": 10993,
-      "type": "EMAIL",
       "confidence": 0.5
     },
     {
@@ -126,31 +119,10 @@
       "confidence": 0.5
     },
     {
-      "text": "rthompson@stratovize.com",
-      "start": 77093,
-      "end": 77117,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "rthompson@stratovize.com",
-      "start": 77207,
-      "end": 77231,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
       "text": "Susan Bennett",
       "start": 77791,
       "end": 77804,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "suetools@yahoo.com",
-      "start": 77813,
-      "end": 77831,
-      "type": "EMAIL",
       "confidence": 0.5
     },
     {
@@ -161,24 +133,10 @@
       "confidence": 0.5
     },
     {
-      "text": "rthompson@stratovize.com",
-      "start": 77917,
-      "end": 77941,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
       "text": "Bill Anderson",
       "start": 77960,
       "end": 77973,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "banderson@stratovize.com",
-      "start": 77978,
-      "end": 78002,
-      "type": "EMAIL",
       "confidence": 0.5
     },
     {
@@ -249,20 +207,6 @@
       "start": 79766,
       "end": 79779,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "suetools@yahoo.com",
-      "start": 79800,
-      "end": 79818,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "suetools@yahoo.com",
-      "start": 79820,
-      "end": 79838,
-      "type": "EMAIL",
       "confidence": 0.5
     },
     {
@@ -354,20 +298,6 @@
       "start": 82906,
       "end": 82922,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "rthompson@stratovize.com",
-      "start": 82943,
-      "end": 82967,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "rthompson@stratovize.com",
-      "start": 82969,
-      "end": 82993,
-      "type": "EMAIL",
       "confidence": 0.5
     },
     {
@@ -546,20 +476,6 @@
       "confidence": 0.5
     },
     {
-      "text": "rthompson@stratovize.com",
-      "start": 87093,
-      "end": 87117,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "rthompson@stratovize.com",
-      "start": 87163,
-      "end": 87187,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
       "text": "Helvetica Neue",
       "start": 87251,
       "end": 87265,
@@ -602,20 +518,6 @@
       "confidence": 0.5
     },
     {
-      "text": "suetools@yahoo.com",
-      "start": 87946,
-      "end": 87964,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "suetools@yahoo.com",
-      "start": 87973,
-      "end": 87991,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
       "text": "Randall Thompson",
       "start": 88060,
       "end": 88076,
@@ -623,38 +525,10 @@
       "confidence": 0.5
     },
     {
-      "text": "rthompson@stratovize.com",
-      "start": 88097,
-      "end": 88121,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "rthompson@stratovize.com",
-      "start": 88123,
-      "end": 88147,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
       "text": "Bill Anderson",
       "start": 88170,
       "end": 88183,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "banderson@stratovize.com",
-      "start": 88204,
-      "end": 88228,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "banderson@stratovize.com",
-      "start": 88230,
-      "end": 88254,
-      "type": "EMAIL",
       "confidence": 0.5
     },
     {
@@ -788,20 +662,6 @@
       "start": 91176,
       "end": 91190,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "rthompson@stratovize.com",
-      "start": 91227,
-      "end": 91251,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "rthompson@stratovize.com",
-      "start": 91300,
-      "end": 91324,
-      "type": "EMAIL",
       "confidence": 0.5
     },
     {
@@ -1113,20 +973,6 @@
       "confidence": 0.5
     },
     {
-      "text": "rthompson@stratovize.com",
-      "start": 96661,
-      "end": 96685,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "rthompson@stratovize.com",
-      "start": 96734,
-      "end": 96758,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
       "text": "Helvetica Neue",
       "start": 96822,
       "end": 96836,
@@ -1183,20 +1029,6 @@
       "confidence": 0.5
     },
     {
-      "text": "suetools@yahoo.com",
-      "start": 97656,
-      "end": 97674,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "suetools@yahoo.com",
-      "start": 97730,
-      "end": 97748,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
       "text": "Helvetica Neue",
       "start": 97809,
       "end": 97823,
@@ -1218,20 +1050,6 @@
       "confidence": 0.5
     },
     {
-      "text": "rthompson@stratovize.com",
-      "start": 98014,
-      "end": 98038,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "rthompson@stratovize.com",
-      "start": 98087,
-      "end": 98111,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
       "text": "Helvetica Neue",
       "start": 98172,
       "end": 98186,
@@ -1250,20 +1068,6 @@
       "start": 98277,
       "end": 98291,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "banderson@stratovize.com",
-      "start": 98328,
-      "end": 98352,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "banderson@stratovize.com",
-      "start": 98401,
-      "end": 98425,
-      "type": "EMAIL",
       "confidence": 0.5
     },
     {
@@ -1365,20 +1169,6 @@
       "confidence": 0.5
     },
     {
-      "text": "rthompson@stratovize.com",
-      "start": 100304,
-      "end": 100328,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "rthompson@stratovize.com",
-      "start": 100377,
-      "end": 100401,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
       "text": "Helvetica Neue",
       "start": 100462,
       "end": 100476,
@@ -1461,13 +1251,6 @@
       "end": 101693,
       "type": "NAME",
       "confidence": 0.5
-    },
-    {
-      "text": "800-251-7254",
-      "start": 101835,
-      "end": 101847,
-      "type": "PHONE",
-      "confidence": 0.578957937674618
     },
     {
       "text": "Helvetica Neue",
@@ -1715,20 +1498,6 @@
       "confidence": 0.5
     },
     {
-      "text": "rthompson@stratovize.com",
-      "start": 106298,
-      "end": 106322,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "rthompson@stratovize.com",
-      "start": 106371,
-      "end": 106395,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
       "text": "Helvetica Neue",
       "start": 106459,
       "end": 106473,
@@ -1785,20 +1554,6 @@
       "confidence": 0.5
     },
     {
-      "text": "suetools@yahoo.com",
-      "start": 107315,
-      "end": 107333,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "suetools@yahoo.com",
-      "start": 107389,
-      "end": 107407,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
       "text": "Helvetica Neue",
       "start": 107468,
       "end": 107482,
@@ -1817,20 +1572,6 @@
       "start": 107620,
       "end": 107634,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "rthompson@stratovize.com",
-      "start": 107671,
-      "end": 107695,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "rthompson@stratovize.com",
-      "start": 107744,
-      "end": 107768,
-      "type": "EMAIL",
       "confidence": 0.5
     },
     {
@@ -1922,20 +1663,6 @@
       "start": 109166,
       "end": 109180,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "rthompson@stratovize.com",
-      "start": 109217,
-      "end": 109241,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "rthompson@stratovize.com",
-      "start": 109290,
-      "end": 109314,
-      "type": "EMAIL",
       "confidence": 0.5
     },
     {
@@ -2240,20 +1967,6 @@
       "confidence": 0.5
     },
     {
-      "text": "rthompson@stratovize.com",
-      "start": 115094,
-      "end": 115118,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "rthompson@stratovize.com",
-      "start": 115167,
-      "end": 115191,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
       "text": "Helvetica Neue",
       "start": 115255,
       "end": 115269,
@@ -2310,20 +2023,6 @@
       "confidence": 0.5
     },
     {
-      "text": "suetools@yahoo.com",
-      "start": 116133,
-      "end": 116151,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "suetools@yahoo.com",
-      "start": 116207,
-      "end": 116225,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
       "text": "Helvetica Neue",
       "start": 116286,
       "end": 116300,
@@ -2342,20 +2041,6 @@
       "start": 116445,
       "end": 116459,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "rthompson@stratovize.com",
-      "start": 116496,
-      "end": 116520,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "rthompson@stratovize.com",
-      "start": 116569,
-      "end": 116593,
-      "type": "EMAIL",
       "confidence": 0.5
     },
     {
@@ -2545,20 +2230,6 @@
       "start": 120296,
       "end": 120310,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "rthompson@stratovize.com",
-      "start": 120347,
-      "end": 120371,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "rthompson@stratovize.com",
-      "start": 120420,
-      "end": 120444,
-      "type": "EMAIL",
       "confidence": 0.5
     },
     {
@@ -2933,20 +2604,6 @@
       "confidence": 0.5
     },
     {
-      "text": "rthompson@stratovize.com",
-      "start": 127500,
-      "end": 127524,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "rthompson@stratovize.com",
-      "start": 127573,
-      "end": 127597,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
       "text": "Helvetica Neue",
       "start": 127661,
       "end": 127675,
@@ -3003,20 +2660,6 @@
       "confidence": 0.5
     },
     {
-      "text": "suetools@yahoo.com",
-      "start": 128561,
-      "end": 128579,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "suetools@yahoo.com",
-      "start": 128635,
-      "end": 128653,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
       "text": "Helvetica Neue",
       "start": 128714,
       "end": 128728,
@@ -3035,20 +2678,6 @@
       "start": 128871,
       "end": 128885,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "rthompson@stratovize.com",
-      "start": 128922,
-      "end": 128946,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "rthompson@stratovize.com",
-      "start": 128995,
-      "end": 129019,
-      "type": "EMAIL",
       "confidence": 0.5
     },
     {
@@ -3171,20 +2800,6 @@
       "confidence": 0.5
     },
     {
-      "text": "abuse@stratovize.com",
-      "start": 132739,
-      "end": 132759,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "abuse@stratovize.com",
-      "start": 132808,
-      "end": 132828,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
       "text": "Helvetica Neue",
       "start": 132889,
       "end": 132903,
@@ -3224,20 +2839,6 @@
       "start": 134669,
       "end": 134683,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "abuse@stratovize.com",
-      "start": 134720,
-      "end": 134740,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "abuse@stratovize.com",
-      "start": 134789,
-      "end": 134809,
-      "type": "EMAIL",
       "confidence": 0.5
     },
     {
@@ -3283,20 +2884,6 @@
       "confidence": 0.5
     },
     {
-      "text": "abuse@stratovize.com",
-      "start": 136679,
-      "end": 136699,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "abuse@stratovize.com",
-      "start": 136748,
-      "end": 136768,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
       "text": "Helvetica Neue",
       "start": 136829,
       "end": 136843,
@@ -3339,20 +2926,6 @@
       "confidence": 0.5
     },
     {
-      "text": "abuse@stratovize.com",
-      "start": 138616,
-      "end": 138636,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "abuse@stratovize.com",
-      "start": 138685,
-      "end": 138705,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
       "text": "Helvetica Neue",
       "start": 138766,
       "end": 138780,
@@ -3378,20 +2951,6 @@
       "start": 139278,
       "end": 139292,
       "type": "NAME",
-      "confidence": 0.5
-    },
-    {
-      "text": "abuse@stratovize.com",
-      "start": 140395,
-      "end": 140415,
-      "type": "EMAIL",
-      "confidence": 0.5
-    },
-    {
-      "text": "abuse@stratovize.com",
-      "start": 140417,
-      "end": 140437,
-      "type": "EMAIL",
       "confidence": 0.5
     },
     {
@@ -3452,9 +3011,3470 @@
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Zg\u001cXp",
+      "start": 3383,
+      "end": 3388,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 12108,
+      "end": 12131,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 12293,
+      "end": 12316,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 13734,
+      "end": 13757,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Bs\u001cQs",
+      "start": 19237,
+      "end": 19242,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Microsoft Word",
+      "start": 38262,
+      "end": 38276,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Font Definitions",
+      "start": 38497,
+      "end": 38513,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Cambria Math",
+      "start": 38543,
+      "end": 38555,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 38683,
+      "end": 38697,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Style Definitions",
+      "start": 38735,
+      "end": 38752,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hi Susan",
+      "start": 74542,
+      "end": 74550,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Claims Dept",
+      "start": 74750,
+      "end": 74761,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randy Thompson",
+      "start": 75670,
+      "end": 75684,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Senior Account",
+      "start": 75806,
+      "end": 75820,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Times New",
+      "start": 75962,
+      "end": 75971,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Charles Street",
+      "start": 76400,
+      "end": 76414,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Susan Bennett",
+      "start": 77791,
+      "end": 77804,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randall Thompson",
+      "start": 77896,
+      "end": 77912,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Bill Anderson",
+      "start": 77960,
+      "end": 77973,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 78182,
+      "end": 78196,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 78794,
+      "end": 78808,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 78918,
+      "end": 78932,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 79146,
+      "end": 79160,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 79270,
+      "end": 79284,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 79394,
+      "end": 79408,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 79522,
+      "end": 79536,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 79685,
+      "end": 79699,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Thursday",
+      "start": 79722,
+      "end": 79733,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Susan Bennett",
+      "start": 79766,
+      "end": 79779,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 79949,
+      "end": 79963,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 80087,
+      "end": 80101,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 80342,
+      "end": 80356,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 80919,
+      "end": 80933,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 81236,
+      "end": 81250,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 81452,
+      "end": 81466,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 81797,
+      "end": 81811,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 82013,
+      "end": 82027,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 82238,
+      "end": 82252,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 82454,
+      "end": 82468,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 82633,
+      "end": 82647,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Thursday",
+      "start": 82870,
+      "end": 82881,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randall Thompson",
+      "start": 82906,
+      "end": 82922,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 83058,
+      "end": 83072,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 83229,
+      "end": 83243,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 83421,
+      "end": 83435,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 84069,
+      "end": 84083,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 84235,
+      "end": 84249,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 84400,
+      "end": 84414,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 84561,
+      "end": 84575,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 84721,
+      "end": 84735,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 84812,
+      "end": 84826,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 84967,
+      "end": 84981,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 85058,
+      "end": 85072,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 85213,
+      "end": 85227,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randy Thompson",
+      "start": 85248,
+      "end": 85262,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 85312,
+      "end": 85326,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 85467,
+      "end": 85481,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Senior Account",
+      "start": 85502,
+      "end": 85516,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 85644,
+      "end": 85658,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 85979,
+      "end": 85993,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 86140,
+      "end": 86154,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Charles Street",
+      "start": 86181,
+      "end": 86195,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 86315,
+      "end": 86329,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 86480,
+      "end": 86494,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 86654,
+      "end": 86668,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 86837,
+      "end": 86851,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 87042,
+      "end": 87056,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 87251,
+      "end": 87265,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 87343,
+      "end": 87357,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 87504,
+      "end": 87518,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 87785,
+      "end": 87799,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 87879,
+      "end": 87893,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Susan Bennett",
+      "start": 87915,
+      "end": 87928,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randall Thompson",
+      "start": 88060,
+      "end": 88076,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Bill Anderson",
+      "start": 88170,
+      "end": 88183,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 88431,
+      "end": 88445,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 88658,
+      "end": 88672,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 88763,
+      "end": 88777,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 88985,
+      "end": 88999,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 89076,
+      "end": 89090,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 89298,
+      "end": 89312,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 89579,
+      "end": 89593,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 89801,
+      "end": 89815,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 89929,
+      "end": 89943,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 90151,
+      "end": 90165,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 90242,
+      "end": 90256,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 90464,
+      "end": 90478,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 90567,
+      "end": 90581,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 90762,
+      "end": 90776,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 90853,
+      "end": 90867,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 91034,
+      "end": 91048,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Thursday",
+      "start": 91069,
+      "end": 91080,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randall Thompson",
+      "start": 91105,
+      "end": 91121,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 91176,
+      "end": 91190,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 91385,
+      "end": 91399,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 91481,
+      "end": 91495,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 91671,
+      "end": 91685,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 91913,
+      "end": 91927,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hi Susan",
+      "start": 91936,
+      "end": 91944,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 91985,
+      "end": 91999,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 92151,
+      "end": 92165,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 92225,
+      "end": 92239,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 92391,
+      "end": 92405,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 92574,
+      "end": 92588,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 92740,
+      "end": 92754,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 92814,
+      "end": 92828,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 92985,
+      "end": 92999,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 93063,
+      "end": 93077,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 93229,
+      "end": 93243,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 93303,
+      "end": 93317,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 93469,
+      "end": 93483,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 93542,
+      "end": 93556,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 93708,
+      "end": 93722,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 93782,
+      "end": 93796,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 93948,
+      "end": 93962,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 94022,
+      "end": 94036,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 94188,
+      "end": 94202,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randy Thompson",
+      "start": 94223,
+      "end": 94237,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 94270,
+      "end": 94284,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 94436,
+      "end": 94450,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Senior Account",
+      "start": 94471,
+      "end": 94485,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 94526,
+      "end": 94540,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 94692,
+      "end": 94706,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 94924,
+      "end": 94938,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 95090,
+      "end": 95104,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 95164,
+      "end": 95178,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 95330,
+      "end": 95344,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Charles Street",
+      "start": 95371,
+      "end": 95385,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 95418,
+      "end": 95432,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 95584,
+      "end": 95598,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 95662,
+      "end": 95676,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 95828,
+      "end": 95842,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 95915,
+      "end": 95929,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 96081,
+      "end": 96095,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 96177,
+      "end": 96191,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 96343,
+      "end": 96357,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 96461,
+      "end": 96475,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 96610,
+      "end": 96624,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 96822,
+      "end": 96836,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 96895,
+      "end": 96909,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 97067,
+      "end": 97081,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 97141,
+      "end": 97155,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 97427,
+      "end": 97441,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 97521,
+      "end": 97535,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Susan Bennett",
+      "start": 97557,
+      "end": 97570,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 97605,
+      "end": 97619,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 97809,
+      "end": 97823,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randall Thompson",
+      "start": 97909,
+      "end": 97925,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 97963,
+      "end": 97977,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 98172,
+      "end": 98186,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Bill Anderson",
+      "start": 98226,
+      "end": 98239,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 98277,
+      "end": 98291,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 98486,
+      "end": 98500,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 98595,
+      "end": 98609,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 98773,
+      "end": 98787,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 98847,
+      "end": 98861,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 99079,
+      "end": 99093,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 99321,
+      "end": 99335,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 99554,
+      "end": 99568,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 99655,
+      "end": 99669,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 99861,
+      "end": 99875,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 99935,
+      "end": 99949,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 100127,
+      "end": 100141,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Thursday",
+      "start": 100162,
+      "end": 100173,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randall Thompson",
+      "start": 100199,
+      "end": 100215,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 100253,
+      "end": 100267,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 100462,
+      "end": 100476,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 100541,
+      "end": 100555,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 100742,
+      "end": 100756,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 100816,
+      "end": 100830,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 101064,
+      "end": 101078,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hi Susan",
+      "start": 101087,
+      "end": 101095,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 101136,
+      "end": 101150,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 101313,
+      "end": 101327,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 101387,
+      "end": 101401,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 101564,
+      "end": 101578,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Transamerica Claims",
+      "start": 101631,
+      "end": 101650,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Medical Provider",
+      "start": 101677,
+      "end": 101693,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 102019,
+      "end": 102033,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 102196,
+      "end": 102210,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 102270,
+      "end": 102284,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 102452,
+      "end": 102466,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 102530,
+      "end": 102544,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 102707,
+      "end": 102721,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 102781,
+      "end": 102795,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 102958,
+      "end": 102972,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 103031,
+      "end": 103045,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 103208,
+      "end": 103222,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 103282,
+      "end": 103296,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 103459,
+      "end": 103473,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 103533,
+      "end": 103547,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 103710,
+      "end": 103724,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randy Thompson",
+      "start": 103745,
+      "end": 103759,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 103792,
+      "end": 103806,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 103969,
+      "end": 103983,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Senior Account",
+      "start": 104004,
+      "end": 104018,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 104059,
+      "end": 104073,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 104236,
+      "end": 104250,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 104484,
+      "end": 104498,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 104661,
+      "end": 104675,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 104735,
+      "end": 104749,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 104912,
+      "end": 104926,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Charles Street",
+      "start": 104953,
+      "end": 104967,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 105000,
+      "end": 105014,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 105177,
+      "end": 105191,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 105255,
+      "end": 105269,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 105432,
+      "end": 105446,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 105519,
+      "end": 105533,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 105696,
+      "end": 105710,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 105792,
+      "end": 105806,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 105969,
+      "end": 105983,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 106087,
+      "end": 106101,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 106247,
+      "end": 106261,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 106459,
+      "end": 106473,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 106532,
+      "end": 106546,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 106715,
+      "end": 106729,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 106789,
+      "end": 106803,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 107086,
+      "end": 107100,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 107180,
+      "end": 107194,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Susan Bennett",
+      "start": 107216,
+      "end": 107229,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 107264,
+      "end": 107278,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 107468,
+      "end": 107482,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randall Thompson",
+      "start": 107566,
+      "end": 107582,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 107620,
+      "end": 107634,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 107829,
+      "end": 107843,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 107938,
+      "end": 107952,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 108127,
+      "end": 108141,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 108201,
+      "end": 108215,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 108444,
+      "end": 108458,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Thanks Randy",
+      "start": 108497,
+      "end": 108509,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 108542,
+      "end": 108556,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 108759,
+      "end": 108773,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 108833,
+      "end": 108847,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 109036,
+      "end": 109050,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Thursday",
+      "start": 109071,
+      "end": 109082,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randall Thompson",
+      "start": 109112,
+      "end": 109128,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 109166,
+      "end": 109180,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 109375,
+      "end": 109389,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 109454,
+      "end": 109468,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 109666,
+      "end": 109680,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 109740,
+      "end": 109754,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 110000,
+      "end": 110014,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hi Susan",
+      "start": 110023,
+      "end": 110031,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 110072,
+      "end": 110086,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 110260,
+      "end": 110274,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 110636,
+      "end": 110650,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 110824,
+      "end": 110838,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 110898,
+      "end": 110912,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 111091,
+      "end": 111105,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 111169,
+      "end": 111183,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 111357,
+      "end": 111371,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 111431,
+      "end": 111445,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 111619,
+      "end": 111633,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 111692,
+      "end": 111706,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 111880,
+      "end": 111894,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 111954,
+      "end": 111968,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 112142,
+      "end": 112156,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 112216,
+      "end": 112230,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 112404,
+      "end": 112418,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randy Thompson",
+      "start": 112439,
+      "end": 112453,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 112486,
+      "end": 112500,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 112674,
+      "end": 112688,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Senior Account",
+      "start": 112709,
+      "end": 112723,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 112764,
+      "end": 112778,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 112952,
+      "end": 112966,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 113203,
+      "end": 113217,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 113391,
+      "end": 113405,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 113465,
+      "end": 113479,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 113653,
+      "end": 113667,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Charles Street",
+      "start": 113694,
+      "end": 113708,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 113741,
+      "end": 113755,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 113929,
+      "end": 113943,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 114007,
+      "end": 114021,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 114195,
+      "end": 114209,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 114282,
+      "end": 114296,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 114470,
+      "end": 114484,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 114566,
+      "end": 114580,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 114754,
+      "end": 114768,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 114872,
+      "end": 114886,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 115043,
+      "end": 115057,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 115255,
+      "end": 115269,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 115328,
+      "end": 115342,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 115522,
+      "end": 115536,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 115596,
+      "end": 115610,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 115904,
+      "end": 115918,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 115998,
+      "end": 116012,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Susan Bennett",
+      "start": 116034,
+      "end": 116047,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 116082,
+      "end": 116096,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 116286,
+      "end": 116300,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randall Thompson",
+      "start": 116391,
+      "end": 116407,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 116445,
+      "end": 116459,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 116654,
+      "end": 116668,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 116763,
+      "end": 116777,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 116963,
+      "end": 116977,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 117037,
+      "end": 117051,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 117291,
+      "end": 117305,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Psychologist Report",
+      "start": 117509,
+      "end": 117528,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Primary Physician",
+      "start": 117530,
+      "end": 117547,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 117603,
+      "end": 117617,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 117858,
+      "end": 117872,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 117932,
+      "end": 117946,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 118187,
+      "end": 118201,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 118329,
+      "end": 118343,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 118584,
+      "end": 118598,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 118658,
+      "end": 118672,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 118913,
+      "end": 118927,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 118987,
+      "end": 119001,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 119242,
+      "end": 119256,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 119316,
+      "end": 119330,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 119571,
+      "end": 119585,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Susan Bennett",
+      "start": 119606,
+      "end": 119619,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 119652,
+      "end": 119666,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 119880,
+      "end": 119894,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 119954,
+      "end": 119968,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 120168,
+      "end": 120182,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "On Tuesday",
+      "start": 120203,
+      "end": 120213,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randall Thompson",
+      "start": 120242,
+      "end": 120258,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 120296,
+      "end": 120310,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 120505,
+      "end": 120519,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 120584,
+      "end": 120598,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 120807,
+      "end": 120821,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 120881,
+      "end": 120895,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 121118,
+      "end": 121132,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Mimecast Secure",
+      "start": 121153,
+      "end": 121168,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Highly Sensitive",
+      "start": 121179,
+      "end": 121195,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 121261,
+      "end": 121275,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Mimecast Secure",
+      "start": 121346,
+      "end": 121361,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Send Secure",
+      "start": 121399,
+      "end": 121410,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 121496,
+      "end": 121510,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 121686,
+      "end": 121700,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 121925,
+      "end": 121939,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hi Susan",
+      "start": 121948,
+      "end": 121956,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 121997,
+      "end": 122011,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 122196,
+      "end": 122210,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 122538,
+      "end": 122552,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 122737,
+      "end": 122751,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 122867,
+      "end": 122881,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 123066,
+      "end": 123080,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 123140,
+      "end": 123154,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 123344,
+      "end": 123358,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 123422,
+      "end": 123436,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 123621,
+      "end": 123635,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 123695,
+      "end": 123709,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 123894,
+      "end": 123908,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 123967,
+      "end": 123981,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 124166,
+      "end": 124180,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 124240,
+      "end": 124254,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 124439,
+      "end": 124453,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 124513,
+      "end": 124527,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 124712,
+      "end": 124726,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randy Thompson",
+      "start": 124747,
+      "end": 124761,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 124794,
+      "end": 124808,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 124993,
+      "end": 125007,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Senior Account",
+      "start": 125028,
+      "end": 125042,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 125083,
+      "end": 125097,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 125282,
+      "end": 125296,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 125532,
+      "end": 125546,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 125731,
+      "end": 125745,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 125805,
+      "end": 125819,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 126004,
+      "end": 126018,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Charles Street",
+      "start": 126045,
+      "end": 126059,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 126092,
+      "end": 126106,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 126291,
+      "end": 126305,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 126369,
+      "end": 126383,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 126568,
+      "end": 126582,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 126655,
+      "end": 126669,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 126854,
+      "end": 126868,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 126950,
+      "end": 126964,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 127149,
+      "end": 127163,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 127267,
+      "end": 127281,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 127449,
+      "end": 127463,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 127661,
+      "end": 127675,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 127734,
+      "end": 127748,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 127939,
+      "end": 127953,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 128013,
+      "end": 128027,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 128332,
+      "end": 128346,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 128426,
+      "end": 128440,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Susan Bennett",
+      "start": 128462,
+      "end": 128475,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 128510,
+      "end": 128524,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 128714,
+      "end": 128728,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Randall Thompson",
+      "start": 128817,
+      "end": 128833,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 128871,
+      "end": 128885,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 129080,
+      "end": 129094,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 129185,
+      "end": 129199,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 129396,
+      "end": 129410,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 129470,
+      "end": 129484,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 129734,
+      "end": 129748,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hi Randy",
+      "start": 129769,
+      "end": 129777,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 129981,
+      "end": 129995,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 130246,
+      "end": 130260,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 130320,
+      "end": 130334,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 130585,
+      "end": 130599,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 130659,
+      "end": 130673,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 130924,
+      "end": 130938,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 130998,
+      "end": 131012,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 131263,
+      "end": 131277,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 131336,
+      "end": 131350,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 131554,
+      "end": 131568,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 132688,
+      "end": 132702,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 132889,
+      "end": 132903,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 133007,
+      "end": 133021,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 133236,
+      "end": 133250,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 133310,
+      "end": 133324,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 133535,
+      "end": 133549,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 134669,
+      "end": 134683,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 134870,
+      "end": 134884,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 134988,
+      "end": 135002,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 135206,
+      "end": 135220,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 135280,
+      "end": 135294,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 135494,
+      "end": 135508,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 136628,
+      "end": 136642,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 136829,
+      "end": 136843,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 136947,
+      "end": 136961,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 137154,
+      "end": 137168,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 137228,
+      "end": 137242,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 137431,
+      "end": 137445,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 138565,
+      "end": 138579,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 138766,
+      "end": 138780,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 138884,
+      "end": 138898,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 139080,
+      "end": 139094,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 139278,
+      "end": 139292,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Helvetica Neue",
+      "start": 140633,
+      "end": 140647,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Shared With",
+      "start": 145575,
+      "end": 145586,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Shared With",
+      "start": 146266,
+      "end": 146277,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Taxonomy Catch",
+      "start": 146553,
+      "end": 146567,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "All Column",
+      "start": 146568,
+      "end": 146578,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Extracted Text",
+      "start": 149598,
+      "end": 149612,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Image Tags",
+      "start": 150801,
+      "end": 150811,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Content Type",
+      "start": 152448,
+      "end": 152460,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "800-251-7254",
+      "start": 101835,
+      "end": 101847,
+      "type": "PHONE",
+      "confidence": 1.0
+    },
+    {
+      "text": "SUETOOLS@YAHOO.COM",
+      "start": 10975,
+      "end": 10993,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 77093,
+      "end": 77117,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 77207,
+      "end": 77231,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "suetools@yahoo.com",
+      "start": 77813,
+      "end": 77831,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 77917,
+      "end": 77941,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "banderson@stratovize.com",
+      "start": 77978,
+      "end": 78002,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "suetools@yahoo.com",
+      "start": 79800,
+      "end": 79818,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "suetools@yahoo.com",
+      "start": 79820,
+      "end": 79838,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 82943,
+      "end": 82967,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 82969,
+      "end": 82993,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 87093,
+      "end": 87117,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 87163,
+      "end": 87187,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "suetools@yahoo.com",
+      "start": 87946,
+      "end": 87964,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "suetools@yahoo.com",
+      "start": 87973,
+      "end": 87991,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 88097,
+      "end": 88121,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 88123,
+      "end": 88147,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "banderson@stratovize.com",
+      "start": 88204,
+      "end": 88228,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "banderson@stratovize.com",
+      "start": 88230,
+      "end": 88254,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 91227,
+      "end": 91251,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 91300,
+      "end": 91324,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 96661,
+      "end": 96685,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 96734,
+      "end": 96758,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "suetools@yahoo.com",
+      "start": 97656,
+      "end": 97674,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "suetools@yahoo.com",
+      "start": 97730,
+      "end": 97748,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 98014,
+      "end": 98038,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 98087,
+      "end": 98111,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "banderson@stratovize.com",
+      "start": 98328,
+      "end": 98352,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "banderson@stratovize.com",
+      "start": 98401,
+      "end": 98425,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 100304,
+      "end": 100328,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 100377,
+      "end": 100401,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 106298,
+      "end": 106322,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 106371,
+      "end": 106395,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "suetools@yahoo.com",
+      "start": 107315,
+      "end": 107333,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "suetools@yahoo.com",
+      "start": 107389,
+      "end": 107407,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 107671,
+      "end": 107695,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 107744,
+      "end": 107768,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 109217,
+      "end": 109241,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 109290,
+      "end": 109314,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 115094,
+      "end": 115118,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 115167,
+      "end": 115191,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "suetools@yahoo.com",
+      "start": 116133,
+      "end": 116151,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "suetools@yahoo.com",
+      "start": 116207,
+      "end": 116225,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 116496,
+      "end": 116520,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 116569,
+      "end": 116593,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 120347,
+      "end": 120371,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 120420,
+      "end": 120444,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 127500,
+      "end": 127524,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 127573,
+      "end": 127597,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "suetools@yahoo.com",
+      "start": 128561,
+      "end": 128579,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "suetools@yahoo.com",
+      "start": 128635,
+      "end": 128653,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 128922,
+      "end": 128946,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "rthompson@stratovize.com",
+      "start": 128995,
+      "end": 129019,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "abuse@stratovize.com",
+      "start": 132739,
+      "end": 132759,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "abuse@stratovize.com",
+      "start": 132808,
+      "end": 132828,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "abuse@stratovize.com",
+      "start": 134720,
+      "end": 134740,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "abuse@stratovize.com",
+      "start": 134789,
+      "end": 134809,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "abuse@stratovize.com",
+      "start": 136679,
+      "end": 136699,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "abuse@stratovize.com",
+      "start": 136748,
+      "end": 136768,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "abuse@stratovize.com",
+      "start": 138616,
+      "end": 138636,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "abuse@stratovize.com",
+      "start": 138685,
+      "end": 138705,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "abuse@stratovize.com",
+      "start": 140395,
+      "end": 140415,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "abuse@stratovize.com",
+      "start": 140417,
+      "end": 140437,
+      "type": "EMAIL",
+      "confidence": 1.0
+    },
+    {
+      "text": "9/1/2017",
+      "start": 83901,
+      "end": 83909,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "3/1/18",
+      "start": 88706,
+      "end": 88712,
+      "type": "DATE",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
-    "genetic": 492,
-    "presidio": 0
+    "genetic": 429,
+    "presidio": 0,
+    "regex": 494
   },
   "text_sample": "\u0011\u0871\u001a\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000>\u0000\u0003\u0000\t\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0002\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0014\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\u0000\u0000\t\u0000\u0000\u0000\n\u0000\u0000\u0000\u000b\u0000\u0000\u0000\f\u0000\u0000\u0000\n\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0013\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000)\u0000\u0000\u0000F\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u001b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u001d\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u001f\u0000\u0000\u0000 \u0000\u0000\u0000!\u0000\u0000\u0000\"\u0000\u0000\u0000#\u0000\u0000\u0000$\u0000\u0000\u0000%\u0000\u0000\u0000&\u0000\u0000\u0000'\u0000\u0000\u0000(\u0000\u0000\u0000G\u0000\u0000\u0000*\u0000\u0000\u00007\u0000\u0000\u0000,\u0000\u0000\u0000-\u0000\u0000\u0000.\u0000\u0000\u0000/\u0000\u0000\u00000\u0000\u0000\u00001\u0000\u0000\u00002\u0000\u0000\u00003\u0000\u0000\u00004\u0000\u0000\u00005\u0000\u0000\u00006\u0000\u0000\u00008\u0000\u0000\u00009\u0000\u0000\u0000:\u0000\u0000\u0000;\u0000\u0000\u0000<\u0000\u0000\u0000=\u0000\u0000\u0000>\u0000\u0000\u0000?\u0000\u0000\u0000@\u0000\u0000\u0000A\u0000\u0000\u0000B\u0000\u0000\u0000C\u0000\u0000\u0000D\u0000\u0000\u0000E\u0000\u0000\u0000W\u0000\u0000\u0000H\u0000\u0000\u0000I\u0000\u0000\u0000J\u0000\u0000\u0000K\u0000\u0000\u0000L\u0000\u0000\u0000M\u0000\u0000\u0000N\u0000\u0000\u0000O\u0000\u0000\u0000P\u0000\u0000\u0000Q\u0000\u0000\u0000E\u0001\u0000\u0000S\u0000\u0000\u0000U\u0000\u0000\u0000V\u0000\u0000\u0000,\u0001\u0000\u0000X\u0000\u0000\u0000%\u0001\u0000\u0000Z\u0000\u0000\u0000[\u0000\u0000\u0000\\\u0000\u0000\u0000]\u0000\u0000\u0000^\u0000\u0000\u0000_\u0000\u0000\u0000`\u0000\u0000\u0000a\u0000\u0000\u0000b\u0000\u0000\u0000c\u0000\u0000\u0000d\u0000\u0000\u0000e\u0000\u0000\u0000f\u0000\u0000\u0000g\u0000\u0000\u0000h\u0000\u0000\u0000i\u0000\u0000\u0000j\u0000\u0000\u0000k\u0000\u0000\u0000l\u0000\u0000\u0000m\u0000\u0000\u0000n\u0000\u0000\u0000..."
 }

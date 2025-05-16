@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Bolton Partners Inc/Bolton_01334624.pdf",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Bolton Partners Inc/Bolton_01334624.pdf",
     "file_name": "Bolton_01334624.pdf",
     "file_size": 66560,
     "text_length": 571
@@ -46,14 +46,14 @@
       "start": 193,
       "end": 202,
       "type": "SSN",
-      "confidence": 0.5
+      "confidence": 0.5299357581867883
     },
     {
       "text": "891058816",
       "start": 204,
       "end": 213,
       "type": "SSN",
-      "confidence": 0.5
+      "confidence": 0.5299357581867883
     },
     {
       "text": "High Melissa",
@@ -67,14 +67,14 @@
       "start": 326,
       "end": 335,
       "type": "SSN",
-      "confidence": 0.5
+      "confidence": 0.5299357581867883
     },
     {
       "text": "891058926",
       "start": 337,
       "end": 346,
       "type": "SSN",
-      "confidence": 0.5
+      "confidence": 0.5299357581867883
     },
     {
       "text": "Maternity Case",
@@ -113,9 +113,152 @@
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Open Cases",
+      "start": 17,
+      "end": 27,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Case Type",
+      "start": 82,
+      "end": 91,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Patient Member",
+      "start": 95,
+      "end": 109,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Group Diagnosis",
+      "start": 113,
+      "end": 128,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Intensity Case",
+      "start": 129,
+      "end": 143,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "High Melissa",
+      "start": 280,
+      "end": 292,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Maternity Case",
+      "start": 370,
+      "end": 384,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Management \nSevere",
+      "start": 385,
+      "end": 403,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "High Kathleen",
+      "start": 435,
+      "end": 448,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Total Cases",
+      "start": 476,
+      "end": 487,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Open Cases",
+      "start": 539,
+      "end": 549,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "891058816",
+      "start": 193,
+      "end": 202,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "891058816",
+      "start": 204,
+      "end": 213,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "891058926",
+      "start": 326,
+      "end": 335,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "891058926",
+      "start": 337,
+      "end": 346,
+      "type": "SSN",
+      "confidence": 1.0
+    },
+    {
+      "text": "5/30/2017",
+      "start": 37,
+      "end": 46,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "5/10/2017",
+      "start": 301,
+      "end": 310,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "5/18/2017",
+      "start": 465,
+      "end": 474,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "5/30/2017",
+      "start": 529,
+      "end": 538,
+      "type": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "5/31/2017",
+      "start": 560,
+      "end": 569,
+      "type": "DATE",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
     "genetic": 15,
-    "presidio": 0
+    "presidio": 0,
+    "regex": 20
   },
   "text_sample": "IBEW Local #325 \nOpen Cases \nThrough 5/30/2017 \nPage 1 of 2 \nPatient ID / Payor / Case Type / \nPatient Member ID Group Diagnosis Intensity Case Mgr. Opened \nPOMCO \nIBEW Local #325 \nKLEIN, TARA 891058816 \n891058816 POMCO \nIBEW Local #325 Psych/SA \nOpioid dependence, uncomplicated High Melissa Baratta 5/10/2017 \nLEWIS, ALEXIS 891058926 \n891058926 POMCO \nIBEW Local #325 Maternity Case Management \nSevere pre-eclampsia, third trimester High Kathleen McCormick MS RN 5/18/2017 \nTotal Cases:  2 \nPage 2 ..."
 }

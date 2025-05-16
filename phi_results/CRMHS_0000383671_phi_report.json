@@ -1,6 +1,6 @@
 {
   "file_info": {
-    "file_path": "/Users/momin.naqvi/Downloads/Medical/Columbia River Mental Health Services/CRMHS_0000383671.pdf",
+    "file_path": "/Users/momin.naqvi/Downloads/Medical-set/Medical/Columbia River Mental Health Services/CRMHS_0000383671.pdf",
     "file_name": "CRMHS_0000383671.pdf",
     "file_size": 948143,
     "text_length": 6808
@@ -134,9 +134,138 @@
     }
   ],
   "presidio_detections": [],
+  "regex_detections": [
+    {
+      "text": "Foundational Community",
+      "start": 71,
+      "end": 93,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Supported Employment",
+      "start": 104,
+      "end": 124,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "American \nIndian",
+      "start": 386,
+      "end": 402,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Alaska Native",
+      "start": 403,
+      "end": 416,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "No \nIf",
+      "start": 433,
+      "end": 439,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Essential Needs",
+      "start": 948,
+      "end": 963,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "American Society",
+      "start": 1358,
+      "end": 1374,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Addiction Medicine",
+      "start": 1378,
+      "end": 1396,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Comprehensive Assessme",
+      "start": 1537,
+      "end": 1559,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Resource Evaluation",
+      "start": 1568,
+      "end": 1587,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Progressive Evaluation",
+      "start": 3286,
+      "end": 3308,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "No \nIf",
+      "start": 3690,
+      "end": 3696,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Social Security",
+      "start": 4096,
+      "end": 4111,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Social Security",
+      "start": 4128,
+      "end": 4143,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Social Security",
+      "start": 4155,
+      "end": 4170,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Disability Income",
+      "start": 4171,
+      "end": 4188,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Temporary Assistance",
+      "start": 4193,
+      "end": 4213,
+      "type": "NAME",
+      "confidence": 1.0
+    },
+    {
+      "text": "Needy Families",
+      "start": 4218,
+      "end": 4232,
+      "type": "NAME",
+      "confidence": 1.0
+    }
+  ],
   "detection_count": {
     "genetic": 18,
-    "presidio": 0
+    "presidio": 0,
+    "regex": 18
   },
   "text_sample": "  https://providers.amerigroup.com  \n \nWAPEC -1749 -19  January 2019  \nFoundational Community Supports: Supported Employment Assessment  \n \n\u2610 Initial assessment   \u2610 Reauthorization  \n*Indicates a required field.  \n*Date:  *Name:  *ProviderOne ID:  \n      *DOB:  \nAddress (not required if homeless):  \n \n *City, State ZIP:  \nPhone  number : \n Email:  \n \nMember of a federally recognized American \nIndian/Alaska Native tribe?  \u2610 Yes \u2610 No \nIf Yes, specify which tribe:  Veteran:  \u2610 Yes \u2610 No \n \n*Referrin..."
 }
