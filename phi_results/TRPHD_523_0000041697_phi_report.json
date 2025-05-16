@@ -1,0 +1,198 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Two Rivers Public Health Department/TRPHD_523_0000041697.msg",
+    "file_name": "TRPHD_523_0000041697.msg",
+    "file_size": 67072,
+    "text_length": 62045
+  },
+  "genetic_detections": [
+    {
+      "text": "Exchange Administrative",
+      "start": 4177,
+      "end": 4200,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Hayley Jeli",
+      "start": 4275,
+      "end": 4286,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 4422,
+      "end": 4445,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Hayley Jeli",
+      "start": 4520,
+      "end": 4531,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 5563,
+      "end": 5586,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Hayley Jeli",
+      "start": 5661,
+      "end": 5672,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 7136,
+      "end": 7159,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Emily Beave",
+      "start": 7234,
+      "end": 7245,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 14329,
+      "end": 14352,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Emily Beave",
+      "start": 14427,
+      "end": 14438,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 17911,
+      "end": 17934,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Emily Beave",
+      "start": 18009,
+      "end": 18020,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Elena Olson",
+      "start": 37644,
+      "end": 37655,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Cambria Math",
+      "start": 38166,
+      "end": 38178,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Elena Olson",
+      "start": 38788,
+      "end": 38799,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Moderna Lot",
+      "start": 39242,
+      "end": 39253,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Central Nebraska",
+      "start": 39701,
+      "end": 39717,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Elena Olson",
+      "start": 40209,
+      "end": 40220,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Central Community",
+      "start": 41459,
+      "end": 41476,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Shared With",
+      "start": 50231,
+      "end": 50242,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Shared With",
+      "start": 50922,
+      "end": 50933,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Taxonomy Catch",
+      "start": 51209,
+      "end": 51223,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "All Column",
+      "start": 51224,
+      "end": 51234,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Extracted Text",
+      "start": 54254,
+      "end": 54268,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Image Tags",
+      "start": 55457,
+      "end": 55467,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Content Type",
+      "start": 57104,
+      "end": 57116,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 26,
+    "presidio": 0
+  },
+  "text_sample": "\u0011\u0871\u001a\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000>\u0000\u0003\u0000\t\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0002\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0014\u0000\u0000\u0000\u001d\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\u0000\u0000\t\u0000\u0000\u0000\n\u0000\u0000\u0000\u000b\u0000\u0000\u0000\f\u0000\u0000\u0000\n\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0013\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u001b\u0000\u0000\u0000\u001c\u0000\u0000\u0000.\u0000\u0000\u0000a\u0000\u0000\u0000\u001f\u0000\u0000\u0000 \u0000\u0000\u0000!\u0000\u0000\u0000\"\u0000\u0000\u0000#\u0000\u0000\u0000$\u0000\u0000\u0000%\u0000\u0000\u0000&\u0000\u0000\u0000'\u0000\u0000\u0000(\u0000\u0000\u0000)\u0000\u0000\u0000*\u0000\u0000\u0000+\u0000\u0000\u0000,\u0000\u0000\u0000-\u0000\u0000\u0000\u0000\u0000\u0000/\u0000\u0000\u00000\u0000\u0000\u0000J\u0000\u0000\u00002\u0000\u0000\u00003\u0000\u0000\u00004\u0000\u0000\u00005\u0000\u0000\u00006\u0000\u0000\u00007\u0000\u0000\u00008\u0000\u0000\u00009\u0000\u0000\u0000:\u0000\u0000\u0000;\u0000\u0000\u0000<\u0000\u0000\u0000=\u0000\u0000\u0000>\u0000\u0000\u0000?\u0000\u0000\u0000@\u0000\u0000\u0000A\u0000\u0000\u0000B\u0000\u0000\u0000C\u0000\u0000\u0000D\u0000\u0000\u0000E\u0000\u0000\u0000F\u0000\u0000\u0000G\u0000\u0000\u0000H\u0000\u0000\u0000I\u0000\u0000\u0000K\u0000\u0000\u0000L\u0000\u0000\u0000M\u0000\u0000\u0000X\u0000\u0000\u0000O\u0000\u0000\u0000P\u0000\u0000\u0000Q\u0000\u0000\u0000R\u0000\u0000\u0000S\u0000\u0000\u0000T\u0000\u0000\u0000U\u0000\u0000\u0000V\u0000\u0000\u0000W\u0000\u0000\u0000Y\u0000\u0000\u0000Z\u0000\u0000\u0000[\u0000\u0000\u0000\\\u0000\u0000\u0000]\u0000\u0000\u0000^\u0000\u0000\u0000_\u0000\u0000\u0000`\u0000\u0000\u0000b\u0000\u0000\u0000c\u0000\u0000\u0000e\u0000\u0000\u0000f\u0000\u0000\u0000g\u0000\u0000\u0000h\u0000\u0000\u0000i\u0000\u0000\u0000j\u0000\u0000\u0000k\u0000\u0000\u0000l\u0000\u0000\u0000m\u0000\u0000\u0000n\u0000\u0000\u0000o\u0000\u0000\u0000p\u0000\u0000\u0000q..."
+}

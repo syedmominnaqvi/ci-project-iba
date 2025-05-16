@@ -1,0 +1,1115 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Bolton Partners Inc/Bolton_01556408.msg",
+    "file_name": "Bolton_01556408.msg",
+    "file_size": 152064,
+    "text_length": 143923
+  },
+  "genetic_detections": [
+    {
+      "text": "Exchange Administrative",
+      "start": 4528,
+      "end": 4551,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Tom Lowman",
+      "start": 4626,
+      "end": 4636,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 4713,
+      "end": 4736,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Tom Lowman",
+      "start": 4811,
+      "end": 4821,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 5850,
+      "end": 5873,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Tom Lowman",
+      "start": 5948,
+      "end": 5958,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 6653,
+      "end": 6676,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Collin Engl",
+      "start": 6751,
+      "end": 6762,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 6838,
+      "end": 6861,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Collin Engl",
+      "start": 6936,
+      "end": 6947,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 8167,
+      "end": 8190,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Collin Engl",
+      "start": 8265,
+      "end": 8276,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 9033,
+      "end": 9056,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Rick Dietri",
+      "start": 9131,
+      "end": 9142,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 9218,
+      "end": 9241,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Rick Dietri",
+      "start": 9316,
+      "end": 9327,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 17363,
+      "end": 17386,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Rick Dietri",
+      "start": 17461,
+      "end": 17472,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 18228,
+      "end": 18251,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Ellen Klein",
+      "start": 18326,
+      "end": 18337,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 18413,
+      "end": 18436,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Ellen Klein",
+      "start": 18511,
+      "end": 18522,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 19614,
+      "end": 19637,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Ellen Klein",
+      "start": 19712,
+      "end": 19723,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 20480,
+      "end": 20503,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Clyde Randa",
+      "start": 20578,
+      "end": 20589,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 20665,
+      "end": 20688,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Clyde Randa",
+      "start": 20763,
+      "end": 20774,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 21866,
+      "end": 21889,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Clyde Randa",
+      "start": 21964,
+      "end": 21975,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 22732,
+      "end": 22755,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Mike Beczko",
+      "start": 22830,
+      "end": 22841,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 22917,
+      "end": 22940,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Mike Beczko",
+      "start": 23015,
+      "end": 23026,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 24118,
+      "end": 24141,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Mike Beczko",
+      "start": 24216,
+      "end": 24227,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 31912,
+      "end": 31935,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Geoff Adams",
+      "start": 31977,
+      "end": 31988,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 32033,
+      "end": 32056,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Geoff Adams",
+      "start": 32098,
+      "end": 32109,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 32978,
+      "end": 33001,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Geoff Adams",
+      "start": 33043,
+      "end": 33054,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 33654,
+      "end": 33677,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "James Downing",
+      "start": 33719,
+      "end": 33732,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 33775,
+      "end": 33798,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "James Downing",
+      "start": 33840,
+      "end": 33853,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 34784,
+      "end": 34807,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "James Downing",
+      "start": 34849,
+      "end": 34862,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 35518,
+      "end": 35541,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Alton Fryer",
+      "start": 35616,
+      "end": 35627,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 35703,
+      "end": 35726,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Alton Fryer",
+      "start": 35801,
+      "end": 35812,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 36904,
+      "end": 36927,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Alton Fryer",
+      "start": 37002,
+      "end": 37013,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 37769,
+      "end": 37792,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Greg Pastin",
+      "start": 37867,
+      "end": 37878,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 37954,
+      "end": 37977,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Greg Pastin",
+      "start": 38052,
+      "end": 38063,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 39155,
+      "end": 39178,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Greg Pastin",
+      "start": 39253,
+      "end": 39264,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 47741,
+      "end": 47764,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 47986,
+      "end": 48009,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 49127,
+      "end": 49150,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 50054,
+      "end": 50077,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Mark Lynne",
+      "start": 50152,
+      "end": 50162,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 50239,
+      "end": 50262,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Mark Lynne",
+      "start": 50337,
+      "end": 50347,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 51376,
+      "end": 51399,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Mark Lynne",
+      "start": 51474,
+      "end": 51484,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 52176,
+      "end": 52199,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Chris Bolto",
+      "start": 52274,
+      "end": 52285,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 52361,
+      "end": 52384,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Chris Bolto",
+      "start": 52459,
+      "end": 52470,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 53562,
+      "end": 53585,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Chris Bolto",
+      "start": 53660,
+      "end": 53671,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 54428,
+      "end": 54451,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Janai Riley",
+      "start": 54526,
+      "end": 54537,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 54613,
+      "end": 54636,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Janai Riley",
+      "start": 54711,
+      "end": 54722,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 63558,
+      "end": 63581,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Janai Riley",
+      "start": 63656,
+      "end": 63667,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 64424,
+      "end": 64447,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 64609,
+      "end": 64632,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 65681,
+      "end": 65704,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 66483,
+      "end": 66506,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Bob Bolton",
+      "start": 66581,
+      "end": 66591,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 66668,
+      "end": 66691,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Bob Bolton",
+      "start": 66766,
+      "end": 66776,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 67805,
+      "end": 67828,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Bob Bolton",
+      "start": 67903,
+      "end": 67913,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 69254,
+      "end": 69277,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Agatha Arli",
+      "start": 69352,
+      "end": 69363,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "BN3PR15MB072437B4F4B11685CE8CC32FCDEA0@BN3PR15MB0724.namprd15.prod.outlook.com",
+      "start": 78545,
+      "end": 78623,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 78774,
+      "end": 78797,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Agatha Arli",
+      "start": 78872,
+      "end": 78883,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 83245,
+      "end": 83268,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Agatha Arli",
+      "start": 83343,
+      "end": 83354,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Microsoft Word",
+      "start": 115680,
+      "end": 115694,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Font Definitions",
+      "start": 115915,
+      "end": 115931,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Cambria Math",
+      "start": 115961,
+      "end": 115973,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Arial Black",
+      "start": 116101,
+      "end": 116112,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Style Definitions",
+      "start": 116152,
+      "end": 116169,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "443.255.7614",
+      "start": 117859,
+      "end": 117871,
+      "type": "PHONE",
+      "confidence": 0.578957937674618
+    },
+    {
+      "text": "New Client",
+      "start": 118557,
+      "end": 118567,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "New Client",
+      "start": 118610,
+      "end": 118620,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Agatha Arlington",
+      "start": 119227,
+      "end": 119243,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Administrative Services",
+      "start": 119268,
+      "end": 119291,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Arial Black",
+      "start": 119352,
+      "end": 119363,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Charles St",
+      "start": 119538,
+      "end": 119548,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "443.573.3934",
+      "start": 119609,
+      "end": 119621,
+      "type": "PHONE",
+      "confidence": 0.578957937674618
+    },
+    {
+      "text": "443.255.7614",
+      "start": 119646,
+      "end": 119658,
+      "type": "PHONE",
+      "confidence": 0.578957937674618
+    },
+    {
+      "text": "Agatha Arlington",
+      "start": 120071,
+      "end": 120087,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Tom Lowman",
+      "start": 120155,
+      "end": 120165,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "TLowman@boltonusa.com",
+      "start": 120179,
+      "end": 120200,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Colin England",
+      "start": 120206,
+      "end": 120219,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "CEngland@boltonusa.com",
+      "start": 120250,
+      "end": 120272,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Rick Dietrich",
+      "start": 120278,
+      "end": 120291,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "RDietrich@boltonusa.com",
+      "start": 120296,
+      "end": 120319,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "ekleinstuber@boltonusa.com",
+      "start": 120350,
+      "end": 120376,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Clyde Randall",
+      "start": 120382,
+      "end": 120395,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "CRandall@boltonusa.com",
+      "start": 120405,
+      "end": 120427,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Mike Beczkowski",
+      "start": 120433,
+      "end": 120448,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Mbeczkowski@boltonusa.com",
+      "start": 120453,
+      "end": 120478,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Geoff Adams",
+      "start": 120484,
+      "end": 120495,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "gadams@boltonusa.com",
+      "start": 120500,
+      "end": 120520,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "James Downing",
+      "start": 120526,
+      "end": 120539,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "jdowning@boltonusa.com",
+      "start": 120544,
+      "end": 120566,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "afryer@boltonusa.com",
+      "start": 120598,
+      "end": 120618,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Greg Pastino",
+      "start": 120624,
+      "end": 120636,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "gpastino@boltonusa.com",
+      "start": 120650,
+      "end": 120672,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Bill Anderson",
+      "start": 120678,
+      "end": 120691,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "banderson@stratovize.com",
+      "start": 120709,
+      "end": 120733,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Mark Lynne",
+      "start": 120739,
+      "end": 120749,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Mlynne@boltonusa.com",
+      "start": 120754,
+      "end": 120774,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Christopher Bolton",
+      "start": 120793,
+      "end": 120811,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "cgbolton@boltonusa.com",
+      "start": 120816,
+      "end": 120838,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Janai Riley",
+      "start": 120844,
+      "end": 120855,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "JRiley@boltonusa.com",
+      "start": 120860,
+      "end": 120880,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Scott Boze",
+      "start": 120889,
+      "end": 120899,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "wboze@boltonusa.com",
+      "start": 120904,
+      "end": 120923,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Bob Bolton",
+      "start": 120929,
+      "end": 120939,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "rgbolton@boltonusa.com",
+      "start": 120944,
+      "end": 120966,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "New Client",
+      "start": 121680,
+      "end": 121690,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "New Client",
+      "start": 121733,
+      "end": 121743,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Agatha Arlington",
+      "start": 122285,
+      "end": 122301,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Administrative Services",
+      "start": 122471,
+      "end": 122494,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Arial Black",
+      "start": 122548,
+      "end": 122559,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Charles St",
+      "start": 122671,
+      "end": 122681,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "443.573.3934",
+      "start": 122793,
+      "end": 122805,
+      "type": "PHONE",
+      "confidence": 0.578957937674618
+    },
+    {
+      "text": "443.255.7614",
+      "start": 122881,
+      "end": 122893,
+      "type": "PHONE",
+      "confidence": 0.578957937674618
+    },
+    {
+      "text": "Shared With",
+      "start": 130701,
+      "end": 130712,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Shared With",
+      "start": 131392,
+      "end": 131403,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Taxonomy Catch",
+      "start": 131679,
+      "end": 131693,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "All Column",
+      "start": 131694,
+      "end": 131704,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Extracted Text",
+      "start": 136132,
+      "end": 136146,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Image Tags",
+      "start": 137335,
+      "end": 137345,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Content Type",
+      "start": 138982,
+      "end": 138994,
+      "type": "NAME",
+      "confidence": 0.5
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 157,
+    "presidio": 0
+  },
+  "text_sample": "\u0011\u0871\u001a\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000>\u0000\u0003\u0000\t\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0002\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0014\u0000\u0000\u0000\"\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\u0000\u0000\t\u0000\u0000\u0000\n\u0000\u0000\u0000\u000b\u0000\u0000\u0000\f\u0000\u0000\u0000\n\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0013\u0000\u0000\u0000#\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u001b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u001d\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u001f\u0000\u0000\u0000 \u0000\u0000\u0000!\u0000\u0000\u00003\u0000\u0000\u0000A\u0000\u0000\u0000$\u0000\u0000\u0000%\u0000\u0000\u0000&\u0000\u0000\u0000'\u0000\u0000\u0000(\u0000\u0000\u0000)\u0000\u0000\u0000*\u0000\u0000\u0000+\u0000\u0000\u0000,\u0000\u0000\u0000-\u0000\u0000\u0000.\u0000\u0000\u0000/\u0000\u0000\u00000\u0000\u0000\u00001\u0000\u0000\u00002\u0000\u0000\u0000B\u0000\u0000\u00004\u0000\u0000\u00005\u0000\u0000\u00006\u0000\u0000\u00007\u0000\u0000\u00008\u0000\u0000\u00009\u0000\u0000\u0000:\u0000\u0000\u0000;\u0000\u0000\u0000<\u0000\u0000\u0000=\u0000\u0000\u0000>\u0000\u0000\u0000?\u0000\u0000\u0000@\u0000\u0000\u0000R\u0000\u0000\u0000b\u0000\u0000\u0000C\u0000\u0000\u0000D\u0000\u0000\u0000E\u0000\u0000\u0000F\u0000\u0000\u0000G\u0000\u0000\u0000H\u0000\u0000\u0000I\u0000\u0000\u0000J\u0000\u0000\u0000K\u0000\u0000\u0000L\u0000\u0000\u0000M\u0000\u0000\u0000N\u0000\u0000\u0000O\u0000\u0000\u0000P\u0000\u0000\u0000Q\u0000\u0000\u0000c\u0000\u0000\u0000S\u0000\u0000\u0000T\u0000\u0000\u0000U\u0000\u0000\u0000V\u0000\u0000\u0000W\u0000\u0000\u0000X\u0000\u0000\u0000Y\u0000\u0000\u0000Z\u0000\u0000\u0000[\u0000\u0000\u0000\\\u0000\u0000\u0000]\u0000\u0000\u0000^\u0000\u0000\u0000_\u0000\u0000\u0000`\u0000\u0000\u0000a\u0000\u0000\u0000s\u0000\u0000\u0000\u0000\u0000\u0000d\u0000\u0000\u0000e\u0000\u0000\u0000f\u0000\u0000\u0000g\u0000\u0000\u0000h\u0000\u0000\u0000i\u0000\u0000\u0000j\u0000\u0000\u0000k\u0000\u0000\u0000l..."
+}

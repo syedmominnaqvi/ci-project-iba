@@ -1,0 +1,15 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Bolton Partners Inc/Bolton_01334691.docx",
+    "file_name": "Bolton_01334691.docx",
+    "file_size": 45206,
+    "text_length": 85
+  },
+  "genetic_detections": [],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 0,
+    "presidio": 0
+  },
+  "text_sample": "[OFFICE FILE: Bolton_01334691.docx] - Install textract or tika for content extraction"
+}

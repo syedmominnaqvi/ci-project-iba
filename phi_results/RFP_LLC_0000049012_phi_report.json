@@ -1,0 +1,940 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Restoration Forest Products LLC/RFP_LLC_0000049012.pdf",
+    "file_name": "RFP_LLC_0000049012.pdf",
+    "file_size": 1521392,
+    "text_length": 4172
+  },
+  "genetic_detections": [
+    {
+      "text": "Company Name",
+      "start": 0,
+      "end": 12,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Address          Location",
+      "start": 15,
+      "end": 40,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Premises Address",
+      "start": 62,
+      "end": 78,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Special Client",
+      "start": 91,
+      "end": 105,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Information\nLocation",
+      "start": 106,
+      "end": 126,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Phone Location",
+      "start": 127,
+      "end": 141,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Fax Client",
+      "start": 142,
+      "end": 152,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Incident Nbr",
+      "start": 153,
+      "end": 165,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Name Title",
+      "start": 166,
+      "end": 176,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Callback Phone",
+      "start": 177,
+      "end": 191,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Last Name",
+      "start": 226,
+      "end": 235,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Name\nHome",
+      "start": 256,
+      "end": 265,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Phone\nDependents",
+      "start": 296,
+      "end": 312,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Hire\nIncident",
+      "start": 440,
+      "end": 453,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Date Incident",
+      "start": 467,
+      "end": 480,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Location Shift",
+      "start": 481,
+      "end": 495,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Start Time",
+      "start": 496,
+      "end": 506,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Date Rpt",
+      "start": 507,
+      "end": 515,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Mgmt\nCall",
+      "start": 521,
+      "end": 530,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Date\nIf",
+      "start": 540,
+      "end": 547,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Referred Nature",
+      "start": 617,
+      "end": 632,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Body Part",
+      "start": 645,
+      "end": 654,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Recommendation\nProvider",
+      "start": 721,
+      "end": 744,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Fax\nProvider",
+      "start": 757,
+      "end": 769,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Provider Name",
+      "start": 785,
+      "end": 798,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Provider Name",
+      "start": 830,
+      "end": 843,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Location\nInjury",
+      "start": 861,
+      "end": 876,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Agent\nMechanism",
+      "start": 988,
+      "end": 1003,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Workplace Injury",
+      "start": 1017,
+      "end": 1033,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Reporting\nConfidential",
+      "start": 1043,
+      "end": 1065,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Incident Report",
+      "start": 1068,
+      "end": 1083,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Incident Report",
+      "start": 1084,
+      "end": 1099,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Initial Call",
+      "start": 1107,
+      "end": 1119,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Reference Nbr",
+      "start": 1120,
+      "end": 1133,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Time Report",
+      "start": 1143,
+      "end": 1154,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Call Reference",
+      "start": 1164,
+      "end": 1178,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Nbr\nCopyright",
+      "start": 1179,
+      "end": 1192,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "All Rights",
+      "start": 1217,
+      "end": 1227,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Incident\nOther",
+      "start": 1249,
+      "end": 1263,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Related Questions",
+      "start": 1273,
+      "end": 1290,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Additional Information",
+      "start": 1291,
+      "end": 1313,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "If Applicable",
+      "start": 1315,
+      "end": 1328,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Name Phone",
+      "start": 1339,
+      "end": 1349,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Phone Witness",
+      "start": 1350,
+      "end": 1363,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Name\nHas",
+      "start": 1366,
+      "end": 1374,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Workplace Injury",
+      "start": 1633,
+      "end": 1649,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Reporting\nConfidential",
+      "start": 1659,
+      "end": 1681,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Incident Report",
+      "start": 1684,
+      "end": 1699,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Incident Report",
+      "start": 1700,
+      "end": 1715,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Initial Call",
+      "start": 1723,
+      "end": 1735,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Reference Nbr",
+      "start": 1736,
+      "end": 1749,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Time Report",
+      "start": 1759,
+      "end": 1770,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Call Reference",
+      "start": 1780,
+      "end": 1794,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Nbr\nCopyright",
+      "start": 1795,
+      "end": 1808,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "All Rights",
+      "start": 1833,
+      "end": 1843,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Call Notes",
+      "start": 1854,
+      "end": 1864,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Workplace Injury",
+      "start": 1865,
+      "end": 1881,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Reporting\nConfidential",
+      "start": 1891,
+      "end": 1913,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Incident Report",
+      "start": 1916,
+      "end": 1931,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Incident Report",
+      "start": 1932,
+      "end": 1947,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Initial Call",
+      "start": 1955,
+      "end": 1967,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Reference Nbr",
+      "start": 1968,
+      "end": 1981,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Time Report",
+      "start": 1991,
+      "end": 2002,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Call Reference",
+      "start": 2012,
+      "end": 2026,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Nbr\nCopyright",
+      "start": 2027,
+      "end": 2040,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "All Rights",
+      "start": 2065,
+      "end": 2075,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Company Name",
+      "start": 2086,
+      "end": 2098,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Address          Location",
+      "start": 2101,
+      "end": 2126,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Premises Address",
+      "start": 2148,
+      "end": 2164,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Special Client",
+      "start": 2177,
+      "end": 2191,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Information\nLocation",
+      "start": 2192,
+      "end": 2212,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Phone Location",
+      "start": 2213,
+      "end": 2227,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Fax Client",
+      "start": 2228,
+      "end": 2238,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Incident Nbr",
+      "start": 2239,
+      "end": 2251,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Name Title",
+      "start": 2252,
+      "end": 2262,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Callback Phone",
+      "start": 2263,
+      "end": 2277,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Last Name",
+      "start": 2312,
+      "end": 2321,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Name\nHome",
+      "start": 2342,
+      "end": 2351,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Phone\nDependents",
+      "start": 2382,
+      "end": 2398,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Hire\nIncident",
+      "start": 2526,
+      "end": 2539,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Date Incident",
+      "start": 2553,
+      "end": 2566,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Location Shift",
+      "start": 2567,
+      "end": 2581,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Start Time",
+      "start": 2582,
+      "end": 2592,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Date Rpt",
+      "start": 2593,
+      "end": 2601,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Mgmt\nCall",
+      "start": 2607,
+      "end": 2616,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Date\nIf",
+      "start": 2626,
+      "end": 2633,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Referred Nature",
+      "start": 2703,
+      "end": 2718,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Body Part",
+      "start": 2731,
+      "end": 2740,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Recommendation\nProvider",
+      "start": 2807,
+      "end": 2830,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Fax\nProvider",
+      "start": 2843,
+      "end": 2855,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Provider Name",
+      "start": 2871,
+      "end": 2884,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Provider Name",
+      "start": 2916,
+      "end": 2929,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Location\nInjury",
+      "start": 2947,
+      "end": 2962,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Agent\nMechanism",
+      "start": 3074,
+      "end": 3089,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Workplace Injury",
+      "start": 3103,
+      "end": 3119,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Reporting\nConfidential",
+      "start": 3129,
+      "end": 3151,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Incident Report",
+      "start": 3154,
+      "end": 3169,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Incident Report",
+      "start": 3170,
+      "end": 3185,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Initial Call",
+      "start": 3193,
+      "end": 3205,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Reference Nbr",
+      "start": 3206,
+      "end": 3219,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Time Report",
+      "start": 3229,
+      "end": 3240,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Call Reference",
+      "start": 3250,
+      "end": 3264,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Nbr\nCopyright",
+      "start": 3265,
+      "end": 3278,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "All Rights",
+      "start": 3303,
+      "end": 3313,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Incident\nOther",
+      "start": 3335,
+      "end": 3349,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Related Questions",
+      "start": 3359,
+      "end": 3376,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Additional Information",
+      "start": 3377,
+      "end": 3399,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "If Applicable",
+      "start": 3401,
+      "end": 3414,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Name Phone",
+      "start": 3425,
+      "end": 3435,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Phone Witness",
+      "start": 3436,
+      "end": 3449,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Name\nHas",
+      "start": 3452,
+      "end": 3460,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Workplace Injury",
+      "start": 3719,
+      "end": 3735,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Reporting\nConfidential",
+      "start": 3745,
+      "end": 3767,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Incident Report",
+      "start": 3770,
+      "end": 3785,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Incident Report",
+      "start": 3786,
+      "end": 3801,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Initial Call",
+      "start": 3809,
+      "end": 3821,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Reference Nbr",
+      "start": 3822,
+      "end": 3835,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Time Report",
+      "start": 3845,
+      "end": 3856,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Call Reference",
+      "start": 3866,
+      "end": 3880,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Nbr\nCopyright",
+      "start": 3881,
+      "end": 3894,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "All Rights",
+      "start": 3919,
+      "end": 3929,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Call Notes",
+      "start": 3940,
+      "end": 3950,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Workplace Injury",
+      "start": 3951,
+      "end": 3967,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Reporting\nConfidential",
+      "start": 3977,
+      "end": 3999,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Incident Report",
+      "start": 4002,
+      "end": 4017,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Incident Report",
+      "start": 4018,
+      "end": 4033,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Initial Call",
+      "start": 4041,
+      "end": 4053,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Reference Nbr",
+      "start": 4054,
+      "end": 4067,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Time Report",
+      "start": 4077,
+      "end": 4088,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Call Reference",
+      "start": 4098,
+      "end": 4112,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Nbr\nCopyright",
+      "start": 4113,
+      "end": 4126,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "All Rights",
+      "start": 4151,
+      "end": 4161,
+      "type": "NAME",
+      "confidence": 0.5
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 132,
+    "presidio": 0
+  },
+  "text_sample": "Company Name & Address          Location Name & Address / Off-Premises Address             Special Client Information\nLocation Phone Location Fax Client Incident Nbr\nName Title Callback Phone\nWas employee present during call?\nLast Name\nMiddle InitialFirst Name\nHome Address\nEmailMobile PhoneHome Phone\nDependents\u0003\u0003\u0003\u0003\u0003\u00036H[Marital StatusSSN / SINDate of Birth\nSupervisorDepartmentBase LocationDivisionOccupationEmployee ID\nShiftStatusDate of Hire\nIncident TimeIncident Date Incident Location Shift Star..."
+}

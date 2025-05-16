@@ -1,0 +1,856 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/EarthLite LLC/EarthLite_0000029461.txt",
+    "file_name": "EarthLite_0000029461.txt",
+    "file_size": 5876,
+    "text_length": 5843
+  },
+  "genetic_detections": [
+    {
+      "text": "Wor Development",
+      "start": 63,
+      "end": 78,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Compensation Division",
+      "start": 89,
+      "end": 110,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Washington Ave",
+      "start": 118,
+      "end": 132,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "53707-7901",
+      "start": 171,
+      "end": 181,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "Imaging Server",
+      "start": 183,
+      "end": 197,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Fatal Injuries",
+      "start": 219,
+      "end": 233,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Fatal Injuries",
+      "start": 431,
+      "end": 445,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Electronic Reporting",
+      "start": 783,
+      "end": 803,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "DWODWC@dwd.state.wius",
+      "start": 1040,
+      "end": 1061,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Imaging Fax",
+      "start": 1225,
+      "end": 1236,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Privacy Law",
+      "start": 1463,
+      "end": 1474,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Employee Name",
+      "start": 1756,
+      "end": 1769,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Social Security",
+      "start": 1792,
+      "end": 1807,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Number Sex",
+      "start": 1808,
+      "end": 1818,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Ernployee Home",
+      "start": 1819,
+      "end": 1833,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Telephone No",
+      "start": 1834,
+      "end": 1846,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Om We",
+      "start": 1886,
+      "end": 1891,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Ss Employee",
+      "start": 1905,
+      "end": 1916,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Street Address",
+      "start": 1917,
+      "end": 1931,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "City State",
+      "start": 1932,
+      "end": 1942,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Zip Gode",
+      "start": 1943,
+      "end": 1951,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Glrthdate Date",
+      "start": 2010,
+      "end": 2024,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Hire County",
+      "start": 2028,
+      "end": 2039,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "State Where",
+      "start": 2044,
+      "end": 2055,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exposure Occurred",
+      "start": 2068,
+      "end": 2085,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Acct No",
+      "start": 2159,
+      "end": 2166,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Specific Product",
+      "start": 2205,
+      "end": 2221,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Employer Malling",
+      "start": 2265,
+      "end": 2281,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Address City",
+      "start": 2282,
+      "end": 2294,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "State Zip",
+      "start": 2295,
+      "end": 2304,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Code Ernployer",
+      "start": 2305,
+      "end": 2319,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Cormpensation Insurance",
+      "start": 2399,
+      "end": 2422,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Insured Employer",
+      "start": 2435,
+      "end": 2451,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Third Party",
+      "start": 2504,
+      "end": 2515,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Insurance Company",
+      "start": 2548,
+      "end": 2565,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Insured Employer",
+      "start": 2574,
+      "end": 2590,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "In Addition",
+      "start": 2669,
+      "end": 2680,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Meals No",
+      "start": 2694,
+      "end": 2702,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Check Boxes",
+      "start": 2719,
+      "end": 2730,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Room No",
+      "start": 2738,
+      "end": 2745,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Employee Received",
+      "start": 2778,
+      "end": 2795,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Tips Avg",
+      "start": 2800,
+      "end": 2808,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Weekly Amt",
+      "start": 2810,
+      "end": 2820,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Is Worker",
+      "start": 2834,
+      "end": 2843,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "After How",
+      "start": 2884,
+      "end": 2893,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Many Hours",
+      "start": 2894,
+      "end": 2904,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Work Per",
+      "start": 2908,
+      "end": 2916,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Week Period",
+      "start": 2936,
+      "end": 2947,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Report Below",
+      "start": 2987,
+      "end": 2999,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Weeks Worked",
+      "start": 3014,
+      "end": 3026,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Same Kind",
+      "start": 3034,
+      "end": 3043,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Total Wages",
+      "start": 3064,
+      "end": 3075,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Premiurn Earned",
+      "start": 3109,
+      "end": 3124,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Such Weeks",
+      "start": 3129,
+      "end": 3139,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Excluding Tips",
+      "start": 3145,
+      "end": 3159,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "If Piece",
+      "start": 3174,
+      "end": 3182,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Excluding Overtime",
+      "start": 3201,
+      "end": 3219,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Start Time",
+      "start": 3228,
+      "end": 3238,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Hours Per",
+      "start": 3239,
+      "end": 3248,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Day Hours",
+      "start": 3249,
+      "end": 3258,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Days Per",
+      "start": 3269,
+      "end": 3277,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "When Injured",
+      "start": 3294,
+      "end": 3306,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Usual Full",
+      "start": 3347,
+      "end": 3357,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Time Schedule",
+      "start": 3358,
+      "end": 3371,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Ly\nPari",
+      "start": 3436,
+      "end": 3443,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Time Are",
+      "start": 3444,
+      "end": 3452,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Other Part",
+      "start": 3459,
+      "end": 3469,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Time Workers",
+      "start": 3470,
+      "end": 3482,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Same Work",
+      "start": 3493,
+      "end": 3502,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Time Employees",
+      "start": 3518,
+      "end": 3532,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Doing The",
+      "start": 3533,
+      "end": 3542,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Employment With",
+      "start": 3543,
+      "end": 3558,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Sarne Schedule",
+      "start": 3563,
+      "end": 3577,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Same Type",
+      "start": 3579,
+      "end": 3588,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Of Work",
+      "start": 3589,
+      "end": 3596,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Date Time",
+      "start": 3648,
+      "end": 3657,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Last Day",
+      "start": 3668,
+      "end": 3676,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Worked Date",
+      "start": 3677,
+      "end": 3688,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Employer Notified",
+      "start": 3689,
+      "end": 3706,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Date Returned",
+      "start": 3709,
+      "end": 3722,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Did Injury",
+      "start": 3788,
+      "end": 3798,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Cause Death",
+      "start": 3799,
+      "end": 3810,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Death Was",
+      "start": 3822,
+      "end": 3831,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Lost Time",
+      "start": 3839,
+      "end": 3848,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Did Injury",
+      "start": 3860,
+      "end": 3870,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Occur Because",
+      "start": 3871,
+      "end": 3884,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Ss Cl",
+      "start": 3968,
+      "end": 3973,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "No Abuse",
+      "start": 3981,
+      "end": 3989,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Safety Devices",
+      "start": 3990,
+      "end": 4004,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Obey Rules",
+      "start": 4005,
+      "end": 4015,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Was Employee",
+      "start": 4018,
+      "end": 4030,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Emergency Room",
+      "start": 4045,
+      "end": 4059,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Yes No",
+      "start": 4065,
+      "end": 4071,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Was Employee",
+      "start": 4072,
+      "end": 4084,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Hospitalized Overnight",
+      "start": 4085,
+      "end": 4107,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "No\nLe",
+      "start": 4136,
+      "end": 4141,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Treating Practitioner",
+      "start": 4164,
+      "end": 4185,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Case Number",
+      "start": 4203,
+      "end": 4214,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Describe Activities",
+      "start": 4258,
+      "end": 4277,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Employee When",
+      "start": 4281,
+      "end": 4294,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "What Tools",
+      "start": 4326,
+      "end": 4336,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "What Happened",
+      "start": 4397,
+      "end": 4410,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Cause This",
+      "start": 4414,
+      "end": 4424,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Describe How",
+      "start": 4445,
+      "end": 4457,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "The Inju",
+      "start": 4458,
+      "end": 4466,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Happ Lse",
+      "start": 4492,
+      "end": 4500,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "What Was",
+      "start": 4594,
+      "end": 4602,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Body Affected",
+      "start": 4645,
+      "end": 4658,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "How It",
+      "start": 4663,
+      "end": 4669,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Rewer Me",
+      "start": 4764,
+      "end": 4772,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Work Phone",
+      "start": 4775,
+      "end": 4785,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Date Signed",
+      "start": 4812,
+      "end": 4823,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Continuum Footspas",
+      "start": 4929,
+      "end": 4947,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Social Security",
+      "start": 5142,
+      "end": 5157,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Time Injury",
+      "start": 5281,
+      "end": 5292,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Time Employee",
+      "start": 5316,
+      "end": 5329,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Began Work",
+      "start": 5330,
+      "end": 5340,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Am\n\nUnable",
+      "start": 5399,
+      "end": 5409,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Wie\n\nParts",
+      "start": 5611,
+      "end": 5621,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Accident Report",
+      "start": 5822,
+      "end": 5837,
+      "type": "NAME",
+      "confidence": 0.5
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 120,
+    "presidio": 0
+  },
+  "text_sample": "\ufeff \n\nEMPLOYER\u2019S FIRST REPORT OF INJURY OR DISEASE Department of Wor Development\n\nWorker's Compensation Division\n207 E. Washington Ave., Rm. C100\nP.O. Box 7904\n\nMadison, Wi 53707-7901\n\nImaging Server Fax: (608) 260-2503\n\nFatal Injuries: Employers subject to ch.102, Wis. Stats., must report injuries resulting in death to the\nDepartment and to their insurance carrier, if insured, within one day after the death of the employee.\nNon-Fatal Injuries: if the injury or occupational iliness results in disa..."
+}

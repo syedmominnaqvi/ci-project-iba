@@ -1,0 +1,163 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Dental Health Management/DHMSI_0000007763.pdf",
+    "file_name": "DHMSI_0000007763.pdf",
+    "file_size": 151767,
+    "text_length": 4267
+  },
+  "genetic_detections": [
+    {
+      "text": "Delta Dental",
+      "start": 180,
+      "end": 192,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Insurance Company",
+      "start": 193,
+      "end": 210,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Dental Insurance",
+      "start": 216,
+      "end": 232,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Delta Dental",
+      "start": 242,
+      "end": 254,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Insurance Company",
+      "start": 255,
+      "end": 272,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "17055-0759",
+      "start": 305,
+      "end": 315,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "Call Customer",
+      "start": 375,
+      "end": 388,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Eastern Time",
+      "start": 481,
+      "end": 493,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Direct Deposit",
+      "start": 497,
+      "end": 511,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Amount Delta",
+      "start": 1470,
+      "end": 1482,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Amount Delta",
+      "start": 1546,
+      "end": 1558,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Direct Deposit",
+      "start": 1607,
+      "end": 1621,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Delta Dental",
+      "start": 1718,
+      "end": 1730,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Delta Dental",
+      "start": 1863,
+      "end": 1875,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Dental Terminology",
+      "start": 1964,
+      "end": 1982,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "American\nDental",
+      "start": 1991,
+      "end": 2006,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "960016492",
+      "start": 2190,
+      "end": 2199,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "Primary Enrollee",
+      "start": 2296,
+      "end": 2312,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "960016492",
+      "start": 2459,
+      "end": 2468,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "Patient\nPays",
+      "start": 3060,
+      "end": 3072,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Delta Dental",
+      "start": 4147,
+      "end": 4159,
+      "type": "NAME",
+      "confidence": 0.5
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 21,
+    "presidio": 0
+  },
+  "text_sample": "#ephi Page 1 of 2Your claims statement\nNovember 15, 2017\nDENTAL HEALTH MANAGEMENT SOLUTIONS INC\n2001 WINDY TER STE F\nCEDAR PARK TX 78613-4290Plan underwritten and administered by:\nDelta Dental Insurance Company\nAARP Dental Insurance Plan\nc/o Delta Dental Insurance Company\nP.O. Box 2059\nMechanicsburg, PA 17055-0759\nCAN WE HELP?\nVisit our website:\ndeltadentalins.com/aarp   \nCall Customer Service: 1-866-261-4275\nTDD 1-800-735-2922  TTY  1-800-735-2929\nMon to Fri 8 a.m. to 8 p.m. Eastern Time \nu Dir..."
+}

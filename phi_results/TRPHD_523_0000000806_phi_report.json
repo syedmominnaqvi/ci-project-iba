@@ -1,0 +1,625 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Two Rivers Public Health Department/TRPHD_523_0000000806.msg",
+    "file_name": "TRPHD_523_0000000806.msg",
+    "file_size": 72192,
+    "text_length": 69047
+  },
+  "genetic_detections": [
+    {
+      "text": "Exchange Administrative",
+      "start": 1579,
+      "end": 1602,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 1824,
+      "end": 1847,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 2837,
+      "end": 2860,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "MPHELPS58@GMAIL.COM",
+      "start": 3679,
+      "end": 3698,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "MPHELPS58@GMAIL.COM",
+      "start": 6392,
+      "end": 6411,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "On Wed",
+      "start": 7442,
+      "end": 7448,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Two Rivers",
+      "start": 7472,
+      "end": 7482,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Public Health",
+      "start": 7483,
+      "end": 7496,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "noreply@qemailserver.com",
+      "start": 7517,
+      "end": 7541,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "noreply@qemailserver.com",
+      "start": 7543,
+      "end": 7567,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Nebraska State",
+      "start": 7900,
+      "end": 7914,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Vaccination Plan",
+      "start": 7915,
+      "end": 7931,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Two Rivers",
+      "start": 8340,
+      "end": 8350,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Public Health",
+      "start": 8351,
+      "end": 8364,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "888-669-7154",
+      "start": 8433,
+      "end": 8445,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "Recipient Data",
+      "start": 8469,
+      "end": 8483,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Time Finished",
+      "start": 8497,
+      "end": 8510,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Survey Preview",
+      "start": 8555,
+      "end": 8569,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "View Results",
+      "start": 8627,
+      "end": 8639,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Click Here",
+      "start": 8783,
+      "end": 8793,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "View Results",
+      "start": 8812,
+      "end": 8824,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Response Summary",
+      "start": 9083,
+      "end": 9099,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "First Name",
+      "start": 9115,
+      "end": 9125,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Last Name",
+      "start": 9165,
+      "end": 9174,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Cell Phone",
+      "start": 9283,
+      "end": 9293,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "308-991-8094",
+      "start": 9319,
+      "end": 9331,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "Mphelps58@gmail.com",
+      "start": 9387,
+      "end": 9406,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Mphelps58@gmail.com",
+      "start": 9441,
+      "end": 9460,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Years Old",
+      "start": 9760,
+      "end": 9769,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Two Rivers",
+      "start": 9840,
+      "end": 9850,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Department Staff",
+      "start": 34228,
+      "end": 34244,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Frontend\n Transport",
+      "start": 46692,
+      "end": 46711,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Frontend Transport",
+      "start": 47360,
+      "end": 47378,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 47566,
+      "end": 47582,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Proofpoint Essentials",
+      "start": 47837,
+      "end": 47858,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 48013,
+      "end": 48029,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 48344,
+      "end": 48360,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 48484,
+      "end": 48500,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "1659810841",
+      "start": 50220,
+      "end": 50230,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "1659810841",
+      "start": 50292,
+      "end": 50302,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "Milan Phelps",
+      "start": 50356,
+      "end": 50368,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "mphelps58@gmail.com",
+      "start": 50370,
+      "end": 50389,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "4Dw3Hb2HhEzhxRaqpbTQuyfXqQ@mail.gmail.com",
+      "start": 50467,
+      "end": 50508,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Vaccine\nTo",
+      "start": 50532,
+      "end": 50542,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Two Rivers",
+      "start": 50544,
+      "end": 50554,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Public Health",
+      "start": 50555,
+      "end": 50568,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 50570,
+      "end": 50586,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "1611177975",
+      "start": 50673,
+      "end": 50683,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "mphelps58@gmail.com",
+      "start": 50710,
+      "end": 50729,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Phelps\n\nOn",
+      "start": 52634,
+      "end": 52644,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Two Rivers",
+      "start": 52672,
+      "end": 52682,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Public Health",
+      "start": 52683,
+      "end": 52696,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "noreply@qemailserver.com",
+      "start": 52732,
+      "end": 52756,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Nebraska State",
+      "start": 52959,
+      "end": 52973,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Vaccination Plan",
+      "start": 52974,
+      "end": 52990,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Two Rivers",
+      "start": 53172,
+      "end": 53182,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Public Health",
+      "start": 53183,
+      "end": 53196,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "888-669-7154",
+      "start": 53253,
+      "end": 53265,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "Recipient Data",
+      "start": 53301,
+      "end": 53315,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Time Finished",
+      "start": 53317,
+      "end": 53330,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Survey Preview",
+      "start": 53360,
+      "end": 53374,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "View Results",
+      "start": 53413,
+      "end": 53425,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Click Here",
+      "start": 53427,
+      "end": 53437,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "View Results",
+      "start": 53542,
+      "end": 53554,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Response Summary",
+      "start": 53686,
+      "end": 53702,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "First Name",
+      "start": 53705,
+      "end": 53715,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Milan\n\nLast",
+      "start": 53720,
+      "end": 53731,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Phelps\n\nDate",
+      "start": 53741,
+      "end": 53753,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Cell Phone",
+      "start": 53790,
+      "end": 53800,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "308-991-8094",
+      "start": 53807,
+      "end": 53819,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "Mphelps58@gmail.com",
+      "start": 53831,
+      "end": 53850,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Mphelps58@gmail.com",
+      "start": 53858,
+      "end": 53877,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Residence\n   Gosper",
+      "start": 53890,
+      "end": 53909,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Profession\n   Retired",
+      "start": 54003,
+      "end": 54024,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Years Old",
+      "start": 54036,
+      "end": 54045,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Older\n\nThis",
+      "start": 54049,
+      "end": 54060,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Two Rivers",
+      "start": 54089,
+      "end": 54099,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Public Health",
+      "start": 54100,
+      "end": 54113,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Department Staff",
+      "start": 54114,
+      "end": 54130,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "CA7E65F85897DF48AFEC084E01AF01DF@namprd06.prod.outlook.com",
+      "start": 54375,
+      "end": 54433,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Shared With",
+      "start": 56691,
+      "end": 56702,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Shared With",
+      "start": 57382,
+      "end": 57393,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Taxonomy Catch",
+      "start": 57669,
+      "end": 57683,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "All Column",
+      "start": 57684,
+      "end": 57694,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Extracted Text",
+      "start": 60744,
+      "end": 60758,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Image Tags",
+      "start": 61947,
+      "end": 61957,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Content Type",
+      "start": 63594,
+      "end": 63606,
+      "type": "NAME",
+      "confidence": 0.5
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 87,
+    "presidio": 0
+  },
+  "text_sample": "\u0011\u0871\u001a\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000>\u0000\u0003\u0000\t\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0002\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000x\u0000\u0000\u0000\u0014\u0000\u0000\u0000D\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\u0000\u0000\t\u0000\u0000\u0000\n\u0000\u0000\u0000\u000b\u0000\u0000\u0000\f\u0000\u0000\u0000\n\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0013\u0000\u0000\u0000E\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u001b\u0000\u0000\u0000\u001c\u0000\u0000\u0000A\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u001f\u0000\u0000\u0000 \u0000\u0000\u0000!\u0000\u0000\u0000\"\u0000\u0000\u0000#\u0000\u0000\u0000$\u0000\u0000\u0000%\u0000\u0000\u0000&\u0000\u0000\u0000'\u0000\u0000\u0000(\u0000\u0000\u0000)\u0000\u0000\u0000*\u0000\u0000\u0000+\u0000\u0000\u0000,\u0000\u0000\u0000-\u0000\u0000\u0000.\u0000\u0000\u0000/\u0000\u0000\u00000\u0000\u0000\u00001\u0000\u0000\u00002\u0000\u0000\u00003\u0000\u0000\u00004\u0000\u0000\u00005\u0000\u0000\u00006\u0000\u0000\u00007\u0000\u0000\u00008\u0000\u0000\u00009\u0000\u0000\u0000:\u0000\u0000\u0000;\u0000\u0000\u0000<\u0000\u0000\u0000=\u0000\u0000\u0000>\u0000\u0000\u0000?\u0000\u0000\u0000@\u0000\u0000\u0000B\u0000\u0000\u0000C\u0000\u0000\u0000U\u0000\u0000\u0000F\u0000\u0000\u0000G\u0000\u0000\u0000H\u0000\u0000\u0000I\u0000\u0000\u0000J\u0000\u0000\u0000K\u0000\u0000\u0000L\u0000\u0000\u0000M\u0000\u0000\u0000N\u0000\u0000\u0000\u0000\u0000\u0000P\u0000\u0000\u0000R\u0000\u0000\u0000S\u0000\u0000\u0000T\u0000\u0000\u0000q\u0000\u0000\u0000V\u0000\u0000\u0000W\u0000\u0000\u0000X\u0000\u0000\u0000Y\u0000\u0000\u0000Z\u0000\u0000\u0000[\u0000\u0000\u0000\\\u0000\u0000\u0000o\u0000\u0000\u0000^\u0000\u0000\u0000_\u0000\u0000\u0000`\u0000\u0000\u0000a\u0000\u0000\u0000b\u0000\u0000\u0000c\u0000\u0000\u0000d\u0000\u0000\u0000e\u0000\u0000\u0000f\u0000\u0000\u0000g\u0000\u0000\u0000h\u0000\u0000\u0000i\u0000\u0000\u0000j\u0000\u0000\u0000k\u0000\u0000\u0000l\u0000\u0000\u0000m\u0000\u0000\u0000n\u0000\u0000\u0000p\u0000\u0000\u0000..."
+}

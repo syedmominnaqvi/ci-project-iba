@@ -1,0 +1,15 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Dental Health Management/DHMSI_0000017304.pdf",
+    "file_name": "DHMSI_0000017304.pdf",
+    "file_size": 377696,
+    "text_length": 1642
+  },
+  "genetic_detections": [],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 0,
+    "presidio": 0
+  },
+  "text_sample": "WorldwideHeadquarters\u2022Columbus,Georgia31999\n1.800.99.AFLAC(1.800.992.3522)\naflac.com\nAccountName:\nAddress:\nDatePrepared: 5/25/2021\nBillingFrequency:MONTHLYInvoiceCopy\n6/22/2021\nDENTALHEALTHMANAGEMENTS\nAttnRoseColon\n2001WindyTer\nSteF\nCEDARPARK,TX78613-4290InvoiceNumber: 811232\nAccountNumber: HLT56\nPremiumDueDate: 6/15/2021\nAmountBilled: $1,093.98\nAmountRemitting: $1,093.98\nBillingPeriod: May\nNumberofDeductions:2\nDeductionFrequency:26\nBillingMode: MONTHLYCOPY-OriginalInvoice\nPage1of1Thepremiumamou..."
+}

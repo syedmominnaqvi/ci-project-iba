@@ -1,0 +1,422 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Dental Health Management/DHMSI_0000018137.pdf",
+    "file_name": "DHMSI_0000018137.pdf",
+    "file_size": 327525,
+    "text_length": 5478
+  },
+  "genetic_detections": [
+    {
+      "text": "Billingstatement\nForperiod",
+      "start": 0,
+      "end": 26,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Billsummary\nAccountnumber",
+      "start": 862,
+      "end": 887,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Billtotals\nCurrentbilledlives",
+      "start": 1444,
+      "end": 1473,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Disability Dental",
+      "start": 1525,
+      "end": 1542,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Vision\nLife",
+      "start": 1544,
+      "end": 1555,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Billingstatement\nBillingstatement",
+      "start": 1648,
+      "end": 1681,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Membername Transaction",
+      "start": 1922,
+      "end": 1944,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "955994763",
+      "start": 1956,
+      "end": 1965,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "955994763",
+      "start": 2000,
+      "end": 2009,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "919740297",
+      "start": 2044,
+      "end": 2053,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "938130757",
+      "start": 2086,
+      "end": 2095,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "938130757",
+      "start": 2128,
+      "end": 2137,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "947670203",
+      "start": 2280,
+      "end": 2289,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "967187064",
+      "start": 2339,
+      "end": 2348,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "967187064",
+      "start": 2398,
+      "end": 2407,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "919263108",
+      "start": 2443,
+      "end": 2452,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "935848317",
+      "start": 2503,
+      "end": 2512,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "935848317",
+      "start": 2564,
+      "end": 2573,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "932156054",
+      "start": 2623,
+      "end": 2632,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "960863072",
+      "start": 2668,
+      "end": 2677,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "925707403",
+      "start": 2722,
+      "end": 2731,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "925707403",
+      "start": 2786,
+      "end": 2795,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "950646292",
+      "start": 2848,
+      "end": 2857,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "950646292",
+      "start": 2904,
+      "end": 2913,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "940021965",
+      "start": 2958,
+      "end": 2967,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "940021965",
+      "start": 3017,
+      "end": 3026,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "955994763",
+      "start": 3075,
+      "end": 3084,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "955994763",
+      "start": 3147,
+      "end": 3156,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "915836903",
+      "start": 3217,
+      "end": 3226,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "919740297",
+      "start": 3275,
+      "end": 3284,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "996228336",
+      "start": 3314,
+      "end": 3323,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "997483932",
+      "start": 3375,
+      "end": 3384,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "997483932",
+      "start": 3435,
+      "end": 3444,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "901846070",
+      "start": 3695,
+      "end": 3704,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "901846070",
+      "start": 3755,
+      "end": 3764,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "938130757",
+      "start": 3814,
+      "end": 3823,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "938130757",
+      "start": 3854,
+      "end": 3863,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "979143788",
+      "start": 3894,
+      "end": 3903,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "979143788",
+      "start": 3954,
+      "end": 3963,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "952838407",
+      "start": 4001,
+      "end": 4010,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "952838407",
+      "start": 4062,
+      "end": 4071,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "922001976",
+      "start": 4121,
+      "end": 4130,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "922001976",
+      "start": 4180,
+      "end": 4189,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "982805225",
+      "start": 4265,
+      "end": 4274,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "970574164",
+      "start": 4325,
+      "end": 4334,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "970574164",
+      "start": 4388,
+      "end": 4397,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "991268725",
+      "start": 4449,
+      "end": 4458,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "991268725",
+      "start": 4508,
+      "end": 4517,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "903085847",
+      "start": 4593,
+      "end": 4602,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "903085847",
+      "start": 4653,
+      "end": 4662,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "999462429",
+      "start": 4711,
+      "end": 4720,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "999462429",
+      "start": 4772,
+      "end": 4781,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "939654944",
+      "start": 4831,
+      "end": 4840,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "939654944",
+      "start": 4888,
+      "end": 4897,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "940030734",
+      "start": 4931,
+      "end": 4940,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "915588735",
+      "start": 4990,
+      "end": 4999,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "920262555",
+      "start": 5052,
+      "end": 5061,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "920262555",
+      "start": 5110,
+      "end": 5119,
+      "type": "SSN",
+      "confidence": 0.5
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 58,
+    "presidio": 0
+  },
+  "text_sample": "Billingstatement\nForperiod:05/01/2021to05/31/2021\nBillproduced:04/17/2021\nContactus\nGroupBenefits,call800.843.1371Monday-Friday7:00a.m.-6:00p.m.CT|principal.com\nPleasemakeyourcheckpayabletoPrincipalLifeInsuranceCompany.Sendyourcheckwiththestubtotheaddressbelow.ImportantNoticeforvision\ngroups:Asthegrouppolicyholder,\nunderTexaslaw,youmustpay\npremiumsforanymemberwhohas\nterminateduntiltheendofthe\nmonthwhenPrincipalreceives\nnotificationofthetermination.This\nrequirementdoesnotapplyifyou\ndonotcontribut..."
+}

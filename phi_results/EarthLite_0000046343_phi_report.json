@@ -1,0 +1,296 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/EarthLite LLC/EarthLite_0000046343.txt",
+    "file_name": "EarthLite_0000046343.txt",
+    "file_size": 1585,
+    "text_length": 1573
+  },
+  "genetic_detections": [
+    {
+      "text": "Employer Portal",
+      "start": 1,
+      "end": 16,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Employee Dependent",
+      "start": 31,
+      "end": 49,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Details\n\nPage",
+      "start": 50,
+      "end": 63,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Dependent Details",
+      "start": 105,
+      "end": 122,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Subscriber Name",
+      "start": 168,
+      "end": 183,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "567589768",
+      "start": 211,
+      "end": 220,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "Subscriber Information",
+      "start": 239,
+      "end": 261,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Case Name",
+      "start": 263,
+      "end": 272,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Case Number",
+      "start": 289,
+      "end": 300,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Phone Number",
+      "start": 363,
+      "end": 375,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "760-724-1875",
+      "start": 376,
+      "end": 388,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "Extension\n\nEmail",
+      "start": 389,
+      "end": 405,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Gender Male",
+      "start": 425,
+      "end": 436,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Birth Date",
+      "start": 438,
+      "end": 448,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Medical Coverage",
+      "start": 461,
+      "end": 477,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Member Name",
+      "start": 542,
+      "end": 553,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Status Gender",
+      "start": 556,
+      "end": 569,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Edit Personal",
+      "start": 636,
+      "end": 649,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Information\n\nAdd",
+      "start": 650,
+      "end": 666,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Dependent\n\nAdd",
+      "start": 667,
+      "end": 681,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Coverage\nChange",
+      "start": 682,
+      "end": 697,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Coverage\n\nCancel",
+      "start": 698,
+      "end": 714,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Coverage\nRequest",
+      "start": 715,
+      "end": 731,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Cards\n\nReinstate",
+      "start": 735,
+      "end": 751,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Cards\n\nRe",
+      "start": 766,
+      "end": 775,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Enroll\nUpdate",
+      "start": 776,
+      "end": 789,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Coverage Type",
+      "start": 795,
+      "end": 808,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Active\n\nEffective",
+      "start": 810,
+      "end": 827,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Cancel Provider",
+      "start": 828,
+      "end": 843,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Date Date",
+      "start": 847,
+      "end": 856,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Birth Date",
+      "start": 864,
+      "end": 874,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Employer Portal",
+      "start": 893,
+      "end": 908,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Member Name",
+      "start": 912,
+      "end": 923,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Male\n\nMale",
+      "start": 1089,
+      "end": 1099,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Female\n\nFemale",
+      "start": 1101,
+      "end": 1115,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Relationship\n\nSubscriber",
+      "start": 1117,
+      "end": 1141,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Child\n\nChild",
+      "start": 1145,
+      "end": 1157,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Child\n\nBirth",
+      "start": 1159,
+      "end": 1171,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Effective\n\nDate",
+      "start": 1233,
+      "end": 1248,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Date\n\nProvider",
+      "start": 1311,
+      "end": 1325,
+      "type": "NAME",
+      "confidence": 0.5
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 40,
+    "presidio": 0
+  },
+  "text_sample": "\ufeffEmployer Portal\n\nMembership / Employee Dependent Details\n\nPage 1 of 2\n\nAnthem .\n\nBlueCross\n\n \n\nEmployee/Dependent Details\n\nNew ID Number [406A52168\n\n| Submit |\n\n \n\n \n\nSubscriber Name: WILLIAM MARTIN\nID Number: 567589768\nHCID:- 406A52168\n\nSubscriber Information\n\nCase Name: EARTHLITE LLC\n\nCase Number. 281793\n\n \n\nAddress 4630 SERIGRAPH COURT\nOCEANSIDE, CA 92057\n\nPhone Number 760-724-1875\nExtension\n\nEmail BILL@EARTHLITE.COM\nGender Male\n\nBirth Date 07/12/1964\n\nMedical Coverage\n\nVALUE COINSURANCE TRA..."
+}

@@ -1,0 +1,632 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Bolton Partners Inc/Bolton_01629346.pdf",
+    "file_name": "Bolton_01629346.pdf",
+    "file_size": 231061,
+    "text_length": 14886
+  },
+  "genetic_detections": [
+    {
+      "text": "Transamerica Life",
+      "start": 35,
+      "end": 52,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Company \nTransamerica",
+      "start": 65,
+      "end": 86,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Life Insurance",
+      "start": 96,
+      "end": 110,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "75086-9094",
+      "start": 146,
+      "end": 156,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "TEBclaimsscanning@transamerica.com",
+      "start": 203,
+      "end": 237,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "800-251-7254",
+      "start": 266,
+      "end": 278,
+      "type": "PHONE",
+      "confidence": 0.578957937674618
+    },
+    {
+      "text": "Death \nClaim",
+      "start": 281,
+      "end": 293,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Form \nDecedent",
+      "start": 295,
+      "end": 309,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Social Security",
+      "start": 344,
+      "end": 359,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Policy No",
+      "start": 367,
+      "end": 376,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Street Address",
+      "start": 398,
+      "end": 412,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Zip Code",
+      "start": 433,
+      "end": 441,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Street Address",
+      "start": 465,
+      "end": 479,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Zip Code",
+      "start": 503,
+      "end": 511,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Date Last",
+      "start": 516,
+      "end": 525,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Death\nClaimant",
+      "start": 607,
+      "end": 621,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Social Security",
+      "start": 656,
+      "end": 671,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Daytime Phone",
+      "start": 696,
+      "end": 709,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Evening Phone",
+      "start": 720,
+      "end": 733,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Signature Date",
+      "start": 980,
+      "end": 994,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "This Day",
+      "start": 1243,
+      "end": 1251,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Signature \nMailing",
+      "start": 1297,
+      "end": 1315,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Address City",
+      "start": 1316,
+      "end": 1328,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "State Zip",
+      "start": 1329,
+      "end": 1338,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Street Address",
+      "start": 1344,
+      "end": 1358,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "City State",
+      "start": 1359,
+      "end": 1369,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Zip Code",
+      "start": 1370,
+      "end": 1378,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Signature Date",
+      "start": 1463,
+      "end": 1477,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "220-08-0986",
+      "start": 1494,
+      "end": 1505,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "Hillsboro Rd",
+      "start": 1523,
+      "end": 1535,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Queen Anne",
+      "start": 1552,
+      "end": 1562,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "County\nRisk",
+      "start": 1565,
+      "end": 1576,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Liberty St",
+      "start": 1606,
+      "end": 1616,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Transamerica Life",
+      "start": 1679,
+      "end": 1696,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Company \nTransamerica",
+      "start": 1708,
+      "end": 1729,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Premier Life",
+      "start": 1730,
+      "end": 1742,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Insurance Company",
+      "start": 1743,
+      "end": 1760,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "75086-9094",
+      "start": 1788,
+      "end": 1798,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "TEBclaimsscanning@transamerica.com",
+      "start": 1845,
+      "end": 1879,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "800-251-7254",
+      "start": 1908,
+      "end": 1920,
+      "type": "PHONE",
+      "confidence": 0.578957937674618
+    },
+    {
+      "text": "Business Entity",
+      "start": 1934,
+      "end": 1949,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Insured Person",
+      "start": 2023,
+      "end": 2037,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Insured Person",
+      "start": 2059,
+      "end": 2073,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Social Security",
+      "start": 2076,
+      "end": 2091,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Group Policy",
+      "start": 2118,
+      "end": 2130,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Insured\nPerson",
+      "start": 2147,
+      "end": 2161,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Insured Person",
+      "start": 2180,
+      "end": 2194,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Date Insured",
+      "start": 2262,
+      "end": 2274,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Date Insured",
+      "start": 2304,
+      "end": 2316,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Insured Person",
+      "start": 2415,
+      "end": 2429,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Laid Off",
+      "start": 2508,
+      "end": 2516,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Retired\nIf",
+      "start": 2533,
+      "end": 2543,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "No\nSigned",
+      "start": 2888,
+      "end": 2897,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "This Day",
+      "start": 2914,
+      "end": 2922,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Printed Name",
+      "start": 2943,
+      "end": 2955,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Authorized Representative",
+      "start": 2959,
+      "end": 2984,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Authorized Representative",
+      "start": 2999,
+      "end": 3024,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Official Title",
+      "start": 3025,
+      "end": 3039,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Phone Number",
+      "start": 3041,
+      "end": 3053,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Fax Number",
+      "start": 3055,
+      "end": 3065,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Queen Anne",
+      "start": 3168,
+      "end": 3178,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "410-758-4406",
+      "start": 3213,
+      "end": 3225,
+      "type": "PHONE",
+      "confidence": 0.578957937674618
+    },
+    {
+      "text": "Colorado Division",
+      "start": 4966,
+      "end": 4983,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Transamerica Life",
+      "start": 10868,
+      "end": 10885,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Company \nTransamerica",
+      "start": 10897,
+      "end": 10918,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Premier \nLife",
+      "start": 10919,
+      "end": 10932,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Insurance Company",
+      "start": 10933,
+      "end": 10950,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "75086-9094",
+      "start": 10977,
+      "end": 10987,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "866-586-6528",
+      "start": 11004,
+      "end": 11016,
+      "type": "PHONE",
+      "confidence": 0.578957937674618
+    },
+    {
+      "text": "TEBclaimsscanning@transamerica.com",
+      "start": 11033,
+      "end": 11067,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "800-251-7254",
+      "start": 11096,
+      "end": 11108,
+      "type": "PHONE",
+      "confidence": 0.578957937674618
+    },
+    {
+      "text": "Health  Information",
+      "start": 13077,
+      "end": 13096,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Privacy Pract",
+      "start": 13097,
+      "end": 13110,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Privacy Official",
+      "start": 13772,
+      "end": 13788,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Signature     Date",
+      "start": 14320,
+      "end": 14338,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Birth Patient",
+      "start": 14390,
+      "end": 14403,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Phone No",
+      "start": 14414,
+      "end": 14422,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Address \nPersonal",
+      "start": 14445,
+      "end": 14462,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Personal Representative",
+      "start": 14507,
+      "end": 14530,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Phone No",
+      "start": 14533,
+      "end": 14541,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Personal Repr",
+      "start": 14544,
+      "end": 14557,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Address \nDescr",
+      "start": 14581,
+      "end": 14595,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Personal Representative",
+      "start": 14607,
+      "end": 14630,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Insured \nPolicy",
+      "start": 14671,
+      "end": 14686,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Contract Number",
+      "start": 14690,
+      "end": 14705,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "410-490-1526",
+      "start": 14792,
+      "end": 14804,
+      "type": "PHONE",
+      "confidence": 0.578957937674618
+    },
+    {
+      "text": "220-08-0986",
+      "start": 14805,
+      "end": 14816,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "Hillsboro Rd",
+      "start": 14823,
+      "end": 14835,
+      "type": "NAME",
+      "confidence": 0.5
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 88,
+    "presidio": 0
+  },
+  "text_sample": "TEB-DeathClaim 040116 Page 1 of 4 \nTransamerica Life Ins uranc e Company \nTransamerica Pr\nemier Life Insurance Company \nP.O. Box 869094\n Plano TX 75086-9094  \nClaims f ax: 86 6-586-6\n528 \nClaims e mail: TEBclaimsscanning@transamerica.com \nClaims c ustomer s\nervice: 800-251-7254   Death \nClaim \nForm \nDecedent\u2019s Information \n1. Name in Full 2. Social Security No. 3. Policy No.\n4. Date of Birth 5. Street Address 6. City 7. State 8. Zip Code\n9. Employer\u2019s Name\n10. Street Address 11. City 12. State 1..."
+}

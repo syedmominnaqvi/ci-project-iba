@@ -1,0 +1,15 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Columbia River Mental Health Services/CRMHS_0001034557.docx",
+    "file_name": "CRMHS_0001034557.docx",
+    "file_size": 54539,
+    "text_length": 86
+  },
+  "genetic_detections": [],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 0,
+    "presidio": 0
+  },
+  "text_sample": "[OFFICE FILE: CRMHS_0001034557.docx] - Install textract or tika for content extraction"
+}

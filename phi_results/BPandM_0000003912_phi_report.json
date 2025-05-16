@@ -1,0 +1,15 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Benson Pantello and Morris LLP/BPandM_0000003912.pdf",
+    "file_name": "BPandM_0000003912.pdf",
+    "file_size": 394358,
+    "text_length": 85
+  },
+  "genetic_detections": [],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 0,
+    "presidio": 0
+  },
+  "text_sample": "[PDF FILE: BPandM_0000003912.pdf] - PDF extraction failed. Not enough text extracted."
+}

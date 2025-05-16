@@ -1,0 +1,177 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Two Rivers Public Health Department/TRPHD_523_0000000562.msg",
+    "file_name": "TRPHD_523_0000000562.msg",
+    "file_size": 63488,
+    "text_length": 60834
+  },
+  "genetic_detections": [
+    {
+      "text": "Exchange Administrative",
+      "start": 1540,
+      "end": 1563,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 1785,
+      "end": 1808,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 2926,
+      "end": 2949,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 3733,
+      "end": 3756,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Hayley Jeli",
+      "start": 3831,
+      "end": 3842,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 3978,
+      "end": 4001,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Hayley Jeli",
+      "start": 4076,
+      "end": 4087,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 5119,
+      "end": 5142,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Hayley Jeli",
+      "start": 5217,
+      "end": 5228,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 6627,
+      "end": 6650,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Emily Beave",
+      "start": 6725,
+      "end": 6736,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "51A8F645-F5FB-40C2-8064-D86FD4C21989@trphd.org",
+      "start": 8989,
+      "end": 9035,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 9154,
+      "end": 9177,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Emily Beave",
+      "start": 9252,
+      "end": 9263,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 31456,
+      "end": 31479,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Emily Beave",
+      "start": 31554,
+      "end": 31565,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Shared With",
+      "start": 48508,
+      "end": 48519,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Shared With",
+      "start": 49199,
+      "end": 49210,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Taxonomy Catch",
+      "start": 49486,
+      "end": 49500,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "All Column",
+      "start": 49501,
+      "end": 49511,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Extracted Text",
+      "start": 52531,
+      "end": 52545,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Image Tags",
+      "start": 53734,
+      "end": 53744,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Content Type",
+      "start": 55381,
+      "end": 55393,
+      "type": "NAME",
+      "confidence": 0.5
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 23,
+    "presidio": 0
+  },
+  "text_sample": "\u0011\u0871\u001a\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000>\u0000\u0003\u0000\t\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0002\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0014\u0000\u0000\u00009\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\u0000\u0000\t\u0000\u0000\u0000\n\u0000\u0000\u0000\u000b\u0000\u0000\u0000\f\u0000\u0000\u0000\n\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0013\u0000\u0000\u0000:\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u001b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u001d\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u001f\u0000\u0000\u0000 \u0000\u0000\u00008\u0000\u0000\u0000\"\u0000\u0000\u0000#\u0000\u0000\u0000$\u0000\u0000\u0000%\u0000\u0000\u0000&\u0000\u0000\u0000'\u0000\u0000\u0000(\u0000\u0000\u0000)\u0000\u0000\u0000*\u0000\u0000\u0000+\u0000\u0000\u0000,\u0000\u0000\u0000-\u0000\u0000\u0000.\u0000\u0000\u0000/\u0000\u0000\u00000\u0000\u0000\u00001\u0000\u0000\u00002\u0000\u0000\u00003\u0000\u0000\u00004\u0000\u0000\u00005\u0000\u0000\u00006\u0000\u0000\u00007\u0000\u0000\u0000J\u0000\u0000\u0000;\u0000\u0000\u0000<\u0000\u0000\u0000=\u0000\u0000\u0000>\u0000\u0000\u0000?\u0000\u0000\u0000@\u0000\u0000\u0000A\u0000\u0000\u0000B\u0000\u0000\u0000C\u0000\u0000\u0000D\u0000\u0000\u0000E\u0000\u0000\u0000y\u0000\u0000\u0000G\u0000\u0000\u0000I\u0000\u0000\u0000_\u0000\u0000\u0000K\u0000\u0000\u0000L\u0000\u0000\u0000V\u0000\u0000\u0000N\u0000\u0000\u0000O\u0000\u0000\u0000P\u0000\u0000\u0000Q\u0000\u0000\u0000R\u0000\u0000\u0000S\u0000\u0000\u0000T\u0000\u0000\u0000U\u0000\u0000\u0000W\u0000\u0000\u0000X\u0000\u0000\u0000Y\u0000\u0000\u0000Z\u0000\u0000\u0000[\u0000\u0000\u0000\\\u0000\u0000\u0000]\u0000\u0000\u0000^\u0000\u0000\u0000F\u0000\u0000\u0000`\u0000\u0000\u0000a\u0000\u0000\u0000b\u0000\u0000\u0000c\u0000\u0000\u0000d\u0000\u0000\u0000e\u0000\u0000\u0000f\u0000\u0000\u0000g\u0000\u0000\u0000h\u0000\u0000\u0000i\u0000\u0000\u0000j\u0000\u0000\u0000k\u0000\u0000\u0000l\u0000\u0000\u0000m\u0000\u0000\u0000n\u0000\u0000\u0000o\u0000\u0000\u0000p\u0000\u0000\u0000q\u0000\u0000..."
+}

@@ -1,0 +1,149 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Dental Health Management/DHMSI_0000018595.pdf",
+    "file_name": "DHMSI_0000018595.pdf",
+    "file_size": 91808,
+    "text_length": 1967
+  },
+  "genetic_detections": [
+    {
+      "text": "Blue Access",
+      "start": 9,
+      "end": 20,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Dear Pro",
+      "start": 298,
+      "end": 306,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Blue Cross",
+      "start": 358,
+      "end": 368,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Blue Shield",
+      "start": 373,
+      "end": 384,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Blue Cross",
+      "start": 480,
+      "end": 490,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Blue Shield",
+      "start": 495,
+      "end": 506,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Medical Group",
+      "start": 581,
+      "end": 594,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Drug Group",
+      "start": 631,
+      "end": 641,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Blue Cross",
+      "start": 932,
+      "end": 942,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Blue Shield",
+      "start": 947,
+      "end": 958,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Blue Cross",
+      "start": 1579,
+      "end": 1589,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Blue Shield",
+      "start": 1594,
+      "end": 1605,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Health Care",
+      "start": 1643,
+      "end": 1654,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Service Corpor",
+      "start": 1655,
+      "end": 1669,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Mutual Legal",
+      "start": 1679,
+      "end": 1691,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Independent Licensee",
+      "start": 1715,
+      "end": 1735,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Blue Cross",
+      "start": 1743,
+      "end": 1753,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Blue Shield",
+      "start": 1758,
+      "end": 1769,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Blue Access",
+      "start": 1806,
+      "end": 1817,
+      "type": "NAME",
+      "confidence": 0.5
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 19,
+    "presidio": 0
+  },
+  "text_sample": "4/9/2021 Blue Access Employer\nhttps://employersportal.bcbstx.com/wps/myportal/bae/tempIdCardPrint?subscriberSeqNumb=68456744&subscriberId=000830061777&depAddEf fDt=\u2026 1/2\n The document below will serv e as proof of insur ance for an y upcoming doctor or hospital visit.\n \n  \n Date: April 09, 2021\n \nDear Pro vider,\n \nPlease accept this letter as a tempor ary Blue Cross and Blue Shield identification card.\n \nAccording to the information on file, the following individual(s) ha ve Blue Cross and Blue ..."
+}

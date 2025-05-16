@@ -1,0 +1,149 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Aegion Corporation/AegionCorp_0003838806.pdf",
+    "file_name": "AegionCorp_0003838806.pdf",
+    "file_size": 462049,
+    "text_length": 1244
+  },
+  "genetic_detections": [
+    {
+      "text": "To Whom",
+      "start": 50,
+      "end": 57,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "It May",
+      "start": 58,
+      "end": 64,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "John Lee",
+      "start": 105,
+      "end": 113,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Barbara Heggemann",
+      "start": 162,
+      "end": 179,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Alyson Heggemann",
+      "start": 215,
+      "end": 231,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Clara \nHeggemann",
+      "start": 269,
+      "end": 285,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Amelia Heggemann",
+      "start": 322,
+      "end": 338,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "European Parliament",
+      "start": 444,
+      "end": 463,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "United States",
+      "start": 568,
+      "end": 581,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "United  Arab",
+      "start": 594,
+      "end": 606,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Schengen Visa",
+      "start": 625,
+      "end": 638,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Medical Coverage",
+      "start": 836,
+      "end": 852,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Unlimited  \nMedical",
+      "start": 854,
+      "end": 873,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Evacuation Benefit",
+      "start": 874,
+      "end": 892,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Mortal Remains",
+      "start": 926,
+      "end": 940,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Ettorre  \nDirector",
+      "start": 1128,
+      "end": 1146,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Customer Service",
+      "start": 1158,
+      "end": 1174,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "855.682.7965",
+      "start": 1179,
+      "end": 1191,
+      "type": "PHONE",
+      "confidence": 0.47159389839090426
+    },
+    {
+      "text": "610.254.5300",
+      "start": 1196,
+      "end": 1208,
+      "type": "PHONE",
+      "confidence": 0.47159389839090426
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 19,
+    "presidio": 0
+  },
+  "text_sample": " \n2 July 2018  \nDECLARATION OF HEALTH INSURANCE  \nTo Whom It May Concern:  \nThis letter certifies tha t \nJohn Lee Heggemann  (Date of Birth:  December 8, 1977 ); Barbara Heggemann  (Date of \nBirth: August 6, 1979); Alyson Heggemann  (Date of Birth: December 21, 2003); Clara \nHeggemann  (Date of Birth: November 3, 2006); Amelia Heggemann  (January 16, 2009)  \nis covered by a GeoBlue policy compliant with Regulation (EC) No  810/2009 of the \nEuropean Parliament and of the Council of 13  July 2009...."
+}

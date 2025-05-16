@@ -1,0 +1,163 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Aegion Corporation/AegionCorp_0004227759.pdf",
+    "file_name": "AegionCorp_0004227759.pdf",
+    "file_size": 236124,
+    "text_length": 2429
+  },
+  "genetic_detections": [
+    {
+      "text": "8595379640",
+      "start": 88,
+      "end": 98,
+      "type": "PHONE",
+      "confidence": 0.47159389839090426
+    },
+    {
+      "text": "Agent Code",
+      "start": 149,
+      "end": 159,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Dev Officer",
+      "start": 161,
+      "end": 172,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Bank Passbook",
+      "start": 418,
+      "end": 431,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Account No",
+      "start": 464,
+      "end": 474,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Dear Sir",
+      "start": 486,
+      "end": 494,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Vidal Health",
+      "start": 511,
+      "end": 523,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Final Approval",
+      "start": 970,
+      "end": 984,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Vidal Health",
+      "start": 1078,
+      "end": 1090,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Enrollment No",
+      "start": 1121,
+      "end": 1134,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Claim Number",
+      "start": 1291,
+      "end": 1303,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Policy Number",
+      "start": 1328,
+      "end": 1341,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Corporate Name",
+      "start": 1366,
+      "end": 1380,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Policy Holder",
+      "start": 1411,
+      "end": 1424,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Patient Name",
+      "start": 1470,
+      "end": 1482,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Card Number",
+      "start": 1504,
+      "end": 1515,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "014-0049042",
+      "start": 1530,
+      "end": 1541,
+      "type": "PHONE",
+      "confidence": 0.47159389839090426
+    },
+    {
+      "text": "Hospital Name",
+      "start": 1547,
+      "end": 1560,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Vidal Health",
+      "start": 1683,
+      "end": 1695,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Whitefield Road",
+      "start": 1758,
+      "end": 1773,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Sathya Sai",
+      "start": 1779,
+      "end": 1789,
+      "type": "NAME",
+      "confidence": 0.5
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 21,
+    "presidio": 0
+  },
+  "text_sample": "WITHOUT PREJUDICE\nSHORTFALL LETTER\nNA,\nDELHI,Delhi-0\nEmail ID: taief.f@hcl.comPhone No: 8595379640\nDATE : 01-Jul-2021\nDEL-0621-CL-0014604 CLAIM No.:\nAgent Code:\nDev Officer Code:Mr. TAIEF FAROOQUITo\nWe acknowledge receipt of claim documents in the above connection.\nOn a scrutiny of the papers received we notice that we require the following documents to proceed further:\nECS Form with cancelled Cheque & copy of the Bank Passbook page containing Name/ Address / Account No & IFSC1.\n2.Dear Sir,\nGree..."
+}

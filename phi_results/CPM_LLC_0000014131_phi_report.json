@@ -1,0 +1,15 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Community Psychiatry Management LLC/CPM_LLC_0000014131.pdf",
+    "file_name": "CPM_LLC_0000014131.pdf",
+    "file_size": 112919,
+    "text_length": 86
+  },
+  "genetic_detections": [],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 0,
+    "presidio": 0
+  },
+  "text_sample": "[PDF FILE: CPM_LLC_0000014131.pdf] - PDF extraction failed. Not enough text extracted."
+}

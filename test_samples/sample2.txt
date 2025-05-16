@@ -1,0 +1,75 @@
+SURGICAL CONSULTATION NOTE
+Date: March 15, 2023
+
+Patient: Sarah Johnson
+Medical Record #: 87654321
+DOB: 11/22/1982
+Contact: 555-987-6543
+Email: sarah.j@emailprovider.net
+Insurance: BlueCross #BC987654321
+
+REASON FOR CONSULTATION:
+Evaluation for cholecystectomy for symptomatic cholelithiasis.
+
+HISTORY OF PRESENT ILLNESS:
+Ms. Johnson is a 40-year-old female referred by Dr. Robert Chen for surgical evaluation of symptomatic gallstones. Patient reports approximately 6 months of intermittent right upper quadrant pain, typically occurring after fatty meals. She describes the pain as sharp, radiating to the right shoulder, and lasting 1-3 hours. Associated symptoms include nausea and occasional vomiting. She denies fever, jaundice, or changes in bowel habits.
+
+Patient had an ultrasound on 3/2/2023 that showed multiple gallstones with the largest measuring 1.2 cm. No evidence of cholecystitis or biliary dilatation was noted.
+
+PAST MEDICAL HISTORY:
+- Hypothyroidism
+- Migraine headaches
+- C-section (2018)
+
+MEDICATIONS:
+- Levothyroxine 75mcg daily
+- Sumatriptan 50mg PRN for migraines
+- Multivitamin daily
+
+ALLERGIES:
+Sulfa drugs (hives)
+
+SOCIAL HISTORY:
+Patient is a high school teacher. Married with one child. Denies tobacco use. Occasional alcohol use (2-3 drinks per month). Regular exercise.
+
+PHYSICAL EXAMINATION:
+Vital Signs:
+BP: 118/72 mmHg
+HR: 68 bpm
+RR: 14 rpm
+Temp: 98.4°F
+
+General: Well-appearing female in no acute distress.
+Abdomen: Soft, non-distended. Tenderness to palpation in the right upper quadrant. Positive Murphy's sign. No rebound or guarding. No hepatosplenomegaly.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Clear to auscultation bilaterally.
+
+LABORATORY RESULTS (3/10/2023):
+WBC: 7.2 K/μL
+Hgb: 13.4 g/dL
+Plt: 250 K/μL
+AST: 32 U/L
+ALT: 28 U/L
+ALP: 85 U/L
+T. Bili: 0.8 mg/dL
+
+IMPRESSION:
+Symptomatic cholelithiasis without evidence of acute cholecystitis.
+
+RECOMMENDATIONS:
+1. Laparoscopic cholecystectomy is recommended given the symptomatic nature of the gallstones.
+2. Will schedule for surgery in the next 2-3 weeks.
+3. Preoperative clearance from primary care physician.
+4. Continue low-fat diet until surgery.
+5. Return to ED if symptoms worsen, fever develops, or jaundice occurs.
+
+SURGICAL CONSENT:
+Risks, benefits, and alternatives of laparoscopic cholecystectomy were discussed with the patient, including but not limited to: bleeding, infection, bile duct injury, retained stones, conversion to open procedure, and need for ERCP. Patient understands and wishes to proceed with surgery.
+
+Surgery scheduled for: March 30, 2023 at Memorial Hospital
+
+Electronically signed by:
+Dr. Elizabeth Thompson
+General Surgery
+NPI: 1234567890
+Phone: 555-321-7890

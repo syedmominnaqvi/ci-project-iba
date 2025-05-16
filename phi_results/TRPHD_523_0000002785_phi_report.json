@@ -1,0 +1,562 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Two Rivers Public Health Department/TRPHD_523_0000002785.msg",
+    "file_name": "TRPHD_523_0000002785.msg",
+    "file_size": 111104,
+    "text_length": 98993
+  },
+  "genetic_detections": [
+    {
+      "text": "Exchange Administrative",
+      "start": 2443,
+      "end": 2466,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Hayley Jeli",
+      "start": 2541,
+      "end": 2552,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 2688,
+      "end": 2711,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Hayley Jeli",
+      "start": 2786,
+      "end": 2797,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 3829,
+      "end": 3852,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Hayley Jeli",
+      "start": 3927,
+      "end": 3938,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "ARIEKER@THEHOMEAGENCY.COM",
+      "start": 5107,
+      "end": 5132,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "hjelinek@trphd.org",
+      "start": 5750,
+      "end": 5768,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "ARIEKER@CHARTER.NET",
+      "start": 5982,
+      "end": 6001,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "ARIEKER@CHARTER.NET",
+      "start": 8816,
+      "end": 8835,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Microsoft Office",
+      "start": 10353,
+      "end": 10369,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Shared With",
+      "start": 52955,
+      "end": 52966,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Hi Hayley",
+      "start": 53795,
+      "end": 53804,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Dr Welch",
+      "start": 53878,
+      "end": 53886,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Primary Care",
+      "start": 53914,
+      "end": 53926,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Chuck Christie",
+      "start": 53943,
+      "end": 53957,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Family Medical",
+      "start": 53965,
+      "end": 53979,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Arlyn Rieker",
+      "start": 54614,
+      "end": 54626,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "arieker@thehomeagency.com",
+      "start": 54662,
+      "end": 54687,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "308.233.1051",
+      "start": 54722,
+      "end": 54734,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "308.785.2803",
+      "start": 54763,
+      "end": 54775,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "308.233.1052",
+      "start": 54880,
+      "end": 54892,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "Hayley Jelinek",
+      "start": 55766,
+      "end": 55780,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "hjelinek@trphd.org",
+      "start": 55785,
+      "end": 55803,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "arieker@charter.net",
+      "start": 55869,
+      "end": 55888,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Susan Rieker",
+      "start": 55936,
+      "end": 55948,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Hi Susan",
+      "start": 56028,
+      "end": 56036,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Hayley Jelinek",
+      "start": 56818,
+      "end": 56832,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Emergency Response",
+      "start": 57208,
+      "end": 57226,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "888-669-7154",
+      "start": 57845,
+      "end": 57857,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "308-455-4182",
+      "start": 58261,
+      "end": 58273,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "888-669-7154",
+      "start": 60635,
+      "end": 60647,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "arieker@charter.net",
+      "start": 60888,
+      "end": 60907,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "arieker@charter.net",
+      "start": 60912,
+      "end": 60931,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Hayley Jelinek",
+      "start": 61004,
+      "end": 61018,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "hjelinek@trphd.org",
+      "start": 61023,
+      "end": 61041,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Susan Rieker",
+      "start": 61088,
+      "end": 61100,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Hi Hayley",
+      "start": 61172,
+      "end": 61181,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Two Rivers",
+      "start": 61265,
+      "end": 61275,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Bauer Funeral",
+      "start": 61498,
+      "end": 61511,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "John Welch",
+      "start": 62446,
+      "end": 62456,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Retina Center",
+      "start": 62468,
+      "end": 62481,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Chuck Christie",
+      "start": 62922,
+      "end": 62936,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Family Medical",
+      "start": 62946,
+      "end": 62960,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Two Rivers",
+      "start": 63935,
+      "end": 63945,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Susan Rieker",
+      "start": 64474,
+      "end": 64486,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "308.233.1052",
+      "start": 64525,
+      "end": 64537,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "arieker@charter.net",
+      "start": 64593,
+      "end": 64612,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "arieker@charter.net",
+      "start": 64614,
+      "end": 64633,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Susan Rieker",
+      "start": 64739,
+      "end": 64751,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Mallard Beach",
+      "start": 64781,
+      "end": 64794,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Johnson Lake",
+      "start": 64829,
+      "end": 64841,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Frontend\n Transport",
+      "start": 70554,
+      "end": 70573,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Frontend Transport",
+      "start": 71218,
+      "end": 71236,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "hjelinek@trphd.org",
+      "start": 71423,
+      "end": 71441,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Proofpoint Essentials",
+      "start": 71653,
+      "end": 71674,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "9906540079",
+      "start": 71813,
+      "end": 71823,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "hjelinek@trphd.org",
+      "start": 71830,
+      "end": 71848,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "hjelinek@trphd.org",
+      "start": 72183,
+      "end": 72201,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "arieker@charter.net",
+      "start": 73054,
+      "end": 73073,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Susan Rieker",
+      "start": 73147,
+      "end": 73159,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "DM6PR06MB5081253894636D6D656BFC0BD6B69@DM6PR06MB5081.namprd06.prod.outlook.com",
+      "start": 73174,
+      "end": 73252,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Susan Rieker",
+      "start": 73279,
+      "end": 73291,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "arieker@charter.net",
+      "start": 73293,
+      "end": 73312,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Hayley Jelinek",
+      "start": 73318,
+      "end": 73332,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "hjelinek@trphd.org",
+      "start": 73334,
+      "end": 73352,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Arlyn Rieker",
+      "start": 73355,
+      "end": 73367,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "arieker@thehomeagency.com",
+      "start": 73370,
+      "end": 73395,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "1612194852",
+      "start": 73756,
+      "end": 73766,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "59b1d29b-abd2-42d7-b5e9-34d131de3782@MW2NAM10FT034.eop-nam10.prod.protection.outlook.com",
+      "start": 73794,
+      "end": 73882,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "arieker@charter.net",
+      "start": 73897,
+      "end": 73916,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "578CE21CCE47AE4CB37A3C749B681C65@namprd06.prod.outlook.com",
+      "start": 85059,
+      "end": 85117,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Shared With",
+      "start": 87358,
+      "end": 87369,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Taxonomy Catch",
+      "start": 87645,
+      "end": 87659,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "All Column",
+      "start": 87660,
+      "end": 87670,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Extracted Text",
+      "start": 90690,
+      "end": 90704,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Image Tags",
+      "start": 91893,
+      "end": 91903,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Content Type",
+      "start": 93540,
+      "end": 93552,
+      "type": "NAME",
+      "confidence": 0.5
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 78,
+    "presidio": 0
+  },
+  "text_sample": "\u0011\u0871\u001a\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000>\u0000\u0003\u0000\t\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0002\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0014\u0000\u0000\u0000k\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\u0000\u0000\t\u0000\u0000\u0000\n\u0000\u0000\u0000\u000b\u0000\u0000\u0000\f\u0000\u0000\u0000\n\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0013\u0000\u0000\u0000l\u0000\u0000\u0000:\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u001b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u001d\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u001f\u0000\u0000\u0000 \u0000\u0000\u0000!\u0000\u0000\u0000\"\u0000\u0000\u0000#\u0000\u0000\u0000$\u0000\u0000\u0000%\u0000\u0000\u0000&\u0000\u0000\u0000'\u0000\u0000\u0000(\u0000\u0000\u0000)\u0000\u0000\u0000*\u0000\u0000\u0000+\u0000\u0000\u0000,\u0000\u0000\u0000-\u0000\u0000\u0000.\u0000\u0000\u0000/\u0000\u0000\u00000\u0000\u0000\u00001\u0000\u0000\u00002\u0000\u0000\u00003\u0000\u0000\u00004\u0000\u0000\u00005\u0000\u0000\u00006\u0000\u0000\u00007\u0000\u0000\u00008\u0000\u0000\u00009\u0000\u0000\u0000;\u0000\u0000\u0000<\u0000\u0000\u0000=\u0000\u0000\u0000>\u0000\u0000\u0000?\u0000\u0000\u0000@\u0000\u0000\u0000A\u0000\u0000\u0000B\u0000\u0000\u0000C\u0000\u0000\u0000D\u0000\u0000\u0000E\u0000\u0000\u0000F\u0000\u0000\u0000G\u0000\u0000\u0000i\u0000\u0000\u0000I\u0000\u0000\u0000J\u0000\u0000\u0000K\u0000\u0000\u0000L\u0000\u0000\u0000M\u0000\u0000\u0000N\u0000\u0000\u0000O\u0000\u0000\u0000P\u0000\u0000\u0000Q\u0000\u0000\u0000R\u0000\u0000\u0000S\u0000\u0000\u0000T\u0000\u0000\u0000U\u0000\u0000\u0000V\u0000\u0000\u0000W\u0000\u0000\u0000X\u0000\u0000\u0000Y\u0000\u0000\u0000Z\u0000\u0000\u0000[\u0000\u0000\u0000\\\u0000\u0000\u0000]\u0000\u0000\u0000^\u0000\u0000\u0000_\u0000\u0000\u0000`\u0000\u0000\u0000a\u0000\u0000\u0000b\u0000\u0000\u0000c\u0000\u0000\u0000d\u0000\u0000\u0000e\u0000\u0000\u0000f\u0000\u0000\u0000g\u0000\u0000\u0000h\u0000\u0000\u0000j\u0000\u0000\u0000|\u0000\u0000\u0000m\u0000\u0000\u0000n\u0000\u0000\u0000o\u0000\u0000\u0000..."
+}

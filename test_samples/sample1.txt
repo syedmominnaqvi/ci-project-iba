@@ -1,0 +1,77 @@
+PATIENT CONSULTATION NOTE
+Date: 05/12/2022
+
+Patient: John Smith
+DOB: 09/15/1975
+MRN: 12345678
+Phone: (555) 123-4567
+Email: john.smith@example.com
+SSN: 123-45-6789
+Address: 123 Main Street, Springfield, IL 62701
+
+CHIEF COMPLAINT:
+Patient presents with persistent headaches for the past 2 weeks.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Smith reports experiencing headaches that began approximately 2 weeks ago. The pain is described as throbbing and primarily located in the frontal region. Pain intensity is rated as 7/10. Headaches occur daily, lasting 4-6 hours, and are partially relieved by over-the-counter pain medications. Patient denies visual disturbances, nausea, or vomiting.
+
+PAST MEDICAL HISTORY:
+- Hypertension diagnosed in 2018, well-controlled on medication
+- Type 2 Diabetes Mellitus diagnosed in 2019
+- Appendectomy (2010)
+
+MEDICATIONS:
+- Lisinopril 10mg daily
+- Metformin 500mg BID
+- Aspirin 81mg daily
+
+ALLERGIES:
+Penicillin (rash)
+
+FAMILY HISTORY:
+Father: Deceased age 68 (MI)
+Mother: Living, age 70, hypertension, osteoarthritis
+Sister: Living, age 42, healthy
+
+SOCIAL HISTORY:
+Patient works as an accountant. Married with 2 children. Denies tobacco use. Reports occasional alcohol use (1-2 drinks per week). Exercises 2-3 times per week.
+
+PHYSICAL EXAMINATION:
+Vital Signs:
+BP: 128/82 mmHg
+HR: 76 bpm
+RR: 16 rpm
+Temp: 98.6°F
+O2 Sat: 98% on room air
+
+General: Alert and oriented x3, in no acute distress.
+HEENT: Normocephalic, atraumatic. Pupils equal, round, reactive to light. No sinus tenderness. Oropharynx clear.
+Neck: Supple, no lymphadenopathy, no thyromegaly.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+Neurological: CN II-XII intact. No focal neurological deficits.
+
+ASSESSMENT/PLAN:
+1. Tension headache
+   - Recommend Tylenol 500mg every 6 hours as needed for pain
+   - Stress management techniques
+   - Maintain adequate hydration
+
+2. Hypertension
+   - Continue Lisinopril 10mg daily
+   - Monitor blood pressure at home
+   - Follow up with Dr. Jane Wilson in 3 months
+
+3. Type 2 Diabetes Mellitus
+   - Continue Metformin 500mg BID
+   - Recent HbA1c 6.8% (Goal <7.0%)
+   - Continue with current diet and exercise regimen
+
+FOLLOW-UP:
+Return to clinic in 4 weeks for headache reassessment. Contact office if symptoms worsen.
+
+Electronically signed by:
+Dr. Michael Johnson
+Internal Medicine
+Contact: (555) 987-6543
+License #: IL-12345

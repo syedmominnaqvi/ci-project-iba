@@ -1,0 +1,163 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Icelandirect, Inc/REL0000059047.0002.PDF",
+    "file_name": "REL0000059047.0002.PDF",
+    "file_size": 178346,
+    "text_length": 7458
+  },
+  "genetic_detections": [
+    {
+      "text": "Created By",
+      "start": 2349,
+      "end": 2359,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Really Useful",
+      "start": 2360,
+      "end": 2373,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "888-870-0888",
+      "start": 2412,
+      "end": 2424,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "Arkansas  \nAny",
+      "start": 2639,
+      "end": 2653,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "California  \nAny",
+      "start": 3133,
+      "end": 3149,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Connecticut  \nThis",
+      "start": 3394,
+      "end": 3412,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Oklahoma  \nAny",
+      "start": 3636,
+      "end": 3650,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Delaware Statutes",
+      "start": 3949,
+      "end": 3966,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Florida  \nAny",
+      "start": 4017,
+      "end": 4030,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Idaho  \nAny",
+      "start": 4307,
+      "end": 4318,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Insurance Company",
+      "start": 4397,
+      "end": 4414,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Claim Containing",
+      "start": 4437,
+      "end": 4453,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "New York",
+      "start": 4750,
+      "end": 4758,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "In New",
+      "start": 5076,
+      "end": 5082,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Michigan  \nAny",
+      "start": 5255,
+      "end": 5269,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Nevada \nPursuant",
+      "start": 5765,
+      "end": 5781,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "New Hampshire",
+      "start": 5994,
+      "end": 6007,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "New Jersey",
+      "start": 6284,
+      "end": 6294,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Ohio \nAny",
+      "start": 6457,
+      "end": 6466,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Pennsylvania \nAny",
+      "start": 6695,
+      "end": 6712,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Utah \nAny",
+      "start": 6990,
+      "end": 6999,
+      "type": "NAME",
+      "confidence": 0.5
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 21,
+    "presidio": 0
+  },
+  "text_sample": "AM\nPMTIME OF OCCURRENCE\nPREPARER'S NAME & TITLE DATE PREPAREDHOSPITAL (NAME & ADDRESS) PHYSICIAN/HEALTH CARE PROVIDER(NAME & ADDRESS)WERE SAFEGUARDS OR SAFTY EQUIPMENT PROVIDED? YES\nYESNO\nNO WERE THEY USED?DID INJURY/ILLNESSEXPOSURE OCCUR ON EMPLOYER'S PREMISES?\nHOW INJURY OR ILLNESS/ABNORMAL HEALTH CONDITION OCCURRED. DESCRIBE THE SEQUENCE OF EVENTS AND INCLUDE ANY OBJECTS OR SUBSTANCES THAT DIRECTLY\nINJURED THE EMPLOYEE OR MADE THE EMPLOYEE ILL\nDATE RETURN(ED) TO WORK IF FATAL, GIVE DATE OF DE..."
+}

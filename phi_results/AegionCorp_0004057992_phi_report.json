@@ -1,0 +1,289 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Aegion Corporation/AegionCorp_0004057992.pdf",
+    "file_name": "AegionCorp_0004057992.pdf",
+    "file_size": 60909,
+    "text_length": 3740
+  },
+  "genetic_detections": [
+    {
+      "text": "Online Election",
+      "start": 0,
+      "end": 15,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Confirmation\n Employee",
+      "start": 16,
+      "end": 38,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Election Date",
+      "start": 53,
+      "end": 66,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Entered By",
+      "start": 87,
+      "end": 97,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Event Date",
+      "start": 117,
+      "end": 127,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Coverage Date",
+      "start": 147,
+      "end": 160,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Confirmation No",
+      "start": 173,
+      "end": 188,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Country\n Zip",
+      "start": 310,
+      "end": 322,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Code\n State",
+      "start": 323,
+      "end": 334,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "City\n Address",
+      "start": 336,
+      "end": 349,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Relationship\n Phone",
+      "start": 351,
+      "end": 370,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Email\n Employee",
+      "start": 377,
+      "end": 392,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Country\n Zip",
+      "start": 488,
+      "end": 500,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Code\n State",
+      "start": 501,
+      "end": 512,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "City\n Address",
+      "start": 514,
+      "end": 527,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Relationship\n Phone",
+      "start": 529,
+      "end": 548,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Email\n Spouse",
+      "start": 555,
+      "end": 568,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "281-224-5760",
+      "start": 570,
+      "end": 582,
+      "type": "PHONE",
+      "confidence": 0.47159389839090426
+    },
+    {
+      "text": "Country\n Zip",
+      "start": 706,
+      "end": 718,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Code\n State",
+      "start": 719,
+      "end": 730,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "City\n Address",
+      "start": 732,
+      "end": 745,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Relationship\n Phone",
+      "start": 747,
+      "end": 766,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Email\n Employee",
+      "start": 773,
+      "end": 788,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Country\n Zip",
+      "start": 884,
+      "end": 896,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Code\n State",
+      "start": 897,
+      "end": 908,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "City\n Address",
+      "start": 910,
+      "end": 923,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Relationship\n Phone",
+      "start": 925,
+      "end": 944,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Email\n Spouse",
+      "start": 951,
+      "end": 964,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "281-224-5760",
+      "start": 966,
+      "end": 978,
+      "type": "PHONE",
+      "confidence": 0.47159389839090426
+    },
+    {
+      "text": "Country\n Zip",
+      "start": 1100,
+      "end": 1112,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Code\n State",
+      "start": 1113,
+      "end": 1124,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "City\n Address",
+      "start": 1126,
+      "end": 1139,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Relationship\n Phone",
+      "start": 1141,
+      "end": 1160,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Email\n Employee",
+      "start": 1167,
+      "end": 1182,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Address\n Relationship",
+      "start": 1253,
+      "end": 1274,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Country\n Zip",
+      "start": 1309,
+      "end": 1321,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Code\n State",
+      "start": 1322,
+      "end": 1333,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "City\n Phone",
+      "start": 1335,
+      "end": 1346,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "281-224-5760",
+      "start": 1360,
+      "end": 1372,
+      "type": "PHONE",
+      "confidence": 0.47159389839090426
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 39,
+    "presidio": 0
+  },
+  "text_sample": "Online Election Confirmation\n Employee: DORWIN HAWN\n Election Date: 7/12/2017 9:24 PM\n Entered By: dhawn@aegion.com\n Event Date: 1/1/2017\n Loss of Coverage Date: 6/30/2017\n Confirmation No: 20170712-9EA04D1A\n $919.23\n ANTHEM MEDICAL SAVINGS EMP/SPOUSE\n DORWIN HAWN\n USA\n 81301\n CO\n DURANGO\n 610 RED ROCK ROAD\n Country\n Zip Code\n State\n City\n Address\n Relationship\n Phone\n DOB\n Email\n Employee\n \n 2/11/1948\n dhawn@aegion.com\n JENNIFER O'REILLY\n USA\n 81301\n CO\n DURANGO\n 610 RED ROCK ROAD\n Country\n Zip..."
+}

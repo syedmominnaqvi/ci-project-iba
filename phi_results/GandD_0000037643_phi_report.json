@@ -1,0 +1,15 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Grandfield and Dodd LLC/GandD_0000037643.docx",
+    "file_name": "GandD_0000037643.docx",
+    "file_size": 30555,
+    "text_length": 86
+  },
+  "genetic_detections": [],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 0,
+    "presidio": 0
+  },
+  "text_sample": "[OFFICE FILE: GandD_0000037643.docx] - Install textract or tika for content extraction"
+}

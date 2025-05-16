@@ -1,0 +1,58 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Bolton Partners Inc/Bolton_00092822.pdf",
+    "file_name": "Bolton_00092822.pdf",
+    "file_size": 1073098,
+    "text_length": 6937
+  },
+  "genetic_detections": [
+    {
+      "text": "0101243245",
+      "start": 6295,
+      "end": 6305,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "Virginia Department",
+      "start": 6631,
+      "end": 6650,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Ot Healt",
+      "start": 6652,
+      "end": 6660,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "State Registrar",
+      "start": 6741,
+      "end": 6756,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Virqnia Department",
+      "start": 6801,
+      "end": 6819,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Vitiil Stiustics",
+      "start": 6832,
+      "end": 6848,
+      "type": "NAME",
+      "confidence": 0.5
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 6,
+    "presidio": 0
+  },
+  "text_sample": "VERIFY PRESENCE OF WATERMARK HOLD TO LIGHT TO VIEW \n3128529 COMMONWEALTH OF VIRGINIA \nDEPARTMENT OF HEALTH DIVisiON OF VITAL RECORDS \nCOMMONWEALTH OF VIRGINIA -CERTIFICATE OF DEATH \nT 5TATE FILENUMBER \n|21-036083 DEPARTMENT OF HEALTH DIVISION OF VITAL RECORDS -RICHMOND \nFILED DATE . 2021 UNI (sufx) \nmiddle) (ast) SR. \n1.FULL NAME OF DECBDENT\nROBERT DELLINGER CARROLL I DA \nnes TF UNDER 1 YEAR \n3. DATE OF DEATH 4 DATROF BRTH Monhe 2. SEX \nACTUAIL PRESUMEDAUGUST 10, 1943 77MALEFEMALE NOT DEEU JUNE ..."
+}

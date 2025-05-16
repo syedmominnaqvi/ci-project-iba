@@ -1,0 +1,520 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Aegion Corporation/AegionCorp_0006197133.pdf",
+    "file_name": "AegionCorp_0006197133.pdf",
+    "file_size": 37329,
+    "text_length": 6131
+  },
+  "genetic_detections": [
+    {
+      "text": "Patient Report",
+      "start": 2,
+      "end": 16,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Thinnergy Medical",
+      "start": 116,
+      "end": 133,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Weight Loss",
+      "start": 134,
+      "end": 145,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "New Ballas",
+      "start": 170,
+      "end": 180,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Patient Details",
+      "start": 718,
+      "end": 733,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Specimen Details",
+      "start": 734,
+      "end": 750,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Physician Details",
+      "start": 751,
+      "end": 768,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Local Ordering",
+      "start": 817,
+      "end": 831,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "General Comments",
+      "start": 1007,
+      "end": 1023,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Additional Information",
+      "start": 1026,
+      "end": 1048,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Total Volume",
+      "start": 1049,
+      "end": 1061,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Not Provided",
+      "start": 1063,
+      "end": 1075,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Yes\nOrdered",
+      "start": 1085,
+      "end": 1096,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Items\nComp",
+      "start": 1097,
+      "end": 1107,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Metabolic Panel",
+      "start": 1109,
+      "end": 1124,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Lipid Panel",
+      "start": 1131,
+      "end": 1142,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Reactive\nProtein",
+      "start": 1222,
+      "end": 1238,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Ambig Abbrev",
+      "start": 1278,
+      "end": 1290,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Ambig Abbrev",
+      "start": 1306,
+      "end": 1318,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Metabolic Panel",
+      "start": 1410,
+      "end": 1425,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "If Africn",
+      "start": 1584,
+      "end": 1593,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Creatinine Ratio",
+      "start": 1621,
+      "end": 1637,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Carbon Dioxide",
+      "start": 1766,
+      "end": 1780,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Alkaline Phosphatase",
+      "start": 2028,
+      "end": 2048,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Lipid Panel",
+      "start": 2135,
+      "end": 2146,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Cholesterol Cal",
+      "start": 2271,
+      "end": 2286,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Cholesterol Calc",
+      "start": 2312,
+      "end": 2328,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Date Issued",
+      "start": 2400,
+      "end": 2411,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Laboratory Corporation",
+      "start": 2570,
+      "end": 2592,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Holdings\nIf",
+      "start": 2605,
+      "end": 2616,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "All Rights",
+      "start": 2684,
+      "end": 2694,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Enterprise Report",
+      "start": 2706,
+      "end": 2723,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Patient Report",
+      "start": 2743,
+      "end": 2757,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Please Note",
+      "start": 2949,
+      "end": 2960,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Endocrine Society",
+      "start": 3286,
+      "end": 3303,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "The Endocrine",
+      "start": 3385,
+      "end": 3398,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "The\nNational",
+      "start": 3595,
+      "end": 3607,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Academies Press",
+      "start": 3608,
+      "end": 3623,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Endocrine Society",
+      "start": 3745,
+      "end": 3762,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Reactive Protein",
+      "start": 3825,
+      "end": 3841,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Relative Risk",
+      "start": 3876,
+      "end": 3889,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Future Cardiovascular",
+      "start": 3894,
+      "end": 3915,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Event\nLow",
+      "start": 3916,
+      "end": 3925,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Ambig Abbrev",
+      "start": 4014,
+      "end": 4026,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Ambiguous Test",
+      "start": 4135,
+      "end": 4149,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Code Policy",
+      "start": 4150,
+      "end": 4161,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Comprehensive\nMetabolic",
+      "start": 4290,
+      "end": 4313,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Test Code",
+      "start": 4326,
+      "end": 4335,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Client Inquiry",
+      "start": 4455,
+      "end": 4469,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Technical Services",
+      "start": 4470,
+      "end": 4488,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Ambig Abbrev",
+      "start": 4556,
+      "end": 4568,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Ambiguous Test",
+      "start": 4674,
+      "end": 4688,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Code Policy",
+      "start": 4689,
+      "end": 4700,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Lipid Panel",
+      "start": 4829,
+      "end": 4840,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Test Code",
+      "start": 4842,
+      "end": 4851,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Client Inquiry",
+      "start": 4971,
+      "end": 4985,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Technical Services",
+      "start": 4986,
+      "end": 5004,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Date Issued",
+      "start": 5072,
+      "end": 5083,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Laboratory Corporation",
+      "start": 5242,
+      "end": 5264,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Holdings\nIf",
+      "start": 5277,
+      "end": 5288,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "All Rights",
+      "start": 5356,
+      "end": 5366,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Enterprise Report",
+      "start": 5378,
+      "end": 5395,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Patient Report",
+      "start": 5415,
+      "end": 5429,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Dublin Dir",
+      "start": 5635,
+      "end": 5645,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Vincent Ricchiuti",
+      "start": 5647,
+      "end": 5664,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Wilcox Road",
+      "start": 5675,
+      "end": 5686,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "43016-1269",
+      "start": 5699,
+      "end": 5709,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "Date Issued",
+      "start": 5790,
+      "end": 5801,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Laboratory Corporation",
+      "start": 5960,
+      "end": 5982,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Holdings\nIf",
+      "start": 5995,
+      "end": 6006,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "All Rights",
+      "start": 6074,
+      "end": 6084,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Enterprise Report",
+      "start": 6096,
+      "end": 6113,
+      "type": "NAME",
+      "confidence": 0.5
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 72,
+    "presidio": 0
+  },
+  "text_sample": "1\nPatient Report\nSpecimen ID: 318-305-1830-0 Acct #: 24015690 Phone: (314) 665-3016 Rte: 00\nControl ID: 40130684676\nThinnergy Medical Weight Loss\nGROSS, KATHERINE 755 S. New Ballas Rd., #120\n2600 WESTFALL RD St. Louis MO 63141\n(cid:3)(cid:3)(cid:4)(cid:1)(cid:1)(cid:1)(cid:4)(cid:4)(cid:3)(cid:1)(cid:1)(cid:1)(cid:3)(cid:4)(cid:1)(cid:1)(cid:4)(cid:2)(cid:2)(cid:3)(cid:3)(cid:1)(cid:3)(cid:3)(cid:1)(cid:4)(cid:2)(cid:1)(cid:4)(cid:2)(cid:2)(cid:2)(cid:3)(cid:4)(cid:4)(cid:2)(cid:4)(cid:1)(cid:3)..."
+}

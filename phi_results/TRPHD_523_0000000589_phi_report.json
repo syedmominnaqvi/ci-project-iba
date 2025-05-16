@@ -1,0 +1,604 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Two Rivers Public Health Department/TRPHD_523_0000000589.msg",
+    "file_name": "TRPHD_523_0000000589.msg",
+    "file_size": 72704,
+    "text_length": 69549
+  },
+  "genetic_detections": [
+    {
+      "text": "Exchange Administrative",
+      "start": 1580,
+      "end": 1603,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 1825,
+      "end": 1848,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 2838,
+      "end": 2861,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "SBENNETTDPM@GMAIL.COM",
+      "start": 3681,
+      "end": 3702,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "SBENNETTDPM@GMAIL.COM",
+      "start": 6389,
+      "end": 6410,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "On Sun",
+      "start": 7637,
+      "end": 7643,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Two Rivers",
+      "start": 7669,
+      "end": 7679,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Public Health",
+      "start": 7680,
+      "end": 7693,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "noreply@qemailserver.com",
+      "start": 7714,
+      "end": 7738,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "noreply@qemailserver.com",
+      "start": 7740,
+      "end": 7764,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Nebraska State",
+      "start": 8116,
+      "end": 8130,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Vaccination Plan",
+      "start": 8131,
+      "end": 8147,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Two Rivers",
+      "start": 8522,
+      "end": 8532,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Public Health",
+      "start": 8533,
+      "end": 8546,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "888-669-7154",
+      "start": 8615,
+      "end": 8627,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "Recipient Data",
+      "start": 8651,
+      "end": 8665,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Time Finished",
+      "start": 8679,
+      "end": 8692,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Survey Preview",
+      "start": 8737,
+      "end": 8751,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "View Results",
+      "start": 8809,
+      "end": 8821,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Click Here",
+      "start": 8948,
+      "end": 8958,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "View Results",
+      "start": 8977,
+      "end": 8989,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Response Summary",
+      "start": 9231,
+      "end": 9247,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "First Name",
+      "start": 9263,
+      "end": 9273,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Last Name",
+      "start": 9314,
+      "end": 9323,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Cell Phone",
+      "start": 9435,
+      "end": 9445,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "308.2937451",
+      "start": 9471,
+      "end": 9482,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "308.2365739",
+      "start": 9526,
+      "end": 9537,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "sbennettdpm@gmail.com",
+      "start": 9593,
+      "end": 9614,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "sbennettdpm@gmail.com",
+      "start": 9632,
+      "end": 9653,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Years Old",
+      "start": 34510,
+      "end": 34519,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Frontend\n Transport",
+      "start": 46701,
+      "end": 46720,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Frontend Transport",
+      "start": 47369,
+      "end": 47387,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 47573,
+      "end": 47589,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Proofpoint Essentials",
+      "start": 47845,
+      "end": 47866,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 48022,
+      "end": 48038,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 48353,
+      "end": 48369,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 48492,
+      "end": 48508,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "1816982372",
+      "start": 50239,
+      "end": 50249,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "1816982372",
+      "start": 50312,
+      "end": 50322,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "Steve Bennett",
+      "start": 50377,
+      "end": 50390,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "sbennettdpm@gmail.com",
+      "start": 50392,
+      "end": 50413,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "CALb24nhN7hEny9pCbnph8GdWj-GxF_qHaxasn9Uax2JW+fMk6w@mail.gmail.com",
+      "start": 50466,
+      "end": 50532,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Vaccine\nTo",
+      "start": 50556,
+      "end": 50566,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Two Rivers",
+      "start": 50568,
+      "end": 50578,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Public Health",
+      "start": 50579,
+      "end": 50592,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "orders@trphd.org",
+      "start": 50594,
+      "end": 50610,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "1611110640",
+      "start": 50697,
+      "end": 50707,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "sbennettdpm@gmail.com",
+      "start": 50734,
+      "end": 50755,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "On Sun",
+      "start": 52861,
+      "end": 52867,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Two Rivers",
+      "start": 52893,
+      "end": 52903,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Public Health",
+      "start": 52904,
+      "end": 52917,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "noreply@qemailserver.com",
+      "start": 52953,
+      "end": 52977,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Nebraska State",
+      "start": 53180,
+      "end": 53194,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Vaccination Plan",
+      "start": 53195,
+      "end": 53211,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Two Rivers",
+      "start": 53393,
+      "end": 53403,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Public Health",
+      "start": 53404,
+      "end": 53417,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "888-669-7154",
+      "start": 53474,
+      "end": 53486,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "Recipient Data",
+      "start": 53522,
+      "end": 53536,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Time Finished",
+      "start": 53538,
+      "end": 53551,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Survey Preview",
+      "start": 53581,
+      "end": 53595,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "View Results",
+      "start": 53634,
+      "end": 53646,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Click Here",
+      "start": 53648,
+      "end": 53658,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "View Results",
+      "start": 53763,
+      "end": 53775,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Response Summary",
+      "start": 53907,
+      "end": 53923,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "First Name",
+      "start": 53926,
+      "end": 53936,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Steven\n\nLast",
+      "start": 53941,
+      "end": 53953,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Bennett\n\nDate",
+      "start": 53963,
+      "end": 53976,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Cell Phone",
+      "start": 54015,
+      "end": 54025,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "308.2937451",
+      "start": 54032,
+      "end": 54043,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "308.2365739",
+      "start": 54060,
+      "end": 54071,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "sbennettdpm@gmail.com",
+      "start": 54083,
+      "end": 54104,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "sbennettdpm@gmail.com",
+      "start": 54112,
+      "end": 54133,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Residence\n   Buffalo",
+      "start": 54146,
+      "end": 54166,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Hypertension\n   Aortic",
+      "start": 54302,
+      "end": 54324,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Profession\n   Retired",
+      "start": 54350,
+      "end": 54371,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Years Old",
+      "start": 54386,
+      "end": 54395,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "1520750D12E4AD44966A59A717DBC426@namprd06.prod.outlook.com",
+      "start": 54686,
+      "end": 54744,
+      "type": "EMAIL",
+      "confidence": 0.5
+    },
+    {
+      "text": "Shared With",
+      "start": 57190,
+      "end": 57201,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Shared With",
+      "start": 57881,
+      "end": 57892,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Taxonomy Catch",
+      "start": 58168,
+      "end": 58182,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "All Column",
+      "start": 58183,
+      "end": 58193,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Extracted Text",
+      "start": 61246,
+      "end": 61260,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Image Tags",
+      "start": 62449,
+      "end": 62459,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Content Type",
+      "start": 64096,
+      "end": 64108,
+      "type": "NAME",
+      "confidence": 0.5
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 84,
+    "presidio": 0
+  },
+  "text_sample": "\u0011\u0871\u001a\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000>\u0000\u0003\u0000\t\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0002\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000y\u0000\u0000\u0000\u0014\u0000\u0000\u0000D\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\u0000\u0000\t\u0000\u0000\u0000\n\u0000\u0000\u0000\u000b\u0000\u0000\u0000\f\u0000\u0000\u0000\n\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0013\u0000\u0000\u0000E\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0017\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u001b\u0000\u0000\u0000\u001c\u0000\u0000\u0000A\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u001f\u0000\u0000\u0000 \u0000\u0000\u0000!\u0000\u0000\u0000\"\u0000\u0000\u0000#\u0000\u0000\u0000$\u0000\u0000\u0000%\u0000\u0000\u0000&\u0000\u0000\u0000'\u0000\u0000\u0000(\u0000\u0000\u0000)\u0000\u0000\u0000*\u0000\u0000\u0000+\u0000\u0000\u0000,\u0000\u0000\u0000-\u0000\u0000\u0000.\u0000\u0000\u0000/\u0000\u0000\u00000\u0000\u0000\u00001\u0000\u0000\u00002\u0000\u0000\u00003\u0000\u0000\u00004\u0000\u0000\u00005\u0000\u0000\u00006\u0000\u0000\u00007\u0000\u0000\u00008\u0000\u0000\u00009\u0000\u0000\u0000:\u0000\u0000\u0000;\u0000\u0000\u0000<\u0000\u0000\u0000=\u0000\u0000\u0000>\u0000\u0000\u0000?\u0000\u0000\u0000@\u0000\u0000\u0000B\u0000\u0000\u0000C\u0000\u0000\u0000U\u0000\u0000\u0000F\u0000\u0000\u0000G\u0000\u0000\u0000H\u0000\u0000\u0000I\u0000\u0000\u0000J\u0000\u0000\u0000K\u0000\u0000\u0000L\u0000\u0000\u0000M\u0000\u0000\u0000N\u0000\u0000\u0000O\u0000\u0000\u0000\u0000\u0000\u0000Q\u0000\u0000\u0000S\u0000\u0000\u0000T\u0000\u0000\u0000q\u0000\u0000\u0000V\u0000\u0000\u0000W\u0000\u0000\u0000X\u0000\u0000\u0000Y\u0000\u0000\u0000Z\u0000\u0000\u0000[\u0000\u0000\u0000\\\u0000\u0000\u0000o\u0000\u0000\u0000^\u0000\u0000\u0000_\u0000\u0000\u0000`\u0000\u0000\u0000a\u0000\u0000\u0000b\u0000\u0000\u0000c\u0000\u0000\u0000d\u0000\u0000\u0000e\u0000\u0000\u0000f\u0000\u0000\u0000g\u0000\u0000\u0000h\u0000\u0000\u0000i\u0000\u0000\u0000j\u0000\u0000\u0000k\u0000\u0000\u0000l\u0000\u0000\u0000m\u0000\u0000\u0000n\u0000\u0000\u0000p\u0000\u0000\u0000..."
+}

@@ -1,0 +1,268 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Bolton Partners Inc/Bolton_00018430.msg",
+    "file_name": "Bolton_00018430.msg",
+    "file_size": 268288,
+    "text_length": 154058
+  },
+  "genetic_detections": [
+    {
+      "text": "Sharp Scanned",
+      "start": 10907,
+      "end": 10920,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Dq Gd",
+      "start": 29583,
+      "end": 29588,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Gf\fDp",
+      "start": 35446,
+      "end": 35451,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Ds\nGl",
+      "start": 52639,
+      "end": 52644,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Xz\t\tKoz",
+      "start": 104571,
+      "end": 104578,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Dd\n\u001cCx",
+      "start": 115405,
+      "end": 115411,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "0000000000",
+      "start": 117445,
+      "end": 117455,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "0000214128",
+      "start": 117465,
+      "end": 117475,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "0000214207",
+      "start": 117485,
+      "end": 117495,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "0000000032",
+      "start": 117505,
+      "end": 117515,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "0000000136",
+      "start": 117525,
+      "end": 117535,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "0000000208",
+      "start": 117545,
+      "end": 117555,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "0000000285",
+      "start": 117565,
+      "end": 117575,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "0000044061",
+      "start": 117585,
+      "end": 117595,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "0000044082",
+      "start": 117605,
+      "end": 117615,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "0000044187",
+      "start": 117625,
+      "end": 117635,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "0000044260",
+      "start": 117645,
+      "end": 117655,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "0000044338",
+      "start": 117665,
+      "end": 117675,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "0000108052",
+      "start": 117685,
+      "end": 117695,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "0000108074",
+      "start": 117705,
+      "end": 117715,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "0000108181",
+      "start": 117725,
+      "end": 117735,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "0000108255",
+      "start": 117745,
+      "end": 117755,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "0000108333",
+      "start": 117765,
+      "end": 117775,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "0000153791",
+      "start": 117785,
+      "end": 117795,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "0000153813",
+      "start": 117805,
+      "end": 117815,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "0000153920",
+      "start": 117825,
+      "end": 117835,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "0000153994",
+      "start": 117845,
+      "end": 117855,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "0000154072",
+      "start": 117865,
+      "end": 117875,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "0000214106",
+      "start": 117885,
+      "end": 117895,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "Shared With",
+      "start": 136911,
+      "end": 136922,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Shared With",
+      "start": 137602,
+      "end": 137613,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Taxonomy Catch",
+      "start": 137889,
+      "end": 137903,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "All Column",
+      "start": 137904,
+      "end": 137914,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Extracted Text",
+      "start": 145723,
+      "end": 145737,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Image Tags",
+      "start": 146926,
+      "end": 146936,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Content Type",
+      "start": 148573,
+      "end": 148585,
+      "type": "NAME",
+      "confidence": 0.5
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 36,
+    "presidio": 0
+  },
+  "text_sample": "\u0011\u0871\u001a\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000>\u0000\u0003\u0000\t\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0002\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0002\u0000\u0000\u0014\u0000\u0000\u0000\u0001\u0000\u0000\u0004\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0007\u0000\u0000\u0000\b\u0000\u0000\u0000\t\u0000\u0000\u0000\n\u0000\u0000\u0000\u000b\u0000\u0000\u0000\f\u0000\u0000\u0000\n\u0000\u0000\u0000\u000e\u0000\u0000\u0000\u000f\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0011\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0013\u0000\u0000\u0000\u0001\u0000\u0000\u0015\u0000\u0000\u0000\u0016\u0000\u0000\u0000\u0001\u0000\u0000\u0018\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u001b\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u001d\u0000\u0000\u0000\u001e\u0000\u0000\u0000\u001f\u0000\u0000\u0000 \u0000\u0000\u0000!\u0000\u0000\u0000\"\u0000\u0000\u0000#\u0000\u0000\u0000$\u0000\u0000\u0000%\u0000\u0000\u0000&\u0000\u0000\u0000'\u0000\u0000\u0000(\u0000\u0000\u0000)\u0000\u0000\u0000*\u0000\u0000\u0000+\u0000\u0000\u0000,\u0000\u0000\u0000-\u0000\u0000\u0000.\u0000\u0000\u0000/\u0000\u0000\u00000\u0000\u0000\u00001\u0000\u0000\u00002\u0000\u0000\u00003\u0000\u0000\u00004\u0000\u0000\u00005\u0000\u0000\u00006\u0000\u0000\u00007\u0000\u0000\u00008\u0000\u0000\u00009\u0000\u0000\u0000:\u0000\u0000\u0000;\u0000\u0000\u0000<\u0000\u0000\u0000=\u0000\u0000\u0000>\u0000\u0000\u0000?\u0000\u0000\u0000@\u0000\u0000\u0000A\u0000\u0000\u0000B\u0000\u0000\u0000C\u0000\u0000\u0000D\u0000\u0000\u0000E\u0000\u0000\u0000F\u0000\u0000\u0000G\u0000\u0000\u0000H\u0000\u0000\u0000I\u0000\u0000\u0000J\u0000\u0000\u0000K\u0000\u0000\u0000L\u0000\u0000\u0000M\u0000\u0000\u0000N\u0000\u0000\u0000O\u0000\u0000\u0000P\u0000\u0000\u0000Q\u0000\u0000\u0000R\u0000\u0000\u0000S\u0000\u0000\u0000T\u0000\u0000\u0000U\u0000\u0000\u0000V\u0000\u0000\u0000W\u0000\u0000\u0000X\u0000\u0000\u0000Y\u0000\u0000\u0000Z\u0000\u0000\u0000[\u0000\u0000\u0000\\\u0000\u0000\u0000]\u0000\u0000\u0000^\u0000\u0000\u0000_\u0000\u0000\u0000`\u0000\u0000\u0000a\u0000\u0000\u0000b\u0000\u0000\u0000c\u0000\u0000\u0000d\u0000\u0000\u0000e\u0000\u0000\u0000f\u0000\u0000\u0000g\u0000\u0000\u0000h\u0000\u0000\u0000i\u0000\u0000\u0000j\u0000\u0000\u0000..."
+}

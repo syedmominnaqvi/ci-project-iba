@@ -1,0 +1,261 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Two Rivers Public Health Department/TRPHD_523_0000045201.pdf",
+    "file_name": "TRPHD_523_0000045201.pdf",
+    "file_size": 252108,
+    "text_length": 2518
+  },
+  "genetic_detections": [
+    {
+      "text": "Production Region",
+      "start": 0,
+      "end": 17,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Clients  \n Manage",
+      "start": 63,
+      "end": 80,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Client\n Enter",
+      "start": 81,
+      "end": 94,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "New Client",
+      "start": 95,
+      "end": 105,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Immunizations  \n Manage",
+      "start": 107,
+      "end": 130,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Two Rivers",
+      "start": 162,
+      "end": 172,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Public Health",
+      "start": 173,
+      "end": 186,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Kassandra Lujan",
+      "start": 210,
+      "end": 225,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "User\n  Client",
+      "start": 250,
+      "end": 263,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Client Name",
+      "start": 300,
+      "end": 311,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Gender Mother",
+      "start": 336,
+      "end": 349,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Maiden Tracking",
+      "start": 352,
+      "end": 367,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Schedule Chart",
+      "start": 368,
+      "end": 382,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Comments\n \n  History",
+      "start": 480,
+      "end": 500,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Scan Immunization",
+      "start": 501,
+      "end": 518,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Add Immunization",
+      "start": 519,
+      "end": 535,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Edit Client",
+      "start": 536,
+      "end": 547,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Reports Print",
+      "start": 548,
+      "end": 561,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Print Confidential",
+      "start": 562,
+      "end": 580,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Vaccine Group",
+      "start": 581,
+      "end": 594,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Trade Name",
+      "start": 619,
+      "end": 629,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "No   \nHib",
+      "start": 1093,
+      "end": 1102,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "No   \nInfluenza",
+      "start": 1170,
+      "end": 1185,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Flulaval Quad",
+      "start": 1197,
+      "end": 1210,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Flulaval Quad",
+      "start": 1239,
+      "end": 1252,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "No   \nPneumococcal",
+      "start": 1301,
+      "end": 1319,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "No   \nPolio",
+      "start": 1427,
+      "end": 1438,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "No   \nVaricella",
+      "start": 1540,
+      "end": 1555,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "No   \n  Current",
+      "start": 1584,
+      "end": 1599,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Vaccines Recommended",
+      "start": 1624,
+      "end": 1644,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Schedule Add",
+      "start": 1667,
+      "end": 1679,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Selected\nPatient",
+      "start": 1680,
+      "end": 1696,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Recommended Date",
+      "start": 1747,
+      "end": 1763,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Date Earliest",
+      "start": 1815,
+      "end": 1828,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    },
+    {
+      "text": "Complete\nHib",
+      "start": 1994,
+      "end": 2006,
+      "type": "NAME",
+      "confidence": 0.527362144554281
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 35,
+    "presidio": 0
+  },
+  "text_sample": "Production Region 10.5.7\n  \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \n Clients  \n Manage Client\n Enter New Client\n Immunizations  \n Manage Immunizations\n organization    Two Rivers Public Health Department  \u2022   user   Kassandra Lujan  \u2022   role   IR T ypical User\n  Client Information NESIIS ID: 1 1683824  \n Client Name (First - MI - Last) DOB Gender Mother's Maiden Tracking Schedule Chart #\nSAM AL VIN SNYDER 09/11/2021 M ACIP\nAddress  203 CEDAR ST , ARAP AHOE, NE 68922 (308) 655-0672\nComments\n \n  History..."
+}

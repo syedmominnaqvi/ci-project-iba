@@ -1,0 +1,247 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/EarthLite LLC/EarthLite_0000029546.msg",
+    "file_name": "EarthLite_0000029546.msg",
+    "file_size": 516096,
+    "text_length": 280490
+  },
+  "genetic_detections": [
+    {
+      "text": "Microsoft Word",
+      "start": 25924,
+      "end": 25938,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Font Definitions",
+      "start": 25976,
+      "end": 25992,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Cambria Math",
+      "start": 26022,
+      "end": 26034,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Style Definitions",
+      "start": 26139,
+      "end": 26156,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Good Morning",
+      "start": 27121,
+      "end": 27133,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Medical Selection",
+      "start": 27234,
+      "end": 27251,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Anthem Blue",
+      "start": 27272,
+      "end": 27283,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Cross Enrollment",
+      "start": 27284,
+      "end": 27300,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "William Thode",
+      "start": 27310,
+      "end": 27323,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Health Insurance",
+      "start": 27393,
+      "end": 27409,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Sunburst Trail",
+      "start": 27662,
+      "end": 27676,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Hire Date",
+      "start": 27928,
+      "end": 27937,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Declined Health",
+      "start": 28110,
+      "end": 28125,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Insurance Plan",
+      "start": 28212,
+      "end": 28226,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Anthem Blue",
+      "start": 28235,
+      "end": 28246,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Declined Health",
+      "start": 28279,
+      "end": 28294,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Karen Rember",
+      "start": 28677,
+      "end": 28689,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Continuum Pedicure",
+      "start": 28874,
+      "end": 28892,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "877.255.3030",
+      "start": 29013,
+      "end": 29025,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "262.777.2246",
+      "start": 29149,
+      "end": 29161,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "Wz\tZy",
+      "start": 79652,
+      "end": 79657,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Ky\nBb",
+      "start": 100949,
+      "end": 100954,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Dz\fSm",
+      "start": 145099,
+      "end": 145104,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Kl Chk",
+      "start": 159327,
+      "end": 159333,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Bq\tDq",
+      "start": 217133,
+      "end": 217138,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Exchange Administrative",
+      "start": 261631,
+      "end": 261654,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Shared With",
+      "start": 268165,
+      "end": 268176,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Shared With",
+      "start": 268856,
+      "end": 268867,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Taxonomy Catch",
+      "start": 269143,
+      "end": 269157,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "All Column",
+      "start": 269158,
+      "end": 269168,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Extracted Text",
+      "start": 272188,
+      "end": 272202,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Image Tags",
+      "start": 273391,
+      "end": 273401,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Content Type",
+      "start": 275038,
+      "end": 275050,
+      "type": "NAME",
+      "confidence": 0.5
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 33,
+    "presidio": 0
+  },
+  "text_sample": "\u0011\u0871\u001a\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000>\u0000\u0003\u0000\t\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0014\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000S\u0000\u0000\u0000T\u0000\u0000\u0000U\u0000\u0000\u0000V\u0000\u0000\u0000W\u0000\u0000\u0000X\u0000\u0000\u0000Y\u0000\u0000\u0000\u00001\u0000\u0000\u0000J\u0000\u0000\u0000C\u0000\u0000U\u0000K\u0000\u00001\u0000\u0000E\u00003\u0000\u0000\u00000\u0000\u0000U\u0000A\u0000=\u0000=\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00002\u0000\u0001\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u000bh'f\u0001 \u000bh'f\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000I\u0000t\u0000e\u0000m\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\n\u0000\u0002\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u00006\u0000\u0000\u0000\u0000\u0000\u0000P\u0000r\u0000o\u0000p\u0000e\u0000r\u0000t\u0000i\u0000e\u0000s\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000E\u0000\u0000\u0000\u0000\u0000\u0000E\u0000N\u0000C\u0000\u0000O\u0000\u0000\u0000\u0000\u0000\u0000C\u0000D\u00000\u0000S\u00005\u0000\u0000=\u0000=\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00002\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+}

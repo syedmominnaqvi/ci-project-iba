@@ -1,0 +1,247 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Bolton Partners Inc/Bolton_01334590.pdf",
+    "file_name": "Bolton_01334590.pdf",
+    "file_size": 41545,
+    "text_length": 5718
+  },
+  "genetic_detections": [
+    {
+      "text": "Relation To",
+      "start": 90,
+      "end": 101,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "891095455",
+      "start": 133,
+      "end": 142,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058831",
+      "start": 400,
+      "end": 409,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058816",
+      "start": 626,
+      "end": 635,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058839",
+      "start": 846,
+      "end": 855,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058913",
+      "start": 990,
+      "end": 999,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058860",
+      "start": 1110,
+      "end": 1119,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058951",
+      "start": 1280,
+      "end": 1289,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058933",
+      "start": 1451,
+      "end": 1460,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058910",
+      "start": 1700,
+      "end": 1709,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058939",
+      "start": 1873,
+      "end": 1882,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058923",
+      "start": 2106,
+      "end": 2115,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "Member Member",
+      "start": 2193,
+      "end": 2206,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Plan Code",
+      "start": 2210,
+      "end": 2219,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Plan Payment",
+      "start": 2220,
+      "end": 2232,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Most Expensive",
+      "start": 2233,
+      "end": 2247,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Primary Diagnosis",
+      "start": 2248,
+      "end": 2265,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058958",
+      "start": 2395,
+      "end": 2404,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058855",
+      "start": 2670,
+      "end": 2679,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058936",
+      "start": 3012,
+      "end": 3021,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058865",
+      "start": 3196,
+      "end": 3205,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058833",
+      "start": 3322,
+      "end": 3331,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058860",
+      "start": 3502,
+      "end": 3511,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058865",
+      "start": 3731,
+      "end": 3740,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058855",
+      "start": 3892,
+      "end": 3901,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058996",
+      "start": 4132,
+      "end": 4141,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058889",
+      "start": 4267,
+      "end": 4276,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058946",
+      "start": 4506,
+      "end": 4515,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058952",
+      "start": 4651,
+      "end": 4660,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058926",
+      "start": 4847,
+      "end": 4856,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058868",
+      "start": 5096,
+      "end": 5105,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891058896",
+      "start": 5341,
+      "end": 5350,
+      "type": "SSN",
+      "confidence": 0.5
+    },
+    {
+      "text": "891059013",
+      "start": 5600,
+      "end": 5609,
+      "type": "SSN",
+      "confidence": 0.5
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 33,
+    "presidio": 0
+  },
+  "text_sample": "IBEW LOCAL 325 LARGE CLAIMS\nINCURRED 09/01/2015-08/31/2016 AND PAID 09/01/2015-11/30/2016\nRelation To\nEmployee\n1. KASMARCIK, LARRY E 891095455 325 $172,682.12 S12.490A - Other displaced fracture of fifth \ncervical vertebra, initial encounter for closed \nfracture\nR69 - Illness, unspecified\nS14.105D - Unspecified injury at C5 level of \ncervical spinal cord, subsequent encounter\n2. ANDREWS, ROBERT E 891058831 325 $165,021.40 C78.7 - Secondary malignant neoplasm of \nliver and intrahepatic bile duct\n..."
+}

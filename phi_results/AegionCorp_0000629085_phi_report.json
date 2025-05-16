@@ -1,0 +1,191 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Aegion Corporation/AegionCorp_0000629085.pdf",
+    "file_name": "AegionCorp_0000629085.pdf",
+    "file_size": 39230,
+    "text_length": 1538
+  },
+  "genetic_detections": [
+    {
+      "text": "Elizabeth Hammer",
+      "start": 158,
+      "end": 174,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Combined Vaccine",
+      "start": 286,
+      "end": 302,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Vaccine Ped",
+      "start": 468,
+      "end": 479,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Dose\nDates",
+      "start": 490,
+      "end": 500,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Vaccine\nDates",
+      "start": 544,
+      "end": 557,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Dose\nDates",
+      "start": 602,
+      "end": 612,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Influenza Vaccine",
+      "start": 669,
+      "end": 686,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Quad\nSplit",
+      "start": 687,
+      "end": 697,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Yrs Im",
+      "start": 701,
+      "end": 707,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Vaccine Quad",
+      "start": 743,
+      "end": 755,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Yrs Pf",
+      "start": 765,
+      "end": 771,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Im\nDates",
+      "start": 772,
+      "end": 780,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Vaccine Quad",
+      "start": 810,
+      "end": 822,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Pf Im",
+      "start": 836,
+      "end": 841,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Influenza Vaccine",
+      "start": 880,
+      "end": 897,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Quad\nSplit",
+      "start": 898,
+      "end": 908,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Mo Pf",
+      "start": 914,
+      "end": 919,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Im\nDates",
+      "start": 920,
+      "end": 928,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Conjugate Vaccine",
+      "start": 1077,
+      "end": 1094,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Vaccine Oral",
+      "start": 1166,
+      "end": 1178,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Dose\nDates",
+      "start": 1181,
+      "end": 1191,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Vaccine Live",
+      "start": 1245,
+      "end": 1257,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Personal Notes",
+      "start": 1287,
+      "end": 1301,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "About My",
+      "start": 1302,
+      "end": 1310,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Epic Systems",
+      "start": 1499,
+      "end": 1511,
+      "type": "NAME",
+      "confidence": 0.5
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 25,
+    "presidio": 0
+  },
+  "text_sample": "7/22/2020 MyMercy - Immunizations\nhttps://www .mymercy .net/mercystl/Clinical/Immunizations 1/2Name: Calvin T Erbes | DOB: 9/5/2013 | MRN: E1302919298 | PCP: Elizabeth Hammer, MD\nThis is a list of immunizations that your clinic has on file for you.Immu nizations(Calvin)\nDTaP Hep B IPV\nCombined Vaccine IM\nDates on file: 03/10/2014,\n01/08/2014, 11/07/2013DTaP IPV Vaccine 4-6 Yr IM\nDates on file: 05/25/2018DTaP Vaccine < 7 YO IM\nDates on file: 01/19/2015\nHepatitis A Vaccine Ped\nAdol IM 2 Dose\nDates..."
+}

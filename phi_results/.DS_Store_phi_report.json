@@ -1,0 +1,15 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/.DS_Store",
+    "file_name": ".DS_Store",
+    "file_size": 12292,
+    "text_length": 67
+  },
+  "genetic_detections": [],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 0,
+    "presidio": 0
+  },
+  "text_sample": "[UNSUPPORTED FILE: .DS_Store] - Format not supported for extraction"
+}

@@ -1,0 +1,247 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Ethical Culture Fieldstone School/None0003409409.txt",
+    "file_name": "None0003409409.txt",
+    "file_size": 1570,
+    "text_length": 1565
+  },
+  "genetic_detections": [
+    {
+      "text": "Grade\n\nMedical",
+      "start": 5,
+      "end": 19,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Baccari\n\nSeizures",
+      "start": 135,
+      "end": 152,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Celiac\n\n \n\nBarron",
+      "start": 154,
+      "end": 171,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Berlin\n\nJackson",
+      "start": 217,
+      "end": 232,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Broderick\n\nJames",
+      "start": 245,
+      "end": 261,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Chitkara\n\nSarina",
+      "start": 284,
+      "end": 300,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Chukwulozie\n\nStella",
+      "start": 315,
+      "end": 334,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Cohn\n\nZach",
+      "start": 353,
+      "end": 363,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Siskind\n\nNoah",
+      "start": 396,
+      "end": 409,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Dearth\n\nNicholas",
+      "start": 437,
+      "end": 453,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Dunkel\n\nEmily",
+      "start": 480,
+      "end": 493,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Ettricks\n\nJonei",
+      "start": 498,
+      "end": 513,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Familant\n\nRachel",
+      "start": 518,
+      "end": 534,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Francoeur\n\nChristopher",
+      "start": 548,
+      "end": 570,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Geller\n\nAaron",
+      "start": 590,
+      "end": 603,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Grant\n\nThomas",
+      "start": 623,
+      "end": 636,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Greenfield\n\nMicaela",
+      "start": 672,
+      "end": 691,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Kohls\n\nCameron",
+      "start": 751,
+      "end": 765,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Kyuichi\n\nNitta",
+      "start": 791,
+      "end": 805,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Peanuts\n\n \n\nLevitt",
+      "start": 807,
+      "end": 825,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Mani\n\nNeha",
+      "start": 860,
+      "end": 870,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Nash\n\nJason",
+      "start": 897,
+      "end": 908,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Nitta\n\nRyuichi",
+      "start": 924,
+      "end": 938,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Olsen\n\nJaclyn",
+      "start": 965,
+      "end": 978,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Ortiz\n\nJeremiah",
+      "start": 1022,
+      "end": 1037,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Park\n\nOwen",
+      "start": 1050,
+      "end": 1060,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Rogers\n\nAlison",
+      "start": 1107,
+      "end": 1121,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Stokes\n\nCalder",
+      "start": 1246,
+      "end": 1260,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Suomi\n\nOlivia",
+      "start": 1271,
+      "end": 1284,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Thomas\n\nJoshua",
+      "start": 1303,
+      "end": 1317,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Torres\n\nTeddy",
+      "start": 1322,
+      "end": 1335,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Wemple\n\nHolly",
+      "start": 1364,
+      "end": 1377,
+      "type": "NAME",
+      "confidence": 0.5
+    },
+    {
+      "text": "Zappl\n\nLuca",
+      "start": 1410,
+      "end": 1421,
+      "type": "NAME",
+      "confidence": 0.5
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 33,
+    "presidio": 0
+  },
+  "text_sample": "\ufeff6th Grade\n\nMedical Concerns\n\n2014-2015\n\n \n\n \n\nuB]d BUIYyISy| x\n\n\u00a9\n5\n\nzs\n< 2\nx\n\n \n\nuvjd ABIaTIV poogl\n\n   \n \n\nJUBIE[OPU] ssopey_],\n\n \n\nBaccari\n\nSeizures, Celiac\n\n \n\nBarron\n\nVeronica\n\nGERD(peppermint tea), anxiety\n\n \n\nBerlin\n\nJackson\n\npa\n\n\u201d~\n\n \n\nBroderick\n\nJames\n\npeanut hazelnuts\n\n \n\nChitkara\n\nSarina\n\npeanuts?\n\n \n\nChukwulozie\n\nStella\n\npeanuts\n\ncas\n\n \n\nCohn\n\nZach\n\nAll nuts, shellfish\n\n \n\nCordon-Siskind\n\nNoah\n\nconcussions 2013/2014\n\n \n\nDearth\n\nNicholas\n\nmild concussion 2013\n\n \n\nDunkel\n\nEmily\n\n \n\nEt..."
+}

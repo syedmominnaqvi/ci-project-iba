@@ -1,0 +1,1003 @@
+{
+  "file_info": {
+    "file_path": "/Users/momin.naqvi/Downloads/Medical/Sightpath, LLC/SightPath-TD.00000001.00000001.00127212.txt",
+    "file_name": "SightPath-TD.00000001.00000001.00127212.txt",
+    "file_size": 22233,
+    "text_length": 22105
+  },
+  "genetic_detections": [
+    {
+      "text": "Inventory By",
+      "start": 111,
+      "end": 123,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Qty\nUsed",
+      "start": 301,
+      "end": 309,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Lenses Implanted",
+      "start": 310,
+      "end": 326,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Used\nQty",
+      "start": 347,
+      "end": 355,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Sighlpalh Medical",
+      "start": 1360,
+      "end": 1377,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Lenses Opened",
+      "start": 1423,
+      "end": 1436,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Not Usee",
+      "start": 1437,
+      "end": 1445,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Qty\nUsed",
+      "start": 1629,
+      "end": 1637,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Qty\nNeeded",
+      "start": 1665,
+      "end": 1675,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Patient Procedure",
+      "start": 2605,
+      "end": 2622,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Supply Usage",
+      "start": 2626,
+      "end": 2638,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Date Of",
+      "start": 2714,
+      "end": 2721,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Trab\nPlus",
+      "start": 2799,
+      "end": 2808,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Patient Eye",
+      "start": 2864,
+      "end": 2875,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Other\nOther",
+      "start": 2911,
+      "end": 2922,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Procedure Name",
+      "start": 2923,
+      "end": 2937,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Item\nQty",
+      "start": 2939,
+      "end": 2947,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Del Pero",
+      "start": 3078,
+      "end": 3086,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Qty\nItem",
+      "start": 3319,
+      "end": 3327,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Tubing Pack",
+      "start": 3489,
+      "end": 3500,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Please Note",
+      "start": 4241,
+      "end": 4252,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Sightpath Medical",
+      "start": 4331,
+      "end": 4348,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Form Last",
+      "start": 4349,
+      "end": 4358,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Vj Patient",
+      "start": 4387,
+      "end": 4397,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Supply Usage",
+      "start": 4410,
+      "end": 4422,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Del Pero",
+      "start": 4579,
+      "end": 4587,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Other\nItem",
+      "start": 4782,
+      "end": 4792,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Patient Eye",
+      "start": 4801,
+      "end": 4812,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Other Procedure",
+      "start": 4825,
+      "end": 4840,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Qty\nItem",
+      "start": 4847,
+      "end": 4855,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Tubing Pack",
+      "start": 5055,
+      "end": 5066,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "1060712012",
+      "start": 5203,
+      "end": 5213,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "Qty\nItem",
+      "start": 5446,
+      "end": 5454,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Please Note",
+      "start": 6101,
+      "end": 6112,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Sightpalh Medical",
+      "start": 6192,
+      "end": 6209,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Form Last",
+      "start": 6210,
+      "end": 6219,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Patient Procedure",
+      "start": 6257,
+      "end": 6274,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Supply Usage",
+      "start": 6277,
+      "end": 6289,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Date Of",
+      "start": 6324,
+      "end": 6331,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Other\nItem",
+      "start": 6430,
+      "end": 6440,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Exchange\nPatient",
+      "start": 6552,
+      "end": 6568,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Other Procedure",
+      "start": 6585,
+      "end": 6600,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Qty\nItem",
+      "start": 6607,
+      "end": 6615,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Tubing Pack",
+      "start": 6815,
+      "end": 6826,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Del Pero",
+      "start": 6990,
+      "end": 6998,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Alcon\nQty",
+      "start": 7267,
+      "end": 7276,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Please Note",
+      "start": 7916,
+      "end": 7927,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Sighlpalh Medical",
+      "start": 8011,
+      "end": 8028,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Form Last",
+      "start": 8029,
+      "end": 8038,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Patient Procedure",
+      "start": 8075,
+      "end": 8092,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Supply Usage",
+      "start": 8095,
+      "end": 8107,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Date Of",
+      "start": 8165,
+      "end": 8172,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Dei Pero",
+      "start": 8377,
+      "end": 8385,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Barcode Sticker",
+      "start": 8461,
+      "end": 8476,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Other\nPatient",
+      "start": 8520,
+      "end": 8533,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Other Procedure",
+      "start": 8547,
+      "end": 8562,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Item\nQty",
+      "start": 8900,
+      "end": 8908,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Tubing Pack",
+      "start": 9042,
+      "end": 9053,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "1023102103",
+      "start": 9201,
+      "end": 9211,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "Please Note",
+      "start": 9962,
+      "end": 9973,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Sightpath Medical",
+      "start": 10053,
+      "end": 10070,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Form Last",
+      "start": 10071,
+      "end": 10080,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Patient Procedure",
+      "start": 10155,
+      "end": 10172,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Supply Usage",
+      "start": 10175,
+      "end": 10187,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Del Pero",
+      "start": 10324,
+      "end": 10332,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Other\nPatient",
+      "start": 10556,
+      "end": 10569,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Other Procedure",
+      "start": 10583,
+      "end": 10598,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "1012682139",
+      "start": 10639,
+      "end": 10649,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "Here\nItem",
+      "start": 10921,
+      "end": 10930,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Tubing Pack",
+      "start": 11306,
+      "end": 11317,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Please Note",
+      "start": 12060,
+      "end": 12071,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Sighlpalh Medical",
+      "start": 12155,
+      "end": 12172,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Form Last",
+      "start": 12173,
+      "end": 12182,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Patient Procedure",
+      "start": 12222,
+      "end": 12239,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Supply Usage",
+      "start": 12242,
+      "end": 12254,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Date Of",
+      "start": 12287,
+      "end": 12294,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Cataract\nPlus",
+      "start": 12387,
+      "end": 12400,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Del Pero",
+      "start": 12529,
+      "end": 12537,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Other\nItem",
+      "start": 12626,
+      "end": 12636,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Patient Eye",
+      "start": 12645,
+      "end": 12656,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Other Procedure",
+      "start": 12665,
+      "end": 12680,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Qty\nItem",
+      "start": 12687,
+      "end": 12695,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Tubing Pack",
+      "start": 12838,
+      "end": 12849,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Please Note",
+      "start": 13915,
+      "end": 13926,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Sighlpalh Medical",
+      "start": 14009,
+      "end": 14026,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Form Last",
+      "start": 14027,
+      "end": 14036,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "1000442132",
+      "start": 14213,
+      "end": 14223,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "Patient Procedure",
+      "start": 14309,
+      "end": 14326,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Supply Usage",
+      "start": 14329,
+      "end": 14341,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Date Of",
+      "start": 14378,
+      "end": 14385,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Other\nPatient",
+      "start": 14605,
+      "end": 14618,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Other Procedure",
+      "start": 14635,
+      "end": 14650,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Item\nQty",
+      "start": 14657,
+      "end": 14665,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Tubing Pack",
+      "start": 14809,
+      "end": 14820,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Del Pero",
+      "start": 15247,
+      "end": 15255,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Please Note",
+      "start": 16130,
+      "end": 16141,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Sightpalh Medical",
+      "start": 16225,
+      "end": 16242,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Form Last",
+      "start": 16243,
+      "end": 16252,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Patient Procedure",
+      "start": 16295,
+      "end": 16312,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Supply Usage",
+      "start": 16315,
+      "end": 16327,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Cataract\nPius",
+      "start": 16389,
+      "end": 16402,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Other\nItem",
+      "start": 16455,
+      "end": 16465,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Date Of",
+      "start": 16549,
+      "end": 16556,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Other Procedure",
+      "start": 16681,
+      "end": 16696,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Qty\nItem",
+      "start": 16703,
+      "end": 16711,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Tubing Pack",
+      "start": 16909,
+      "end": 16920,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Del Pero",
+      "start": 17561,
+      "end": 17569,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Item\nQty",
+      "start": 18023,
+      "end": 18031,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "1021542007",
+      "start": 18068,
+      "end": 18078,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "Please Note",
+      "start": 18203,
+      "end": 18214,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Sighlpath Medical",
+      "start": 18298,
+      "end": 18315,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Form Last",
+      "start": 18316,
+      "end": 18325,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Bj Patient",
+      "start": 18359,
+      "end": 18369,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Supply Usage",
+      "start": 18382,
+      "end": 18394,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Date Of",
+      "start": 18433,
+      "end": 18440,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Del Pero",
+      "start": 18575,
+      "end": 18583,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Cataract\nPlus",
+      "start": 18665,
+      "end": 18678,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Other\nPatient",
+      "start": 18781,
+      "end": 18794,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Other Procedure",
+      "start": 18810,
+      "end": 18825,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "1035352010",
+      "start": 18904,
+      "end": 18914,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "Item\nQty",
+      "start": 19101,
+      "end": 19109,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Qty\nItem",
+      "start": 19168,
+      "end": 19176,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Tubing Pack",
+      "start": 19337,
+      "end": 19348,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Please Note",
+      "start": 20087,
+      "end": 20098,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Sighlpath Medical",
+      "start": 20182,
+      "end": 20199,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Form Last",
+      "start": 20200,
+      "end": 20209,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Patient Procedure",
+      "start": 20239,
+      "end": 20256,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Supply Usage",
+      "start": 20259,
+      "end": 20271,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Date Of",
+      "start": 20344,
+      "end": 20351,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Other\nPlus",
+      "start": 20503,
+      "end": 20513,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Exchange\nPatient",
+      "start": 20551,
+      "end": 20567,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Other Procedure",
+      "start": 20587,
+      "end": 20602,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Del Pero",
+      "start": 20670,
+      "end": 20678,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Item\nQty",
+      "start": 20854,
+      "end": 20862,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Item\nQty",
+      "start": 20863,
+      "end": 20871,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "1015332105",
+      "start": 21018,
+      "end": 21028,
+      "type": "PHONE",
+      "confidence": 0.5
+    },
+    {
+      "text": "Tubing Pack",
+      "start": 21160,
+      "end": 21171,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Please Note",
+      "start": 21923,
+      "end": 21934,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Sightpath Medical",
+      "start": 22013,
+      "end": 22030,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Form Last",
+      "start": 22031,
+      "end": 22040,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    },
+    {
+      "text": "Sightpaih Medical",
+      "start": 22076,
+      "end": 22093,
+      "type": "NAME",
+      "confidence": 0.47134772480008824
+    }
+  ],
+  "presidio_detections": [],
+  "detection_count": {
+    "genetic": 141,
+    "presidio": 0
+  },
+  "text_sample": "Ba uaiiy inventory usage \u00a3\u00bbummary\nSUTTER NORTH MEDICAL FOUNDATION\nSPM Customer ID\nuotc VI JU gel y\n__Replenish Inventory By Date (mm/dd/yyyy)\nH/\nMiiiii/uu/yyyy>\n...\n........\n................\n___________________________________________ ____________.......\nI\n41322\nAS11637\n.(\u20196.Qln;.AMIN\nAS16647\nItem\n\u25a0 Qty\nUsed\nLenses Implanted\nI As n-p\nOpened\nNOT Used\nQty\nNeeded\n611,74\n'\u2019'^Q'.k\u00a7.'^'''TER NORTH\nAS18401\nI\u2019ACK-LiCGRAW CUSTOM PACK\n6065-1795-40\nLiSS-!iOpf,1L B/^C_ENTURION ONLY\n! 8065-752200\nI IUBING CE..."
+}
