@@ -92,7 +92,7 @@ except ImportError:
 
 # Import our PHI detection system
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-from src.genetic_algorithm import GeneticPIIDetector
+from src.genetic_algorithm import GeneticPIIDetector, plot_fitness_curve
 try:
     from src.baseline import PresidioBaseline
     PRESIDIO_AVAILABLE = True
@@ -616,8 +616,15 @@ def process_files(file_paths, output_dir, generations=20, use_presidio=True, bat
         try:
             with time_limit(300):  # 5 minute timeout for training
                 print(f"Training for {generations} generations on {len(batch_texts)} documents...")
-                genetic_model.train(batch_texts, synthetic_annotations)
+                best_individual, logbook = genetic_model.train(batch_texts, synthetic_annotations)
                 print("✓ Genetic algorithm training completed")
+                # Plot and save the fitness curve
+                plot_fitness_curve(logbook, output_path=os.path.join(output_dir, "fitness_curve.png"))
+
+                # After training
+                print("Sample annotation:", synthetic_annotations[0])
+                print("Sample prediction:", genetic_model.best_individual[0].detect(batch_texts[0]))
+
         except (TimeoutException, Exception) as e:
             print(f"⚠ Error during genetic algorithm training: {e}")
             print(traceback.format_exc())

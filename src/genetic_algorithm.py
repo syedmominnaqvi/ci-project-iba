@@ -5,6 +5,8 @@ import random
 import numpy as np
 from deap import base, creator, tools, algorithms
 from .chromosome import Chromosome, DetectionGene
+import matplotlib.pyplot as plt
+import os
 
 
 class GeneticPIIDetector:
@@ -61,48 +63,36 @@ class GeneticPIIDetector:
     def _evaluate_individual(self, individual):
         """
         Evaluate fitness of an individual against training data.
-        
-        Args:
-            individual: Individual to evaluate (contains one Chromosome)
-            
-        Returns:
-            Tuple of (precision, recall, complexity)
+        Returns: (precision, recall, complexity)
         """
         if not self.training_texts or not self.training_annotations:
             return 0.0, 0.0, 1.0  # Default for no training data
-        
-        chromosome = individual[0]  # Extract the chromosome from the individual
-        
+
+        chromosome = individual[0]
+
         true_positives = 0
         false_positives = 0
         false_negatives = 0
-        
-        # Total up metrics across all texts
+
         for text, annotations in zip(self.training_texts, self.training_annotations):
-            # Get predictions from this chromosome
             predictions = chromosome.detect(text)
-            
-            # Convert predictions to a set of (start, end, type) tuples
             pred_spans = {(start, end, pii_type) for _, start, end, pii_type, _ in predictions}
-            
-            # Convert ground truth to a set of (start, end, type) tuples
             true_spans = {(start, end, pii_type) for start, end, pii_type in annotations}
-            
-            # Calculate true positives, false positives, false negatives
             matches = pred_spans.intersection(true_spans)
             true_positives += len(matches)
             false_positives += len(pred_spans) - len(matches)
             false_negatives += len(true_spans) - len(matches)
-        
-        # Calculate precision and recall
+
         precision = true_positives / (true_positives + false_positives) if true_positives + false_positives > 0 else 0
         recall = true_positives / (true_positives + false_negatives) if true_positives + false_negatives > 0 else 0
-        
-        # Complexity penalty based on number of genes and pattern complexity
+
         num_genes = len(chromosome.genes)
         pattern_complexity = sum(len(gene.pattern) for gene in chromosome.genes) / max(1, num_genes)
         complexity = (num_genes * pattern_complexity) / 100  # Normalize
-        
+
+        # For debugging only
+        # print('Precision:', precision, 'Recall:', recall, 'Complexity:', complexity, 'TP:', true_positives, 'FP:', false_positives, 'FN:', false_negatives)
+
         return precision, recall, complexity
     
     def _crossover(self, ind1, ind2):
@@ -156,7 +146,7 @@ class GeneticPIIDetector:
             annotations: List of lists of (start, end, pii_type) tuples
             
         Returns:
-            Best individual found
+            Best individual found, logbook (evolution statistics)
         """
         self.training_texts = texts
         self.training_annotations = annotations
@@ -185,7 +175,7 @@ class GeneticPIIDetector:
         # Find best individual
         self.best_individual = tools.selBest(self.population, k=1)[0]
         
-        return self.best_individual
+        return self.best_individual, logbook
     
     def predict(self, text):
         """
@@ -224,7 +214,7 @@ class GeneticPIIDetector:
         false_negatives = 0
         
         # Evaluate on each text
-        for text, true_anns in zip(texts, annotations):
+        for text, true_anns in  zip(texts, annotations):
             predictions = best_chromosome.detect(text)
             
             # Convert to sets for comparison
@@ -242,7 +232,7 @@ class GeneticPIIDetector:
         recall = true_positives / (true_positives + false_negatives) if true_positives + false_negatives > 0 else 0
         f1 = 2 * precision * recall / (precision + recall) if (precision + recall) > 0 else 0
         
-        return {
+        a =  {
             "precision": precision,
             "recall": recall,
             "f1": f1,
@@ -250,3 +240,93 @@ class GeneticPIIDetector:
             "false_positives": false_positives,
             "false_negatives": false_negatives,
         }
+        print('Fitness metrics: ', a)
+        return a
+
+def plot_fitness_curve(logbook, output_path="fitness_curve.png"):
+    """
+    Plot the average fitness (precision, recall, inverse complexity) over generations and save as PNG.
+    Also saves individual plots for each metric on its own scale.
+    Appends a random value to output file names to avoid overwriting.
+    Also plots 'best so far' (cumulative max) for precision and recall.
+    Args:
+        logbook: DEAP logbook object from training
+        output_path: Path to save the combined PNG file
+    """
+    rand_suffix = f"_{random.randint(10000, 99999)}"
+    base, ext = os.path.splitext(output_path)
+    output_path_rand = f"{base}{rand_suffix}{ext}"
+    prec_path = f"{base}{rand_suffix}_precision{ext}"
+    recall_path = f"{base}{rand_suffix}_recall{ext}"
+    invc_path = f"{base}{rand_suffix}_inv_complexity{ext}"
+
+    gen = logbook.select("gen")
+    avg = logbook.select("avg")
+    print("avg: ",avg)
+    if not avg or len(avg[0]) < 3:
+        print("Logbook does not contain expected fitness values.")
+        return
+    avg_precision = [a[0] for a in avg]
+    avg_recall = [a[1] for a in avg]
+    avg_complexity = [a[2] for a in avg]
+    inv_complexity = [1 - c for c in avg_complexity]  # Inverse complexity for upward trend
+
+    # Compute best-so-far (cumulative max) for precision and recall
+    best_precision = np.maximum.accumulate(avg_precision)
+    best_recall = np.maximum.accumulate(avg_recall)
+
+    # Combined plot (as before)
+    plt.figure(figsize=(10, 6))
+    plt.plot(gen, avg_precision, label="Avg Precision")
+    plt.plot(gen, avg_recall, label="Avg Recall")
+    plt.plot(gen, inv_complexity, label="1 - Avg Complexity (Higher is Better)")
+    plt.xlabel("Generation")
+    plt.ylabel("Fitness Value (Higher is Better)")
+    plt.title("Average Fitness over Generations")
+    plt.legend()
+    plt.grid(True)
+    plt.tight_layout()
+    plt.savefig(output_path_rand)
+    plt.close()
+    print(f"Fitness curve saved to {output_path_rand}")
+
+    # Individual plots
+    # Precision
+    plt.figure(figsize=(8, 5))
+    plt.plot(gen, avg_precision, color='blue', label="Avg Precision")
+    plt.plot(gen, best_precision, color='red', linestyle='--', label="Best-so-far Precision")
+    plt.xlabel("Generation")
+    plt.ylabel("Precision")
+    plt.title("Average and Best-so-far Precision over Generations")
+    plt.legend()
+    plt.grid(True)
+    plt.tight_layout()
+    plt.savefig(prec_path)
+    plt.close()
+    print(f"Precision curve saved to {prec_path}")
+
+    # Recall
+    plt.figure(figsize=(8, 5))
+    plt.plot(gen, avg_recall, color='green', label="Avg Recall")
+    plt.plot(gen, best_recall, color='red', linestyle='--', label="Best-so-far Recall")
+    plt.xlabel("Generation")
+    plt.ylabel("Recall")
+    plt.title("Average and Best-so-far Recall over Generations")
+    plt.legend()
+    plt.grid(True)
+    plt.tight_layout()
+    plt.savefig(recall_path)
+    plt.close()
+    print(f"Recall curve saved to {recall_path}")
+
+    # Inverse Complexity
+    plt.figure(figsize=(8, 5))
+    plt.plot(gen, inv_complexity, color='orange', label="1 - Avg Complexity")
+    plt.xlabel("Generation")
+    plt.ylabel("1 - Complexity")
+    plt.title("Inverse Complexity over Generations")
+    plt.grid(True)
+    plt.tight_layout()
+    plt.savefig(invc_path)
+    plt.close()
+    print(f"Inverse complexity curve saved to {invc_path}")
