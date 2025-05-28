@@ -6,6 +6,8 @@
 \usepackage{algorithmic}
 \usepackage{graphicx}
 \usepackage{textcomp}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning}
 \usepackage{xcolor}
 \setlength{\parskip}{6pt}
 \def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
@@ -365,6 +367,34 @@ Fitness Function Weights & (1.0, 1.0, -0.5) for precision, recall, and complexit
 
 This configuration was determined through preliminary experiments to balance exploration of the pattern space with convergence speed. The increased mutation rate (0.3) was specifically chosen to promote better exploration of the pattern space.
 
+\subsection{\textbf{Hardware Configuration}}
+All experiments were conducted on a dedicated testing environment with the following specifications:
+
+\begin{table}[htbp]
+\caption{System Configuration for Experimental Setup}
+\centering
+\renewcommand{\arraystretch}{2.5}
+\begin{tabular}{|l|l|}
+\hline
+\textbf{Component} & \textbf{Specification} \\
+\hline
+Processor & Apple M1 Pro \\
+Cores & 8 \\
+Performance cores & 6 \\
+Efficiency cores & 2 \\
+GPU & 14-core \\
+Neural Engine & 16-core  \\
+Memory & 32 GB \\
+Storage & 512 GB SSD \\
+Operating System & MacOS Sequoia 15.4.1 \\
+Libraries & Python 3.11, DEAP, NumPy, Pandas \\
+\hline
+\end{tabular}
+\label{tab:system-specs}
+\end{table}
+
+These hardware specifications were consistent across all experiments to ensure fair performance comparisons between the genetic algorithm approach and baseline methods. The processing time metrics reported in our results are specific to this configuration and may vary on different hardware.
+
 \subsection{\textbf{Experimental Protocol}}
 We conducted our experiments using the following protocol:
 \begin{enumerate}
@@ -388,6 +418,54 @@ We assessed:
 \end{enumerate}
 
 The experimental framework was designed to simulate real-world PHI/PII detection scenarios while maintaining rigorous evaluation standards.
+
+\section{\textbf{Results}}
+Our genetic algorithm successfully detected 33,711 instances of PHI/PII across 526 documents (35.3\% of the corpus). Table 1 presents the overall detection statistics.
+
+\begin{table}[htbp]
+\caption{Overall PHI/PII Detection Statistics}
+\centering
+\renewcommand{\arraystretch}{2.5}
+\begin{tabular}{|l|r|}
+\hline
+\textbf{Metric} & \textbf{Value} \\
+\hline
+Total documents processed & 1,489 \\
+Documents containing PHI/PII & 526 (35.3\%) \\
+Total PHI/PII instances detected & 33,711 \\
+Total processing time & 2,430.7 seconds (40.5 minutes) \\
+Average processing time per document & 1.63 seconds \\
+\hline
+\end{tabular}
+\label{tab:overall-stats}
+\end{table}
+
+\subsection{\textbf{PHI/PII Type Distribution}}
+The genetic algorithm detected four main categories of PHI/PII. Table 4 shows the performance breakdown by PHI/PII type.
+
+Table 2: Detection Performance by PHI/PII Type
+
+\begin{table}[htbp]
+\caption{PHI/PII Detection Performance by Type}
+\centering
+\renewcommand{\arraystretch}{2.5}
+\begin{tabular}{|l|r|r|r|r|r|}
+\hline
+\textbf{PHI/PII Type} & \textbf{Count} & \textbf{\%} & \textbf{Precision} & \textbf{Recall} & \textbf{F1 Score} \\
+\hline
+NAME & 15,267 & 45.3\% & 0.81 & 0.84 & 0.82 \\
+PHONE & 8,595 & 25.5\% & 0.94 & 0.89 & 0.91 \\
+EMAIL & 5,312 & 15.8\% & 0.96 & 0.92 & 0.94 \\
+SSN & 4,537 & 13.5\% & 0.98 & 0.87 & 0.92 \\
+\textbf{Overall} & \textbf{33,711} & \textbf{100\%} & \textbf{0.89} & \textbf{0.87} & \textbf{0.88} \\
+\hline
+\end{tabular}
+\label{tab:phi-pii-performance}
+\end{table}
+
+The results show that our genetic algorithm achieved strong overall performance (F1 score of 0.88), with particularly high precision for structured patterns like SSNs (0.98) and emails (0.96). Names represented the largest category of detected PHI/PII (45.3\%), followed by phone numbers (25.5\%).
+
+
 
 
 
