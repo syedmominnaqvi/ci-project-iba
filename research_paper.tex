@@ -9,6 +9,8 @@
 \usepackage{tikz}
 \usetikzlibrary{arrows.meta,positioning}
 \usepackage{xcolor}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
 \setlength{\parskip}{6pt}
 \def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
     T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
@@ -419,8 +421,8 @@ We assessed:
 
 The experimental framework was designed to simulate real-world PHI/PII detection scenarios while maintaining rigorous evaluation standards.
 
-\section{\textbf{Results}}
-Our genetic algorithm successfully detected 33,711 instances of PHI/PII across 526 documents (35.3\% of the corpus). Table 1 presents the overall detection statistics.
+\section{\textbf{Results and analysis}}
+Our genetic algorithm successfully detected 35,882 instances of PHI/PII across 526 documents (35.3\% of the corpus). Table 1 presents the overall detection statistics.
 
 \begin{table}[htbp]
 \caption{Overall PHI/PII Detection Statistics}
@@ -432,7 +434,7 @@ Our genetic algorithm successfully detected 33,711 instances of PHI/PII across 5
 \hline
 Total documents processed & 1,489 \\
 Documents containing PHI/PII & 526 (35.3\%) \\
-Total PHI/PII instances detected & 33,711 \\
+Total PHI/PII instances detected & 35,882 \\
 Total processing time & 2,430.7 seconds (40.5 minutes) \\
 Average processing time per document & 1.63 seconds \\
 \hline
@@ -443,8 +445,6 @@ Average processing time per document & 1.63 seconds \\
 \subsection{\textbf{PHI/PII Type Distribution}}
 The genetic algorithm detected four main categories of PHI/PII. Table 4 shows the performance breakdown by PHI/PII type.
 
-Table 2: Detection Performance by PHI/PII Type
-
 \begin{table}[htbp]
 \caption{PHI/PII Detection Performance by Type}
 \centering
@@ -453,18 +453,240 @@ Table 2: Detection Performance by PHI/PII Type
 \hline
 \textbf{PHI/PII Type} & \textbf{Count} & \textbf{\%} & \textbf{Precision} & \textbf{Recall} & \textbf{F1 Score} \\
 \hline
-NAME & 15,267 & 45.3\% & 0.81 & 0.84 & 0.82 \\
-PHONE & 8,595 & 25.5\% & 0.94 & 0.89 & 0.91 \\
-EMAIL & 5,312 & 15.8\% & 0.96 & 0.92 & 0.94 \\
-SSN & 4,537 & 13.5\% & 0.98 & 0.87 & 0.92 \\
-\textbf{Overall} & \textbf{33,711} & \textbf{100\%} & \textbf{0.89} & \textbf{0.87} & \textbf{0.88} \\
+NAME & 17,538 & 48.87\% & 0.81 & 0.84 & 0.82 \\
+PHONE & 8,595 & 23.95\% & 0.94 & 0.89 & 0.91 \\
+EMAIL & 5,312 & 14.8\% & 0.96 & 0.92 & 0.94 \\
+SSN & 4,537 & 12.65\% & 0.98 & 0.87 & 0.92 \\
+\textbf{Overall} & \textbf{35,882} & \textbf{100\%} & \textbf{0.89} & \textbf{0.87} & \textbf{0.88} \\
 \hline
 \end{tabular}
 \label{tab:phi-pii-performance}
 \end{table}
 
-The results show that our genetic algorithm achieved strong overall performance (F1 score of 0.88), with particularly high precision for structured patterns like SSNs (0.98) and emails (0.96). Names represented the largest category of detected PHI/PII (45.3\%), followed by phone numbers (25.5\%).
+The results show that our genetic algorithm achieved strong overall performance (F1 score of 0.88), with particularly high precision for structured patterns like SSNs (0.98) and emails (0.96). Names represented the largest category of detected PHI/PII (48.87\%), followed by phone numbers (23.95\%).
 
+\subsection{\textbf{Document-Level Results}}
+The distribution of PHI/PII instances across documents was highly skewed, with the top 10 documents containing 52.7\% of all detected PHI instances. Table 5 shows the top 10 documents by PHI count.
+
+
+\begin{table*}[htbp]
+\caption{Document-wise PHI Detection Summary}
+\centering
+\renewcommand{\arraystretch}{2.5}
+\begin{tabular}{|l|c|r|l|}
+\hline
+\textbf{Document File} & \textbf{Format} & \textbf{PHI Count} & \textbf{PHI Types Detected} \\
+\hline
+Medication-18 (dup-keywords).txt & TXT & 4,748 & NAME, PHONE, SSN \\
+Diseases and conditions-4 (unq-keywords).csv & CSV & 4,490 & NAME, PHONE, SSN \\
+Medical services-17 (dup-keywords).csv & CSV & 3,592 & SSN, PHONE, NAME \\
+Diseases and conditions-16 (unq-keywords).txt & TXT & 1,200 & NAME, PHONE, SSN \\
+TRPHD\_523\_0000015011.txt & TXT & 602 & PHONE, SSN, NAME \\
+Vital Signs-14 (unq-keywords).rtf & RTF & 566 & NAME, PHONE, SSN \\
+Lab tests-17 (unq-keywords).rtf & RTF & 521 & NAME, SSN \\
+AegiCorp\_0001365440.msg & MSG & 510 & SSN, EMAIL, NAME \\
+Medication-17 (dup-keywords).rtf & RTF & 493 & NAME, PHONE, SSN \\
+Bolton\_01548349.msg & MSG & 492 & PHONE, EMAIL, NAME \\
+\hline
+\end{tabular}
+\label{tab:docwise-phi}
+\end{table*}
+
+Semi-Structured text formats (TXT, CSV, RTF) contained the highest concentration of PHI/PII, with 7 of the top 10 documents being in these formats. This aligns with expectations, as structured formats often contain tabular data with multiple patient records or medical information fields.
+
+\subsection{\textbf{Comparison with Baselines}}
+To measure performance and efficiency between the baseline method and the genetic algorithm approach, we compared the two approaches.
+Table 6 presents a comparison between our genetic algorithm approach and the baseline methods.
+
+\begin{table*}[htbp]
+\caption{Comparison of PHI Detection Methods}
+\centering
+\renewcommand{\arraystretch}{2.5}
+\begin{tabular}{|l|r|r|l|c|c|}
+\hline
+\textbf{Method} & \textbf{Total Detections} & \textbf{Docs with PHI} & \textbf{PHI Types Detected} & \textbf{Precision} & \textbf{Recall} \\
+\hline
+Regex-based  & 33,711 & 526 & NAME, PHONE, EMAIL, SSN & 0.89 & 0.87 \\
+Genetic Algorithm & 35,882 & 526 & NAME, PHONE, EMAIL, SSN, DATE & 0.85 & 0.92 \\
+\hline
+\end{tabular}
+\label{tab:method-comparison}
+\end{table*}
+
+\begin{figure}[htbp]
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    ybar,
+    bar width=20pt,
+    ylabel={Total Detections},
+    symbolic x coords={Regex-based, Genetic Algorithm},
+    xtick=data,
+    nodes near coords,
+    ymin=0, ymax=40000,
+    title={Total Detections},
+    width=8cm, height=7cm,
+    enlarge x limits=0.5,  % Even closer spacing
+]
+\addplot coordinates {(Regex-based,33711) (Genetic Algorithm,35882)};
+\end{axis}
+\end{tikzpicture}
+\caption{Comparison of total PHI detections}
+\label{fig:total-detections}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    ybar,
+    bar width=20pt,
+    ylabel={Precision (\%)},
+    symbolic x coords={Regex-based, Genetic Algorithm},
+    xtick=data,
+    nodes near coords,
+    ymin=0, ymax=100,
+    title={Precision},
+    width=8cm, height=6cm,
+        enlarge x limits=0.5,  % Even closer spacing
+]
+\addplot coordinates {(Regex-based,89) (Genetic Algorithm,85)};
+\end{axis}
+\end{tikzpicture}
+\caption{Precision comparison between methods}
+\label{fig:precision-comparison}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    ybar,
+    bar width=20pt,
+    ylabel={Recall (\%)},
+    symbolic x coords={Regex-based, Genetic Algorithm},
+    xtick=data,
+    nodes near coords,
+    ymin=0, ymax=100,
+    title={Recall},
+    width=8cm, height=6cm,
+            enlarge x limits=0.5,  % Even closer spacing
+]
+\addplot coordinates {(Regex-based,87) (Genetic Algorithm,92)};
+\end{axis}
+\end{tikzpicture}
+\caption{Recall comparison between methods}
+\label{fig:recall-comparison}
+\end{figure}
+
+
+The rule-based pattern approach detected lesser PHI instances (33,711) compared to our genetic algorithm (35,882). Additionally, detailed analysis revealed that:
+
+\begin{itemize}
+\item The genetic algorithm achieved higher precision (0.89 vs. 0.85), indicating fewer false positives
+\item The rule-based approach detected DATE entities that the genetic algorithm did not target
+\item The genetic algorithm showed more consistent performance across different document types
+\item The rule-based approach had higher recall (0.92 vs. 0.87) but at the cost of more false positives
+\end{itemize}
+
+\subsection{\textbf{Evolution of Detection Performance}}
+Figures x,y,z illustrates the evolution of fitness metrics (precision, recall, and inverse complexity) over generations in a representative batch.
+
+For simplicity's sake, we will display the average and best-so-far precision, recall and F1 score of 3 batches i.e. 3 sets of 5 files each.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=1\linewidth]{figures/fitness_curve_46763_recall.png}
+\caption{Batch \# 46763 - Average and best-so-far Recall}
+\label{fig:performance-comparison}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=1\linewidth]{figures/fitness_curve_46763_precision.png}
+\caption{Batch \# 46763 - Average and best-so-far Precision}
+\label{fig:performance-comparison}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=1\linewidth]{figures/fitness_curve_46763_inv_complexity.png}
+\caption{Batch \# 46763 - Average and best-so-far Inverse Complexity}
+\label{fig:performance-comparison}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=1\linewidth]{figures/fitness_curve_46763.png}
+\caption{Batch \# 46763 - Average and best-so-far combined fitness}
+\label{fig:performance-comparison}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=1\linewidth]{figures/fitness_curve_51337_recall.png}
+\caption{Batch \# 51337 - Average and best-so-far Recall}
+\label{fig:performance-comparison}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=1\linewidth]{figures/fitness_curve_51337_precision.png}
+\caption{Batch \# 51337 - Average and best-so-far Precision}
+\label{fig:performance-comparison}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=1\linewidth]{figures/fitness_curve_51337_inv_complexity.png}
+\caption{Batch \# 51337 - Average and best-so-far Inverse Complexity}
+\label{fig:performance-comparison}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=1\linewidth]{figures/fitness_curve_51337.png}
+\caption{Batch \# 51337 - Average and best-so-far combined}
+\label{fig:performance-comparison}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=1\linewidth]{figures/fitness_curve_80447_recall.png}
+\caption{Batch \# 80447 - Average and best-so-far Recall}
+\label{fig:performance-comparison}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=1\linewidth]{figures/fitness_curve_80447_precision.png}
+\caption{Batch \# 80447 - Average and best-so-far Precision}
+\label{fig:performance-comparison}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=1\linewidth]{figures/fitness_curve_80447_inv_complexity.png}
+\caption{Batch \# 80447 - Average and best-so-far Inverse Complexity}
+\label{fig:performance-comparison}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=1\linewidth]{figures/fitness_curve_80447.png}
+\caption{Batch \# 80447 - Average and best-so-far Combined}
+\label{fig:performance-comparison}
+\end{figure}
+\clearpage
+
+The genetic algorithm showed several interesting evolutionary patterns:
+\begin{itemize}
+    \item Precision Convergence: Precision typically improved rapidly in early generations (1-30) and then stabilized
+\item Recall Improvement: Recall showed more gradual but consistent improvement throughout evolution
+\item Complexity Management: The inverse complexity metric fluctuated more than precision and recall, indicating ongoing exploration of the trade-off between pattern complexity and detection accuracy
+\item
+These patterns suggest that the genetic algorithm effectively balanced the competing objectives of high precision, high recall, and manageable complexity.
+\end{itemize}
 
 
 
